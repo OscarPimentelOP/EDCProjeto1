@@ -2,16 +2,6 @@ import os
 import xmltodict
 from lxml import etree
 from lxml.builder import E
-import json
-
-
-def print_elems(elem, text=""):
-    elem_contents = text + str(elem.tag) + " " + str(elem.attrib) + " " + str(elem.text)
-    elem_contents = elem_contents.replace("{}", "").replace("\n", "")
-    print(elem_contents)  # print element
-    if len(elem.getchildren()) != 0:  # if they exist, print children
-        for e in elem:
-            print_elems(e, text + "\t")
 
 
 def build_league(file):
