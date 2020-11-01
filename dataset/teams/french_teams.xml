@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <team>
+    <idTeam>134709</idTeam>
+    <idSoccerXML>1174</idSoccerXML>
+    <idAPIfootball>77</idAPIfootball>
+    <intLoved/>
+    <strTeam>Angers</strTeam>
+    <strTeamShort/>
+    <strAlternate>Angers SCO</strAlternate>
+    <intFormedYear>1919</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Raymond Kopa</strStadium>
+    <strKeywords>Le SCO</strKeywords>
+    <strRSS>http://www.angers-sco.fr/index/rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/y7lljj1549711055.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Raymond Kopa is a football stadium in Angers, France. It is the home ground of Ligue 1 side Angers SCO and seats 18,752 people.
+
+The name was officially changed from Stade Jean-Bouin to Stade Raymond Kopa on 27 March 2017, to honour French football legend Raymond Kopa who made his professional debut with the club and died in the city 3 weeks previously.</strStadiumDescription>
+    <strStadiumLocation>Angers</strStadiumLocation>
+    <intStadiumCapacity>18752</intStadiumCapacity>
+    <strWebsite>www.angers-sco.fr</strWebsite>
+    <strFacebook>www.facebook.com/AngersSCO</strFacebook>
+    <strTwitter>twitter.com/sco_angers</strTwitter>
+    <strInstagram>www.instagram.com/angers_sco</strInstagram>
+    <strDescriptionEN>Angers Sporting Club de l&#x27;Ouest, commonly referred to as Angers SCO or simply Angers, is a French professional football club based in Angers in Pays de la Loire in western France. The club was founded in 1919 and plays in Ligue 1, the first division of Football in France, having achieved promotion to the league in 2015 after 21 years. It plays its home matches at the Stade Raymond Kopa. The club has played 23 seasons in the top division, Ligue 1, and has also participated in the UEFA Cup after finishing 4th in 1971–72 season.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Angers Sporting Club de l&#x27;Ouest, couramment abrégé en Angers SCO ou SCO d&#x27;Angers, est un club de football fondé en 1919 et situé à Angers (Maine-et-Loire, région Pays de la Loire).
+
+Le SCO d&#x27;Angers a remporté à deux reprises le championnat de Division 2 (en 1969, 1976), il a disputé par ailleurs 23 saisons en Division 1. Il a atteint une seule fois la finale de la Coupe de France en 1957 (défaite 3-6 contre le Toulouse FC). Sous la présidence de Willy Bernard, qui l&#x27;a racheté en 2006, Angers SCO a progressé du National à la Ligue 2 et est désormais présidé par Saïd Chabane depuis 2011. Durant la saison 2010-2011, l&#x27;équipe angevine est allée jusqu&#x27;aux demi-finales de la coupe de France, éliminée durant celle-ci par le Paris-Saint-Germain (1-3) 2. Le SCO récidive en 2013-2014 et se fait également éliminer en demi-finale par le Stade rennais FC (3-2). Après 21 ans d&#x27;absence dans l&#x27;élite du football français, le SCO d&#x27;Angers revient en Ligue 1 pour la saison 2015-2016.
+
+Le club dispute ses matchs à domicile au Stade Jean-Bouin.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Angers Sporting Club de l&#x27;Ouest (Angers SCO) es un club de fútbol francés de la ciudad de Angers en Maine-et-Loire. Fue fundado en 1919 y juega en la Ligue 1.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/jgmk4p1598796830.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134709-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/7yqgjn1549713796.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/d3rxh71549710963.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/65lg3c1549710970.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/sf0e8x1549710976.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/anrakh1549710983.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/fu0ijw1549713907.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133716</idTeam>
+    <idSoccerXML>133</idSoccerXML>
+    <idAPIfootball>78</idAPIfootball>
+    <intLoved/>
+    <strTeam>Bordeaux</strTeam>
+    <strTeamShort/>
+    <strAlternate>Girondins de Bordeaux</strAlternate>
+    <intFormedYear>1881</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Chaban Delmas</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/sxqxut1420581273.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Chaban-Delmas is a sporting stadium located in the city of Bordeaux, France. It is the home ground of FC Girondins de Bordeaux. Since 2011 it has also hosted matches of Top 14 rugby team Union Bordeaux Bègles.
+
+Until 2001, the stadium&#x27;s name was the Stade du Parc Lescure, so called after the fallow lands on which it was built (Lescure is from earlier d&#x27;Escure, a transformation of &quot;des Cures,&quot; part of the name of the chapelle Saint-Laurent-des-Cures-lès-Bourdeaus, formerly a prominent feature of the area). That year it was renamed after politician Jacques Chaban-Delmas, who was the mayor of Bordeaux from 1947 to 1995.
+
+First built in 1930 as a cycle-racing track, in 1935 it was reconfigured to accommodate the upcoming 1938 FIFA World Cup. It was the first stadium in the world to have stands entirely covered without any pillars obstructing visibility of the playing area. Classified as a historic building, its restoration has been difficult, as its roof does not cover seats built after 1984 on the old cycle track.
+
+The current seating capacity of the stadium is 34,462, following a series of expansions of the stands, in particular for the 1998 FIFA World Cup. A record 40,211 spectators were in attendance on 24 April 1985 to watch a match between Girondins de Bordeaux and Juventus. In preparation of several matches that were held here for the 2007 Rugby World Cup, two giant television screens measuring 37 m² were installed.
+
+The tunnel connecting the locker rooms of the players to the ground is the longest in Europe (close to 120 meters).
+
+On 19 July 2011, FC Girondins de Bordeaux announced plans to construct a new stadium, located in Bordeaux-Lac. The seating capacity will be 43,500 for sporting events, and construction will begin at the end of the 2011-2012 season.</strStadiumDescription>
+    <strStadiumLocation>Bordeaux</strStadiumLocation>
+    <intStadiumCapacity>34700</intStadiumCapacity>
+    <strWebsite>www.girondins.com/en/home-page</strWebsite>
+    <strFacebook>www.facebook.com/FCGB.net</strFacebook>
+    <strTwitter>twitter.com/fcgb</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Football Club des Girondins de Bordeaux (commonly referred to as Girondins de Bordeaux or simply Bordeaux) is a French professional football club based in the city of Bordeaux. The club currently play in Ligue 1, the first division of French football, and won its last Ligue 1 title in the 2008–09 season.
+
+Bordeaux was founded in 1881 as a multi-sports club and is one of the most successful football clubs in France. The club has won six Ligue 1 titles, which is the joint fourth-most in its history. Bordeaux have also won four Coupe de France titles, three Coupe de la Ligue titles, and three Trophée des champions. The club has the honour of having appeared in the most finals in the Coupe de la Ligue, having appeared in six of the 16 finals contested. Bordeaux plays its home games at the Stade Chaban-Delmas, named after the former mayor of Bordeaux, Jacques Chaban-Delmas. The facility was previously known as the Parc Lescure and seats 34,362. The club is currently in negotiations to build a new stadium, which will seat 42,000. The city of Bordeaux is listed as a site for UEFA Euro 2016 in the French bid to host.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Football Club des Girondins de Bordeaux, appelé plus couramment les Girondins de Bordeaux (abrégé en FCGB), est un club de football créé en 1919 à Bordeaux. C&#x27;est une section du club omnisports des Girondins de Bordeaux omnisports jusqu&#x27;en 1981.
+
+Le FC Girondins de Bordeaux est présidé par Jean-Louis Triaud depuis 1996. L’équipe première est entraînée par Willy Sagnol à partir de juin 2014. Il succède à Francis Gillot.
+
+Les Girondins de Bordeaux évoluent au stade Jacques-Chaban-Delmas et s’entraînent au Centre international d’entraînement du FC Girondins de Bordeaux situé sur la commune du Haillan.
+
+Le club a remporté six fois le Championnat de France, quatre Coupes de France et trois Coupes de la Ligue. Par ailleurs, il a atteint une finale de coupe européenne, en 1996 en coupe de l&#x27;UEFA battu par le Bayern Munich.
+
+Le FC Girondins de Bordeaux a connu plusieurs années de gloire, notamment sous la présidence de Claude Bez entre 1978 et 1990. L&#x27;épopée européenne en 1995/1996 lance les Girondins de Bordeaux vers un titre de Champion de France, gagné en 1999. Depuis, le Club a acquis trois Coupes de la Ligue (2002, 2007 et 2009), un titre de Champion de France (2009) et une Coupe de France (2013).
+
+Le FC Girondins de Bordeaux fait partie de l&#x27;association européenne des clubs depuis 2008.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Football Club des Girondins de Bordeaux (en español Fútbol Club de los Girondinos de Burdeos) es un club de fútbol francés, de la ciudad de Burdeos en el departamento Gironda de la región Aquitania. Fue fundado en 1881 y juega en la Ligue 1 francesa.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/t1jb0c1593633680.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133716-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/hev6o81593633681.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tquyqq1420580524.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/swxxss1420580582.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wxqwxt1420580922.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/qqvxpy1420581191.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/sxxupp1420580673.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/FCGirondinsBordeaux</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133704</idTeam>
+    <idSoccerXML>119</idSoccerXML>
+    <idAPIfootball>106</idAPIfootball>
+    <intLoved/>
+    <strTeam>Brest</strTeam>
+    <strTeamShort/>
+    <strAlternate>Stade Brestois 29</strAlternate>
+    <intFormedYear>1903</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Francis-Le Blé</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb/>
+    <strStadiumDescription>Stade Francis-Le Blé is a multi-use stadium in Brest, France. It is currently used mostly for football matches and is the home stadium of Stade Brestois 29. The stadium is able to hold 15,097 spectators. The stadium is named for Francis Le Blé, former mayor of Brest who died in 1982.</strStadiumDescription>
+    <strStadiumLocation>Brest</strStadiumLocation>
+    <intStadiumCapacity>15097</intStadiumCapacity>
+    <strWebsite>www.sb29.bzh</strWebsite>
+    <strFacebook>www.facebook.com/sb29off</strFacebook>
+    <strTwitter>twitter.com/SB29officiel</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Stade Brestois 29 (commonly referred to as Stade Brest or simply Brest) is a French football club based in Brest. The club was founded in 1903 under the name Armoricaine de Brest and adopted its current name in 1950. Brest currently plays in Ligue 2, the second division in French football. The club plays its home matches at the Stade Francis le Blé, a stadium with a capacity of 15,097.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Stade brestois 29 est un club de football français basé à Brest, fondé en 1950 à la suite de la fusion de cinq patronages locaux, dont notamment l&#x27;Armoricaine de Brest, fondé en 1903.
+
+Dans ses premières années, le club réalise une montée rapide dans la hiérarchie du football régional, au point d&#x27;être promu en championnat de France amateur, troisième échelon du football français, en 1958. Le club intègre la deuxième division en 1970, puis découvre enfin la première division en 1979. Il connaît son apogée sportif entre 1981 et 1991, sous la présidence de François Yvinec, en disputant neuf saisons dans l&#x27;élite en dix ans. En 1991, le club est rétrogradé avant de déposer le bilan quelques mois plus tard. Le club ne retrouve la deuxième division qu&#x27;en 2004 et la Ligue 1 en 2010. À la fin de la saison 2012-2013, il compte respectivement treize et dix-sept exercices en première et deuxième division française2.
+
+Le club brestois est présidé depuis le 31 mai 2013 par l&#x27;entrepreneur brestois Yvon Kermarec. L&#x27;équipe première, qui évolue en Ligue 2, est entraînée par Alex Dupont.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/z69be41598797026.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133704-Jersey.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133718</idTeam>
+    <idSoccerXML>135</idSoccerXML>
+    <idAPIfootball>89</idAPIfootball>
+    <intLoved/>
+    <strTeam>Dijon</strTeam>
+    <strTeamShort/>
+    <strAlternate>Dijon FCO</strAlternate>
+    <intFormedYear>1998</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Gaston Gérard</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.dfco.fr/feed/</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ufxpr81549743407.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Gaston Gérard is a multi-use stadium in Dijon, France. It is used mostly for football matches and is the home stadium of Dijon FCO. The stadium is able to hold 15,995 people.</strStadiumDescription>
+    <strStadiumLocation>Dijon</strStadiumLocation>
+    <intStadiumCapacity>15995</intStadiumCapacity>
+    <strWebsite>www.dfco.fr</strWebsite>
+    <strFacebook>www.facebook.com/DFCO.Officiel</strFacebook>
+    <strTwitter>twitter.com/DFCO_Officiel</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Dijon Football Côte d&#x27;Or (commonly referred to as Dijon FCO or simply Dijon) is a French association football club based in Dijon. The club was founded in 1998 as a result of a merger between two local clubs in the city and currently competes in Ligue 2 after suffering relegation from Ligue 1 in the 2011–12 season. The club president is Olivier Delcourt and the first-team is coached by Olivier Dall&#x27;Oglio, a former football player. Dijon play its home matches at the Stade Gaston Gérard.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Dijon Football Côte-d&#x27;Or est un club de football français, fondé le 29 avril 1998 et basé dans la ville de Dijon. Il évolue cette saison en Ligue 2, après sa relégation de Ligue 1 lors de la saison 2011-2012.
+
+Le club bourguignon est présidé par Olivier Delcourt depuis mai 2012 et son entraîneur est Olivier Dall&#x27;Oglio.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Dijon Football Côte d&#x27;Or es un club de fútbol francés, de la ciudad de Dijón en Borgoña. Fue fundado en 1998 y juega en la Ligue 2 francesa.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/viin5f1547898121.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133718-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/3l591c1549743339.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/pu5syi1549743687.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/fr0pai1549743701.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/7rf17t1549743694.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/b4p4xt1549743708.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/uvjbxs1549743814.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133822</idTeam>
+    <idSoccerXML>238</idSoccerXML>
+    <idAPIfootball>116</idAPIfootball>
+    <intLoved/>
+    <strTeam>Lens</strTeam>
+    <strTeamShort/>
+    <strAlternate>RC Lens</strAlternate>
+    <intFormedYear>1906</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Félix Bollaert</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vwsptv1420772935.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade Bollaert-Delelis is the main football stadium in Lens, France, that was built in 1933. It is the home of RC Lens. The stadium&#x27;s capacity is 38,058 – about 7,000 more than the city&#x27;s population. The stadium was originally named after Félix Bollaert, a director of Compagnie des Mines de Lens, who was anxious to promote the development of sports clubs in the city. Construction began in 1931, though Bollaert died shortly before the stadium&#x27;s inauguration. It was renamed Stade Bollaert-Delelis in 2012 after the death of André Delelis, former mayor of the city and politician who served as the Minister of Commerce under President François Mitterrand.</strStadiumDescription>
+    <strStadiumLocation>Lens</strStadiumLocation>
+    <intStadiumCapacity>41229</intStadiumCapacity>
+    <strWebsite>www.rclens.fr</strWebsite>
+    <strFacebook>www.facebook.com/racingclubdelens</strFacebook>
+    <strTwitter>twitter.com/rclensofficiel</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Racing Club de Lens (commonly referred to as RC Lens or simply Lens), is a French football club based in the northern city of Lens in the Pas-de-Calais department. Its nickname, sang et or (blood and gold), comes from its traditional colours of red and gold. Their primary rivals are their northern neighbours Lille, with whom they contest the Derby du Nord.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Racing Club de Lens, couramment abrégé en RC Lens ou en RCL, est un club professionnel de football français fondé en janvier 1906 et dont le siège se trouve à Avion, à trois kilomètres de la cité minière.
+
+Le RC Lens compte à son palmarès deux titres nationaux de premier ordre, obtenus sous les ordres du « druide » Daniel Leclercq : un championnat de France, remporté en 1998, et une Coupe de la Ligue, obtenue la saison suivante. À l&#x27;échelle européenne, le club a atteint en 2000 les demi-finales de la Coupe UEFA et a remporté une Coupe Intertoto en 2005.
+
+Depuis 2013, le club est présidé par Gervais Martel, qui avait déjà assuré la présidence du club de 1988 à 2012. L&#x27;équipe première, entraînée par Antoine Kombouaré depuis le 18 juillet 2013, prend part à l&#x27;édition 2014-2015 du championnat de France de première division, sa cinquante-huitième saison dans l&#x27;élite du football français.
+
+Depuis le 18 juin 1933, le RC Lens est résident du stade Bollaert-Delelis (anciennement stade Félix-Bollaert, jusqu&#x27;en septembre 2012), devenu depuis l&#x27;Euro 1984 une des plus grandes enceintes en France en nombre de places assises. En cours de rénovation en vue de l&#x27;Euro 2016, il pourra accueillir jusqu&#x27;à 38 223 personnes, alors que sa capacité était de 41 229 places auparavant. Durant cette période (2014-2015), le RC Lens accueille ses adversaires au stade de la Licorne à Amiens, et par trois fois au stade de France.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Racing Club de Lens es un club de fútbol francés, de la ciudad de Lens en Norte-Paso de Calais. Fue fundado en 1906 y juega en la Ligue 1 francesa.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/upvsuv1423781667.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qxyqxq1420762717.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/yrsswp1420762782.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xwxtpx1420762846.jpg</strTeamFanart3>
+    <strTeamFanart4/>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/txrwyq1423691048.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/rclensofficiel</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133711</idTeam>
+    <idSoccerXML>128</idSoccerXML>
+    <idAPIfootball>79</idAPIfootball>
+    <intLoved/>
+    <strTeam>Lille</strTeam>
+    <strTeamShort/>
+    <strAlternate>Lille OSC</strAlternate>
+    <intFormedYear>1944</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Pierre-Mauroy</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qywqtv1420579260.jpg</strStadiumThumb>
+    <strStadiumDescription>Stadium Lille-Métropole is a multi-purpose stadium in Villeneuve-d&#x27;Ascq, France. The stadium was built in 1976 and is able to hold 18,154 spectators. The architect of the stadium was Roger Taillibert.
+
+It was used as the temporary home stadium of Lille OSC before the completion of the nearby Stade Pierre-Mauroy. It was also the home stadium of ES Wasquehal, when the club played in Ligue 2 and National, between 1995 and 2005.
+
+AC/DC concluded their For Those About to Rock Tour at the stadium on December 20, 1982.
+
+Pink Floyd performed at the stadium during their A Momentary Lapse of Reason Tour on July 28, 1988</strStadiumDescription>
+    <strStadiumLocation>Villeneuve-dAscq</strStadiumLocation>
+    <intStadiumCapacity>50157</intStadiumCapacity>
+    <strWebsite>www.losc.fr</strWebsite>
+    <strFacebook>www.facebook.com/Losc</strFacebook>
+    <strTwitter>twitter.com/losclive</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>LOSC Lille (Lille Olympique Sporting Club, commonly referred to as Le LOSC, Lille OSC or simply Lille) is a French association football club based in Lille. The club was founded in 1944 as a result of a merger and currently play in Ligue 1, the first division of French football. Lille previously played its home matches at the Stade Lille-Metropole in nearby Villeneuve-d&#x27;Ascq. In 2012, the club moved into its new facility, the Grand Stade Lille Métropole. The team is managed by French football figure René Girard and captained by French international Rio Mavuba.
+
+Lille was founded as a result of a merger between Olympique Lillois and SC Fives. Both clubs were founding members of the French Division 1 and Lillois was the league&#x27;s inaugural champions. Under the Lille emblem, the club has won three league titles in 1946, 1954, and 2011 and six Coupe de France titles, which is tied for fourth-best among clubs. Lille and Red Star FC are the only French clubs in the competition&#x27;s history to win the Coupe de France in three consecutive seasons. Lille&#x27;s most successful period was the decade from 1946 to 1956 when the team was led by managers George Berry and André Cheuva.
+
+Lille have a long-standing rivalry with its neighbours RC Lens. The two clubs regularly contest the Derby du Nord. Lille is presided over by Michel Seydoux, a French businessman and movie producer. Seydoux initially purchased shares of the club in January 2002 and, subsequently, gained majority control two years later.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le LOSC Lille, couramment abrégé en LOSC ou Lille OSC, est un club de football français. Fondé à Lille en septembre 1944, il est issu de la fusion de deux clubs basés dans différents quartiers de la ville, l&#x27;Olympique lillois et le Sporting Club fivois respectivement créés en 1902 et 1901.
+
+Fort du passé de l&#x27;Olympique lillois, vainqueur du premier championnat de France professionnel en 1933, le LOSC est la référence d&#x27;après-guerre. En dix ans, le club lillois gagne deux titres de champion de France et cinq coupes de France. Mais ne pouvant plus faire face à ses dettes malgré de nombreuses subventions, le club traverse une longue période difficile, avec plusieurs relégations en Division 2, avant d&#x27;échouer en troisième division et d&#x27;abandonner son statut professionnel en 1969. Remontant en D2 la saison qui suit, le club est financièrement soutenu avant d&#x27;être repris par la mairie de Lille en 1980 sous la forme d&#x27;une société d&#x27;économie mixte. Le LOSC est privatisé en 1999 après avoir frôlé le dépôt de bilan en 1994. Cette privatisation s&#x27;accompagne de résultats sportifs positifs : solidement ancré en Ligue 1 depuis la promotion et le titre de champion de deuxième division en 2000, le club se qualifie régulièrement pour les coupes d&#x27;Europe actuelles que sont la Ligue des champions ou la Ligue Europa et réalise le doublé championnat-coupe de France lors de la saison 2010-2011.
+
+Le club est présidé depuis 2002 par Michel Seydoux, actionnaire majoritaire du club depuis 2004. Les Dogues, surnom attribué aux joueurs évoluant sous le maillot du club, sont entraînés depuis l&#x27;été 2013 par René Girard.
+
+Jouant d&#x27;abord en alternance dans les stades des deux clubs fusionnés, le LOSC décide plus tard de ne recevoir ses adversaires qu&#x27;au stade Victor-Boucquey de l&#x27;Olympique lillois, renommé stade Henri-Jooris jusqu&#x27;à sa démolition en 1975. Le stade Grimonprez-Jooris a ensuite accueilli jusqu&#x27;en 2004 dans Lille intra-muros les rencontres à domicile du club nordiste. Pendant huit ans, le Lille OSC s&#x27;est installé provisoirement dans le Stadium Lille Métropole de Villeneuve-d&#x27;Ascq puis a emménagé lors de la saison 2012-2013 au stade Pierre-Mauroy, un des cinq plus grands stades de France, également situé à Villeneuve-d&#x27;Ascq. Les différentes équipes du club s&#x27;entraînent depuis 2004 dans le vaste domaine de Luchin. Basé à Camphin-en-Pévèle, ce centre d&#x27;entraînement et de formation sert aussi de siège social du club.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/2giize1534005340.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133711-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/xurrss1420578980.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vrrrvr1420504572.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/wpxrux1420578601.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/tqpqqv1420578695.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/uurpuy1420578940.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rturvv1420579158.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/losc</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133715</idTeam>
+    <idSoccerXML>132</idSoccerXML>
+    <idAPIfootball>97</idAPIfootball>
+    <intLoved/>
+    <strTeam>Lorient</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Lorient</strAlternate>
+    <intFormedYear>1926</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade du Moustoir</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qtsvwp1423686619.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade du Moustoir is a multi-use stadium in Lorient, France. It is currently used mostly for football matches and is the home stadium of FC Lorient. The stadium can hold up to 16,392 with the new south tribune.</strStadiumDescription>
+    <strStadiumLocation>Lorient</strStadiumLocation>
+    <intStadiumCapacity>18500</intStadiumCapacity>
+    <strWebsite>www.fclweb.fr</strWebsite>
+    <strFacebook>www.facebook.com/FC-Lorient-129677837090824</strFacebook>
+    <strTwitter>twitter.com/FCLorientOff</strTwitter>
+    <strInstagram>instagram.com/fclorientoff</strInstagram>
+    <strDescriptionEN>Football Club Lorient-Bretagne Sud (commonly referred to FC Lorient or simply Lorient) is a French association football club based in Lorient, Brittany. The club was founded in 1926 and will play in Ligue 1 in the 2020–21 season after promotion from Ligue 2 in the 2019–20 season. Lorient plays its home matches at the stade Yves Allainmat, named after the former mayor of Lorient. The stadium is surnamed Stade du Moustoir because of its location within the city. The team is managed by Christophe Pélissier.
+
+Lorient had a relatively bleak history nationally prior to 1998 when the club made its first appearance in Ligue 1 in the 1998–99 season. Prior to that, Lorient spent the majority of its life as an amateur club. Lorient&#x27;s achieved its biggest honour in 2002 when the club won the Coupe de France defeating Bastia 1–0 in the final. Lorient has never won Ligue 1, but has won the Championnat National earning this honour in 1995. Regionally, the club has won five Brittany Division d&#x27;Honneur titles and six Coupe de Bretagne.
+
+Lorient has most notably served as a springboard club for several present-day internationals such as Laurent Koscielny, André-Pierre Gignac, Michaël Ciani, Kevin Gameiro, Karim Ziani, Bakari Koné, Matteo Guendouzi, and Seydou Keita. French international Yoann Gourcuff, the son of Christian Gourcuff, began his career at the club before moving to Derby Breton rivals Rennes.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Football Club Lorient est un club de football français, fondé en 1926 à Lorient (Morbihan).
+
+Longtemps amateur, le club tente l&#x27;aventure professionnelle dans les années 1970, sans parvenir à monter en première division, jusqu&#x27;à ce qu&#x27;un dépôt de bilan mette un terme aux ambitions du club. En 1991, alors qu&#x27;il évolue en troisième division, le club fait une nouvelle fois appel à Christian Gourcuff. Il accompagne alors le FC Lorient vers le professionnalisme avec entre autres une première promotion dans l&#x27;élite, obtenue en 1998. Le club sera relégué la saison suivante puis retrouvera la Ligue 1 en 2001, année où Christian Gourcuff quitte le club. Lorient connaitra à nouveau la relégation en 2002 malgré une victoire en Coupe de France et une finale en Coupe de la Ligue. Gourcuff revient chez les Merlus en 2003 et installe durablement le club en Ligue 1, où il évolue depuis 2006. C&#x27;est depuis quelques années devenu un club reconnu en France par son jeu atypique. Le 2 septembre 2013, le club décide, dans les dernières heures de la fin du mercato, de vendre son joueur prometteur, Mario Lemina. Christian Gourcuff énérvé après son président, provoque une cassure avec son staff. Après avoir entraîné pendant 25 ans son club de coeur, le coach lorientais décide de ne pas prolonger l&#x27;aventure pour les prochaines saisons. Sylvain Ripoll, alors entraîneur adjoint de Christian Gourcuff, est nommé, le 25 mai 2014, nouvel entraîneur du FC Lorient.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/xyutsw1454113038.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tusryr1420594074.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/trvtps1420594086.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/urxrtw1420594103.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/usstqp1420594119.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/ypwqqp1423690004.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133713</idTeam>
+    <idSoccerXML>130</idSoccerXML>
+    <idAPIfootball>80</idAPIfootball>
+    <intLoved/>
+    <strTeam>Lyon</strTeam>
+    <strTeamShort/>
+    <strAlternate>Olympique Lyonnais</strAlternate>
+    <intFormedYear>1950</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3>UEFA Champions League</strLeague3>
+    <idLeague3>4480</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Groupama Stadium</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/sypvqu1420577502.jpg</strStadiumThumb>
+    <strStadiumDescription>Parc Olympique Lyonnais, known for sponsorship reasons as Groupama Stadium and in some competitions as Stade de Lyon or Grand Stade de Lyon, is a 59,186-seat stadium in Décines-Charpieu, in the Lyon Metropolis. The home of French football club Olympique Lyonnais, it replaced their previous stadium, Stade de Gerland, in January 2016.
+
+The stadium was a host of UEFA Euro 2016, and was also chosen to stage the 2017 Coupe de la Ligue Final and the 2018 UEFA Europa League Final, in addition to the 2019 FIFA Women&#x27;s World Cup and football at the 2024 Summer Olympics. Outside football, the ground has also held rugby union and ice hockey matches, as well as musical concerts. 
+
+The Stade de Gerland is listed as a Category three stadium by UEFA&#x27;s standards and has hosted matches for the 1972 Rugby League World Cup, UEFA Euro 1984, the 1998 FIFA World Cup, and the 2007 Rugby World Cup.
+
+The stadium has hosted concerts by many famous artists, including The Rolling Stones, Michael Jackson, David Bowie, Pink Floyd and Genesis.</strStadiumDescription>
+    <strStadiumLocation>Lyon, France</strStadiumLocation>
+    <intStadiumCapacity>59186</intStadiumCapacity>
+    <strWebsite>www.olweb.fr</strWebsite>
+    <strFacebook>www.facebook.com/olympiquelyonnais</strFacebook>
+    <strTwitter>twitter.com/OL</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Olympique Lyonnais (commonly referred to as simply Lyon, or OL) (Euronext: OLG) is a French association football club based in Lyon. It plays in France&#x27;s highest football division, Ligue 1. The club was formed as Lyon Olympique Universitaire in 1899, according to many supporters and sport historians, but was nationally established as a club in 1950. The club&#x27;s most successful period has been the 21st century. The club won its first ever Ligue 1 championship in 2002, starting a national record-breaking streak of seven successive titles. Lyon has also won a record seven Trophée des Champions, five Coupe de France titles and three Ligue 2 Championships.
+
+Lyon has participated the UEFA Champions League 12 times, and during the 2009–10 season, reached the semi-finals of the competition for the first time after three previous quarter-final appearances. Olympique Lyonnais plays its home matches at the 40,500-seat Stade de Gerland in Lyon. In 2015/2016, their new stadium will be ready, tentatively named OL Land, in Décines-Charpieu, a suburb of Lyon. The club&#x27;s home colours are white, red and blue. Lyon was a member of the G14 group of leading European football clubs and are founder members of its successor, the European Club Association.
+
+Olympique Lyonnais is one of the popular clubs in France. About 11% of the country&#x27;s population support the club. Lyon shares this number with Paris Saint-Germain and trails only Olympique de Marseille. The club&#x27;s nickname, Les Gones, means &quot;The Kids&quot; in Lyon&#x27;s regional dialect of Arpitan. The chairman of Lyon is Jean-Michel Aulas and the club is managed by Hubert Fournier. Olympique Lyonnais also has a successful women&#x27;s football team having won its league a record nine times. The women&#x27;s team has also won three Challenge de France titles and the UEFA Women&#x27;s Champions League in 2011 and 2012.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Olympique lyonnais, couramment abrégé en OL, est un club de football français fondé en 1950. Le club, basé dans le quartier de Gerland, est présidé depuis juin 1987 par Jean-Michel Aulas et l&#x27;équipe est entraînée par Hubert Fournier depuis le 23 mai 2014. Il évolue depuis 1989 en Ligue 1.
+
+L&#x27;Olympique lyonnais évolue dans le Stade de Gerland et s&#x27;entraîne au centre Tola Vologe, à Lyon. Il possède à son palmarès sept titres - obtenus consécutivement - de champion de France, cinq Coupes de France et une Coupe de la Ligue, ce qui en fait l&#x27;un des clubs les plus titrés du championnat de France.
+
+Le club connaît son apogée au cours des années 2000 avec sept titres consécutifs de champion de France, ce qui constitue un record françaisnote 2, entre 2002 et 2008, une Coupe de France et une Coupe de la Ligue. La section féminine du club a remporté quant à elle le championnat féminin à neuf reprisesnote 3. En 2007, les sections masculines et féminines remportent chacune leur championnat de France, pour la première fois dans l&#x27;histoire du football français. En 2008, l’Olympique lyonnais fait mieux en remportant les deux doublés coupe-championnat, homme et femme. Depuis le milieu des années 2000, la section féminine occupe les plus hauts niveaux du football féminin européen (2 titres successifs en Ligue des champions).
+
+Sur le plan international, le club participe régulièrement à la plus prestigieuse des coupes européennes, la Ligue des champions. Après avoir été membre du G14, organisation des clubs les plus importants et riches d&#x27;Europe, jusqu&#x27;à sa dissolution en janvier 2008, il fait partie des fondateurs de l&#x27;association européenne des clubs.
+
+Aujourd&#x27;hui, il est considéré comme l&#x27;un des clubs majeurs du football européen, avec douze qualifications en Ligue des champions d&#x27;affilée. Depuis 2011, le club rhodanien se base de plus en plus sur son centre de formation. L&#x27;Olympique lyonnais est le club français qui a joué le plus de matches européens, puisqu&#x27;il est à 212 matches (dont 107 succès) depuis ses débuts dans le fief de l&#x27;Inter Milan le 10 décembre 1958.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Mixed</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vwtvyt1473504756.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133713-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/qutsut1420580047.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/sxvqqq1420506345.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/yxuqvx1420582853.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ryvtsu1420582948.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wvxypr1420583534.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/xwsrtu1420583914.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/channel/UCzHCZXmqIdjqRnpdp0l_T6g</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133707</idTeam>
+    <idSoccerXML>123</idSoccerXML>
+    <idAPIfootball>81</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Marseille</strTeam>
+    <strTeamShort/>
+    <strAlternate>Olympique de Marseille</strAlternate>
+    <intFormedYear>1899</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Vélodrome</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rxwwrx1420733113.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade Vélodrome is a multi-purpose stadium in Marseille, France. It is home to the Olympique de Marseille football club of Ligue 1 since it opened in 1937, and was a venue in the 1998 FIFA World Cup and the 2007 Rugby World Cup. It occasionally hosts RC Toulon rugby club of the Top 14. It is the largest club football ground in France, with a capacity of 67,344 spectators. The stadium is also used regularly by the French rugby union team.
+
+The record attendance for a club game at the Stade Vélodrome was of 58,897 (for a UEFA Cup semi-final against Newcastle United in 2004). The stadium was also featured as a Football World Cup venue when the 1938 finals were held in France. The first-ever match to be played was between Marseille and Torino in 1937.
+
+The French rugby union team began an impressive run of victories at the stadium in the early 2000s. They defeated the All Blacks 42–33 in November 2000, and in 2001 defeated Australia by one point. They beat the Springboks in 2002, followed by a win over England in 2003. However, their run of luck was broken in 2004 when they lost 14–24 to Argentina. The venue was used by France in November 2009 when the French played the New Zealand All Blacks. France is not the only rugby team to have used the Vélodrome in recent years. On April 18, 2009, Toulon took their home fixture in the Top 14 against Toulouse to the Vélodrome, drawing 57,039 spectators to see a 14–6 Toulon win which played a key role in the Toulonnais&#x27; successful fight against relegation in the 2008–09 season. Toulon has taken two home matches to the Vélodrome in each of the succeeding two seasons. The Vélodrome was also the venue for both semi-finals in the 2010–11 Top 14 season, and was used for the Toulon v Munster semi-final of the 2013–14 Heineken Cup.</strStadiumDescription>
+    <strStadiumLocation>Marseille</strStadiumLocation>
+    <intStadiumCapacity>67394</intStadiumCapacity>
+    <strWebsite>www.om.net</strWebsite>
+    <strFacebook>www.facebook.com/OM</strFacebook>
+    <strTwitter>twitter.com/OM_Officiel</strTwitter>
+    <strInstagram>instagram.com/olympiquedemarseille</strInstagram>
+    <strDescriptionEN>Olympique de Marseille (also known as l&#x27;OM IPA: , locally ) or simply Marseille, is a French association football club based in Marseille.
+
+Founded in 1899, the club play in Ligue 1 and have spent most of their history in the top tier of French football. Marseille have been French champions ten times (nine times in Ligue 1) and have won the Coupe de France a record ten times. In 1993, the club became the first and only French club to win the UEFA Champions League. In 1994, Marseille were relegated because of a bribery scandal, losing their domestic trophy, but not the UEFA Champions League title. In 2010, Marseille became French champions again, under the stewardship of former club captain Didier Deschamps.
+
+Marseille&#x27;s home ground is the 67,000-person-capacity Stade Vélodrome located in the southern part of the city, where they have played since 1937. The Stade Vélodrome is renowned for its lively atmosphere. The club have a large fan-base having regularly averaged the highest all-time attendance in French football. Marseille&#x27;s average home gate for the 2008–09 season was 52,276, the highest in Ligue 1. The stadium underwent renovation in 2011, going from its previous capacity of 60,031 to 42,000. Following completion in August 2014, the final capacity will be 67,000 ahead of France&#x27;s hosting of UEFA Euro 2016. The club is sixteenth globally in terms of annual revenue, generating €135.7 million in 2012.
+
+In 1997, Marseille was purchased by Franco-Swiss businessman Robert Louis-Dreyfus. Following the death of Louis-Dreyfus, his widow Margarita became the club&#x27;s majority shareholder in 2010.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Olympique de Marseille (OM) est un club de football français fondé en août 1899 par René Dufaure de Montmirail. Neuf titres de championnat de France professionnel, dix Coupes de France, trois Coupes de la Ligue, deux Trophées des champions et une Ligue des champions de l&#x27;UEFA composent le palmarès du club le plus titré et le plus populaire du football français1.
+
+Le club joue au stade de l&#x27;Huveaune de 1904 à 1937, date à laquelle est inauguré le stade Vélodrome. Auparavant, le club marseillais remporte sa première Coupe de France en 1924 et devient le tout premier club provincial à s&#x27;adjuger ce titre.
+
+Marseille est l&#x27;un des clubs qui a joué durant la saison inaugurale 1932-1933 et qui évolue encore en Ligue 1 aujourd&#x27;hui. L&#x27;OM remporte son premier Championnat en 1937, avant de descendre pour la première fois en seconde division en 1959. Une série de montées et descentes s&#x27;effectue dans les années 1960 et la décennie suivante est marquée par le premier doublé Coupe-Championnat de l&#x27;histoire du club en 1972.
+
+Après une période noire aux débuts des années 1980 où l&#x27;OM est proche de la faillite, l&#x27;arrivée de Bernard Tapie introduit la période la plus faste du club, avec quatre titres de champion consécutifs, une Coupe de France et la Ligue des champions 1992-1993, qui reste la seule remportée par un club français. L&#x27;affaire VA-OM et ses conséquences économiques plongent le club en deuxième division. Depuis sa remontée en 1996, le club se confronte à nouveau à la justice avec l&#x27;affaire des comptes de l&#x27;OM et n&#x27;arrive plus à gagner de titre majeur, malgré notamment deux finales de Coupe UEFA (1999 et 2004). Cette période blanche prend fin avec le titre de champion de France 2009-2010 et trois victoires consécutives en Coupe de la Ligue en 2010, 2011 et 2012.
+
+Le club est depuis 2011 présidé par Vincent Labrune, l&#x27;actionnaire principale étant Margarita Louis-Dreyfus, veuve de Robert Louis-Dreyfus. L&#x27;équipe première, entraînée par Marcelo Bielsa depuis le 21 mai 2014, évolue lors de la saison 2014-2015 en première division française pour la soixante-cinquième fois de son histoire.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133707-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/zgx7kp1548937902.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/rwqsxv1420731670.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/uxvyqt1420732162.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/tsrsyq1420731904.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/vrtwxy1420731838.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rutppp1420732910.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/OM</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133883</idTeam>
+    <idSoccerXML>299</idSoccerXML>
+    <idAPIfootball>112</idAPIfootball>
+    <intLoved/>
+    <strTeam>Metz</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Metz</strAlternate>
+    <intFormedYear>1932</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Municipal</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/yustqw1420757139.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Municipal Saint-Symphorien is a multi-purpose stadium in Metz, France. It is currently used mostly for football matches, by FC Metz. The stadium is able to hold 26,700 people and was built in 1923.</strStadiumDescription>
+    <strStadiumLocation>Metz, France</strStadiumLocation>
+    <intStadiumCapacity>26700</intStadiumCapacity>
+    <strWebsite>www.fcmetz.com</strWebsite>
+    <strFacebook>www.facebook.com/fcmetzofficiel</strFacebook>
+    <strTwitter>twitter.com/fcmetz</strTwitter>
+    <strInstagram>instagram.com/fcmetz_officiel</strInstagram>
+    <strDescriptionEN>Football Club de Metz, commonly referred to as simply Metz, is a French association football club based in Metz. The club was formed in 1932 and has spent most of its history in Ligue 1, except for a stint in Ligue 2 (the second level in the French football league system) between 2008 and 2014, which also encompassed a relegation to the National Championship in 2012. In April 2014, Metz secured its spot back in Ligue 1 by defeating Auxerre. Metz plays its home matches at the Stade Municipal Saint-Symphorien located within the city. The team is managed by José Riga.
+On 26 April 2019, Metz were promoted back to Ligue 1 at the first time of asking by finishing first in Ligue 2. The promotion was confirmed with a 2-1 victory over Red Star F.C..</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Football Club de Metz est un club français fondé en 1919, basé à Metz (Moselle).
+
+Professionnel depuis 1932 et membre fondateur du championnat de France, le FC Metz va disputer en 2014-2015 sa 58e saison dans l&#x27;élite, ce qui en fait un des clubs les plus réguliers dans l&#x27;élite. Il n&#x27;en a pourtant jamais remporté le titre. Il compte par contre à son palmarès deux Coupes de France, remportées en 1984 et 1988, une Coupe de la Ligue en 1996, et trois championnats de France de 2e division remportés en 1935, 2007 et 2014. Le FC Metz a aussi remporté à trois reprises la coupe Gambardella (1981, 2001 et 2010).
+
+Le club mosellan est présidé par Bernard Serin et l&#x27;équipe professionnelle est entraînée par José Riga depuis juin 2015. Elle évolue en Ligue 2 lors de la saison 2015-2016.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Football Club de Metz es un club de fútbol de la ciudad francesa de Metz, en la región de Lorena. Fue fundado en 1919 y juega en la Ligue 2.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qi3kbg1565469380.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133883-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/xqwryw1420757848.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/svwvrv1420756712.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vyuxyx1420756636.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/83zfhi1521645543.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/srxxqw1420756987.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/tsuwqt1420756513.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133823</idTeam>
+    <idSoccerXML>239</idSoccerXML>
+    <idAPIfootball>91</idAPIfootball>
+    <intLoved/>
+    <strTeam>Monaco</strTeam>
+    <strTeamShort/>
+    <strAlternate>AS Monaco</strAlternate>
+    <intFormedYear>1924</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Louis II</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/wxuuqy1420577612.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade Louis II is a stadium located in the Fontvieille district of Monaco. It serves primarily as a venue for football, being the home of AS Monaco and the Monaco national football team. From 1998-2012 this was the location of the annual UEFA Super Cup match. It is also used for track and field, where it formerly hosted the IAAF World Athletics Final (though certain events, such as the hammer, had to be held elsewhere, due to the stadium&#x27;s relatively small capacity). On 29 July 2008, Yelena Isinbayeva set the women&#x27;s pole vault world record of 5.04 metres at the ground.
+
+The original Stade Louis II was opened in 1939 as the home of AS Monaco. The new stadium was built in the early 1980s, close to the site of the old stadium on land reclaimed from the sea, opening fully in 1985. It presently has a capacity of approximately 18,500 all seated, which is quite large relative to the population of Monaco (about 36,371); it can seat almost two-thirds of the country&#x27;s population, a feat no other stadium can boast. The vast majority of the stadium&#x27;s facilities are located underground, with a large car park directly under the pitch (something that has caused some degree of criticism from managers of AS Monaco&#x27;s opponents in the past over the state of the pitch).
+
+The stadium is named after Louis II, Prince of Monaco, who was the Sovereign Prince of Monaco when the original stadium was built. It features prominently in the early versions of Pro Evolution Soccer and Adidas Power Soccer 98.
+
+On 1 July 2011, The Eagles played at the ground at the wedding of Prince Albert II to Charlene Wittstock.</strStadiumDescription>
+    <strStadiumLocation>Fontvieille, Monaco</strStadiumLocation>
+    <intStadiumCapacity>18523</intStadiumCapacity>
+    <strWebsite>www.asm-fc.com</strWebsite>
+    <strFacebook>www.facebook.com/asmonaco</strFacebook>
+    <strTwitter>twitter.com/AS_Monaco</strTwitter>
+    <strInstagram>instagram.com/asmonaco</strInstagram>
+    <strDescriptionEN>Association Sportive de Monaco Football Club (commonly referred to as AS Monaco or simply Monaco) is a French-registered Monaco-based football club. The club was founded in 1924 and plays in Ligue 1, the top tier of French football. The team plays its home matches at the Stade Louis II in Fontvieille. Monaco is managed by Leonardo Jardim and is captained by Jérémy Toulalan.
+
+Though based in Monaco, the club is regarded as a French club, as the club plays in the French football league system, and because the principality of Monaco is not a member of UEFA. Monaco is one of the most successful clubs in France, having won seven league titles and five Coupe de France trophies. The club has also regularly competed in European football having been runners-up in the UEFA Cup Winners&#x27; Cup in 1992 and the UEFA Champions League in 2004.
+
+The club&#x27;s traditional colours are red and white, and the club is known as Les Rouges et Blancs (The Red and White). Monaco is also a member of the European Club Association. In December 2011, two-thirds of the club was sold to an investment group led by Russian billionaire Dmitry Rybolovlev. With Rybolovlev&#x27;s financial backing, the club quickly returned to Ligue 1.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Association Sportive Monaco Football Club, abrégé en ASM, est un club de football monégasque fondé le 23 août 1924. Bien qu&#x27;elle ne soit pas située sur le territoire français, l&#x27;AS Monaco est affiliée à la Fédération française de football et participe au championnat de France, dont elle est la seule équipe non française professionnelle.
+
+Sept titres de champion de France, cinq Coupes de France, une Coupe de la Ligue et, au niveau européen, une finale de Coupe des vainqueurs de coupe ainsi qu&#x27;une finale de Ligue des champions de l&#x27;UEFA composent le palmarès d&#x27;un des clubs les plus prestigieux du football français.
+
+Le club évolue au Stade des Moneghetti de 1924 à 1939 puis au Stade Louis-II à partir de 1939, et s&#x27;entraîne au centre de La Turbie. Le centre de formation du club, où ont notamment été formés Lilian Thuram, Emmanuel Petit, David Trezeguet ou Thierry Henry, est réputé comme l’un des meilleurs du championnat de France.
+
+Le 29 mai 2011, le club est relégué en Ligue 2, alors qu&#x27;il est présent dans l&#x27;élite du football français de manière ininterrompue depuis 1977. Le club est présidé par le milliardaire russe Dmitry Rybolovlev, qui a acquis 66,67 % des parts du club le 23 décembre 2011. Son entraîneur est Leonardo Jardim depuis juin 2014.
+
+Le 11 mai 2013, après deux saisons en Ligue 2, le club retrouve la Ligue 1. Le 17 mai 2013 et après sa victoire deux buts à un contre Le Mans, l&#x27;AS Monaco FC remporte pour la première fois de son histoire le titre de champion de Ligue 2, le dernier qu&#x27;il manquait au club au niveau national.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Monaco</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xwxsxq1473504775.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133823-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/uvupwx1420579634.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qwyxqu1420577974.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xvrytu1420577910.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/qvxvpy1420578261.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/vswwru1420577709.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/tyryrv1420578445.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/ASMONACOFCSA</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133709</idTeam>
+    <idSoccerXML>125</idSoccerXML>
+    <idAPIfootball>82</idAPIfootball>
+    <intLoved/>
+    <strTeam>Montpellier</strTeam>
+    <strTeamShort/>
+    <strAlternate>Montpellier HSC</strAlternate>
+    <intFormedYear>1974</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade de la Mosson</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ttrqyv1423686389.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade de la Mosson is a football stadium in Montpellier, France. It is the home of Montpellier HSC (Ligue 1) and has a capacity of 32,900. Formerly a 16,000-seater stadium, it was entirely rebuilt in 1998 to host 6 games of the 1998 FIFA World Cup. It was also used as a venue for group stage matches in the 2007 Rugby World Cup.
+
+On Saturday 9 June 2012, the stadium will host rugby league for the first time. The Catalans Dragons will continue their policy of playing some home games away from the Stade Gilbert Brutus, Perpignan by playing their Stobart Super League fixture against Wigan Warriors at the stadium. This will be the second time the fixture has been played in Montpellier with the previous year&#x27;s game being held in the Stade Yves-du-Manoir.
+
+The stadium also hosted a semi-final game in the 2012–13 Heineken Cup between Clermont and Munster on 27 April 2013.</strStadiumDescription>
+    <strStadiumLocation>Montpellier, France</strStadiumLocation>
+    <intStadiumCapacity>32900</intStadiumCapacity>
+    <strWebsite>www.mhscfoot.com</strWebsite>
+    <strFacebook>www.facebook.com/MHSC</strFacebook>
+    <strTwitter>twitter.com/montpellierhsc</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Montpellier Hérault Sport Club (commonly referred to as Montpellier HSC or simply Montpellier) is a French association football club based in the city of Montpellier. The original club was founded in 1919, while the current incarnation was founded through a merger in 1974. Montpellier currently plays in Ligue 1, the top level of French football and plays its home matches at the Stade de la Mosson, located within the city. The first team is managed by former football player Rolland Courbis and captained by defender Hilton.
+
+Montpellier was founded under the name Stade Olympique Montpelliérain (SO Montpellier) and played under the name for most of its existence. In 1989, after playing under various names, the club changed its name to its current form. Montpellier is one of the founding members of the first division of French football. Along with Marseille, Rennes, Sochaux, and Nice, Montpellier is one of only a few clubs to have played in the inaugural 1932–33 season and is still playing in the first division. The club won Ligue 1 for the first time in the 2011–12 season. Montpellier&#x27;s other honours to date include winning the Coupe de France in 1929 and 1990, and the UEFA Intertoto Cup in 1999.
+
+Montpellier is owned by Louis Nicollin, a French entrepreneur, and has been since 1974. The club have produced several famous players in its history, most notably Laurent Blanc, who has served as manager of the France national team. Blanc is also the club&#x27;s all-time leading goalscorer. Eric Cantona, Roger Milla, and Carlos Valderrama are other players who have played in Montpellier&#x27;s colours. In 2001, Montpellier introduced a women&#x27;s team.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Montpellier Hérault Sport Club est un club de football français basé à Montpellier et fondé en 1919 sous le nom de Stade Olympique Montpelliérain (SOM).
+
+Après avoir remporté la coupe de France en 1929, les Montpelliérains participent à la première édition du championnat national professionnel en 1932 en compagnie de dix-neuf autres clubs pionniers. Le club héraultais va ensuite alterner les saisons en Division 1 et Division 2 pendant trente-sept ans avant de s&#x27;effondrer au début des années 1970.
+
+Lorsque le club est racheté en novembre 1974 par Louis Nicollin, il évolue en division d&#x27;honneur du sud-est et c&#x27;est sous son impulsion que le club héraultais, appelé alors Montpellier la Paillade Sport Club Littoral, va remonter au plus haut niveau en seulement huit saisons.
+
+Ce n&#x27;est qu&#x27;en 1989 que le club adopte définitivement son nom actuel, restant ainsi dans l&#x27;esprit des Français comme un club de football relativement jeune. Le Montpellier HSC va alors connaître une période de succès avec une victoire en coupe de France en 1990 et plusieurs participations à des coupes d&#x27;Europe. Mais au début des années 2000, le club redescend en Ligue 2 évitant même de justesse la relégation en National avant que Rolland Courbis puis René Girard ne le ramènent sur le devant de la scène française en 2010. En 2012, René Girard et son équipe rentrent dans l&#x27;histoire du club en remportant le premier titre de champion de France du Montpellier HSC.
+
+Le club qui évolue en première division depuis la saison 2009-2010, est toujours à ce jour présidé par Louis Nicollin qui en est également l&#x27;actionnaire principal. L&#x27;équipe a terminé à la neuvième place lors du dernier exercice de championnat de France de football.
+
+Après avoir évolué au Parc à Ballons et au stade des Aubes à ses débuts, au parc des Sports de l&#x27;avenue du Pont Juvénal entre 1923 et 1967 puis au stade Richter jusqu&#x27;en 1974, le club s&#x27;est installé définitivement au stade de la Mosson en 1976.
+
+Depuis 2001, le Montpellier HSC possède également une équipe féminine qui évolue au premier échelon national lors de la saison 2013-2014.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/spxtvu1473504783.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133709-Jersey.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/xwtrxx1420584118.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/uwtvpy1420584214.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wyxuqp1420584642.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/ttrrwy1420584348.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/ryqrqw1423692373.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133861</idTeam>
+    <idSoccerXML>277</idSoccerXML>
+    <idAPIfootball>83</idAPIfootball>
+    <intLoved/>
+    <strTeam>Nantes</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Nantes</strAlternate>
+    <intFormedYear>1943</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>La Beaujoire-Louis</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vywtsv1420591250.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade de la Beaujoire - Louis Fonteneau, or &quot;Stade de la Beaujoire&quot; is a stadium in Nantes, France. It is the home of the FC Nantes football club.
+
+The stadium opened for the first time on May 8, 1984, for a friendly game: FC Nantes - Romania. It was named after Louis Fonteneau, who was President of FC Nantes between 1969-1986. It was renovated in 1998, for the World Cup. While its original capacity was 52,923, in 1998, it was converted to an all-seater stadium and its current capacity is 38,285. Previously, the team played at Stade Marcel Saupin.
+
+The stadium also hosts international rugby matches, including France against New Zealand (16-3) on November 15, 1986. In September 2007, it hosted three pool matches of the 2007 Rugby World Cup: Wales vs Canada on September 9, England vs Samoa on September 22 and Wales vs Fiji on September 29. In domestic rugby, La Beaujoire hosted both Top 14 semifinal matches in 2013, and Paris-area Top 14 side Racing Métro 92 will play their final &quot;home&quot; match of the 2013–14 season against Clermont at La Beaujoire on April 19, 2014.
+
+La Beaujoire hosted matches during the 1984 European Football Championship, including a 5-0 victory for France over Belgium. Six matches were also played there during the 1998 FIFA World Cup, including the quarter-final between Brazil and Denmark.
+
+The France national football team have played here on four occasions, most recently 2007 in a EURO 2008 qualifying match against Lithuania (2-0).</strStadiumDescription>
+    <strStadiumLocation>Nantes</strStadiumLocation>
+    <intStadiumCapacity>38285</intStadiumCapacity>
+    <strWebsite>www.fcnantes.com/accueil.php</strWebsite>
+    <strFacebook>www.facebook.com/fcnantes</strFacebook>
+    <strTwitter>twitter.com/fcnantes</strTwitter>
+    <strInstagram>instagram.com/fcnofficiel</strInstagram>
+    <strDescriptionEN>Football Club de Nantes (Breton: Naoned, Gallo: Naunnt; commonly referred to as simply Nantes) is a French association football club based in Nantes, Pays de la Loire. The club was founded on 21 April 1943, during World War II, as a result of local clubs based in the city coming together to form one big club. From 1992–07, the club was referred to as FC Nantes Atlantique before reverting to its current name at the start of the 2007–08 season. Nantes will play in Ligue 1, the first division of French football in the 2014–15 season. The first-team is currently managed by Franco-Armenian coach Michel Der Zakarian and captained by defender Olivier Veigneau.
+
+Nantes is one of the most successful clubs in French football having won eight Ligue 1 titles, three Coupe de France wins, and attained one Coupe de la Ligue victory. The club is famous for its jeu à la nantaise (Nantes-style play), its collective spirit, mainly advocated under coaches José Arribas, Jean-Claude Suaudeau and Raynald Denoueix and for its youth system, which has produced players such as Marcel Desailly, Didier Deschamps, Mickaël Landreau, Claude Makelele, Christian Karembeu or Jeremy Toulalan. As well as Les Canaris (The Canaries), Nantes is also nicknamed Les jaunes et verts (The Green and Yellows) and La Maison Jaune (The Yellow House).</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Football Club de Nantes (FCN) est un club de football français, fondé à Nantes en 1943 par Marcel Saupin. Issu de la fusion de différents clubs nantais dans le but d&#x27;intégrer l&#x27;élite du football français, le FCN compte huit titres de champion de France et trois coupes de France, ce qui constitue l&#x27;un des plus beaux palmarès du football français (le 3e derrière Marseille et Saint-Étienne).
+
+Ses équipes sont connues pour avoir développé, sous l&#x27;égide de José Arribas et de ses disciples Jean-Claude Suaudeau et Raynald Denoueix et grâce au talent de joueurs comme Philippe Gondet, Henri Michel, Maxime Bossis, José Touré ou encore Japhet N&#x27;Doram, un jeu vif et technique fondé sur le mouvement collectif et la rapidité d&#x27;exécution surnommé « jeu à la nantaise » par la presse et le public. À ce titre, les équipes du milieu des années 1960, de 1983 ou encore de 1995 sont particulièrement réputées.
+
+Le FCN est également réputé pour son centre de formation, « La Jonelière », dont sont issus de nombreux internationaux français tels les champions du monde Didier Deschamps, Marcel Desailly, Christian Karembeu, ou encore Mickaël Landreau. Ces particularités ont permis au club de ne pas connaître de relégation jusqu&#x27;en 2007, après une série record de 44 saisons d&#x27;affilée en première division.
+
+D&#x27;abord résident du stade Malakoff, devenu stade Marcel-Saupin en 1965, le FC Nantes utilise depuis 1984 le stade de la Beaujoire - Louis Fonteneau, le septième plus grand en France à l&#x27;heure actuelle. Le club est présidé par Waldemar Kita depuis 2007. L&#x27;équipe première évolue en championnat de Ligue 1 depuis la saison 2013-2014.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/8r0dab1598797469.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133861-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/qutqyp1420591401.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/yqytyw1420590990.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tquxpr1420591010.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ywqwqp1420591028.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/susytx1420591046.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vuqptv1420591743.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133712</idTeam>
+    <idSoccerXML>129</idSoccerXML>
+    <idAPIfootball>84</idAPIfootball>
+    <intLoved/>
+    <strTeam>Nice</strTeam>
+    <strTeamShort/>
+    <strAlternate>OGC Nice</strAlternate>
+    <intFormedYear>1904</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Allianz Riviera</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uspuxq1420595857.jpg</strStadiumThumb>
+    <strStadiumDescription>The Allianz Riviera is a multi-use stadium in Nice, France, used mostly for football matches of host OGC Nice and also for occasional home matches of rugby union club Toulon. The stadium has a capacity of 35,624 people and replaces the city&#x27;s former stadium Stade Municipal du Ray. Construction started in 2011 and was completed two years later. The stadium&#x27;s opening was on 22 September, 2013, for a match between OGC Nice and Valenciennes.
+
+The stadium was originally planned to be completed by 2007. However, construction was halted the previous year because of concerns related to the future cost of the structure. Plans for the stadium, located in Saint-Isidore near the Var, were then shelved. The project was revived as part of France&#x27;s ultimately successful bid to host UEFA Euro 2016.</strStadiumDescription>
+    <strStadiumLocation>Nice</strStadiumLocation>
+    <intStadiumCapacity>35624</intStadiumCapacity>
+    <strWebsite>www.ogcnice.com</strWebsite>
+    <strFacebook>www.facebook.com/ogcnice</strFacebook>
+    <strTwitter>twitter.com/ogcnice</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Olympique Gymnaste Club Nice Côte d&#x27;Azur (commonly referred to as OGC Nice or simply Nice) is a French association football club based in Nice. The club was founded in 1904 and currently plays in Ligue 1, the top-tier of French football. Nice plays its home matches at the Allianz Riviera. Nice is managed by Claude Puel and captained by midfielder Didier Digard.
+
+Nice was founded under the name Gymnaste Club de Nice and is one of the founding members of the first division of French football. Along with Marseille, Montpelllier and Rennes, Nice is the only club to have played in the inaugural 1932–33 season and still be playing in the first division as of today. The club has won Ligue 1 four times and the Coupe de France three times. Nice achieved most of its honours in the 1950s with the club being managed by coaches such as Numa Andoire, Englishman William Berry, and Jean Luciano. The club&#x27;s last honour was winning the Coupe de France in 1997 after beating Guingamp 4–3 on penalties in the final. Nice&#x27;s colours are red and black.
+
+During the club&#x27;s successful run in the 1950s, Nice were among the first French clubs to successfully integrate internationals players into the fold. Notable players include Hector De Bourgoing, Pancho González, Victor Nurenberg, and Joaquin Valle. Valle is the club&#x27;s all-time leading goalscorer and, arguably, the club&#x27;s greatest player.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Olympique Gymnaste Club Nice Côte d&#x27;Azur, en abrégé OGCN ou OGC Nice et surnommé le « Gym », est un club de football français fondé en 1904 dont le siège se trouve à Nice.
+
+L&#x27;OGC Nice est l&#x27;un des membres fondateurs de la Première division du football français. Avec Marseille, Montpellier, Rennes, Lille et Metz, Nice est l&#x27;un des rares clubs qui a joué durant la saison inaugurale 1932-1933 et qui évolue encore en Ligue 1 aujourd&#x27;hui.
+
+De 1927 à 2013, le club a joué au stade du Ray. Depuis le 22 septembre 2013, les rencontres se déroulent au nouveau grand stade de Nice dénommé Allianz Riviera. Les joueurs s&#x27;entraînent au parc des sports Charles-Ehrmann, où se trouvent le centre de formation et le siège du club. Les joueurs sont traditionnellement appelés « les Aiglons », l&#x27;emblème de la ville de Nice et du club étant l&#x27;aigle.
+
+Le club est présidé depuis juillet 2011 par Jean-Pierre Rivère, qui détient la majorité du capital de la SASP OGC Nice. L&#x27;équipe première évolue actuellement en Ligue 1. Elle est entraînée depuis mai 2012 par Claude Puel.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qwvtvt1473504800.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133712-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/wutrsu1420595744.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vvssuq1420595040.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/rwrrsx1420595124.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xrqwwt1420595177.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/sxrswv1420595602.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/wwuxuq1420595615.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/ogcniceofficiel</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134715</idTeam>
+    <idSoccerXML>1180</idSoccerXML>
+    <idAPIfootball>92</idAPIfootball>
+    <intLoved/>
+    <strTeam>Nimes</strTeam>
+    <strTeamShort/>
+    <strAlternate>Nîmes Olympique</strAlternate>
+    <intFormedYear>1938</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade des Costières</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.nimes-olympique.com/component/ninjarsssyndicator/?feed_id=1&amp;format=raw</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/kwonfc1551903611.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade des Costières is a football stadium in Nîmes, France. It is the current home of Nîmes Olympique. The stadium is able to hold 18,482 people and opened in 1989.</strStadiumDescription>
+    <strStadiumLocation>Nîmes</strStadiumLocation>
+    <intStadiumCapacity>18482</intStadiumCapacity>
+    <strWebsite>www.nimes-olympique.com</strWebsite>
+    <strFacebook>www.facebook.com/NO.CROCOS</strFacebook>
+    <strTwitter>twitter.com/nimesolympique</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Nîmes Olympique (commonly referred to as simply Nîmes) is a French association football club based in Nîmes. The club was formed on 10 April 1937 and currently play in Ligue 2, the second level of French football. The club&#x27;s most important achievements was winning Ligue 2 in 1950 and the Championnat National in 1997 and in 2012. Nîmes plays its home matches at the Stade des Costières located within the city. The team is managed by José Pasqualetti.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Nîmes Olympique, est un club de football français basé à Nîmes et fondé le 10 avril 1937 à la suite de la disparition du Sporting Club nîmois, ancien club professionnel de la ville créé en 1901.
+
+Une décennie après la création et la professionnalisation du club, le Nîmes Olympique remporte son premier titre, celui de champion de deuxième division, accédant ainsi pour la première fois de son histoire à la première division. Les Nîmois s&#x27;installent alors durablement au sein de l&#x27;élite française, terminant même à trois reprises vice-champions de France derrière le Stade de Reims et en participant à deux finales de Coupe de France à la fin des années 1960. Après avoir connu une descente en seconde division à la fin des années 1970, la décennie suivante est marquée par les premières rencontres européennes du club ainsi qu&#x27;une deuxième place acquise en première division derrière l&#x27;Olympique de Marseille.
+
+Dès lors, une série de descentes et de montées s&#x27;effectue durant une vingtaine d&#x27;années. Elle se conclura par une première participation du club à la troisième division, au milieu des années 1990. Malgré cette période noire, le club nîmois participe à une nouvelle finale de Coupe de France en 1996. Cependant, et après être avoir évolué de nouveau au sein de la deuxième division à la fin des années 1990, Nîmes redescend quelques années plus tard en troisième division en échouant à de nombreuses reprises à la montée. À la fin des années 2000, le club retrouve le professionnalisme et devient un membre régulier du championnat de Ligue 2.
+
+Le club est présidé depuis avril 2014 par Jean-Marc Conrad, un des quatre actionnaires du club depuis la même année. Il est entraîné depuis juin 2014 par José Pasqualetti. Les Crocodiles, surnom attribué aux joueurs évoluant sous le maillot du club, évoluent en Ligue 2.
+
+Le Parc des Sports renommé Stade Jean-Bouin en 1931 a accueilli dans Nîmes intra-muros les rencontres à domicile du club gardois jusqu&#x27;à la fin des années 1980 avant d&#x27;être détruit quelques années plus tard. Depuis cette date, le Nîmes Olympique s&#x27;est installé au Stade des Costières, inauguré en 1989.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/7ghm2i1547892868.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134715-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/oi6pxe1547892951.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/bhs1zi1551972791.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/c861sy1551972797.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/nvzh7e1551972856.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/qecbom1551972808.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/a3iymf1551973116.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133714</idTeam>
+    <idSoccerXML>131</idSoccerXML>
+    <idAPIfootball>85</idAPIfootball>
+    <intLoved/>
+    <strTeam>Paris SG</strTeam>
+    <strTeamShort/>
+    <strAlternate>Paris Saint-Germain, PSG, Paris Saint Germain</strAlternate>
+    <intFormedYear>1970</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3>UEFA Champions League</strLeague3>
+    <idLeague3>4480</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Parc des Princes</strStadium>
+    <strKeywords>Les Parisiens</strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uwuptx1420577306.jpg</strStadiumThumb>
+    <strStadiumDescription>The Parc des Princes (literally &quot;Park of the Princes&quot; or &quot;Princes&#x27; Park&quot; in English) is an all-seater football stadium located in the southwest of Paris, France. The venue, with a seating capacity of 48,712 spectators, has been the home of French football club Paris Saint-Germain since 1973. The current Parc des Princes was inaugurated on 4 June 1972, endowed with very avant-garde architecture for the period. Comfort and visibility were the key words of project architects Roger Taillibert and Siavash Teimouri. PSG became the resident club of the new stadium in June 1973 and its image and history has since been associated to Le Parc. Named after the Monarch&#x27;s hunting grounds that it sits on, it was initially opened as a multi-purpose venue on 18 July 1897.
+
+The Parc des Princes is the fourth largest football stadium in France. Originally a velodrome, it was the finish line of the Tour de France from the first event in 1903 until General Charles de Gaulle ordered the track demolished in the late 1960s. He decided in 1967 that the Parc des Princes should be dedicated to football and rugby games with a capacity of under 60,000 seats. The Parc des Princes was the national stadium of the France football team and the France rugby union team until the construction of the Stade de France for the 1998 FIFA World Cup. The stadium and grounds are owned by the Paris city council and the Société d’Exploitation Sports-Evénements (SESE) holds the concession to the Parc des Princes since 1990.
+
+Initially a multi-task sports venue at first, it has hosted many major sports events. Le Parc was an Olympic site in the 1900 Games of the II Olympiad and hosted games in two FIFA World Cups. The stadium has also been the venue for two Euro finals, three UEFA Champions League finals, two UEFA Cup finals, one UEFA Cup Winners&#x27; Cup final, two Latin Cup finals, four USFSA championship finals, one Coupe Sheriff Dewar final, 33 French Cup finals, three League Cup finals, 30 Tournoi de Paris editions and 31 Top 14 finals. The ground has also hosted 128 football matches for the French national team, 59 Five Nations Championships games, one UCI Track Cycling World Championships and 54 Tour de France finishes. The stadium also witnessed the first live sports report in France and has even hosted boxing championships and music concerts. In recent times, the Parc des Princes has refocused on more medium-sized events as compared to the larger Stade de France.</strStadiumDescription>
+    <strStadiumLocation>Paris, France</strStadiumLocation>
+    <intStadiumCapacity>47929</intStadiumCapacity>
+    <strWebsite>www.psg.fr</strWebsite>
+    <strFacebook>www.facebook.com/PSG</strFacebook>
+    <strTwitter>twitter.com/PSG_inside</strTwitter>
+    <strInstagram>instagram.com/psg</strInstagram>
+    <strDescriptionEN>Paris Saint-Germain Football Club, commonly referred to as Paris Saint-Germain, Paris SG, or simply Paris or PSG, is a French professional football club based in Paris. Founded in 1970, the club has traditionally worn red, blue and white kits. PSG has played their home matches in the 47,929-capacity Parc des Princes, in the 16th arrondissement of Paris, since 1974. The club plays in the highest tier of French football, Ligue 1.
+
+The Parisian club established itself as a major force in France, and one of the major forces of European football in the 2010s. PSG have won 40 titles, making it the most successful French club in history by this measure. PSG are also the club with most consecutive seasons playing in the top-flight (they have been in Ligue 1 for 46 seasons since 1974), one of only two French clubs to have won a major European title, the most popular football club in France, and one of the most widely supported teams in the world.
+
+Domestically, the Parisians have won eight Ligue 1 titles, a record twelve Coupe de France, a record eight Coupe de la Ligue, and a record nine Trophée des Champions titles. In European football, they have won one UEFA Cup Winners&#x27; Cup and one UEFA Intertoto Cup. The capital club has also won one Ligue 2, regarded as a minor official title. PSG have a long-standing rivalry with Olympique de Marseille. The duo contest French football&#x27;s most notorious match, known as Le Classique.
+
+The State of Qatar, through its shareholding organisation Qatar Sports Investments (QSI), has been the club&#x27;s owner since 2011. The takeover made Paris Saint-Germain the richest club in France and one of the wealthiest in the world. As of the 2018–19 season, PSG have the fifth-highest revenue in the footballing world with an annual revenue of €636m according to Deloitte, and are the world&#x27;s eleventh most valuable football club, worth €825m according to Forbes.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Paris Saint-Germain Football Club (couramment abrégé en Paris SG ou PSG) est un club de football français basé à Paris, issu de la fusion en 1970 du Stade Saint-Germain, fondé en 1904, et du Paris FC fondé en 1969.
+
+Présent en première division depuis 1974, le Paris SG est depuis 2007 le club français y évoluant depuis le plus longtemps sans discontinuité : la saison 2014-2015 est sa 41e saison consécutive dans l&#x27;élite. Le club a remporté quatre titres de champion de France en 1986, 1994, 2013 et 2014, huit Coupes de France, quatre Coupes de la Ligue et une Coupe d&#x27;Europe des vainqueurs de coupe en 1996, la seule remportée par un club français. Malgré sa jeune existence, ses performances européennes lui valent d&#x27;apparaître au troisième rang français (et 49e rang européen) du classement des clubs de football du XXe siècle selon l&#x27;IFFHS.
+
+Le Paris Saint-Germain joue à domicile au Parc des Princes, depuis juillet 1974, et s&#x27;entraîne au Centre d&#x27;entraînement Ooredoo à Saint-Germain-en-Laye, un lieu hérité du Stade Saint-Germain. Dirigé par Daniel Hechter puis Francis Borelli, le club est racheté en 1991 par le diffuseur du championnat, Canal+, qui mène le club parisien à un certain succès pendant ses premières années. En 2006, le PSG devient la propriété du fonds d&#x27;investissement américain Colony Capital, intéressé à la future rénovation du Parc des Princes. En 2011 et 2012, le Qatar Sports Investments, fonds d&#x27;investissement souverain de l’émirat du Qatar, rachète à son tour le club, lui apportant des moyens financiers considérables et en fait une des sections du nouveau club omnisports du Paris Saint-Germain. Nasser Al-Khelaïfi devient le président du conseil de surveillance.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133714-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/dyxou41548937710.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tptpwt1420506492.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xquwpt1420576819.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/rrrqtp1420504434.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wxsuqt1420576885.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/of99qt1563610403.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/PSGofficiel</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133719</idTeam>
+    <idSoccerXML>136</idSoccerXML>
+    <idAPIfootball>94</idAPIfootball>
+    <intLoved/>
+    <strTeam>Rennes</strTeam>
+    <strTeamShort/>
+    <strAlternate>Stade Rennais</strAlternate>
+    <intFormedYear>1901</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Route de Lorient</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/xtxtwq1421530840.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade de la Route de Lorient (Lorient Road stadium) is a football stadium, inaugurated on September 15, 1912. It is located at 111 route de Lorient, in west-central Rennes. Rebuilt in 2001 and able to seat 29,376, the stadium is currently the home of Stade Rennais.
+
+This stadium is not to be confused with the Stade du Moustoir in Lorient. The record attendance of 29,490 spectators was set 20 August 2005 for a Rennes – Marseille Ligue 1 match.</strStadiumDescription>
+    <strStadiumLocation>111 Rue de Lorient, 35000 Rennes</strStadiumLocation>
+    <intStadiumCapacity>29778</intStadiumCapacity>
+    <strWebsite>www.staderennais.com</strWebsite>
+    <strFacebook>fr-fr.facebook.com/staderennais</strFacebook>
+    <strTwitter>twitter.com/staderennais</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Stade Rennais Football Club (commonly referred to as Stade Rennais, SRFC, or simply Rennes) is a French association football club based in Rennes. The club was founded in 1901 and currently plays in Ligue 1, the top tier of French football. Rennes plays its home matches at the Stade de la Route de Lorient located within the city. The team is managed by former football player Philippe Montanier and captained by defender Romain Danzé. The team&#x27;s president is René Ruello and its owner is Artémis, the holding company of businessman François Pinault.
+
+Rennes was founded in 1901 under the name Stade Rennais and is one of the most recognisable football clubs in the Brittany region, alongside former Brittany inhabitants Nantes. The two are among the main clubs that contest the Derby Breton. Rennes is one of the founding members of the first division of French football. Along with Marseille, Montpelllier, and Nice, Rennes is the only club to have played in the inaugural 1932–33 season and still be playing in the first division as of today. The club has, however, never won Ligue 1. The club&#x27;s best finish in the league has been 4th with the club accomplishing this feat on four occasions; most recently in the 2006–07 season. Rennes have won two Coupe de France titles in 1965 and 1971. After winning the Coupe de France in 1971, Rennes changed its name to its current version.
+
+Rennes is known for its youth academy, known in English as the Henri Guérin Training Centre, which was formed in 2000. The French Football Federation has regularly recognised the Rennes as having the best youth academy in the country. Rennes has finished in 1st place for the past two seasons. The patriarch of the academy is the under-19 team, which has won the Coupe Gambardella three times; in 1973, 2003, and 2008. The academy has produced several notable talents such as Sylvain Wiltord, Yoann Gourcuff, Yann M&#x27;Vila, Moussa Sow, and Jimmy Briand, among others.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Stade rennais football club, couramment abrégé en Stade rennais, Stade rennais FC ou SRFC, est un club de football français fondé en 1901. Dans un premier temps club omnisports, il porte le nom de Stade rennais jusqu&#x27;à sa fusion avec le Football-club rennais en 1904, devenant alors le Stade rennais université-club. Il dispute ses premières compétitions officielles à partir de 1902 au sein du Comité de Bretagne de l&#x27;Union des sociétés françaises de sports athlétiques. En 1912, le club emménage sur un terrain situé au bord de la Vilaine, sur lequel est érigé l&#x27;actuel Stade de la route de Lorient.
+
+Après avoir brillé dans les compétitions régionales, le Stade rennais se fait un nom au niveau national en atteignant la finale de la Coupe de France en 1922 et 1935. Au cours de cette période, en 1932, le club accède également au statut professionnel. Le stade rennais est l&#x27;un des membres fondateurs de la Première division du football français. Avec Marseille, Montpellier, Nice et Metz, Rennes est l&#x27;un des clubs qui a joué durant la saison inaugurale 1932-1933 et qui évolue encore en Ligue 1 aujourd&#x27;hui.
+
+Dans les années 1960, il s&#x27;affirme, sous la houlette de son entraîneur Jean Prouff, comme l&#x27;une des meilleures équipes de l&#x27;hexagone, remportant par deux fois la Coupe de France en 1965 et 1971.
+
+Ces bons résultats demeurent sans lendemain. Après avoir pris son indépendance vis-à-vis de la structure omnisports pour prendre son nom actuel en 1972, la section football connaît une longue traversée du désert sportive, ponctuée de graves difficultés financières. En 1998, la prise de contrôle de François Pinault et de sa holding Artémis transforme le club en société anonyme sportive professionnelle, permet sa modernisation, et le stabilise en Ligue 1. Il s&#x27;installe dans le haut de classement de première division, mais ne parvient pas à ajouter de nouvelles lignes à son palmarès, perdant deux finales de Coupe de France en 2009 et 2014 et une finale de Coupe de la Ligue, en 2013.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/ypturx1473504818.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133719-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/vr21yk1551973277.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/uwtxpq1421530863.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tvqvqt1420592949.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/qsswrx1420593192.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/xwxsus1420593236.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/tyvspt1423692142.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133717</idTeam>
+    <idSoccerXML>134</idSoccerXML>
+    <idAPIfootball>1063</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>St Etienne</strTeam>
+    <strTeamShort/>
+    <strAlternate>AS Saint-Étienne, Saint Etienne</strAlternate>
+    <intFormedYear>1933</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Geoffroy-Guichard</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vywxrq1420582675.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Geoffroy-Guichard is a multi-purpose stadium in Saint-Étienne, France. It is used primarily for football matches, and tournaments such as the 1984 European Football Championship, the Football World Cup 1998 and the Confederations Cup 2003. It is also used for rugby union, and was a venue at the 2007 Rugby World Cup. It is nicknamed &quot;le Chaudron&quot; (the Cauldron), or &quot;l&#x27;enfer vert&quot; (the Green Hell), an allusion to the colours worn by the local football team, the AS Saint-Étienne, given during the team&#x27;s heyday when it drew particularly large crowds (the record being set in 1985, with more than 47,000 spectators). More recently, its current capacity was 35,616 before the current renovations, which began in 2011 and have temporarily reduced this figure to 26,747. When the renovations are finished, the stadium will hold 40,830 seated spectators.
+
+The stadium opened on September 13, 1931, and AS Saint-Étienne&#x27;s first match there took place on September 17 against FAC Nice. The stadium was named after Geoffroy Guichard, founder of the Casino retail group, who purchased the site on which it was built.</strStadiumDescription>
+    <strStadiumLocation>14 Rue Paul et Pierre Guichard, 42000 Saint-Étienne</strStadiumLocation>
+    <intStadiumCapacity>42000</intStadiumCapacity>
+    <strWebsite>www.asse.fr</strWebsite>
+    <strFacebook>fr-fr.facebook.com/assepageofficielle</strFacebook>
+    <strTwitter>twitter.com/asseofficiel</strTwitter>
+    <strInstagram>instagram.com/asseofficiel</strInstagram>
+    <strDescriptionEN>Association Sportive de Saint-Étienne Loire (commonly known as AS Saint-Étienne, ASSE, or simply Saint-Étienne) is a French association football club based in Saint-Étienne. The club was founded in 1919 and currently plays in Ligue 1, the top division of French football. Saint-Étienne plays its home matches at the Stade Geoffroy-Guichard located within the city. The team is managed by Christophe Galtier and captained by Loïc Perrin, who started his career at the club in 1996.
+
+Saint-Étienne is, arguably, the most successful club in French football history having won ten Ligue 1 titles, six Coupe de France titles, a Coupe de la Ligue title and five Trophée des Champions. The club&#x27;s ten league titles are the most professional league titles won by a French club, while the six cup victories places the club third among most Coupe de France titles. Saint-Étienne has also won the second division on three occasions. The club achieved most of its honours in the 1960s and 70s when the club was led by managers Jean Snella, Albert Batteux, and Robert Herbin. Saint-Étienne&#x27;s primary rivals are Olympique Lyonnais, who are based in nearby Lyon. The two teams annually contest the Derby du Rhône. In 2009, the club added a female section to the football club.
+
+Saint-Étienne have produced several notable players, mostly during its dynastic run in the 1960s and 70s, who have gone on to have coaching careers domestically and internationally. The club unearthed players and managers such as Aimé Jacquet, Jacques Santini, Laurent Blanc and Michel Platini. Each player went on to have a managerial stint with the France national team. Jacquet coached the team to victory at the 1998 FIFA World Cup, while Santini won the 2003 FIFA Confederations Cup. Blanc was the manager of the national team for two years between 2010 and 2012.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>L&#x27;Association sportive de Saint-Étienne, abrégée en ASSE, AS Saint-Étienne (ASSE), les Verts ou encore Sainté, est un club de football français fondé en 1919 par le Groupe Casino, et basé à Saint-Étienne (Loire).
+
+Dix titres de champion de France, six Coupes de France, une Coupe de la Ligue et une finale de Coupe des clubs champions européens composent principalement le palmarès d&#x27;un des clubs les plus titrés et les plus populaires du football français.
+
+Officiellement professionnelle depuis 1933, l&#x27;AS Saint-Étienne atteint son apogée dans les années 1960 et 1970, lorsqu&#x27;elle remporte huit titres de champion de France en seulement treize saisons.
+
+En 1976, les Verts de Robert Herbin provoquent une ferveur nationale peu commune en atteignant la finale de la Coupe d&#x27;Europe des clubs champions. Ils sont finalement battus par le Bayern Munich au stade Hampden Park à Glasgow.
+
+En 2014, les Stéphanois entament leur 62e saison en première division du championnat de France, ce qui en fait le troisième club dans ce domaine.
+
+Depuis qu&#x27;il est professionnel, le club réside au Stade Geoffroy-Guichard. Le club est depuis 2004 et jusqu&#x27;à aujourd&#x27;hui coprésidé par Roland Romeyer et Bernard Caïazzo, qui sont les deux actionnaires principaux du club. L&#x27;équipe première, entraînée par Christophe Galtier depuis le 15 décembre 2009, évolue en première division.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Mixed</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/lqc1031518124880.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133717-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/wvsrwr1420581690.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qvxtwr1420582542.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xtyrqr1420581938.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/uwwsuu1420582132.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/ruputp1420582288.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/uyxuuy1420582033.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/asse</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133934</idTeam>
+    <idSoccerXML>355</idSoccerXML>
+    <idAPIfootball>93</idAPIfootball>
+    <intLoved/>
+    <strTeam>Stade de Reims</strTeam>
+    <strTeamShort/>
+    <strAlternate>Stade Reims</strAlternate>
+    <intFormedYear>1931</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade Auguste Delaune</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/urpvvv1423685970.jpg</strStadiumThumb>
+    <strStadiumDescription>Stade Auguste-Delaune is a multi-use stadium in Reims, France. It is used mostly for football matches and hosts the home matches of Stade Reims.</strStadiumDescription>
+    <strStadiumLocation>Reims</strStadiumLocation>
+    <intStadiumCapacity>21628</intStadiumCapacity>
+    <strWebsite>www.stade-de-reims.com</strWebsite>
+    <strFacebook>www.facebook.com/SDROFFICIELLE</strFacebook>
+    <strTwitter>twitter.com/Stade_de_Reims</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Stade de Reims (commonly referred to as Stade Reims or simply Reims) is a French association football club based in Reims. The club was formed in 1910 under the name Société Sportive du Parc Pommery and currently play in Ligue 1, the top level of French football having achieved promotion to the league following the 2011–12 season. Reims plays its home matches at the Stade Auguste Delaune, a renovation of the old complex located within the city. The team is managed by Hubert Fournier and captained by defender Mickaël Tacalfred.
+
+Stade Reims is one of the most successful clubs in French football history having won six Ligue 1 titles, two Coupe de France trophies, and five Trophée des champions titles. The club has also performed well on European level having finished as runners-up in the 1956 and 1959 editions of the European Cup and winning the Latin Cup and Coppa delle Alpi in 1953 and 1977, respectively. However, since the 1980s, Reims have struggled to get back to their zenith. The club hovered between Ligue 2 and the Championnat National for over thirty years after their relegation from the top flight in the 1978–79 season. In 2012, though, they were promoted back to Ligue 1 where they currently remain.
+
+Historically, Stade Reims is viewed as a legendary club within French football circles, not only due to its domestic and European accolades, but its charity towards the France national team through the 1940s and 50s, as well. Reims were largely responsible for the first Golden Generation of French football with notable national team members Roger Marche, Raymond Kopa, Just Fontaine, Jean Vincent, Robert Jonquet, Armand Penverne, Dominique Colonna, and Roger Piantoni all playing for Reims during the national team&#x27;s successful run to the semi-finals at the 1958 FIFA World Cup.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR>Le Stade de Reims est un club de football français, fondé le 18 juin 1931 à Reims, en Champagne-Ardenne.
+
+Né de la réunion de plusieurs clubs, au premier rang desquels la Société sportive du parc Pommery, le Stade de Reims emménage en 1934 dans le nouveau vélodrome municipal, futur stade Auguste-Delaune. Champion de France amateur en 1935, le club opte pour le professionnalisme et intègre la deuxième division du championnat de France. En 1938, la fusion avec le Sporting Club Rémois, le grand rival local au maillot rouge et blanc, donne un nouvel élan à l&#x27;ensemble, qui est promu en première division à la sortie de la guerre.
+
+Dans les années 1950, le Stade de Reims s&#x27;impose comme le principal club français, amassant en quelques années un palmarès prestigieux. Porté par des personnalités emblématiques (l&#x27;entraîneur Albert Batteux, le président Henri Germain ou encore le meneur de jeu Raymond Kopa), il remporte à six reprises le championnat de France et deux fois la coupe de France entre 1949 et 1962. Représentants français à la première édition de la Coupe des clubs champions européens en 1956, les coéquipiers du capitaine Robert Jonquet s&#x27;inclinent de justesse en finale face au Real Madrid. L’histoire se répète trois ans plus tard, face au même adversaire.
+
+Le licenciement de Batteux en 1963 coïncide avec le recul sportif du club, relégué en deuxième division en 1964 et 1967. De retour dans l&#x27;élite dans les années 1970, le club rémois ne parvient pas à retrouver l&#x27;éclat du passé, malgré les exploits de l&#x27;Argentin Carlos Bianchi. Sauvé de justesse de la faillite en 1978, relégué l&#x27;année suivante, il devient un pensionnaire régulier de la D2 jusqu&#x27;à sa liquidation judiciaire en 1991.
+
+Le Stade de Reims repart en Division d&#x27;honneur du Nord-Est, 6e échelon du football français, d&#x27;où il lui faudra dix saisons pour remonter en Ligue 2, où il se stabilise. En 2012, le Stade de Reims fait finalement son retour dans l&#x27;élite, 33 ans après sa dernière saison au plus haut niveau national.
+
+Le club est présidé depuis 2004 par Jean-Pierre Caillot.</strDescriptionFR>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133934-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/g5zhyt1592926102.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/d7fsw91551973436.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/po6kdb1551973449.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/lbvhln1551973455.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/4krole1592926285.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vvqwsp1423691861.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/stadedereimsSDR</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133882</idTeam>
+    <idSoccerXML>298</idSoccerXML>
+    <idAPIfootball>95</idAPIfootball>
+    <intLoved/>
+    <strTeam>Strasbourg</strTeam>
+    <strTeamShort/>
+    <strAlternate>Racing Club de Strasbourg Alsace</strAlternate>
+    <intFormedYear>1906</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>French Ligue 1</strLeague>
+    <idLeague>4334</idLeague>
+    <strLeague2>Coupe de France</strLeague2>
+    <idLeague2>4484</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Stade de la Meinau</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/263uy51551903698.jpg</strStadiumThumb>
+    <strStadiumDescription>The Stade de la Meinau, commonly known as &quot;La Meinau&quot;, is a football stadium in Strasbourg, France. It is the home ground of RC Strasbourg and has also hosted international matches, including one game of the 1938 World Cup, two games of Euro 1984 and the final of the Cup Winners&#x27; Cup in 1988. La Meinau has also been used as a venue for concerts and a mass by John Paul II in 1988. The stadium is owned by the Strasbourg municipality and is rented by the RC Strasbourg.</strStadiumDescription>
+    <strStadiumLocation>Strasbourg, France</strStadiumLocation>
+    <intStadiumCapacity>29230</intStadiumCapacity>
+    <strWebsite>www.rcstrasbourg.fr</strWebsite>
+    <strFacebook>www.facebook.com/RCSAOfficiel/</strFacebook>
+    <strTwitter>twitter.com/rcsa</strTwitter>
+    <strInstagram>www.instagram.com/rcsa</strInstagram>
+    <strDescriptionEN>Racing Club de Strasbourg Alsace (commonly known as RC Strasbourg, Racing Straßburg, RCS, or simply Strasbourg; Alsatian: Füeßbàllmànnschàft Vu Stroßburri; German: Fußballmannschaft Straßburg) is a French association football club founded in 1906, based in the city of Strasbourg, Alsace. It has possessed professional status since 1933 and is currently playing the 2018–19 season in Ligue 1, the top tier of French football, after winning the 2016–17 Ligue 2 championship. This comes after the club was demoted to the fifth tier of French football at the conclusion of the 2010–11 Championnat National season after going into financial liquidation. Renamed RC Strasbourg Alsace, they won the CFA championship in 2012–13, and eventually became Championnat National champions in 2015–16.
+
+The club&#x27;s home stadium, since 1914, is Stade de la Meinau. They are managed by Thierry Laurey, who replaced Jacky Duguépéroux in May 2016.
+
+The club is one of six clubs to have won all three major French trophies: the Championship in 1979, the Coupe de France in 1951, 1966 and 2001 and the Coupe de la Ligue in 1997 and 2005. Strasbourg is also among the six teams to have played more than 2,000 games in France&#x27;s top flight (spanning 56 seasons) and has taken part in 52 European games since 1961. Despite these accomplishments, the club has never really managed to establish itself as one of France&#x27;s leading clubs, experiencing relegation at least once a decade since the early 1950s. Racing has changed its manager 52 times in 75 years of professional play, often under pressure from the fans.
+
+The destiny of the club has always been wedded to the history of Alsace. Like the region, Racing has changed nationality three times and has a troubled history. Founded in what was then a part of the German Empire, the club from the beginning insisted on its Alsatian and popular roots, in opposition to the first Strasbourg-based clubs which came from the German-born bourgeoisie. When Alsace was returned to France in 1919, the club changed its name from &quot;1. FC Neudorf&quot; to the current &quot;Racing club de Strasbourg&quot; in imitation of Pierre de Coubertin&#x27;s Racing Club de France, a clear gesture of francophilia. Racing players lived through World War II as most Alsatians did: evacuated in 1939, annexed in 1940 and striving to avoid nazification and incorporation in the Wehrmacht between 1942 and 1944. When Alsace was definitively returned to France, Racing&#x27;s identity switched towards Jacobinism with, for example, emotional wins in the cup in 1951 and 1966 amidst Franco-Alsatian controversies. More recently, the club has been eager to promote its European vocation along with its strong local ties.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>France</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/yuxtyy1464540071.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133882-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/9h3xfu1551974271.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/hya3wj1551973913.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/hynzmo1551973988.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/zy573j1551974128.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wwey601551973959.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/g22vwi1551974604.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+</root>

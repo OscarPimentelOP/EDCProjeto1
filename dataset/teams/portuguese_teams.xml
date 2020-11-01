@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <team>
+    <idTeam>134386</idTeam>
+    <idSoccerXML>842</idSoccerXML>
+    <idAPIfootball>221</idAPIfootball>
+    <intLoved/>
+    <strTeam>Belenenses</strTeam>
+    <strTeamShort/>
+    <strAlternate>Belenenses SAD</strAlternate>
+    <intFormedYear>1919</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio Nacional</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uuqtuu1420403254.jpg</strStadiumThumb>
+    <strStadiumDescription>The National Stadium Sports Complex (Portuguese: Complexo Desportivo do Estádio Nacional/Complexo Desportivo do Jamor), also known as Jamor Sports Complex, is a national football stadium used by the Portugal national team and, as of 2018, by Belenenses SAD. It is located in the civil parish of Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, in the municipality of Oeiras, in the western part of Lisbon District.
+
+The stadium entered UEFA history as host of the first ever game played in UEFA club competitions. The game was played on 4 September 1955 between Primeira Divisão&#x27;s third-placed team, Sporting CP, and the Yugoslav champions, Serbian side Partizan Belgrade. It ended as a 3–3 draw and was the first game to be played of the first edition of the European Cup.</strStadiumDescription>
+    <strStadiumLocation>Algés, Portugal</strStadiumLocation>
+    <intStadiumCapacity>37593</intStadiumCapacity>
+    <strWebsite>site.osbelenensessad.com</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Belenenses SAD, is a Portuguese football club from Lisbon founded on 30 June 2018 (as an independent entity). An unlawfully representation of the historic football club Clube de Futebol Os Belenenses, they currently play in the Primeira Liga.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT>O Clube de Futebol Os Belenenses , é um clube português fundado em 23 de Setembro de 1919, e tem sede em Lisboa, na freguesia de Belém.
+
+Entre outras conquistas, para além de 3 Campeonatos de Portugal e 3 Taças de Portugal, a vitória no Campeonato Nacional, em 1945/1946, foi o momento mais significativo da sua história.
+
+Durante décadas fez parte do quarteto dos &quot;Grandes&quot;, juntamente com o Porto, Benfica e o Sporting, pois até 82/83, estes foram os clubes que estiveram sempre na 1ª Divisão.
+
+Em 1933, o Belenenses era o mais poderoso clube de futebol em Portugal: tinha 3 Campeonatos de Portugal, tal como o F.C. Porto, contra 2 do Benfica, 1 do Sporting, 1 do Olhanense e 1 do Marítimo, e era também o clube com mais jogadores presentes na Selecção Nacional desde o início da atividade desta. Manteve esta posição até 1935, e a 2ª posição até 1951. Ainda hoje é o 4º clube com mais internacionalizações, com cerca do dobro dos 5º e 6º (Boavista e Vitória de Setúbal).
+
+Daí que os grandes rivais do Belenenses sejam Benfica, Sporting e Porto, para além do mais recente Boavista, que é a única equipa fora dos três grandes, além do Belenenses a conquistar oo Campeonato Nacional.</strDescriptionPT>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/7po4e21563652867.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/stwxwy1420415379.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/uxytyu1420415781.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/rsxxyt1420415871.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/vvqwsp1421255287.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wqpvrp1421255270.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vyuvuq1420416014.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134108</idTeam>
+    <idSoccerXML>531</idSoccerXML>
+    <idAPIfootball>211</idAPIfootball>
+    <intLoved>6</intLoved>
+    <strTeam>Benfica</strTeam>
+    <strTeamShort/>
+    <strAlternate>SL Benfica, Sport Lisboa e Benfica</strAlternate>
+    <intFormedYear>1904</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5>International Champions Cup</strLeague5>
+    <idLeague5>4505</idLeague5>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio da Luz</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://rr.sapo.pt/rssFeed.aspx?fid=47</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/tuvvyx1420392646.jpg</strStadiumThumb>
+    <strStadiumDescription>The Sport Lisboa e Benfica stadium, known as Estádio da Luz, is a multi-purpose stadium located in Lisbon, Portugal. It is used mostly for football matches and hosts the home matches of S.L. Benfica. It is also called A Catedral (The Cathedral) by Benfica supporters. It was opened on 25 October 2003 with an exhibition match between Benfica and Nacional de Montevideo.
+It is a UEFA category four stadium and the twenty-first biggest stadium by capacity in Europe. The Estádio da Luz hosted several matches in the UEFA Euro 2004, including the final, and hosted the 2014 UEFA Champions League Final. The previous Benfica stadium with 120,000 seats, also called Estádio da Luz, was demolished in 2003 and the new one was built with a maximum capacity of 65,647 making it the 21st largest stadium in Europe in terms of capacity (64,642 in Primeira Liga matches). HOK Sport Venue Event (now Populous) designed the stadium to use as much natural light as possible. The original Estádio da Luz hosted the second leg of the 1983 UEFA Cup Final, the 1992 European Cup Winners&#x27; Cup final and the 1991 FIFA World Youth Championship Final held in Portugal with an attendance of 127,000 people. The original stadium replaced the Estádio do Campo Grande.
+The old stadium was named in honor of the Igreja de Nossa Senhora da Luz (Church of Our Lady of the Light) and the people of Lisbon used to call it a Luz (&quot;the Light&quot;), so the common name for the stadium became Estádio da Luz, which is usually translated to English as &quot;Stadium of the Light&quot;. On October 2014, it was elected as the most beautiful stadium in Europe, in an online poll by L&#x27;Équipe.</strStadiumDescription>
+    <strStadiumLocation>Lisboa,Portugal</strStadiumLocation>
+    <intStadiumCapacity>65647</intStadiumCapacity>
+    <strWebsite>www.slbenfica.pt</strWebsite>
+    <strFacebook>www.facebook.com/SportLisboaBenfica</strFacebook>
+    <strTwitter>twitter.com/sl_benfica</strTwitter>
+    <strInstagram>instagram.com/slbenfica</strInstagram>
+    <strDescriptionEN>Sport Lisboa e Benfica, commonly known as Benfica, or simply as SLB, is a Portuguese sports club based in Lisbon. The club is best known for its professional football team that plays in the Primeira Liga, where they are the current champions. Founded on 28 February 1904, Benfica is one of the Big Three (Portuguese: Três Grandes) clubs in Portugal, along with its long-standing rivals Sporting CP and Porto, who have never been relegated from the Portuguese league since its establishment in 1934. Benfica is the most supported Portuguese club and it is the European club with the biggest percentage of supporters in its own country (47%).With 235,000 members, Benfica is the second-biggest club in the world, after Bayern Munich.It is the twenty-sixth richest football club in terms of revenue, with an annual turnover of €109.2 million,and is evaluated as the thirty-eighth most valuable football brand in the world. The club&#x27;s motto is &quot;E pluribus unum&quot; (Out of many, one) and its official anthem is &quot;Ser Benfiquista&quot;. The club colours are red and white, and the team is nicknamed Águias (Eagles) or Encarnados (Reds), while their supporters are called Benfiquistas. Since 2003, Benfica have played their home games at the new Estádio da Luz, which replaced the previous 49-year-old ground.
+
+Benfica is the most successful Portuguese club in terms of domestic titles (71), having won a total of 73 titles, being the only club to have won all Portuguese competitions. Benfica have won a record of 33 Primeira Liga titles, a record of 25 Taça de Portugal (and 4 consecutively)—achieving a record of 10 doubles—a record of 5 Taça da Liga (and 4 consecutively), 5 Supertaça Cândido de Oliveira and 3 Campeonato de Portugal (a record 2 consecutive). In 2014, Benfica achieved an unprecedented treble of Primeira Liga, Taça de Portugal and Taça da Liga. It also won the Supertaça, becoming the only club to have won all four domestic titles in a year. It is also the only club to have won the Primeira Liga and Taça da Liga, twice. Benfica became the first team in Portuguese league history to complete two 30-game seasons without defeats, namely the 1972–73 and 1977–78 seasons. In the former, Benfica achieved the largest difference of points ever between champions and runners-up (18 points) in a two-points-per-win system. Benfica also holds the European record for the most consecutive wins in domestic league (29), between 1971–72 and 1972–73, as well the record for the longest unbeaten run in Portuguese league (56), between 1976–77 and 1978–79.
+
+Internationally, Benfica won the European Cup/UEFA Champions League in 1961 and 1962, a Portuguese feat. In addition, they were runners-up at the Intercontinental Cup in 1961 and 1962, at the European Cup in 1963, 1965, 1968, 1988 and 1990 (the Portuguese club with the most European Cup finals played and the only with three consecutive finals), and at the UEFA Cup/Europa League in 1983, 2013 and 2014 (the Portuguese club with the most UEFA Cup/Europa League finals played and the only with two consecutive finals). Benfica have reached 10 European finals, which ranks seventh all-time among UEFA clubs and is also a Portuguese record. In 2000, it was ranked twelfth in FIFA Club of the Century award. In 2009, it was ranked ninth in &quot;Europe&#x27;s Club of the Century&quot; by IFFHS. In January 2014, it was ranked tenth in World Club Ranking by IFFHS. Benfica is ranked 5th in UEFA club rankings, currently the best position of a Portuguese club.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Sport Lisboa e Benfica, conocido simplemente como Benfica, es un club polideportivo de la ciudad de Lisboa, Portugal. Fue fundado como club de fútbol con la denominación Grupo Sport Lisboa el 28 de febrero de 1904. Desde 2003 juega de local en el Estádio da Luz, que lleva el mismo nombre que el original de 1954. El Benfica viste camiseta roja y pantalón blanco.
+
+Es uno de los Tres Grandes del país luso, junto al Fútbol Club Oporto y el Sporting de Lisboa,1 club este último con el que disputa el Derby da Capital. Junto a los dos anteriores, fue uno de los fundadores de la Primera División de Portugal en 1933, y son los tres únicos que nunca han descendido a la categoría inferior.
+
+El Benfica es el club más laureado de Portugal, ha obtenido 33 campeonatos de Liga y 25 Copas de Portugal, razón por la que es conocido por sus aficionados como El Glorioso (en portugués: O Glorioso). En su palmarés internacional destacan dos Copas de Europa, además de cinco subcampeonatos en dicho torneo.
+
+Una de las principales características del Sport Lisboa e Benfica es su maldición. Además de su sección principal, la de fútbol, el club cuenta con equipos profesionales de baloncesto, balonmano, fútbol sala, voleibol, hockey patines y rugby, deportes en los que también está considerado uno de los mejores clubes de su país. Además, cuenta con profesionales en las modalidades de atletismo, ciclismo, water polo, billar, capoeira, gimnasia, golf, judo, natación, pesca, tenis de mesa, tiro con arco y triatlón.
+
+El club cuenta con el mayor número de aficionados de Portugal, y también de un equipo portugués en todo el mundo.
+
+Todo esto ha llevado a que el Benfica haya entrado en el Libro Guinness de récords mundiales el 9 de noviembre de 2006, siendo reconocido como el club con más socios de todo el mundo, llegando en ese momento a 197.877.4 A finales de 2009 el Benfica se mantenía como el club de fútbol con más socios de todo el mundo, superando la barrera de los 200.000,5 seguido del F. C. Bayern de Múnich alemán (185.000 socios) y del Fútbol Club Barcelona español (180.000 socios).
+
+En febrero de 2011 fue electo por la IFFHS como el Mejor equipo del mes del mundo.</strDescriptionES>
+    <strDescriptionPT>O Sport Lisboa e Benfica é um clube multidesportivo sediado na freguesia de São Domingos de Benfica, em Lisboa, Portugal. O seu eclectismo, historial e forte base de adeptos fazem do Benfica um dos Grandes clubes de Portugal e um dos mais prestigiados a nível mundial.
+As estimativas em relação ao número de adeptos apontam para cerca de 14 milhões espalhados por todo o mundo.3 Segundo o Guinness, o Benfica era o clube do mundo com mais sócios activos, cerca de 160 000 em 2006,4 5 6 atingindo em 2014 os 235 000 sócios. Este número foi confirmado pela FIFA na revista The Weekly em Fevereiro 20147 , o que fez do SL Benfica o clube com maior número de sócios do mundo. Além de ser o clube português com maior número de adeptos, é segunda a UEFA o clube europeu com a maior percentagem de adeptos no seu próprio pais, com um valor na ordem dos 47 por cento8 9 10 11 e o maior clube do mundo no que a número de sócios diz respeito de acordo com a FIFA e o Guiness World Records.12 13 14 É o vigésimo sexto clube de futebol mais rico do mundo, em termos de lucro, com um volume de negócios anual de cerca de €126 milhões,15 e está avaliado como a trigésima oitava marca futebolística mais valiosa no mundo.16 O lema do Benfica é &quot;E pluribus unum&quot; (De muitos, um) e o seu hino oficial é &quot;Ser Benfiquista&quot;.17 As cores do clube são vermelho e branco, a equipa tem a alcunha de Águias ou Encarnados e os seus apoiantes são chamados de Benfiquistas.
+
+
+Foi considerado pela IFFHS como o nono melhor clube europeu do século XX18 19 e foi eleito pela FIFA o 12.º maior clube de futebol do século XX, sendo o primeiro entre os clubes portugueses.20 O Benfica é o clube mais bem sucedido em Portugal (71 títulos), e um total de 74, incluindo as provas internacionais, sendo o único clube que ganhou todas as competições portuguesas. O Benfica ganhou 33 títulos da Primeira Liga,21 25 Taças de Portugal (4 das quais consecutivas) – com um recorde de 10 dobradinhas – 5 Taças da Liga (4 das quais consecutivas), 5 Supertaças Cândido de Oliveira e 3 Campeonatos de Portugal (com um recorde de 2 consecutivos).22 Em 2014, o Benfica conquistou o inédito triplo (triplete) da Primeira Liga, Taça de Portugal e Taça da Liga.23 24 Também ganhou a Supertaça, tornando-se o único clube a ganhar os quatro títulos domésticos num ano.25 26 Além disso, é também o único clube que ganhou mais vezes a Primeira Liga e a Taça da Liga num único ano. O Benfica tornou-se a primeira equipa portuguesa na história dos campeonatos a completar 30 jogos sem perder, nomeadamente nas épocas 1972–73 e 1977–78. Também na época 72-73, o Benfica conseguiu a maior diferença de sempre de pontos do campeão para o segundo classificado (18), num sistema em que era atribuído 2 pontos por cada vitória.27 O Benfica também tem o recorde europeu para o numero de vitórias consecutivas numa liga domestica (29), entre 1971–72 e 1972–73, assim como o recorde de maior numero de jogos sem derrotas (56), entre 1976–77 e 1978–79.28 29 Segundo a BBDO, a marca Benfica ocupava, em 2007, a 17.ª posição das marcas de futebol mais valiosas da Europa.30
+A principal modalidade do clube é o futebol, mas distingue-se também noutras, como o andebol, o basquetebol, o futsal, o hóquei em patins, o voleibol, entre outras. Nos seus equipamentos utiliza como cores principais o vermelho e o branco e como símbolo uma águia.31
+No futebol, conquistou o seu último título de campeão nacional na época de 2013/2014, no dia 20 de Abril de 2014, no Estádio da Luz, frente ao Olhanense (2–0) com dois golos de Lima. Este foi o 33.º campeonato do clube, o que faz com que este seja o melhor registo em Portugal. O Benfica é também recordista em Taças de Portugal (25), Taças da Liga (5), dobradinhas (10) e finais europeias (10).
+No dia 18 de Maio de 2014, o Benfica tornou-se no primeiro clube em Portugal a conquistar o triplete (Campeonato, Taça de Portugal e Taça da Liga) ao derrotar o Rio Ave por 1 a 0 na final da Taça de Portugal no Jamor. A 10 de Agosto de 2014, com a conquista da Supertaça, o Benfica tornou-se na primeira equipa a vencer todas as quatro provas oficiais do calendário nacional, o póquer.</strDescriptionPT>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/7t684j1520879174.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/vqpqup1474198175.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/wvrvvw1421900728.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wqsvtq1420388873.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vuvuqr1420669528.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/tysssx1432652343.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wqywqq1421075962.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vwusrv1420740089.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/slbenfica</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134588</idTeam>
+    <idSoccerXML>1049</idSoccerXML>
+    <idAPIfootball>222</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Boavista</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1903</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Liga</strLeague2>
+    <idLeague2>4509</idLeague2>
+    <strLeague3>Taca de Portugal</strLeague3>
+    <idLeague3>4510</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio do Bessa</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/boavista_futebol_clube/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ruuqut1420404014.jpg</strStadiumThumb>
+    <strStadiumDescription>Like other stadiums used in Euro 2004, the Bessa is a new ground, but built on top of the old stands, and each one of them was built at a time, which allowed Boavista to continue playing there. The former &#x27;Campo do Bessa&#x27; existed on the same place as the new stadium since 1911. It cost €45,164,726 to build, from which €7,785,735 were supported from the Portuguese state, and has an all-seater capacity of 28,263. Plans for improvement actually existed before the organization of the Euro 2004 was given to Portugal in 1999, and by then the first works were already underway. It was designed by Grupo3 arquitectura.</strStadiumDescription>
+    <strStadiumLocation>Porto, Portugal</strStadiumLocation>
+    <intStadiumCapacity>28263</intStadiumCapacity>
+    <strWebsite>www.boavistafc.pt</strWebsite>
+    <strFacebook>www.facebook.com/boavistafc.pt</strFacebook>
+    <strTwitter>twitter.com/boavistaoficial</strTwitter>
+    <strInstagram>instagram.com/boavistafutebolclube</strInstagram>
+    <strDescriptionEN>Boavista Futebol Clube, commonly known as Boavista, is a Portuguese sports club from the city of Porto. Founded on 1 August 1903, it is one of the oldest clubs in the country and plays in the Primeira Liga.
+It grew to become Porto&#x27;s second greatest club – behind Porto — with sections dedicated to several sports including football, chess, gymnastics, bicycle racing and futsal, among others, the most notable being the football section with their trademark chequered white and black shirts. One of the most prominent clubs in Portuguese football, with 9 main national titles won (1 Championship, 5 Cups of Portugal, 3 Supercups of Portugal, all during the Loureiro&#x27;s family years) Boavista spent 39 consecutive seasons in the Primeira Liga (50 in total), winning in 2001, being together with Belenenses, the only team outside the big three to win the Portuguese Championship. It is also the most successful Portuguese club after the big three, in national and international competitions. Its stadium, Estádio do Bessa, was built in 1973, although football has been played there at the former &#x27;Campo do Bessa&#x27; since the 1910s, and was revamped for use in Euro 2004.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Boavista FC es un equipo de fútbol de Oporto, Portugal. Estuvo jugando en la II Divisão (tercera categoría) tras descender administrativamente debido al escándalo del Silbato Dorado,1 pero retornará a la Primeira Liga para la temporada 2014/15 luego de que ésta se ampliara a 18 equipos.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xuuupr1471876737.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/wusyvq1474198188.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/rtyqyt1420413188.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/twprqq1420508637.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xsqxxq1420422121.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/yuruqq1424130541.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/yspvwv1420676045.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rvppyx1420423881.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134098</idTeam>
+    <idSoccerXML>521</idSoccerXML>
+    <idAPIfootball>217</idAPIfootball>
+    <intLoved>0</intLoved>
+    <strTeam>Braga</strTeam>
+    <strTeamShort/>
+    <strAlternate>SC Braga</strAlternate>
+    <intFormedYear>1921</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio Municipal de Braga</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/sporting_clube_de_braga/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rxwswq1424905789.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio Municipal de Braga (English: Braga Municipal Stadium) is a football stadium in Braga, Portugal, with an all-seated capacity of 30,286, built in 2003 as the new home for local club Sporting Clube de Braga, and as a UEFA Euro 2004 venue. Its architect was Portuguese Eduardo Souto de Moura. The stadium is also known as A Pedreira (The Quarry), as it is carved into the face of the adjacent Monte Castro quarry.
+
+Sporting Clube de Braga pays a monthly rent of €500 for the use of the stadium. In July 2007, Sporting de Braga announced a three-year sponsorship deal with French insurance company AXA, which included the change of the name by which the club refers to the stadium to Estádio AXA (AXA Stadium).However, the municipality, as landlord, clarified that the stadium had not been officially renamed as this was a deal involving its tenant only.</strStadiumDescription>
+    <strStadiumLocation>Braga,Portugal</strStadiumLocation>
+    <intStadiumCapacity>30286</intStadiumCapacity>
+    <strWebsite>www.scbraga.pt</strWebsite>
+    <strFacebook>www.facebook.com/sportingclubedebraga</strFacebook>
+    <strTwitter>twitter.com/SCBragaOficial</strTwitter>
+    <strInstagram>instagram.com/sportingclubebraga</strInstagram>
+    <strDescriptionEN>Braga have been known as Arsenal do Minho and changed their kits from green and white to their Arsenal-style red during the 1945–46 (with the reserve squad) and the 1946–47 (with the main team) seasons due to their president José Antunes Guimarães who had business connections in London and was an Arsenal fan (this is one version of the story: the other one says that Josef Szabo, a Hungarian coach who loved Arsenal&#x27;s playing style asked the president to change the green and white uniform to an Arsenal-style red). In that year (1947) they won the Second division title reaching the First division for the first time. Braga even renamed their youth team Arsenal de Braga.
+One of the first matches played in Arsenal-style kits against R C Celta Vigo
+
+The emblem of Sporting de Braga is the city of Braga&#x27;s shield with Mother Mary and baby Jesus with the blue from the city&#x27;s shield changed to red. On the top of the emblem is the golden Mural Crown of Braga, with the name Sporting Clube de Braga on it. Many fans of Braga have said that Mother Mary gives them luck. The fans of Braga are known as Arsenalistas due to their team home kit that resembles that of English club Arsenal. They are also known as Bracarenses because of being from the city of Bracari, later named Bracara Augusta, city of Portugal that is now known as Braga.
+
+Aside from the loyalty of its supporters, the Minho derby against Vitória de Guimarães is a match that both sets of fans eagerly await. This match is more than football, it is a way people from the north view each city. The derby is one of Portugal&#x27;s most intense matches, and children under 13 are restricted from entering unless an adult is with them. The rivalry goes back to when the City of Braga was the ancient capital of Gallaecia and the largest Portuguese city by the time the Kingdom of Portugal was formed by Afonso I of Portugal. At that time, Guimarães became the seat of the King and nobility, whereas Braga remained the centre of trade and religious power (largest city and seat of the Archbishop).</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/7gu9kh1600513634.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/syrpqv1474198202.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/tuvsvy1420409781.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/ssvxqp1420409476.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/qtvuut1420409491.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/qqsrys1421078368.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/xqvqqv1425313320.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/txutxr1420427206.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/1921scbraga</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134109</idTeam>
+    <idSoccerXML>532</idSoccerXML>
+    <idAPIfootball>225</idAPIfootball>
+    <intLoved/>
+    <strTeam>CD Nacional de Madeira </strTeam>
+    <strTeamShort/>
+    <strAlternate>	Clube Desportivo Nacional de Madeira</strAlternate>
+    <intFormedYear>1910</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio da Madeira</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/clube_desportivo_nacional/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/twrprt1424901577.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio da Madeira, formerly named Estadio Eng. Rui Alves and informally known as Estádio da Choupana is a football stadium in Funchal, Madeira, Portugal. It is currently used mostly for the home matches of C.D. Nacional, one of two Liga Sagres teams located in Funchal (The other being fierce rivals C.S. Marítimo).
+
+The stadium is currently able to hold 5,132 people and was built as a one-stand 2,500 seat stadium in 2000, when Nacional moved in. Previously they played their home games at the local municipal stadium, the Estádio dos Barreiros.The stadium is located within the Cidade Desportiva do C.D. Nacional (C.D Nacional Sport City), which also includes training pitches and the currently under construction Cristiano Ronaldo Academy Campus, named after the club&#x27;s most famous player. The Sport City is located in the north of Funchal, high in the mountains in the Choupana district.
+
+In January 2007, after a period of construction costing €20million, the stadium was expanded to 5,132 by the opening of another stand. The stadium currently has only two all-seated stands which run the entire length of the pitch. The two ends of the field are occupied by tall fencing. On 1 June 2007 the stadium was renamed to Estádio da Madeira after the club reached an agreement with the local government to promote the region. The name also symbolises the fact that the stadium is the most modern sports venue on the island of Madeira, though not the biggest. That position is held by the municipal stadium, the Estádio dos Barreiros, home to Nacional&#x27;s rivals Marítimo.</strStadiumDescription>
+    <strStadiumLocation>Funchal, Madeira, Portugal</strStadiumLocation>
+    <intStadiumCapacity>5132</intStadiumCapacity>
+    <strWebsite>www.cdnacional.pt</strWebsite>
+    <strFacebook>www.facebook.com/ClubeDesportivoNacional</strFacebook>
+    <strTwitter>twitter.com/CDNacional</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Clube Desportivo Nacional, commonly known as Nacional and sometimes Nacional da Madeira, is a Portuguese football club based in Funchal, on the island of Madeira.
+
+Founded on 8 December 1910, it currently plays in the LigaPro, Portugal&#x27;s second-tier division of professional football. It plays its home games at Estádio da Madeira, also known as Estádio da Choupana. Built in 1998 and named at the time Estádio Eng. Rui Alves after the current club president Rui Alves, it seats approximately 5,132 people. The stadium is located in the north of Funchal, high in the mountains of the Choupana district.
+
+The club&#x27;s home colours are black and white striped shirts with black shorts and socks. Nacional is also known for being one of the clubs that formed Portuguese international Cristiano Ronaldo and to honour the club&#x27;s most famous player they named their youth training facilities Cristiano Ronaldo Campus Futebol.
+
+The Alvinegros best top-tier league finish was fourth in the 2003–04 Primeira Liga season and their best participation in European competitions was in the 2009–10 UEFA Europa League after beating Zenit St. Petersburg in the play-off round and managing to secure a third place in the group stage.
+
+Like many other Portuguese clubs, Nacional operates several sports teams outside the football team. Other sports groups within the organisation include beach soccer, boxing, artistic gymnastics, rhythmic gymnastics, tennis, triathlon, muay thai, padel, rallying, swimming and veterans&#x27; soccer.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xqyxrt1471878436.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/wwxwsu1474198211.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/txqspw1424055060.jpg</strTeamFanart1>
+    <strTeamFanart2/>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/yyrwrq1429498094.jpg</strTeamFanart3>
+    <strTeamFanart4/>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/ytpstt1420426561.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/channel/UC93tEtRAUHDF3d7P_-xKmTg</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134111</idTeam>
+    <idSoccerXML>534</idSoccerXML>
+    <idAPIfootball>234</idAPIfootball>
+    <intLoved/>
+    <strTeam>F.C. Paços de Ferreira</strTeam>
+    <strTeamShort/>
+    <strAlternate>Paços Ferreira</strAlternate>
+    <intFormedYear>1950</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio da Mata Real</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/futebol_clube_de_pacos_de_ferreira/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qvuxyp1424900244.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio Capital do Móvel is a multi-use stadium in Paços de Ferreira, Portugal. It is currently used primarily for football matches. The stadium is able to hold 7,000 people and was built in 1973 under the name Estádio da Mata Real. The stadium was renovated twice, in 2000 and 2013, witg the capacity seized from the originary 5,250 to the actual 7,000 seats.</strStadiumDescription>
+    <strStadiumLocation>Paços de Ferreira,Portugal</strStadiumLocation>
+    <intStadiumCapacity>9077</intStadiumCapacity>
+    <strWebsite>www.fcpf.pt</strWebsite>
+    <strFacebook>www.facebook.com/fcpf.pt</strFacebook>
+    <strTwitter>twitter.com/fcpf</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Futebol Clube Paços de Ferreira (Portuguese pronunciation: ) is a Portuguese football club based in Paços de Ferreira, Porto district. Founded in 1950, they currently play in the LigaPro, holding home games at the 9,077-seat capacity Estádio da Mata Real, where the team has been based since 1973. The club&#x27;s colours are yellow and green.
+
+Paços de Ferreira is one of the historic teams in Portuguese football, having been in the portuguese Primeira Liga for 20 seasons. They have won three Segunda Liga titles (now LigaPro), and in 2007 they qualified for the UEFA Cup for the first time. In the 2012–13 Primeira Liga, the team finished third and qualified for the 2013–14 UEFA Champions League play-offs for the first time in their history. They were also runners-up of the 2008–09 Portuguese Cup, the 2009 Portuguese Supercup and the 2010–11 Portuguese League Cup.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qstpuw1471878342.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/spppvq1474198232.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/6gl04i1530276264.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tpqsut1420647521.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/wxsutq1423683202.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xsuxvt1423683367.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/6dnb9u1530183338.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/wyppwx1424109933.jpg</strTeamBanner>
+    <strYoutube>youtube.com/user/fcpf1950</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>136854</idTeam>
+    <idSoccerXML>4961</idSoccerXML>
+    <idAPIfootball>242</idAPIfootball>
+    <intLoved/>
+    <strTeam>Famalicao</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1931</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio Municipal 22 de Junho</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb/>
+    <strStadiumDescription>Estádio Municipal de Famalicão is a multi-use stadium in Vila Nova de Famalicão, Portugal. It is currently used mostly for football matches and is the home stadium of FC Famalicão who currently disputes the Primeira Liga, the top tier of the portuguese football. The stadium is able to hold 5,307 people.
+
+The municipality is planning expansion works on the stadium to increase its capacity to 7,000 people and a general improvement on the conditions of the stadium. The works are set to start in early 2020.</strStadiumDescription>
+    <strStadiumLocation>Vila Nova de Famalicão</strStadiumLocation>
+    <intStadiumCapacity>5307</intStadiumCapacity>
+    <strWebsite>www.fcfamalicao.pt</strWebsite>
+    <strFacebook>www.facebook.com/FCFamalicao/</strFacebook>
+    <strTwitter>twitter.com/fcf1931_oficial</strTwitter>
+    <strInstagram>www.instagram.com/futebolclubefamalicao</strInstagram>
+    <strDescriptionEN>Futebol Clube de Famalicão, commonly known as Famalicão, is a Portuguese football club, from Vila Nova de Famalicão. Founded on 21st August 1931, its senior team currently plays in the Primeira Liga, the top tier of the Portuguese football.
+
+Since 1952, Famalicão have played their home matches at the Estádio Municipal 22 de Junho, which holds a 5,307-seat capacity. The Famalicenses&#x27; most successful period of their history occurred in the early 1990s, where the club played four seasons in the Primeira Liga, between 1990 and 1994, counting now with six Primeira Liga appearances. The club is owned by Quantum Pacific Group which also has 32% share of Atlético de Madrid.
+
+Famalicão sets its difference from many Primeira Liga teams by their supporters. The inhabitants of Vila Nova de Famalicão are passionate about their local team which makes almost every Famalicão match full with supporters. A rare scenario in Portuguese football.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/a3f4er1563653256.png</strTeamBadge>
+    <strTeamJersey/>
+    <strTeamLogo/>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134114</idTeam>
+    <idSoccerXML>537</idSoccerXML>
+    <idAPIfootball>212</idAPIfootball>
+    <intLoved>5</intLoved>
+    <strTeam>FC Porto</strTeam>
+    <strTeamShort/>
+    <strAlternate>Porto</strAlternate>
+    <intFormedYear>1893</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4>UEFA Europa League</strLeague4>
+    <idLeague4>4481</idLeague4>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio do Dragão</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://rr.sapo.pt/rssFeed.aspx?fid=46</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/xrpstv1420402510.jpg</strStadiumThumb>
+    <strStadiumDescription>The Estádio do Dragão (Portuguese pronunciation), Stadium of the Dragon) is an all-seater football stadium located in Porto, Portugal, and the home of F.C. Porto. It was inaugurated on 16 November 2003 with a friendly match between Porto and FC Barcelona, which set an attendance record of 52,000 people. The stadium&#x27;s current capacity is 50,431.
+
+Designed by Portuguese architect Manuel Salgado, the Estádio do Dragão replaced the club&#x27;s previous stadium, the Estádio das Antas, inaugurated in 1952. Rated a UEFA category four stadium, it hosted five matches in UEFA Euro 2004, including the opening, and has held several other international club competition and national team matches. It has also served as a concert venue to international music artists, such as Coldplay and The Rolling Stones.
+
+The stadium&#x27;s name comes from the dragon atop the club crest, which also gives the team their nickname, Dragons.</strStadiumDescription>
+    <strStadiumLocation>Porto, Portugal</strStadiumLocation>
+    <intStadiumCapacity>50092</intStadiumCapacity>
+    <strWebsite>www.fcporto.pt</strWebsite>
+    <strFacebook>www.facebook.com/FCPorto</strFacebook>
+    <strTwitter>twitter.com/FCPorto</strTwitter>
+    <strInstagram>instagram.com/fcporto</strInstagram>
+    <strDescriptionEN>Futebol Clube do Porto, MHIH, OM, commonly known as FC Porto or simply Porto, is a Portuguese sports club based in Porto. It is best known for the professional football team playing in the Primeira Liga, the top flight of Portuguese football.
+
+Founded on 28 September 1893, Porto is one of the &quot;Big Three&quot; (Portuguese: Os Três Grandes) teams in Portugal – together with Lisbon-based rivals Benfica and Sporting CP – that have appeared in every season of the Primeira Liga since its establishment in 1934. They are nicknamed Dragões (Dragons), for the mythical creature atop the club&#x27;s crest, and Azuis e brancos (Blue-and-whites), for the shirt colours. The club supporters are called Portistas. Since 2003, Porto have played their home matches at the Estádio do Dragão, which replaced the previous 103-year-old ground, the Estádio das Antas.
+
+Porto is the second most decorated team in Portugal, with 76 major trophies, of which 69 were achieved in domestic competitions. These comprise 28 Primeira Liga titles (five of which were won consecutively between 1994–95 and 1998–99, a Portuguese football record), 16 Taça de Portugal, 4 Campeonato de Portugal, and a record 21 Supertaça Cândido de Oliveira. Porto is the second team in Portuguese league history to have won two titles without any defeat, namely in the 2010–11 and 2012–13 seasons. In the former, Porto achieved the largest-ever difference of points between champion and runner-up in a three-points-per-win system (21 points), on their way to a second quadruple.
+
+In international competitions, Porto is the most decorated Portuguese team, with seven trophies. They won the European Cup/UEFA Champions League in 1987 and 2004, the UEFA Cup/Europa League in 2003 and 2011, the UEFA Super Cup in 1987, and the Intercontinental Cup in 1987 and 2004. In addition, they were runners-up in the 1983–84 European Cup Winners&#x27; Cup and in the 2003, 2004 and 2011 editions of the UEFA Super Cup. Porto is the only Portuguese club to have won the UEFA Cup/Europa League, the UEFA Super Cup and the Intercontinental Cup, and to have achieved a continental treble of domestic league, domestic cup and European titles (2002–03 and 2010–11). Porto have the second-most appearances in the UEFA Champions League group stage (23), behind Barcelona and Real Madrid (24). At the end of the 2018–19 season, Porto ranked 10th in the UEFA club coefficient ranking.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vtwwwx1471876518.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/tvurtp1474198247.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/svrqxx1420413836.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wyqqty1424462736.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/qxrrpu1424232734.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ysqwwt1454078472.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/ssvtus1421076084.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/wywxwy1420425951.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/fcporto</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134113</idTeam>
+    <idSoccerXML>536</idSoccerXML>
+    <idAPIfootball>762</idAPIfootball>
+    <intLoved/>
+    <strTeam>Gil Vicente</strTeam>
+    <strTeamShort/>
+    <strAlternate>Gil Vicente Futebol Clube</strAlternate>
+    <intFormedYear>1924</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio Cidade de Barcelos</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/gil_vicente_futebol_clube/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uxtppr1423678139.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio Cidade de Barcelos is a multi-use stadium in Barcelos, Portugal. It is currently used mostly for football matches. It is the home of Primeira Liga side Gil Vicente.
+
+The stadium is able to hold 12,504 people and was built in 2004.It opened on 30 May 2004. The inaugural game saw Gil Vicente lose 2-1 to Uruguayan side Nacional de Montevideo. It replaced Estadio Adelino Ribeiro Novo which was Gil&#x27;s home ground from its establishment in the 1920s until 2004. The stadium is a UEFA Category C ground which allows for European and international games to be played there.
+
+It held two matches of the 2006 UEFA European Under-21 Football Championship, Serbia &amp; Montenegro 0-1 Germany and Portugal 0-2 Serbia &amp; Montenegro.</strStadiumDescription>
+    <strStadiumLocation>Barcelos, Portugal</strStadiumLocation>
+    <intStadiumCapacity>12504</intStadiumCapacity>
+    <strWebsite>www.gilvicentefc.pt</strWebsite>
+    <strFacebook>www.facebook.com/gvfcoficial</strFacebook>
+    <strTwitter>twitter.com/GilVicente_fc</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Gil Vicente Futebol Clube, commonly known as Gil Vicente, founded in 1924, is a Portuguese football club that plays in Barcelos. It competes in the first divison Liga NOS ], and it is named after the Portuguese playwright of the same name. The best season for the team was in 1999–2000, when it finished fifth in the Liga.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vqxpxw1471878231.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/qqwtyu1423780472.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/ytwyrt1420478557.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wsrpqu1420424850.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/rwrrqp1420407268.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wppsrp1424130923.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/sxyuwr1424130947.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/yyutyu1420424754.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/GilVicenteFutebolC</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134115</idTeam>
+    <idSoccerXML>538</idSoccerXML>
+    <idAPIfootball>224</idAPIfootball>
+    <intLoved/>
+    <strTeam>Guimaraes</strTeam>
+    <strTeamShort/>
+    <strAlternate>Vitória SC</strAlternate>
+    <intFormedYear>1922</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio D. Afonso Henriques</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uvvuxy1420402245.jpg</strStadiumThumb>
+    <strStadiumDescription>The Estádio D. Afonso Henriques (English: D. Afonso Henriques Stadium) is a football stadium in the city of Guimarães, Portugal.
+
+The stadium is home of Guimarães&#x27;s most successful team, Vitória de Guimarães, presently completing in the top-flight Portuguese Liga. The stadium was built in 1965 and was renovated and expanded in 2003 for the UEFA Euro 2004 tournament by architect Eduardo Guimarães. Estádio D. Afonso Henriques has a capacity of 30,165 and it is named after the first King of Portugal — and also a Guimarães native — Dom Afonso Henriques. It was formerly known as Estádio Municipal de Guimarães, and before that as the Estádio D. Afonso Henriques.
+
+During Euro 2004, the stadium hosted two of the tournament&#x27;s matches.</strStadiumDescription>
+    <strStadiumLocation>Guimarães, Portugal</strStadiumLocation>
+    <intStadiumCapacity>30165</intStadiumCapacity>
+    <strWebsite>www.vitoriasc.pt</strWebsite>
+    <strFacebook>www.facebook.com/vitoriasportclube</strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram>instagram.com/vitoriasc_oficial</strInstagram>
+    <strDescriptionEN>Vitória Sport Clube, commonly known as Vitória de Guimarães, is a football club based in Guimarães, Portugal.
+
+As a top contender to the title of fourth best supported club in Portugal, it has tried to end the favoritism of the so-called &quot;Big Three&quot; (Benfica, Porto and Sporting CP), maintaining good positions in the Primeira Liga, where it has finished third on four occasions, the last one in 2007–08 season.
+
+As a rule in recent years, Vitória de Guimarães has been battling for European places, trying to place 5th or above in the league. In its history, they have won one Portuguese Cup and one Super Cup. Its main rivals are SC Braga, of the neighbouring city, with whom the club disputes the &quot;Derby of Minho&quot;. Vitória&#x27;s crest, nickname, and stadium honour Afonso Henriques, first King of Portugal and possibly a Guimarães native.
+
+Besides football, the club has other sports sections, such as volleyball (National Champion in 2007–08), basketball (League Champion in 2006–07 and Cup Champion in 2007–08), swimming, water polo, kickboxing, judo, beach soccer, table tennis, athletics, women&#x27;s futsal, among others.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/uvrsxw1471877599.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/xsxspx1474198296.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/oxa8ad1530025889.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/rwtwyr1420483029.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xxpuwx1420406446.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/vsqryx1421254803.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wswywv1421254897.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/xstqss1420406996.jpg</strTeamBanner>
+    <strYoutube>youtube.com/channel/UC58Sf128Opaat35MdTYGyMg</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134023</idTeam>
+    <idSoccerXML>445</idSoccerXML>
+    <idAPIfootball>214</idAPIfootball>
+    <intLoved/>
+    <strTeam>Maritimo</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1910</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio dos Barreiros</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/club_sport_maritimo/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/yuvqpy1421078975.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio dos Barreiros is a multi-purpose stadium in Funchal, Portugal. It is currently used mostly for football matches. It is the home stadium of Club Sport Marítimo and although much larger in its hey-day, the stadium can now hold 8,922 people.
+
+The stadium itself is rather distinctive in design and shape. Built into a Funchal hillside, the stadium offers outstanding views of the bay, city, and the rising Madeiran mountain&#x27;s from its two &quot;banana-shaped&quot; stands that stretch the entire length of the field and curve around most of the running rack, but not entirely. The two stands are both all seated with the bancada nascente being totally uncovered and sufficiently smaller than the main bancada lateral (pictured). Because it has been built into the ground, the top of the main stand, complete with its roof is actually only at street level, which require walking down several stairways to reach the stand from the main road.</strStadiumDescription>
+    <strStadiumLocation>Madeira,Portugal</strStadiumLocation>
+    <intStadiumCapacity>8922</intStadiumCapacity>
+    <strWebsite>www.csmaritimo.pt</strWebsite>
+    <strFacebook>www.facebook.com/csmaritimo</strFacebook>
+    <strTwitter>twitter.com/csmaritimosad</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Club Sport Marítimo, MH M, commonly known as Marítimo, is a Portuguese sports club, founded in Funchal, Madeira, in 1910. The club is regarded as an important club in Portugal, and is widely known throughout the Portuguese speaking world, in countries such as Brazil, Angola, and Cape Verde. Marítimo is best known for its football team that currently plays in the top-flight competition, the I League. The club&#x27;s reserve team, Marítimo B, compete in the II League. Aside from football, Marítimo also have teams in other sports competing in the national leagues, such as volleyball, handball, roller hockey and athletics. Marítimo supporters are nicknamed Maritimistas.
+
+Marítimo have dominated Madeira&#x27;s regional football scene since its establishment. The club hold one national title, the Championship of Portugal,won in 1926. After a long period without being able to participate in national championships, they finally made their appearance in 1973. Since then Marítimo was present for thirty-four times in I League, was two times runners-up of the Portuguese Cup, and participated eight times in the UEFA Cup/Europa League. The club also won the II League twice.
+
+Marítimo&#x27;s most recent foray into European competition came in 2012, when they achieve the group stage of the Europa League. Nevertheless, Marítimo still maintain a proud home record against European opposition with victories over Rangers, Aarau and Leeds United. The football team has produced and featured many notable names in recent years, including Pepe of Real Madrid, Danny of FC Zenit and Nuno Valente, formerly of Everton, to name just a few. According to the ranking of the prestigious International Federation of Football History and Statistics (IFFHS) Marítimo is considered the fifth best Portuguese club of this century. This ranking also confirms the status of the Club Sport Marítimo as the best club in Madeira in the 21st century</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/ttrspv1471878613.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/tqtyrs1474198301.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/qvspst1420415020.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tsqxvy1420563609.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vtuqqt1420563985.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/upysrs1421078847.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wyvpvv1421078891.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rpsyux1420425349.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134112</idTeam>
+    <idSoccerXML>535</idSoccerXML>
+    <idAPIfootball>215</idAPIfootball>
+    <intLoved/>
+    <strTeam>Moreirense</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1938</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Parque Joaquim Almeida Freitas</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/moreirense_futebol_clube/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rrppus1423683763.jpg</strStadiumThumb>
+    <strStadiumDescription>Parque de Jogos Comendador Joaquim de Almeida Freitas is a multi-use stadium in Moreira de Cónegos, Braga, Portugal. It is currently used for football matches and is the home stadium of Moreirense.
+
+The stadium was constructed in 2002 as a result of two successful back to back promotions by the club. The stadium was constructed to play host to Moreirense&#x27;s home games in the 2002-03 Primeira Liga season. During the season the club came under great criticism due to its lighting towers as well as its safety conditions around the ground. This led the club to leave the stadium temporarily for a few weeks so that the League association can investigate whether the appropriate facilities and conditions were in place to ensure the safety of the supporters and the players. The stadium was later deemed safe to play in.</strStadiumDescription>
+    <strStadiumLocation>Guimarães,Portugal</strStadiumLocation>
+    <intStadiumCapacity>9000</intStadiumCapacity>
+    <strWebsite>www.moreirensefc.pt/inicio.php</strWebsite>
+    <strFacebook>instagram.com/fcporto/</strFacebook>
+    <strTwitter>twitter.com/MoreirenseFC38</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Moreirense was founded in 1938. It first reached the second division in 1995, returning again six years later, and immediately promoting to the top flight, with manager Manuel Machado leading the northerners to two consecutive championships.
+
+From 2002–04, Moreirense achieved two mid-table positions in the top division, finishing a best-ever ninth in the latter season. As Machado departed for neighbouring Vitória de Guimarães, the club suffered two consecutive relegations, only returning again to the second level in 2010, and the first in 2012.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/qwpqtw1474198314.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/xussxw1424354652.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vywpwy1421254430.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tupwsx1421254376.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/uwyqqs1421254342.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/vpuwrx1421254358.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/txsqwu1420425562.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/MoreirenseFC38</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>136031</idTeam>
+    <idSoccerXML>4817</idSoccerXML>
+    <idAPIfootball>216</idAPIfootball>
+    <intLoved/>
+    <strTeam>Portimonense</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1914</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio Municipal</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/nsayd71530025349.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio Municipal de Portimão is the current stadium of Portimonense S.C.. It is located in the centre of Portimão in the Algarve, Portugal and was opened in 1937 for local football club Portimonense S.C.. Its capacity is 9,544 people. It hosted Portimonense&#x27;s stay in the Primeira Liga in the 1980s.
+
+In 2006, Portimonense were forced to play away from the Estádio Municipal in the Estádio Algarve, which – built for Euro 2004 – is 70 kilometres from Portimão. In February 2007, however, Portimonense returned home and the Portimão Municipality purchased the site five months later. This allowed the renovations required for the hosting of higher level competition: the installation of green seats (in the colours of the city), new turnstiles and security facilities.
+
+In the 2009–10 season, Portimonense won promotion to the Primeira Liga for the following season. The summer of 2010 was a time of further renovation of the stadium, as modifications were made to the pitch and drainage system, as well as the west stand, bringing the capacity to 9,544 at the cost of €800,000. The construction took longer than expected and the club had to wait until the turn of the year before they could use their stadium again. The club&#x27;s first home league match in the renovated stadium was on 6 February 2011 against Paços de Ferreira, who emerged victorious with the only goal of the game.</strStadiumDescription>
+    <strStadiumLocation>Portimão Municipality</strStadiumLocation>
+    <intStadiumCapacity>9544</intStadiumCapacity>
+    <strWebsite>www.portimonense.pt</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Portimonense Sporting Clube is a Portuguese sports club founded on 14 August 1914 and based in Portimão, most notable for its professional football team, which currently plays in the Primeira Liga. It also fields various youth teams and a veterans team in football, as well as teams in basketball.
+
+Situated in Algarve&#x27;s second largest city, its stadium, the Estádio Municipal de Portimão, has a capacity of 9,544 spectators after undergoing renovation in early 2011. The club never won any major honours, but participated in the Primeira Liga for several seasons.
+
+Portimonense&#x27;s zenith was in the 1980s, a decade in which the club only played its football in the top division, also competing in the UEFA Cup in 1985–86. They reached the semifinals of the Taça de Portugal three times, in 1983, 1987, and 1988.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/9ccun71593020108.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2018-136031-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/erykt41530025291.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/io56kl1530025407.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xv63jz1530025435.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/mfxh5z1530025513.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/hvqq7b1530025466.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/3xaj5o1530025697.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134107</idTeam>
+    <idSoccerXML>530</idSoccerXML>
+    <idAPIfootball>226</idAPIfootball>
+    <intLoved/>
+    <strTeam>Rio Ave</strTeam>
+    <strTeamShort/>
+    <strAlternate>Rio Ave Futebol Clube</strAlternate>
+    <intFormedYear>1939</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio dos Arcos</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.destakes.com/futebol/rio_ave_futebol_clube/?format=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rvvysw1420418903.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio do Rio Ave FC is a multi-use stadium in Vila do Conde, Portugal. It is currently used mostly for football matches. The stadium is able to hold 12,815 people and was built in 1985.</strStadiumDescription>
+    <strStadiumLocation>Vila do Conde,Portugal</strStadiumLocation>
+    <intStadiumCapacity>12815</intStadiumCapacity>
+    <strWebsite>www.rioave-fc.pt</strWebsite>
+    <strFacebook>www.facebook.com/rioavefc</strFacebook>
+    <strTwitter>twitter.com/rioave_fc</strTwitter>
+    <strInstagram>instagram.com/rioavefc</strInstagram>
+    <strDescriptionEN>Rio Ave Futebol Clube, commonly known as Rio Ave, is a Portuguese football club based in Vila do Conde, northern Portugal. The club is named after the Ave River, which flows through the town and into the Atlantic Ocean.
+
+Founded in 1939, it currently plays in the Primeira Liga, Portugal&#x27;s top-tier division of professional football. It plays its home games at Estádio do Rio Ave FC, also known as Estádio dos Arcos. Built in 1985, &quot;Estádio do Rio Ave FC&quot; seats approximately 12,815 people and is a multi-sports venue, although it is used mainly for Rio Ave&#x27;s football matches.
+
+The club&#x27;s home colours are green and white striped shirts with white shorts and socks, whilst their away kit consists of a red and white striped shirt and white shorts with yellow socks. Portuguese internationals Alfredo, Paulinho Santos, Quim, Rui Jorge and Fábio Coentrão started their careers at the club.
+
+The Vilacondenses best top-tier league finish was fifth in the 1981-1982 season.  They reached the 1984 Taça de Portugal Final, where they lost to Porto 4-1,  and the 2014 Taça de Portugal Final where they lost to S.L. Benfica 1–0. With this result, Rio Ave have a guaranteed spot in the 2014-2015 UEFA Europa League, which will mark the first time that Rio Ave have ever participated in a major European competition.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/wrvqsx1471878073.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/uyxvyv1474198322.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/uuvwry1420420964.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/swpxyu1420418816.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/srtuvp1420419012.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wsxsxx1421078463.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/xsruqs1421078584.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/uqxqvw1420420236.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/rafc1939</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>136192</idTeam>
+    <idSoccerXML>4898</idSoccerXML>
+    <idAPIfootball>227</idAPIfootball>
+    <intLoved/>
+    <strTeam>Santa Clara</strTeam>
+    <strTeamShort/>
+    <strAlternate>Clube Desportivo Santa Clara</strAlternate>
+    <intFormedYear>1921</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio de São Miguel</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb/>
+    <strStadiumDescription>Stadium of São Miguel (Portuguese: Estadio de São Miguel) is a large open-air stadium in the municipality of Ponta Delgada in the Portuguese archipelago of the Azores. It is used mostly for national and regional football matches, and official home stadium of Santa Clara.</strStadiumDescription>
+    <strStadiumLocation>Ponta Delgada, Portugal</strStadiumLocation>
+    <intStadiumCapacity>13277</intStadiumCapacity>
+    <strWebsite>cdsantaclara.com/en</strWebsite>
+    <strFacebook>www.facebook.com/cdsantaclara/</strFacebook>
+    <strTwitter>twitter.com/cd_santaclara</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Clube Desportivo Santa Clara is a Portuguese football club from Ponta Delgada, Azores. They play in the 13,277-seat Estádio de São Miguel that is eligible for UEFA Champions League and Europa League games. They are the most successful football team from the Azores islands and the only team from the archipelago to compete in one UEFA competition: the Intertoto Cup.
+
+To date, Santa Clara is the only club from the Azores islands to have competed in the top division of the Portuguese Liga, being thus the westernmost top-flight club in Europe. They compete in the Primeira Liga, the Portuguese first division football league. Santa Clara&#x27;s kit manufacturer is Adidas and their main sponsors are Banif and Açoreana Seguros. Main rivals are CD Operário from Lagoa. Other major rivals are C.S. Marítimo and C.D. Nacional, from the island of Madeira.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/b45ikv1579636177.png</strTeamBadge>
+    <strTeamJersey/>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/h0nygm1579636429.png</strTeamLogo>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube>www.youtube.com/channel/UC1fMA-YLirbPBTs3mjuaUBQ</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>138853</idTeam>
+    <idSoccerXML/>
+    <idAPIfootball>231</idAPIfootball>
+    <intLoved/>
+    <strTeam>SC Farense</strTeam>
+    <strTeamShort/>
+    <strAlternate>Sporting Clube Farense</strAlternate>
+    <intFormedYear>1910</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio de São Luís</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb/>
+    <strStadiumDescription>Estadio de São Luís is a multi-use stadium in Faro, Portugal. It is used mostly for football matches and hosts the home matches of S.C. Farense. The stadium is able to hold 15,000 people and opened in 1922. It was used continuously by Farense between 1924, when it became the main tenant of the stadium, and 2004, when the club moved to the newly built Algarve Stadium. Farense has been playing back at the renovated São Luís since 2013.</strStadiumDescription>
+    <strStadiumLocation>Faro, Portugal</strStadiumLocation>
+    <intStadiumCapacity>15000</intStadiumCapacity>
+    <strWebsite>www.scfarense.pt</strWebsite>
+    <strFacebook>www.facebook.com/scfarenseoficial/</strFacebook>
+    <strTwitter>twitter.com/farensesc?lang=en</strTwitter>
+    <strInstagram>www.instagram.com/s.c.farense/?hl=en</strInstagram>
+    <strDescriptionEN>Sporting Clube Farense, simply known as Farense, is a Portuguese professional football club based in Faro in the district of Faro, who play in the LigaPro after promotion. They were promoted from the Segunda Divisão at the end the 2012–13 season. The Leões de Faro played at the Estádio de São Luís for 94 years from 1910. The club moved stadium in 2004 to the newly constructed Estádio Algarve which was built for the purpose of hosting matches at UEFA Euro 2004. The Faro side moved back to the Estádio de São Luís in 2013 after it gained promotion to the Segunda Liga. As a result of their promotion, the Estádio de São Luís underwent major renovations to improve its facilities. The club will play the 2020–21 season in the Primeira Liga after promotion from the LigaPro.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/jgmxzm1580389106.png</strTeamBadge>
+    <strTeamJersey/>
+    <strTeamLogo/>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>135708</idTeam>
+    <idSoccerXML>539</idSoccerXML>
+    <idAPIfootball>228</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Sporting CP</strTeam>
+    <strTeamShort/>
+    <strAlternate>Sporting Lisbon</strAlternate>
+    <intFormedYear>1906</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4>UEFA Europa League</strLeague4>
+    <idLeague4>4481</idLeague4>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio José Alvalade</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://rr.sapo.pt/rssFeed.aspx?fid=45</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qwystx1424904856.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio José Alvalade is a football stadium in Lisbon, Portugal, home of Sporting Clube de Portugal, one of the country&#x27;s biggest clubs. Having replaced the former Estádio José Alvalade (1956), it is the center of a complex called Alvalade XXI (which includes a mall called Alvaláxia with a 12-screen movie theater, a health club, the club&#x27;s museum, a sports pavilion, a clinic, and an office building), designed by Portuguese architect Tomás Taveira. It was classified by UEFA as a 5-star stadium, enabling it to host finals of major UEFA events. This stadium – originally projected to hold only 40,000 spectators at any given time – has a capacity of 50,095 and was acoustically engineered as a venue for major concerts. The stadium has also a total of 1,315 underground parking spaces, including 30 for disabled spectators. Its official opening was on 6 August 2003 when Sporting played and beat Manchester United 3–1. It also hosted the 2005 UEFA Cup Final between Sporting and CSKA Moscow, which CSKA Moscow won 3–1. On the exterior, the stadium features multi-coloured tiles. Seats are also arranged in a random-looking colour mix.
+
+The stadium hosted five matches of UEFA Euro 2004, one of them being the semi-final between Portugal and the Netherlands, which Portugal won 2–1. This match won the title of Best Organized in the whole competition.
+
+The complex, officially known as Alvalade XXI, cost a total of €162 million, with the stadium accounting with almost €121 million and was built adjacent to the site of the now demolished Estádio José Alvalade (1956).
+
+After years of coping with a poor playing surface, the Sporting board initially decided to install synthetic turf for the 2011-12 season, but this decision was later abandoned for the use of artificial lighting by Stadium Grow Lighting.
+
+This stadium was also featured in a Travel and Living Channel culinary-themed show called World Cafe, guided by Bobby Chinn, when they were travelling in Lisbon. They cooked a traditional Portuguese sweet dish right in the middle of the pitch.</strStadiumDescription>
+    <strStadiumLocation>Lisboa, Portugal</strStadiumLocation>
+    <intStadiumCapacity>50049</intStadiumCapacity>
+    <strWebsite>www.sporting.pt</strWebsite>
+    <strFacebook>www.facebook.com/SportingClubePortugal</strFacebook>
+    <strTwitter>twitter.com/sporting_cp</strTwitter>
+    <strInstagram>instagram.com/sportingclubedeportugal</strInstagram>
+    <strDescriptionEN>Sporting Clube de Portugal, also referred to as Sporting or Sporting CP is a Portuguese multi-sports club based in Portugal&#x27;s capital city of Lisbon. Although they compete in a number of different sports, Sporting is best known for its association football team.
+
+Founded in Lisbon on 1 July 1906, it is one of the &quot;Três Grandes&quot; (The Big Three) football clubs in Portugal. With more than 100,000 registered club members, its teams, athletes and supporters are often nicknamed Leões (English: The Lions) by its fans.
+
+Sporting was one of the founding members of the Primeira Liga in 1934 and, together with Benfica and Porto, it has never been relegated from the First Division of Portuguese football. Sporting is the third most successful Portuguese football club with 44 titles in Portuguese domestic competitions and one International title.
+
+In domestic football, Sporting have won a total of 18 Primeira Liga titles, 15 Portuguese Cups, 4 Championship of Portugal titles (a record tied with Porto) and 7 Portuguese SuperCup titles. Internationally, Sporting won the 1963–64 European Cup Winners&#x27; Cup and were runners-up in the 2004–05 UEFA Cup.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT>Sporting Clube de Portugal, (AFI: [spɔɾtĩɡ klub(ɨ) dɨ puɾtuɡaɫ]) ComC • MHIH • OB2 3 , também conhecido como Sporting ou Sporting CP, é um clube multidesportivo com sede em Lisboa no Complexo Alvalade XXI.
+
+Apesar de competir em vários desportos, o Sporting é sobretudo conhecido pela sua equipa de futebol. Fundado em Lisboa em 1 de julho de 1906, é historicamente um grande no futebol em Portugal.
+
+Com mais de cem e vinte mil sócios registados,4 as suas equipas, atletas e simpatizantes são muitas vezes apelidados de Leões pelos seus fãs, mais de três milhões e seiscentos mil em todos os continentes.5
+
+Durante o primeiro século de existência do clube, as equipas e os atletas do Sporting ganharam três medalhas de ouro olímpicas, e outras de prata, bem como títulos nacionais e distritais.6
+
+Durante o período de fundação, José Alvalade tinha o desejo de transformar o Sporting num &quot;grande clube, tão grande como os maiores da Europa&quot;. No desejo de abrir caminho numa altura em que o desporto em Portugal, era ainda uma actividade no seu estágio de desenvolvimento e de características muito elitistas, os primeiros &quot;sportinguistas&quot; conseguiram fundar aquele que se tornou no Sporting Clube de Portugal.</strDescriptionPT>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/svxpsx1471876338.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/vusvuv1474198329.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/ywtwux1420411904.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/xsqqyu1420404341.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/wysvwv1421075212.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/utwurx1454078100.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/vwuqxy1454078261.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/yqyrup1420404936.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/SportingCP</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>135502</idTeam>
+    <idSoccerXML>1304</idSoccerXML>
+    <idAPIfootball>218</idAPIfootball>
+    <intLoved/>
+    <strTeam>Tondela</strTeam>
+    <strTeamShort/>
+    <strAlternate></strAlternate>
+    <intFormedYear>1939</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Portuguese Primeira Liga</strLeague>
+    <idLeague>4344</idLeague>
+    <strLeague2>Taca de Portugal</strLeague2>
+    <idLeague2>4510</idLeague2>
+    <strLeague3>Taca de Liga</strLeague3>
+    <idLeague3>4509</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estádio João Cardoso</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/fwknkp1527522596.jpg</strStadiumThumb>
+    <strStadiumDescription>Estádio João Cardoso is a football stadium in Tondela, Portugal, with a capacity for 5,000 spectators. It is the home stadium of C.D. Tondela, currently playing in the Portuguese Primeira Liga.
+
+The stadium, built in 2008, initially held a capacity of 2,674 spectators but following Tondela&#x27;s promotion to the top division in 2015, the club upgraded the facility by building two new stands, bringing the capacity up to 5,000. The newly expanded stadium was inaugurated on 13th December 2015.</strStadiumDescription>
+    <strStadiumLocation>Tondela, Portugal</strStadiumLocation>
+    <intStadiumCapacity>5000</intStadiumCapacity>
+    <strWebsite></strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Clube Desportivo de Tondela is a Portuguese professional football club which plays in Primeira Liga. They are based in the town of Tondela, located in Viseu District, and play in the Estádio João Cardoso. Founded in 1933 the club predominantly played within Portugal&#x27;s regional leagues.
+On 6 June 1933, Clube Desportivo de Tondela was founded through a merger of two clubs in the village of Tondela: the Tondela Football Club, founded in 1925, and the Operário Atlético Clube, founded in 1932.
+Clube Desportivo de Tondela adopt the colors green and yellow of the city. Its home strip has been a yellow shirt, with multiple green stripes, black shorts and yellow socks.
+Tondela has an organized group of supporters (claque, in Portugal) named Febre Amarela (Yellow Fever) founded in 2009.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Portugal</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/yvyptv1450642524.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/quxuuw1474198336.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/vnp1ru1530024461.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/67twnd1527522378.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/bz7u621527522637.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/pbw1621527522512.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/no9xb81527522547.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/9hxto91527522810.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+</root>

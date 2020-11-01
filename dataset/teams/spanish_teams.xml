@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <team>
+    <idTeam>134221</idTeam>
+    <idSoccerXML>676</idSoccerXML>
+    <idAPIfootball>542</idAPIfootball>
+    <intLoved/>
+    <strTeam>Alaves</strTeam>
+    <strTeamShort/>
+    <strAlternate>Deportivo Alavés</strAlternate>
+    <intFormedYear>1921</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Mendizorroza</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>https://www.deportivoalaves.com/rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vwtxsr1472387761.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio Mendizorrotza is a football stadium in Vitoria-Gasteiz, Spain. The stadium is the home ground of Deportivo Alavés.
+
+Opened on 27 April 1924, it is currently the third oldest football stadium in the Spanish Professional Football, behind El Molinón and Mestalla.
+
+During its history, the stadium had several renovations. The most important one was the expansion made in 1999, making new stands in the corners for increasing the capacity of the stadium to the current 19,840 seats.</strStadiumDescription>
+    <strStadiumLocation>Vitoria</strStadiumLocation>
+    <intStadiumCapacity>19840</intStadiumCapacity>
+    <strWebsite>www.alaves.com</strWebsite>
+    <strFacebook>www.facebook.com/deportivoalaves</strFacebook>
+    <strTwitter>twitter.com/alaves</strTwitter>
+    <strInstagram>instagram.com/deportivoalaves</strInstagram>
+    <strDescriptionEN>Deportivo Alavés, S.A.D., usually abbreviated to Alavés, is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. Founded on January 23rd, 1921 as Sport Friends Club, it plays in the highest football category of The Liga Nacional de Fútbol Profesional, La Liga, since the 2016–17 season.
+
+It is recognized as the least successful team in the Basque Country following Athletic Club of Bilbao and Real Sociedad de Futbol of San Sebastián. Its biggest success was in 2001 when, in the year of its debut in European competition, it was one of the finalists in the 2001 UEFA Cup Final against Liverpool, being defeated 5–4 by golden goal. In 2017, the club reached the final of the Copa del Rey, losing out 3–1 to Barcelona.
+
+The team&#x27;s home kit is blue and white-striped shirt, blue shorts and white socks. It holds home matches at the 19,800-seater Mendizorrotza Stadium and uses other facilities located in Ibaia dedicated to training.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Deportivo Alavés, S.A.D es un club de fútbol español con sede en la ciudad de Vitoria. Fue fundado en el año 1921 y actualmente juega en la Segunda División de España. Su mayor éxito deportivo tuvo lugar en 2001, cuando, en el año de su debut en competición europea, fue finalista de la Copa de la UEFA ante el Liverpool FC, siendo derrotado por gol de oro (5-4).</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/prle2v1596049676.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134221-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/bryb7j1596049688.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wrpsts1472387855.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xyuqvr1472388029.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xqwuyy1472388289.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/fp357p1527863440.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/3axoi21504718301.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/deportivoalaves1921</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133727</idTeam>
+    <idSoccerXML>143</idSoccerXML>
+    <idAPIfootball>531</idAPIfootball>
+    <intLoved/>
+    <strTeam>Ath Bilbao</strTeam>
+    <strTeamShort/>
+    <strAlternate>Athletic Bilbao, Athletic Club</strAlternate>
+    <intFormedYear>1898</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>San Mamés</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rsppwx1423700155.jpg</strStadiumThumb>
+    <strStadiumDescription>San Mamés (also known as Nuevo San Mamés or San Mames Barria) is an all-seater football stadium in Bilbao, Basque Country, Spain. Inaugurated on 16 September 2013, the stadium replaced the &quot;old&quot; San Mamés as the home of Athletic Bilbao.</strStadiumDescription>
+    <strStadiumLocation>Bilbao, Vizcaya</strStadiumLocation>
+    <intStadiumCapacity>53289</intStadiumCapacity>
+    <strWebsite>www.athletic-club.eus</strWebsite>
+    <strFacebook>www.facebook.com/athleticclub</strFacebook>
+    <strTwitter>www.twitter.com/AthleticClub</strTwitter>
+    <strInstagram>instagram.com/athleticclub?ref=badge</strInstagram>
+    <strDescriptionEN>Athletic Club (Basque: Athletic Kluba), also commonly known as Athletic Bilbao (Basque: Bilboko Athletic Kluba / Spanish: Athletic de Bilbao), is a professional football club, based in Bilbao, Basque Country, Spain.
+
+They are known as Los Leones (The Lions) because their stadium was built near a church called San Mamés (Saint Mammes). Mammes was a semi-legendary early Christian thrown to the lions by the Romans. Mammes pacified the lions and was later made a saint.
+
+The club is one of three founding members of the Primera División that have never been relegated from the top division, the others being Real Madrid and Barcelona. Athletic have won La Liga on eight occasions, fourth most in the history of the league. In the table of Copa del Rey titles, Athletic is second only to Barcelona, having won it 24 times (per the team&#x27;s official records; the Royal Spanish Football Federation (RFEF) recognizes 23 victories). The club also has one of the most successful women&#x27;s teams in Spain, which has won five championships in the Primera División Femenina.
+
+The club is known for its cantera policy of bringing young Basque players through the ranks, as well as recruiting top Basque players from other clubs (like Joseba Etxeberria and Javi Martínez). Athletic&#x27;s official policy is signing professional players native to or trained in football in the greater Basque Country, including Biscay, Gipuzkoa, Álava and Navarre (in Spain); and Labourd, Soule and Lower Navarre (in France). Since its foundation, Athletic has played exclusively with players meeting the criteria to be deemed as Basque players, and has been one of the most successful teams of La Liga. This can be seen as a unique case in European football; it has gained Athletic both admirers and critics. The club has been praised for promoting home grown players and club loyalty. Athletic is one of only three professional clubs in Spain in La Liga (the others being Real Madrid, and Barcelona) that is not a sports corporation; it is owned and operated by its club members.
+
+Athletic&#x27;s main rivals are Real Sociedad, against whom it plays the Basque derby, and Real Madrid, due to sport and political rivalry.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Athletic Club es un club de fútbol de la villa de Bilbao, País Vasco, España. Fue fundado en 1898 y es, junto al Real Madrid Club de Fútbol y al Fútbol Club Barcelona, el único club que ha disputado todas las ediciones de la Primera División de España desde su creación en 1928. A su vez, es uno de los cuatro únicos clubes profesionales de España que no es una sociedad anónima deportiva, de manera que la propiedad del club recae en sus socios.7 8 Se lo conoce ampliamente como Athletic de Bilbao, y en algunas ocasiones con el nombre de la ciudad, Bilbao, o incluso como Atlético de Bilbao.9 10 Estos dos últimos términos resultan molestos para gran parte de los aficionados del club, ya que el primero no tiene ninguna relación con el nombre real del club, y el segundo porque fue el nombre impuesto al club durante la dictadura franquista.
+
+Una de las particularidades más representativas y originales del club vasco es su tradición de jugar únicamente con jugadores nacidos o formados futbolísticamente en Euskal Herria, tradición que ha mantenido casi desde sus inicios.1 También es reconocido históricamente por ser un club de cantera y trabajar en la formación de jóvenes futbolistas, por tanto, esta es la principal fuente de abastecimiento de jugadores para el primer equipo.11
+
+La práctica totalidad de sus logros se ha conseguido en las competiciones nacionales, donde está considerado un club histórico dentro del fútbol español.12 Buena parte de su prestigio lo ha conseguido en la Copa del Rey, que ha conquistado en veinticuatro ocasiones.13 A fecha de 2014, es el segundo equipo español con más campeonatos de Copa, con dos títulos menos que el Fútbol Club Barcelona y con cinco más que el tercero, el Real Madrid.14
+
+Se ha proclamado campeón de la liga española en ocho ocasiones y es el cuarto club en España con más estandartes en esta competición tras Real Madrid, Barcelona y Atlético de Madrid.15 Al término de la temporada 2013/14, ocupa el quinto lugar en la clasificación histórica de la Primera División, habiendo sido tercero hasta la temporada 2009/10, momento en el cual fue superado por el Valencia C. F., y cuarto hasta la 2013/14, siendo superado en este caso por el Atlético de Madrid. Asimismo, ostenta el récord de mayor goleada en la historia de la liga, al haber vencido al F. C. Barcelona por 12-1 en la temporada 1930/31.
+
+Los mayores logros continentales del club vizcaíno han sido, hasta 2014, dos subcampeonatos de la UEFA Europa League conseguidos en las temporadas 1976/77 y 2011/12.16 La mayor goleada del Athletic en competición continental fue un 1-7 al Standard de Lieja, en la temporada 2004/05.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/1gs1c31549394822.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133727-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/j8s4fv1527934684.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qysput1420368007.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/joqevn1503250501.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xwpsss1424275128.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/tvuqps1433200595.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/hk0zvx1503237261.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/TVAthleticClub</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133729</idTeam>
+    <idSoccerXML>145</idSoccerXML>
+    <idAPIfootball>530</idAPIfootball>
+    <intLoved/>
+    <strTeam>Ath Madrid</strTeam>
+    <strTeamShort/>
+    <strAlternate>Atlético de Madrid, Atletico Madrid</strAlternate>
+    <intFormedYear>1903</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4>Supercopa de Espana</strLeague4>
+    <idLeague4>4511</idLeague4>
+    <strLeague5>International Champions Cup</strLeague5>
+    <idLeague5>4505</idLeague5>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Wanda Metropolitano</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/udesza1505653711.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio Wanda Metropolitano, formerly known as Estadio de la Comunidad de Madrid, Estadio Olímpico de Madrid, and more commonly with its nickname Estadio de La Peineta, is a stadium in Madrid, Spain. It will be the new home stadium of Atlético Madrid from the beginning of the 2017-18 season. It is located in Rosas neighborhood at San Blas-Canillejas district. It was opened on 6 September 1994 by the Community of Madrid. The stadium had a capacity of 20,000 spectators upon its closure and will re-open with a seating capacity for 68,000. It was designated as the Estadio de la Comunidad, and later as the Estadio Olímpico de Madrid.</strStadiumDescription>
+    <strStadiumLocation>Madrid</strStadiumLocation>
+    <intStadiumCapacity>67703</intStadiumCapacity>
+    <strWebsite>www.atleticodemadrid.com</strWebsite>
+    <strFacebook>www.facebook.com/AtleticodeMadrid/</strFacebook>
+    <strTwitter>www.twitter.com/atleti</strTwitter>
+    <strInstagram>www.instagram.com/atleticodemadrid</strInstagram>
+    <strDescriptionEN>Club Atlético de Madrid (meaning &quot;Athletic Club of Madrid&quot;), commonly referred to as Atlético de Madrid or simply as Atlético or Atleti, is a Spanish professional football club based in Madrid, that play in La Liga. The club play their home games at the Metropolitano Stadium, which has a capacity of 68,456.
+
+In terms of league titles won, Atlético Madrid are the third most successful club in Spanish football – behind Real Madrid and Barcelona. Atlético have won La Liga on 10 occasions, including a league and cup double in 1996; the Copa del Rey on 10 occasions; two Supercopas de España and one Copa Eva Duarte; in Europe, they won the European Cup Winners&#x27; Cup in 1962, were runners-up in 1963 and 1986, were Champions League runners-up in 1974, 2014 and 2016, won the Europa League in 2010, 2012 and 2018, and won the UEFA Super Cup in 2010, 2012 and 2018 as well as the 1974 Intercontinental Cup.
+
+Atlético&#x27;s home kit is red and white vertical striped shirts, with blue shorts, and blue and red socks. This combination has been used since 1911. Throughout their history the club has been known by a number of nicknames, including Los Colchoneros (&quot;The Mattress Makers&quot;), due to their first team stripes being the same colours as traditional mattresses. During the 1970s, they became known as Los Indios, which some attribute to the club&#x27;s signing several South American players after the restrictions on signing foreign players were lifted. However, there are a number of alternative theories which claim they were named so because their stadium is &quot;camped&quot; on the river bank, or because Los Indios (The Indians) were the traditional enemy of Los Blancos (The Whites), which is the nickname of the club&#x27;s city rivals, Real Madrid. Felipe VI, the king of Spain, has been the honorary president of the club since 2003.
+
+The club co-owned the Indian Super League franchise in Kolkata, formerly named Atlético de Kolkata, which won the competition twice, but in 2017 Atlético decided to end its franchise partnership with the ISL club due to broken commitments. Atlético also co-owns Liga MX club Atlético San Luis, and the Canadian Premier League side Atlético Ottawa, and technical support and Partnership with ISL club Jamshedpur FC and its academy.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Club Atlético de Madrid es un club de fútbol ubicado en la ciudad de Madrid, fundado el 26 de abril de 1903 como Athletic Club de Madrid. Tiene sede en el Estadio Vicente Calderón (Paseo Virgen del Puerto 67) y compite en la Primera División de España
+
+Es el cuarto club español con más títulos oficiales de fútbol, habiendo logrado siete títulos internacionales (una Copa Intercontinental, una Recopa de Europa, dos Ligas Europeas de la UEFA, dos Supercopas de Europa y una Intertoto) y veinticinco nacionales (diez Ligas, diez Copas del Rey y dos Supercopas de España, junto a tres títulos antecesores de esta última).3 Tras ganar la Liga 2013/14 se encuentra situado en la cuarta posición de la clasificación histórica de la Primera División Española.4 Actualmente el Atlético es el supercampeón de España, tras derrotar al Real Madrid en la final de la Supercopa 2014.
+
+Fundado en 1903 como club deportivo, mantuvo dicha estructura hasta que la legislación española obligó a su transformación como sociedad anónima deportiva en 1992.5
+
+Dirigido desde diciembre de 2011 por el exjugador argentino Diego Simeone, el Atlético de Madrid disputó el 24 de mayo de 2014 en Lisboa su segunda final de la Liga de Campeones de la UEFA.6
+
+Desde 2003 es presidente de honor del club Felipe VI, actual rey de España.7 El presidente de la entidad, también desde 2003, es el productor cinematográfico Enrique Cerezo.1
+
+Desde 1911, en que comenzó a vestir camiseta rojiblanca,8 el rojo y el blanco son los colores que identifican al club. La disposición de estos colores en las camisetas les valió el apodo de &quot;colchoneros&quot;.9
+
+Aunque ha tenido secciones en otras modalidades deportivas, su actividad principal ha sido y es el fútbol, deporte en el que el primer equipo de la entidad compite en la Liga Española de Primera División.10 En la actualidad, y además de equipos en diferentes categorías de fútbol base, cuenta con un equipo femenino, el Club Atlético de Madrid Féminas y tan solo con una sección de otra modalidad deportiva: la de rugby.11
+
+Disputa sus encuentros como local desde 1966 en el Estadio Vicente Calderón, recinto ubicado en el distrito madrileño de Arganzuela, con una capacidad de 54 907 espectadores.12 En la actualidad está en construcción un nuevo estadio con capacidad para 72 000 espectadores, en el que jugará sus partidos a partir de 2016.13 14
+
+El Atlético de Madrid cuenta con más de 75.000 socios15 y más de 726 peñas repartidas por todo el mundo, de las cuales 688 son españolas, siendo el tercer equipo del país al respecto.16 Según la encuesta realizada por el CIS en junio de 2014, el Atlético de Madrid es el tercer club de fútbol en porcentaje en cuanto a simpatizantes en España (6,1 %), situándose únicamente por detrás de Real Madrid CF (37,9 %) y FC Barcelona (25,4 %).17
+
+De cara a promocionar la &quot;marca Atlético de Madrid&quot;, ha establecido diversas alianzas estratégicas con clubes de fútbol de varios países, bajo el epígrafe A Team for the World.18
+
+Disputa cada año el derbi madrileño ante el Real Madrid, equipo de la misma ciudad con el cual mantiene una gran rivalidad histórica.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/big56a1490135063.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133729-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/5h4t851549640309.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qwpxxy1420327141.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/bngp3v1505653922.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/xrstrr1424111042.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/yyvrsw1424123851.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/1224hc1549640368.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/clubatleticodemadrid</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133739</idTeam>
+    <idSoccerXML>155</idSoccerXML>
+    <idAPIfootball>529</idAPIfootball>
+    <intLoved>8</intLoved>
+    <strTeam>Barcelona</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Barcelona</strAlternate>
+    <intFormedYear>1899</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4>Supercopa de Espana</strLeague4>
+    <idLeague4>4511</idLeague4>
+    <strLeague5>Club Friendlies</strLeague5>
+    <idLeague5>4569</idLeague5>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Camp Nou</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rsvstp1420328111.jpg</strStadiumThumb>
+    <strStadiumDescription>Camp Nou (&quot;new field&quot;, often incorrectly referred to as the &quot;Nou Camp&quot; in English) is the home stadium of FC Barcelona since its completion in 1957.
+
+With a seating capacity of 99,354, it is the largest stadium in Spain and Europe, and the second largest association football stadium in the world in terms of capacity. It has hosted two European Cup/Champions League finals in 1989 and 1999, five matches including the opening game of the 1982 FIFA World Cup and the football competition final at the 1992 Summer Olympics.</strStadiumDescription>
+    <strStadiumLocation>Barcelona</strStadiumLocation>
+    <intStadiumCapacity>99354</intStadiumCapacity>
+    <strWebsite>www.fcbarcelona.com</strWebsite>
+    <strFacebook>www.facebook.com/fcbarcelona</strFacebook>
+    <strTwitter>twitter.com/fcbarcelona</strTwitter>
+    <strInstagram>instagram.com/fcbarcelona</strInstagram>
+    <strDescriptionEN>Futbol Club Barcelona, also known as Barcelona and familiarly as Barça, is a professional football club, based in Barcelona, Catalonia, Spain.
+
+Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto &quot;Més que un club&quot; (More than a club). Unlike many other football clubs, the supporters own and operate Barcelona. It is the second most valuable sports team in the world, worth $3.2 billion, and the world&#x27;s second-richest football club in terms of revenue, with an annual turnover of $613 million. The official Barcelona anthem is the &quot;Cant del Barça&quot;, written by Jaume Picas and Josep Maria Espinàs.
+
+Barcelona is the joint most successful club in Spain, in terms of overall official titles won (80). It has won 22 La Liga, 26 Copa del Rey, 11 Supercopa de España, 2 Copa Eva Duarte and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions. In international club football, Barcelona has won four UEFA Champions League, a record four UEFA Cup Winners&#x27; Cup, four UEFA Super Cup, a record three Inter-Cities Fairs Cup and a record two FIFA Club World Cup trophies. Barcelona was ranked first in the IFFHS Club World Ranking for 1997, 2009, 2011 and 2012 and currently occupies the second position on the UEFA club rankings. The club has a long-standing rivalry with Real Madrid; matches between the two teams are referred to as &quot;El Clásico&quot;.
+
+Barcelona is one of the most supported teams in the world, and has the largest social media following in the world among sports teams. Barcelona&#x27;s players have won a record number of Ballon d&#x27;Or awards (10), as well as a record number of FIFA World Player of the Year awards (7). In 2010, the club created history when three players who came through its youth academy (Messi, Iniesta &amp; Xavi) were chosen as the three best players in the world, having bagged the top spots at the FIFA Ballon d&#x27;Or, an unprecedented feat for players from the same football school.
+
+Barcelona was one of the founding members of La Liga, and is one of three clubs which have never been relegated from the top division, along with Athletic Bilbao and Real Madrid. In 2009, Barcelona became the first Spanish club to win the continental treble consisting of La Liga, Copa del Rey, and the Champions League. That same year, it also became the first football club ever to win six out of six competitions in a single year, thus completing the sextuple, comprising the aforementioned treble and the Spanish Super Cup, UEFA Super Cup and FIFA Club World Cup. In 2011, the Blaugrana again became European champions and won a total of five titles, missing out only on the Copa del Rey (in which they finished runners-up). This Barcelona team, which reached a record six consecutive Champions League semi-finals and won 14 trophies in just four years under Guardiola&#x27;s charge, is considered by some managers, players and experts to be the greatest team of all time.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Fútbol Club Barcelona es una entidad polideportiva de Barcelona (España). Fue fundado como club de fútbol el 29 de noviembre de 1899 por doce jóvenes futbolistas aficionados, liderados por el suizo Hans Gamper. El F. C. Barcelona es conocido popularmente como Barça (abreviación de la pronunciación de Barcelona en catalán central) y sus hinchas como culés6 (pronunciación del catalán culers); también, y en referencia a sus colores, se utiliza el término azulgranas, que procede del catalán blaugranes, tal como aparece en su himno, el Cant del Barça, donde en su segunda línea se dice «Som la gent blaugrana» (en castellano, &quot;Somos la gente azulgrana&quot;). A nivel institucional, el Fútbol Club Barcelona denomina a sus aficionados como barcelonistas y tiene a su servicio, para atender a socios, simpatizantes y público en general, la OAB, sigla que significa Oficina de Atención al Barcelonista, donde quien lo solicita es atendido en los idiomas oficiales del club, que son el catalán, el castellano y el inglés.
+
+Otro de sus hechos distintivos es su masa social de socios y aficionados. El club alcanzó en 2011 los 180 000 socios,15 16 lo que lo convierte en el segundo club de fútbol con más asociados del mundo (el primero es el SL Benfica), seguido por el Manchester United.17 Existen, además, más de 1200 peñas barcelonistas repartidas por todo el mundo. Cabe anotar que el F. C. Barcelona es uno de los cuatro únicos clubes profesionales de España (junto a Real Madrid, Athletic Club y Osasuna) que no es sociedad anónima, de manera que la propiedad del club recae en sus socios.
+
+Es uno de los equipos más populares de su país –el segundo con la mayor cantidad de aficionados en España con el 25,7 % del total de simpatizantes al fútbol de acuerdo con un estudio realizado en el mes de mayo de 2007 por el Centro de Investigaciones Sociológicas (CIS) y del mundo. Es el equipo con más títulos nacionales de España, y en Europa,21 22 contando en sus vitrinas a nivel nacional con 22 Ligas, 26 Copas, 2 Copas de la Liga, 11 Supercopas y 3 Copas Eva Duarte y a nivel internacional con 2 Copa Mundial de Clubes, 4 Copas de Europa, 4 Recopas de Europa, 3 Copa de Ferias y 4 Supercopas de Europa. El F. C. Barcelona ha ganado 81 títulos oficiales, lo cual le convierte en el equipo con más títulos en España. Sus dos rivales históricos son el RCD Español, contra el que disputa el derbi catalán, y el Real Madrid, con quien se enfrenta en «El Clásico», siendo este uno de los encuentros de mayor rivalidad e interés del fútbol mundial.
+
+Según las estadísticas que realiza el IFFHS, el F. C. Barcelona es el mejor equipo de fútbol europeo y mundial de la primera década del siglo XXI. Con fecha a 31 de diciembre del 2009, el F. C. Barcelona lidera con 807 puntos la clasificación histórica del ranking mundial de clubes que realizaba hasta finales de 2009 la IFFHS, con una diferencia de 81 puntos sobre el segundo en el ranking (Manchester United).28 Cabe destacar también que según la clasificación anual de clubes que realiza la IFFHS, en 1997, 2009 y 2011 fue designado como el mejor equipo del fútbol mundial, siendo también el club que más veces ha encabezado dicha clasificación. Es además el equipo de fútbol que más veces ha figurado en los podios del FIFA World Player (15) y del Balón de Oro (20).32
+
+En 2009 el club ganó todas las competiciones que disputó (Liga, Copa, Supercopa de España, Liga de Campeones, Supercopa de Europa y Copa Mundial de Clubes), pasando a la historia por ser el primer equipo del mundo en lograr un «sextete», al ganar seis títulos oficiales en un mismo año.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xqwpup1473502878.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133739-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/vsqdh71536400613.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/swqxry1424485326.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/wrxvsw1433680782.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/yrustw1424184467.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/yvqprv1424485475.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/h3sewn1557002132.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/fcbarcelona</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133722</idTeam>
+    <idSoccerXML>138</idSoccerXML>
+    <idAPIfootball>543</idAPIfootball>
+    <intLoved>2</intLoved>
+    <strTeam>Betis</strTeam>
+    <strTeamShort/>
+    <strAlternate>Real Betis Balompié, Real Betis</strAlternate>
+    <intFormedYear>1907</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Benito Villamarín</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rux78l1503235737.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio Benito Villamarín  is a football stadium in Seville, Spain. It is the home stadium of Real Betis. Opened in 1929, the stadium has a capacity of 60,720 seats.
+
+Between 1979 and 1982, the capacity of the stadium was increased up to 50,253 for the 1982 FIFA World Cup when it hosted 2 group matches.
+
+In July 2016, the southern stand of the stadium was demolished for expansion. After re-modelization, the total capacity of the stadium will increase from 52,000 to 60,720 seats. It is expected to complete the reconstruction process in August 2017.</strStadiumDescription>
+    <strStadiumLocation>Sevilla</strStadiumLocation>
+    <intStadiumCapacity>60720</intStadiumCapacity>
+    <strWebsite>www.realbetisbalompie.es</strWebsite>
+    <strFacebook>www.facebook.com/realbetisbalompie/</strFacebook>
+    <strTwitter>twitter.com/RealBetis</strTwitter>
+    <strInstagram>www.instagram.com/realbetisbalompie</strInstagram>
+    <strDescriptionEN>Real Betis Balompié, SAD, more commonly referred to as Real Betis is a Spanish football club based in Seville, in the autonomous community of Andalusia. Founded on 12 September 1907, it currently plays in the La Liga Segunda Division, having been relegated from the Primera Division in the 2013-14 season. It holds home games at Estadio Benito Villamarín in the south of the city.
+
+Among other titles, the club – which in 1932 became the first Andalusian team to play in La Liga – won the Primera División in 1935 and the Copa del Rey in 1977 and 2005.
+
+Both the King of Spain Juan Carlos I and his son Prince Felipe de Borbon are honorary members of the club. Maintaining an historic city rivalry with Sevilla FC, its motto is Viva el Betis manque pierda! (&quot;Long live Betis even when they lose!&quot;).</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Real Betis Balompié, también conocido como Real Betis o simplemente Betis, es un club de fútbol de la ciudad de Sevilla, fundado en el año 1907. Milita en la Segunda División de España. Sus máximos galardones son un título de Liga y dos Copas del Rey.
+
+Además de los títulos anteriormente mencionados ha obtenido también 2 subcampeonatos de Copa del Rey, 1 subcampeonato de la Supercopa de España y 1 subcampeonato de la Copa de la Liga, 2 Campeonato de Andalucía y 14 subcampeonatos y 5 campeonatos de Sevilla. Fue el cuarto equipo en ganar la Liga Española (1934/35), y el séptimo en conseguir los dos títulos más importantes del país (la Liga y la Copa del Rey) en 1935 y 1977 respectivamente. También ha realizado la mejor campaña de un equipo andaluz en primera división en número de puntos y goles a favor (77 puntos y 81 goles, temporada 96/97. 79% del total de los puntos obtenidos, temporada 34/35).
+
+Logró el vigésimo puesto en el TOP 25 de la clasificación de clubes del mundo de la IFFHS en 1995, 1997, y 2005.
+
+El Real Betis Balompié es uno de los seis equipos con mayor seguimiento en España según los resultados del barómetro de junio de 2014 del CIS, en el que un 3,4% de los entrevistados reconoce ser seguidor del Club heliopolitano, situándolo de este modo entre los seis equipos que más hinchas acumulan en el territorio nacional, con escasa diferencia con respecto al Valencia CF (3,5%) y el Athletic Club (3,6%), y triplicando el número de simpatizantes evaluado por el CIS respecto al otro equipo de la capital hispalense (1,1%). Igualmente, según el barómetro del CIS el Real Betis Balompié es el segundo equipo de muchos españoles, ocupando la cuarta posición respecto a la simpatía sentida hacia algún otro equipo además del principal.
+
+Tiene 513 peñas.
+
+Disputa el derbi sevillano contra el Sevilla FC, club con el cual mantiene una gran rivalidad histórica.
+
+Tanto el antiguo Rey de España Don Juan Carlos I como su hijo el actual Rey de España Don Felipe VI son socios honoríficos del Real Betis.
+
+Josep Maria Fusté y Juanito Gutiérrez fueron ambos campeones de la Eurocopa con el Real Betis en 1964 y 2008, además de Nosa Igiebor que ha sido campeón de la Copa Africana de Naciones en 2013.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rrxvww1473502887.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133722-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/yuppsy1420368821.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/m4j2yl1503235901.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/n1n78x1503235984.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/jq0qcw1503236071.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/xwssxr1435602936.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/oow2ps1503236653.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/realbetisoficial</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134222</idTeam>
+    <idSoccerXML>677</idSoccerXML>
+    <idAPIfootball>724</idAPIfootball>
+    <intLoved/>
+    <strTeam>Cadiz</strTeam>
+    <strTeamShort/>
+    <strAlternate>Cádiz Club de Fútbol, Cádiz CF</strAlternate>
+    <intFormedYear>1910</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Ramón de Carranza</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/iwhkou1603878044.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio Ramón de Carranza is a football stadium in Cádiz, Spain. The stadium is the home ground of Cádiz CF. The stadium was originally inaugurated 3 September 1955. It has since then been completely rebuilt twice.</strStadiumDescription>
+    <strStadiumLocation>Cádiz, Spain</strStadiumLocation>
+    <intStadiumCapacity>25033</intStadiumCapacity>
+    <strWebsite>www.cadizcf.com</strWebsite>
+    <strFacebook>www.facebook.com/cadizclubdefutbol</strFacebook>
+    <strTwitter>twitter.com/cadiz_cf</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Elche Club de Fútbol, S.A.D. (Valencian: Elx Club de Futbol, S.A.D.), is a Spanish football team based in Elx, Province of Alacant, in the Valencian Community. Founded in 1923, the club plays in La Liga, holding home matches at Estadio Manuel Martínez Valero, with a capacity of 33,732 seats.
+
+Founded in 1923 as the result of a merger between all of the town&#x27;s clubs, Elche entered the league system in 1929, reaching Segunda División in 1934 and La Liga in 1959, finishing fifth in the latter tournament in 1963–64. It was runner-up in the Copa del Rey in 1969. They were relegated at the end of the 2014–15 season due to unpaid tax debts.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/wwqswt1474397580.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/9z600m1603711247.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/140fsn1603710169.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/t7xip51603878148.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/ml6du21603878154.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/6k47st1603878160.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/6brbhv1603878170.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/hved8l1603878338.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/cadizcf</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133937</idTeam>
+    <idSoccerXML>357</idSoccerXML>
+    <idAPIfootball>538</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Celta Vigo</strTeam>
+    <strTeamShort/>
+    <strAlternate>Celta de Vigo</strAlternate>
+    <intFormedYear>1923</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Balaídos</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uuuypu1423702185.jpg</strStadiumThumb>
+    <strStadiumDescription>The Estadio Municipal de Balaídos (Spanish pronunciation: ) is an all-seater stadium in Vigo, Spain. The stadium is the home ground of Celta de Vigo, and accommodates a total of 29,000 spectators.</strStadiumDescription>
+    <strStadiumLocation>Vigo</strStadiumLocation>
+    <intStadiumCapacity>29000</intStadiumCapacity>
+    <strWebsite>www.celtavigo.net</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Real Club Celta de Vigo, or simply Celta Vigo, is a Spanish professional football club based in Vigo, Galicia, currently playing in the Primera División. It was founded on 23 August 1923 following the merger of Real Vigo Sporting and Real Fortuna Foot-ball Club. Nicknamed Os Celestes (The Sky Blues), they play in sky blue shirts and white shorts. The club&#x27;s home stadium is Balaídos, which seats 31,800 spectators.
+
+Celta Vigo have played many seasons in La Liga, but they have never won it, they also never won any Copa del Rey. One of their best seasons was 1970–71, when they finished unbeaten at home and were known as the &quot;giant-killers.&quot; Celta came sixth that season and qualified for the UEFA Cup for the first time. More recently, the club finished in their best-ever position of fourth in 2002–03, qualifying for the 2003–04 UEFA Champions League, where they were eliminated by Arsenal.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Real Club Celta de Vigo S. A. D. es un club de fútbol que actualmente juega en la Primera División de España. Fue fundado en Vigo en 1923 a partir de la fusión del Vigo Sporting y el Real Fortuna. El club disputa sus partidos como local en el estadio de Balaídos, con capacidad para 29 000 espectadores e inaugurado en 1928. El Celta ocupa la duodécima plaza en la clasificación histórica de la LFP.
+
+Los colores del club son camiseta azul celeste, pantalón blanco y medias azul celeste, motivo por el cual el club es conocido popularmente como celestes. El escudo del Celta de Vigo no ha cambiado excesivamente desde su fundación en 1923. El escudo céltico original constaba de dos letras C (Club Celta) inscritos en un escudo medieval francés con la corona real heredada de sus predecesores. El club mantiene una histórica rivalidad con el Real Club Deportivo de La Coruña, con quien disputa el Derbi gallego.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rruxwu1473502896.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133937-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/hv3tbh1527935000.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vvvuqp1420373291.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/w6cole1514404573.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/mfwnyl1514404193.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/95o2ug1514404300.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rqwvvs1433200224.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134626</idTeam>
+    <idSoccerXML>1089</idSoccerXML>
+    <idAPIfootball>545</idAPIfootball>
+    <intLoved/>
+    <strTeam>Eibar</strTeam>
+    <strTeamShort/>
+    <strAlternate>Sociedad Deportiva Eibar, SD Eibar</strAlternate>
+    <intFormedYear>1940</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Ipurua Municipal Stadium</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.sdeibar.com/rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vtxpru1423702541.jpg</strStadiumThumb>
+    <strStadiumDescription>El Estadio Municipal de Ipurúa es el estadio de fútbol municipal de la ciudad guipuzcoana de Éibar (España). Está situado en el barrio de Ipurúa, junto al Convento de la Concepción y próximo al Polideportivo y es la sede social de la Sociedad Deportiva Éibar.</strStadiumDescription>
+    <strStadiumLocation>Éibar, Gipuzkoa</strStadiumLocation>
+    <intStadiumCapacity>0</intStadiumCapacity>
+    <strWebsite>www.sdeibar.com</strWebsite>
+    <strFacebook>www.facebook.com/sdeibar</strFacebook>
+    <strTwitter>twitter.com/sdeibar</strTwitter>
+    <strInstagram>instagram.com/sdeibar</strInstagram>
+    <strDescriptionEN>Sociedad Deportiva Eibar (in Basque: Eibar Kirol Elkartea) is a Spanish football club based in Eibar, Gipuzkoa, in the autonomous Basque Country.
+
+Founded on 30 November 1940, the team currently plays in La Liga having been promoted to the top tier of Spanish football for the first time in 2014. They also participated in 26 Segunda División seasons (a spell in the 1950s, and most of the 1990s and 2000s), spending the rest of their history competing at lower levels.
+
+The team plays in claret and blue shirts with blue shorts (originating from the kit of FC Barcelona) and holds home games at the Ipurua Municipal Stadium. SD Eibar is a fan-owned club, with about 8,000 shareholders from 48 countries. Until SD Huesca qualified for the top flight in 2018, the club was considered the smallest to have played in Spain&#x27;s top division, and its stadium had the lowest capacity of any La Liga teams. Although Eibar is the sole professional club of its town, it contests several Basque derbies with other clubs from the region.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>La Sociedad Deportiva Éibar-Eibar Kirol Elkartea es un club de fútbol español de la ciudad de Éibar en Guipúzcoa. Fue fundado en 1940 y juega la temporada 2014/2015 en la Primera División de España por primera vez en su historia.
+
+Es el equipo que más años consecutivos ha permanecido en la Segunda División, con un total de 18.
+
+Es el primer club de fútbol europeo que cuenta con el certificado de calidad UNE-EN-ISO 9001.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/ytrxqv1473502905.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134626-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/trsqyp1424539143.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vstrsw1424483431.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/86ifju1532077447.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/t7mcnl1532077521.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/wxwpuw1424483447.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/41o5821514459203.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/sdeibartv</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134384</idTeam>
+    <idSoccerXML>840</idSoccerXML>
+    <idAPIfootball>797</idAPIfootball>
+    <intLoved/>
+    <strTeam>Elche</strTeam>
+    <strTeamShort/>
+    <strAlternate>Elche</strAlternate>
+    <intFormedYear>1923</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Martínez Valero</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ywxypv1423700762.jpg</strStadiumThumb>
+    <strStadiumDescription>The Estadio Martínez Valero is a stadium located in the Spanish city of Elche in the province of Alicante, Valencian Community. It is the home stadium of Elche CF, a team that is currently playing in La Liga Segunda División. Its name pays tribute to the late president of the club, Manuel Martínez Valero. It hosted the largest rout in the finals of a World Cup and hosted the final of the Copa del Rey in 2003. The Spanish football team has played several friendly matches and competitive qualifiers there.</strStadiumDescription>
+    <strStadiumLocation>Elche, Alicante</strStadiumLocation>
+    <intStadiumCapacity>36017</intStadiumCapacity>
+    <strWebsite>www.elchecf.es</strWebsite>
+    <strFacebook>www.facebook.com/elchecf</strFacebook>
+    <strTwitter>twitter.com/elchecfoficial</strTwitter>
+    <strInstagram>instagram.com/elchecfoficial</strInstagram>
+    <strDescriptionEN>Elche Club de Fútbol, S.A.D. (Valencian: Elx Club de Futbol, S.A.D.), is a Spanish football team based in Elche, Province of Alicante, in the Valencian Community. Founded in 1923 it currently plays in La Liga, holding home matches at Estadio Manuel Martínez Valero, with a capacity of 36,017 seats.
+
+Founded in 1923 as the result of a merger between all of the town&#x27;s clubs, Elche entered the league system in 1929, reaching Segunda División in 1934 and La Liga in 1959, finishing fifth in the latter tournament in 1963–64. It was runner-up in the Copa del Rey in 1969.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Elche Club de Fútbol es un club de fútbol español, constituido como SAD, con sede social en la ciudad de Elche, Comunidad Valenciana. En la actualidad compite en la Liga BBVA.
+
+Fue fundado en 1922, con la unión de varios clubes de la ciudad, entre ellos el Illice, el Sporting y el Gimnástica de Elche. En la temporada 1958-59 logra su primer ascenso a 1.ª División, manteniéndose en esta categoría durante doce temporadas consecutivas. Su mayor éxito lo consigue en la temporada 1968-69 cuando accede a la final de la Copa del Generalísimo, (actual Copa del Rey), proclamándose subcampeón contra el Athletic Club.
+
+Actualmente el club se ubica en la vigésimo cuarta posición de la clasificación histórica de primera división, siendo el tercero mejor clasificado de la Comunidad Valenciana por detrás del Valencia CF, y el Villarreal Club de Fútbol. Uno de los equipos rivales del Elche C.F por historia es el Hércules Club de Fútbol, equipo de la ciudad vecina de Alicante (ambos clubes mantienen su rivalidad desde sus inicios ya que representan a las 2 principales ciudades de la Provincia de Alicante ). El otro equipo con el que también mantiene rivalidad, aunque menor, es el Real Murcia Club de Fútbol, principal equipo histórico de la cercana Región de Murcia.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/ttsqsp1473503747.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/qwrtut1423791630.png</strTeamJersey>
+    <strTeamLogo/>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qwvsrw1424185898.jpg</strTeamFanart1>
+    <strTeamFanart2/>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/sqsvry1424185912.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/yrrvrx1424185945.jpg</strTeamFanart4>
+    <strTeamBanner/>
+    <strYoutube>www.youtube.com/elcheclubfutbolsad</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133731</idTeam>
+    <idSoccerXML>147</idSoccerXML>
+    <idAPIfootball>546</idAPIfootball>
+    <intLoved/>
+    <strTeam>Getafe</strTeam>
+    <strTeamShort/>
+    <strAlternate>Getafe</strAlternate>
+    <intFormedYear>1946</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>UEFA Europa League</strLeague2>
+    <idLeague2>4481</idLeague2>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Coliseum Alfonso Pérez</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/stryyp1420375096.jpg</strStadiumThumb>
+    <strStadiumDescription>El Coliseum Alfonso Pérez es el estadio del Getafe Club de Fútbol. Está en Getafe (Comunidad de Madrid, España), en el barrio de Getafe Norte. El nombre del estadio se puso en honor del jugador de fútbol, Alfonso Pérez. Paradójicamente Alfonso nunca llegó a militar en el Getafe Club de Fútbol, ni llegó siquiera a enfrentarse a este equipo, ni ha jugado nunca en su estadio; pero es natural de la ciudad de Getafe, siendo probablemente el jugador de fútbol más famoso que haya dado esta localidad. Además en 1998, cuando se construyó el estadio, se encontraba en el punto álgido de su carrera.</strStadiumDescription>
+    <strStadiumLocation>Getafe</strStadiumLocation>
+    <intStadiumCapacity>17393</intStadiumCapacity>
+    <strWebsite>www.getafecf.com</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Getafe Club de Fútbol (Spanish pronunciation: ), or simply Getafe, is a Spanish professional football club that plays in La Liga. The club is based in Getafe, a city in the Madrid metropolitan area. Getafe was founded in 1946 and refounded in 1983.
+
+Getafe participated in the top level of Spanish football for 12 years between 2004 and 2016. The club&#x27;s home stadium is Coliseum Alfonso Pérez which was founded in 1998 and can hold 17,393 spectators.
+
+The club&#x27;s main rivalries are against Leganés, based in close proximity to the city of Getafe, and a friendly rivalry against Real Madrid and Atlético Madrid.
+
+History
+Beginnings
+Getafe Football Club was founded in 1924, only playing in lower divisions from 1928 to 1932. After the Spanish Civil War, in 1945 five Getafe locals – Enrique Condes García, Aurelio Miranda Olavaria, Antonio Corridor Lozano, Manuel Serrano Vergara and Miguel Cubero Francés – while meeting at La Marquesina bar, decided to form a local team. Officially founded on 24 February 1946, the club was named Club Getafe Deportivo.
+
+The club originally played in the Campo del Regimiento de Artillería, which lacked goal posts. Shortly after, the club moved to San Isidro, housed in the current Municipal Sports Center of San Isidro. Here, Club Getafe was promoted to the third division following their victory against Villarrobledo in the 1956–57 season. Getafe was nearly promoted to the Segunda División in 1957–58, but was defeated by CD Almería.
+
+On 2 September 1970, the club inaugurated its own stadium after being promoted back to the Tercera División. Presided by chairman Francisco Vara, Las Margaritas won a 3–1 victory over Michelín. The team survived in the third level that season, and six years later gained their first promotion to the second division.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Getafe Club de Fútbol es un club de fútbol de España de la ciudad de Getafe, en la Comunidad de Madrid. Fue fundado el 8 de julio de 1983 (el 24 de febrero de 1946 como Club Getafe Deportivo)1 y juega en la Primera División de España. Es el 58.º equipo en incorporarse a Primera División, siendo su primera participación en la temporada 2004/05. Ocupa el puesto 28.º en la clasificación histórica de la máxima categoría.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/2l9ie91549394595.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133731-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/4fusa31532348058.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/ypwuww1420375380.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/r47s9u1532347840.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/qljon41532347903.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/ghjf8b1532347930.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rf1rei1532347797.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133721</idTeam>
+    <idSoccerXML>137</idSoccerXML>
+    <idAPIfootball>715</idAPIfootball>
+    <intLoved/>
+    <strTeam>Granada</strTeam>
+    <strTeamShort/>
+    <strAlternate>Granada CF</strAlternate>
+    <intFormedYear>1931</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Los Cármenes</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/upswtw1423702066.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio Nuevo Los Cármenes  is a multi-use stadium in Granada, Spain. Currently, it is used mostly for football matches. The stadium holds 22,369 people, and was built in 1995 to be the home ground of Granada CF, the main football club of the city.</strStadiumDescription>
+    <strStadiumLocation>Granada</strStadiumLocation>
+    <intStadiumCapacity>22369</intStadiumCapacity>
+    <strWebsite>www.granadacf.es</strWebsite>
+    <strFacebook>www.facebook.com/GRANADACF.es</strFacebook>
+    <strTwitter>twitter.com/GranadaCdeF</strTwitter>
+    <strInstagram>instagram.com/granadacf</strInstagram>
+    <strDescriptionEN>Granada Club de Fútbol (Spanish pronunciation: , or simply Granada, is a Spanish football club in Granada, in the autonomous community of Andalusia. Founded on 6 April 1931, it plays in the Segunda División. The club plays its home matches at the Estadio Nuevo Los Cármenes.
+
+Granada was the third Andalusian football team after Betis and Sevilla to compete in La Liga, in 1941–42. The team is located at position 24 of the historical points classification of the First Division, where it has participated in 20 seasons and finished in sixth place twice. Granada was Copa del Rey runner-up in 1959.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Granada Club de Fútbol es una sociedad anónima deportiva de la ciudad española de Granada. Como club de fútbol fue fundado el 6 de abril de 1931 y actualmente milita en la Primera División de España.
+
+El Granada C.F. se encuentra en la posición 23 de la clasificación histórica por puntos de la Primera División, en la que ha participado en 20 temporadas y ha conseguido el 6º puesto en dos ocasiones. Además ha sido subcampeón de la Copa del Rey.
+
+El club tiene en la actualidad unos 14.0002 abonados. El Alcalde de Granada José Torres Hurtado prometió la construcción de un nuevo estadio para 40.000 espectadores si el equipo se consolidaba en Primera División.3 La crisis económica que padece todo el país hace de momento imposible dicha construcción.
+
+Antes de finalizar la temporada 2013/14 está prevista la finalización de la primera fase de la Ciudad Deportiva del Granada C.F. en la zona norte de la capital. Ésta incluye un edificio destinado al primer equipo, cuatro campos de fútbol (tres de césped natural para el primer equipo y el filial y uno de hierba artificial para la cantera) y otro específico para los porteros. Hay en proyecto una segunda fase, aunque sin una fecha concreta de inicio, en la que se construirían otros dos campos (uno de los cuales será un pequeño estadio con capacidad para 3.000 espectadores) y un edificio destinados a la cantera con una residencia para futbolistas de 75.000 metros cuadrados cedidos por el Ayuntamiento de Granada, por un periodo de 75 años, con la obligación de realizar los correspondientes viales y con una inversión global de 8,6 millones de euros.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vvprwu1473502932.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/ruqyqs1472752340.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/c5jtgv1560023722.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/twuuyu1424483225.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tuuuwr1424483240.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/rrutvs1424483254.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/fbbyjj1560023821.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/c7ukee1603580291.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/c/GranadaCFtv</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>135454</idTeam>
+    <idSoccerXML>1315</idSoccerXML>
+    <idAPIfootball>726</idAPIfootball>
+    <intLoved/>
+    <strTeam>Huesca</strTeam>
+    <strTeamShort/>
+    <strAlternate>SD Huesca, Sociedad Deportiva Huesca</strAlternate>
+    <intFormedYear>1960</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>El Alcoraz</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS>http://www.sdhuesca.es/rss.php</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ese35g1529233148.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio El Alcoraz is the name of SD Huesca&#x27;s football stadium. It was named after the battle of Alcoraz which took place there in 1096.
+
+It is located next to San Jorge&#x27;s hill and it has a capacity of approximately 5,734 people.
+
+It was opened on January 16, 1972, since then it has witnessed many social and sport events such as a match between Spain&#x27;s Under-21 national football team and Greece and a Copa del Rey match in 1991 between SD Huesca and Cádiz CF.</strStadiumDescription>
+    <strStadiumLocation>Huesca, Aragon</strStadiumLocation>
+    <intStadiumCapacity>5500</intStadiumCapacity>
+    <strWebsite>www.sdhuesca.es</strWebsite>
+    <strFacebook>www.facebook.com/sdhuesca</strFacebook>
+    <strTwitter>twitter.com/#!/sdhuesca</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Sociedad Deportiva Huesca, S.A.D., is a Spanish football club in Huesca, in the autonomous community of Aragon. Founded on 29 March 1960, SD Huesca plays in La Liga, having played in the Spanish top division for the first time in the club&#x27;s history during the 2018–19 season. They participate in La Liga. SD Huesca plays its home games at Estadio El Alcoraz, which seats 7,638 spectators.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/tuxusx1447590509.png</strTeamBadge>
+    <strTeamJersey/>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/w71bzo1532370317.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/m7wf5o1532369500.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/raz2sh1532369571.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/d2tiqy1532369618.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/3tvf7i1532369721.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/zdljf21532369986.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133732</idTeam>
+    <idSoccerXML>148</idSoccerXML>
+    <idAPIfootball>539</idAPIfootball>
+    <intLoved/>
+    <strTeam>Levante</strTeam>
+    <strTeamShort/>
+    <strAlternate>Levante</strAlternate>
+    <intFormedYear>1909</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Ciutat de València</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/wtqysq1423701285.jpg</strStadiumThumb>
+    <strStadiumDescription/>
+    <strStadiumLocation>Valencia</strStadiumLocation>
+    <intStadiumCapacity>0</intStadiumCapacity>
+    <strWebsite>www.levanteud.com</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Levante Unión Deportiva, S.A.D. (Valencian: Llevant Unió Esportiva) is a Spanish football club based in Valencia, in the namesake community.
+
+Founded on 9 September 1909 it plays in La Liga, holding home games at Estadi Ciutat de València.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Levante Unión Deportiva (también llamado Llevant Unió Esportiva, en valenciano) es un club de fútbol de España. En 1909 se fundan el Gimnástico Fútbol Club y el Levante Fútbol Club, coincidiendo con la fundación de la Federación Valenciana de Fútbol. Ambos se fusionaron en 1939 con el nombre de Unión Deportiva Levante-Gimnástico, pasando a denominarse Levante Unión Deportiva en 1941. El equipo toma el nombre de la Playa de Levante, donde estaba ubicado su campo de juego a principios del siglo XX.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133732-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/vstswu1424487300.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/strqqq1424484247.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/o252p11532373628.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/otd9ez1532373825.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/7guofv1532373665.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/sysqwp1433200878.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133730</idTeam>
+    <idSoccerXML>146</idSoccerXML>
+    <idAPIfootball>727</idAPIfootball>
+    <intLoved/>
+    <strTeam>Osasuna</strTeam>
+    <strTeamShort/>
+    <strAlternate>Osasuna, Club Atlético Osasuna, CA Osasuna</strAlternate>
+    <intFormedYear>1920</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Reyno de Navarra</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/srtywr1420501305.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio El Sadar (known as Reyno de Navarra from 2005 to 2011) is a football stadium in Pamplona, Navarre, Spain. The stadium holds 17,286 people. It was built in 1967 and is the home of CA Osasuna. It is currently used mostly for football matches.</strStadiumDescription>
+    <strStadiumLocation>Pamplona</strStadiumLocation>
+    <intStadiumCapacity>18761</intStadiumCapacity>
+    <strWebsite>www.osasuna.es</strWebsite>
+    <strFacebook>www.facebook.com/C.A.Osasuna.Oficial</strFacebook>
+    <strTwitter>twitter.com/CAOsasuna</strTwitter>
+    <strInstagram>www.instagram.com/caosasuna</strInstagram>
+    <strDescriptionEN>Club Atlético Osasuna (Osasuna Athletic Club) or simply Osasuna, is a Spanish football team based in Pamplona, Navarre.
+
+Founded on November 17, 1920, the club currently plays in La Liga, holding home games at the 18,375-capacity El Sadar Stadium. The team tends to play in a red shirt with navy blue shorts, whereas the away kit differs from season to season.
+
+&quot;Los Rojillos&quot; is the club nickname, meaning &quot;The Reds&quot;. The word &quot;osasuna&quot; means &quot;health&quot; in Basque, used in a sense of &quot;strength&quot; or &quot;vigour&quot;. For different reasons, rivalries exist between Osasuna and Real Zaragoza, Real Madrid, and some Basque clubs, particularly Athletic Bilbao.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Club Atlético Osasuna es un club de fútbol de Pamplona (Navarra, España). El equipo, en la actualidad, juega en la Segunda División de España. Fue fundado el 17 de noviembre de 1920, fruto de la fusión de dos clubes de la ciudad: el Sportiva y el New Club.
+
+El color que identifica al club es el rojo, color de su camiseta, junto con el azul marino, utilizados en su uniforme titular desde su fundación. Desde 1967 juega como local en el Sadar, de propiedad del club y con capacidad para 19 800 espectadores. Su equipo filial, el Osasuna B, milita actualmente en la Tercera División de España (Grupo XV). A éste también se le conoce como &quot;Osasuna Promesas&quot;. Diez de sus jugadores han debutado como internacionales con la selección española.1
+
+Históricamente, su presupuesto anual se encuentra entre los más bajos de Primera División [cita requerida]; en la temporada 2013-2014 contó con 30 millones de euros, que es más de veinte veces menos que el FC Barcelona.
+
+Osasuna ha sido subcampeón de la Copa del Rey en una ocasión, ha participado en una fase previa de la Liga de Campeones y en cuatro ediciones de la Copa de la UEFA, llegando a las semifinales de esta competición en la temporada 2006/2007. Es el club de fútbol más importante de Navarra por palmarés e historia, con un total de 36 temporadas en Primera División, 33 en Segunda y 12 en Tercera.1 Históricamente, es el 15º mejor equipo de España.1 2 Además, cabe mencionar que en diciembre de 2006, fue nombrado mejor equipo del mundo según la IFFHS (ránking mundial de clubes) gracias a cuatro victorias ligueras consecutivas y un triunfo en la Copa de la UEFA. Por otro lado, es uno de los cuatro únicos clubes profesionales de España, junto al Real Madrid, FC Barcelona y el Athletic Bilbao, que no es una sociedad anónima deportiva, de manera que la propiedad del club recae en sus socios.3
+
+Los aficionados celebran los triunfos del equipo en la Plaza del Castillo de la capital navarra.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/wuvuqu1472752389.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/aiwg0s1603138151.png</strTeamLogo>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube>www.youtube.com/CAOsasunaTV</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133738</idTeam>
+    <idSoccerXML>154</idSoccerXML>
+    <idAPIfootball>541</idAPIfootball>
+    <intLoved>11</intLoved>
+    <strTeam>Real Madrid</strTeam>
+    <strTeamShort/>
+    <strAlternate>Real Madrid</strAlternate>
+    <intFormedYear>1902</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4>Supercopa de Espana</strLeague4>
+    <idLeague4>4511</idLeague4>
+    <strLeague5>Club Friendlies</strLeague5>
+    <idLeague5>4569</idLeague5>
+    <strLeague6>International Champions Cup</strLeague6>
+    <idLeague6>4505</idLeague6>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estadio Santiago Bernabéu</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rxrryp1420321403.jpg</strStadiumThumb>
+    <strStadiumDescription>The Santiago Bernabéu Stadium (Spanish: Estadio Santiago Bernabéu ), is the home stadium of Real Madrid since its completion in 1947, with a current seating capacity of 81,044.
+
+Santiago Bernabéu is one of the world&#x27;s most famous and prestigious football venues. It has hosted the European Cup/Champions League final on four occasions: in 1957, 1969, 1980 and 2010. The final matches for the 1964 European Nations&#x27; Cup and the 1982 FIFA World Cup, were also held at the Bernabéu, thus making it the first stadium in Europe to host both a UEFA European Championship and a FIFA World Cup final.</strStadiumDescription>
+    <strStadiumLocation>Madrid</strStadiumLocation>
+    <intStadiumCapacity>81000</intStadiumCapacity>
+    <strWebsite>www.realmadrid.com</strWebsite>
+    <strFacebook>www.facebook.com/realmadrid</strFacebook>
+    <strTwitter>www.twitter.com/realmadrid</strTwitter>
+    <strInstagram>instagram.com/realmadrid</strInstagram>
+    <strDescriptionEN>Real Madrid Club de Fútbol (Royal Madrid Football Club), commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain.
+
+Founded in 1902 as Madrid Football Club, the team has traditionally worn a white home kit since. The word real is Spanish for royal and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. The team has played its home matches in the 81,044-capacity Santiago Bernabéu Stadium in downtown Madrid since 1947. Unlike most European football clubs, Real Madrid&#x27;s members (socios) have owned and operated the club since its inception.
+
+The club is the world&#x27;s richest football club in terms of revenue, with an annual turnover of €604 million, and the world&#x27;s most valuable sports team, worth €2.5 billion ($3.4 billion). The club is one of the most widely supported teams in the world. Real Madrid is one of three founding members of the Primera División which have never been relegated from the top division, along with Athletic Bilbao and Barcelona. The club holds many long-standing rivalries, most notably El Clásico with Barcelona and the Madrid derby with Atlético Madrid.
+
+Real Madrid is the joint most successful club in Spain, in terms of overall official titles won (80), and the joint most successful club in European competitions, in terms of official European trophies won (17). The club established itself as a major force in both Spanish and European football during the 1950s. Domestically, Real Madrid has won a record 32 La Liga titles, 19 Copa del Rey, 9 Supercopa de España, 1 Copa Eva Duarte and 1 Copa de la Liga. Internationally the club has won a record 10 European Cup/UEFA Champions League titles and a joint record 3 Intercontinental Cups, as well as 2 UEFA Cups, 2 UEFA Super Cups and a FIFA Club World Cup.
+
+Real Madrid was recognised as the FIFA Club of the 20th Century on 23 December 2000, and named Best European Club of the 20th Century by the IFFHS on 11 May 2010. The club also received the FIFA Order of Merit in 2004. The club is allowed to wear a multiple–winner badge on their shirt during UEFA Champions League matches as they have won more than five European Cups. They also wear a FIFA Club World Cup champions badge as winners of the 2014 competition. Currently, the football club leads the UEFA club rankings.</strDescriptionEN>
+    <strDescriptionDE>Der Real Madrid Club de Fútbol [reˌalmaˈðrið ˌklubdeˈfuðβol] ist ein Fußballverein aus Madrid.
+
+Die erste Mannschaft spielt gegenwärtig in der spanischen Primera División. Der Klub ist einer der berühmtesten Fußballvereine der Welt. Mit zehn Erfolgen im Landesmeisterpokal und der UEFA Champions League sowie zwei UEFA-Pokal-Siegen ist der spanische Rekordmeister einer der erfolgreichsten Vereine Europas. Obwohl Real Madrid ursprünglich als Fußballverein gegründet wurde, besitzt der Klub auch eine Basketballsektion, die mit ihren acht Erfolgen im Europapokal der Landesmeister, vier im Pokal der Pokalsieger und je einem Sieg im Korać-Cup und ULEB Eurocup als erfolgreichster Verein Europas gilt.
+
+Anders als die Mehrzahl der europäischen Spitzenklubs ist Real Madrid keine Kapitalgesellschaft, sondern weiterhin als Sportverein organisiert und gehört deshalb vollständig und zu gleichen Anteilen seinen rund 90.000 Mitgliedern.
+</strDescriptionDE>
+    <strDescriptionFR/>
+    <strDescriptionCN>皇家馬德里足球俱乐部 （西班牙语：Real Madrid Club de Fútbol，西班牙語發音：[reˈal maˈðɾið ˈkluβ ðe ˈfuðβol ]; Royal Madrid Football Club，簡稱為皇馬）是一家位於西班牙首都馬德里的足球會，成立於1902年3月6日，是現今歐洲乃至世界球壇最成功的球會之一。2000年12月11日，國際足球協會選出皇家馬德里為20世紀最偉大的球會。[1]
+
+皇家馬德里原名為「馬德里足球會」（Madrid Football Club），1917年獲西班牙國王阿方索十三世為表揚球隊佳績，賜封「皇家」（Real）這個頭銜給馬德里足球會。1920年6月26日，「皇家馬德里」遂成為球會正式名稱。球隊的主場場館是可以容納81,044人的伯纳乌球场[2]，是西班牙第二大容納量的足球場。
+
+皇家馬德里在歷史上一直是歐洲最成功的球會之一，曾經奪得过10次歐冠冠軍，是目前贏得最多歐冠冠軍的球會。而本土方面一共奪得32次西班牙甲組聯賽冠軍、19次西班牙國王盃冠軍及9次西班牙超級盃。[3]
+
+此外，皇家馬德里預備隊──皇家馬德里卡斯蒂利亞，在西班牙足球乙二级联赛比賽。另外皇家馬德里於1932年成立籃球隊──皇家馬德里Baloncesto，成就與足球隊同樣顯赫，8度成為歐洲冠軍及多次成為本土籃球聯賽冠軍。</strDescriptionCN>
+    <strDescriptionIT>Il Real Madrid Club de Fútbol, abbreviato in Real Madrid, è una società polisportiva spagnola di Madrid fondata il 6 marzo 1902 e composta dalla nota sezione di calcio e da una cestistica.
+
+La squadra di calcio milita nella Primera División spagnola fin da quando è stata creata la Liga, cioè dal 1929, al pari di Barcellona e Athletic Bilbao. La formazione madrilena è la più vincente nella storia del calcio spagnolo nonché la più titolata nelle competizioni UEFA per club a pari merito con il Milan. Detiene il record di 32 titoli nazionali vinti, nonché il primato assoluto di 10 vittorie della Coppa dei Campioni/Champions League. Il club può vantare uno dei palmarès più prestigiosi, che annovera altresì 19 Coppe di Spagna, 9 Supercoppe di Lega, 1 Coppa della Liga, 2 Coppe UEFA, 2 Supercoppe europee, 3 Coppe Intercontinentali e 1 Mondiale per club FIFA. L&#x27;11 dicembre del 2000, il Real Madrid fu nominato dalla FIFA come il miglior club del XX secolo in base a un sondaggio tra i lettori dell&#x27;allora rivista istituzionale FIFA Magazine[1].
+
+La denominazione della società era originariamente Madrid Club de Fútbol; la parola &quot;Real&quot; fu assegnata successivamente, nel 1920, dal Re Alfonso XIII di Spagna, insieme alla corona applicata sullo stemma. I giocatori del Real Madrid vengono chiamati merengues per via del colore della maglia che ricorda quello della meringa. Dall&#x27;allora acquisto record di Zinédine Zidane nel 2001, la squadra è stata soprannominata Los Galácticos (I Galattici), per via della presenza di tante stelle nell&#x27;organico titolare. In Spagna il club è noto come el Madrid (il Madrid), in contrapposizione con l&#x27;Atlético (el Atlético), mentre in Italia è conosciuto come il Real, abbreviazione che nel contesto calcistico spagnolo non sarebbe caratteristica del Real Madrid, essendo il nome &quot;Real&quot; un attributo concesso a molti club spagnoli tra cui Real Saragozza, Real Sociedad e Real Valladolid. A differenza di molte società calcistiche europee, la proprietà del club appartiene ai suoi soci, che ogni quattro anni eleggono il presidente.
+
+Nel febbraio 2012, secondo la Deloitte Football Money League, è stato il club più ricco del mondo con 479,5 milioni di euro in entrata, davanti ai rivali sportivi del Barcellona e al Manchester United, il quale era rimasto in vetta per otto anni[2]. Grazie alle sue enormi capacità economiche, la società è riuscita a mettere a segno il colpo di mercato più costoso della storia del calcio: Gareth Bale, acquistato per la cifra di 100 milioni di euro dal Tottenham Hotspur nel 2013.</strDescriptionIT>
+    <strDescriptionJP>レアル・マドリード・カスティージャ（Real Madrid Castilla Club de Fútbol）は、レアル・マドリードのBチームである。現在、リーガ・エスパニョーラのセグンダ・ディビシオンBに所属している。
+レアル・マドリードのカンテラの選手達が所属しており、ここからトップチーム昇格を目指している。
+スター選手が名を連ねるレアル・マドリードにおいて、カスティージャの選手達にはトップチームで出場機会さえ与えられないことも多い。その上トップチーム定着となると狭き門といわざるを得ない。そのため、リーガ・エスパニョーラの1部、2部の多くのクラブにカスティージャ出身の選手達が流出しており、移籍先で中心メンバーとして活躍するケースも多々見られる。かつてトップチームの黄金期を支え、引退後は名誉会長も務めたアルフレッド・ディ・ステファノはこの現状を「自分たちは雌鶏を持っている。しかし卵を外へ買いに行く」と嘆いた[1]。</strDescriptionJP>
+    <strDescriptionRU>«Реа́л Мадри́д» (исп. Real Madrid Club de Fútbol) — испанский футбольный клуб, названный ФИФА лучшим футбольным клубом XX века. По данным организации «Deloitte», «Реал» является клубом с самым большим бюджетом в мире с годовым оборотом 78733902 миллионов евро и самым ценным клубом стоимостью 3,3 миллиарда евро[1]. «Реал Мадрид» — один из трёх клубов, которые ни разу не покидали высший испанский дивизион, двумя другими являются «Барселона» и «Атлетик Бильбао»[2].
+
+Является самым успешным клубом в испанском футболе, завоевав в общей сложности 61 национальный титул; рекордные 32 титула чемпионата Ла лиги, 19 Кубков Испании, 11 раз становился обладателем Суперкубка Испании. Является рекордсменом по количеству побед в Лиге чемпионов (10 раз, единственная в Европе команда, выигрывавшая этот турнир — тогда ещё Кубок Европейских чемпионов — 5 раз подряд).</strDescriptionRU>
+    <strDescriptionES>El Real Madrid Club de Fútbol, mejor conocido como Real Madrid, es una entidad polideportiva con sede en Madrid, España. Fue fundado oficialmente como un club de fútbol el 6 de marzo de 1902 por los hermanos barceloneses Juan y Carlos Padrós bajo el nombre de (Sociedad) Madrid Foot-ball Club.1
+
+Participa en la máxima categoría de la Liga Nacional de Fútbol Profesional, la Primera División de España o Liga BBVA,n 3 desde su fundación en 1929 siendo uno de los tres únicos equipos que la ha disputado siempre sin haber descendido de ella, junto al Athletic Club y el Fútbol Club Barcelona.2 En ella posee los honores de haber sido el primer líder histórico de la competición,3 el del club que más títulos posee de la misma con un total de treinta y dos, y el de haber conseguido la máxima puntuación en una temporada con cien puntos.4 n 4
+
+Regido por la Real Federación Española de Fútbol (RFEF) a nivel nacional, y por la Unión Europea de Asociaciones de Fútbol (UEFA) y la Federación Internacional de Fútbol Asociación (FIFA) —máximo organismo futbolístico— a escala internacional, contribuye al progreso del fútbol en constantes oportunidades siendo miembro creador, fundador y cofundador de varias competiciones de fútbol. Antes de la existencia de la RFEF, el club dio origen a algunas de las competiciones españolas más longevas como el extinto Campeonato Regional Centro,5 6 o la Copa de España;5 6 mientras que tras ser uno de los miembros fundadores de la FIFA,7 8 colaboró en el origen a algunas de las competiciones o asociaciones más prestigiosas a nivel internacional como la Copa de Europa,7 9 10 11 la Copa Intercontinental12 o la Asociación de Clubes Europeos.13 n 5
+
+Iniciado como un club de fútbol, pronto adquirió un carácter multiportivo que le llevó a desarrollar varias disciplinas dentro del seno de la entidad.14 En su mayoría se encuentran extintas actualmente debido a los problemas económicos que acarrearon y para potenciar las secciones principales, el fútbol y el baloncesto —su segunda sección por importancia, conocida como Real Madrid de Baloncesto—. Pese a ello sobreviven las ya citadas, más la sección de fútbol indoor creada en 2008 a partir del equipo de veteranos.15 16 A lo largo de los últimos años hubo varias especulaciones sobre el intento de recuperar algunas de las antiguas prácticas desaparecidas como la sección de balonmano, mediante acuerdos con el Club Balonmano Ciudad Real,17 n 6 o la sección de rugby mediante un acuerdo con el Canoe Rugby Club Madrid, pero finalmente no llegaron a materializarse.</strDescriptionES>
+    <strDescriptionPT>O Real Madrid Club de Fútbol, mais conhecido como Real Madrid ou simplesmente Real, é um clube polidesportivo com sede em Madrid, Espanha. Além de ser uma das equipes de futebol mais bem sucedidas da Espanha e do mundo, e o maior campeão da UEFA Champions League e é o clube esportivo mais rico do planeta.
+Foi fundado oficialmente no dia 6 de março de 1902 pelos irmãos Juan Padrós e Carlos Padrós, com o nome de (Sociedad) Madrid Foot-Ball Club.1 O titulo REAL foi dado pelo Rei Afonso XIII em 1920 juntamente com a coroa real no emblema, o Real Madrid leva o apelido de merengue devido a cor branca do uniforme que foi associada ao doce de origem suíça feito de clara de ovos de cor extremamente branca popularmente chamado de suspiro.
+
+Participa da Primeira Divisão da Espanha, a mais alta categoria do Campeonato Espanhol de Futebol desde a sua fundação, em 1929, sendo uma das três únicas equipes que sempre a disputaram sem nunca terem sido rebaixados, junto ao Athletic Club e o Barcelona.2 Nela tem as honras de ter sido o primeiro líder histórico da competição,3 o clube que mais possui títulos na mesma, com um total de 32, e o de ter conseguido a maior pontuação em uma temporada, com 100 pontos.4
+
+Contribuiu para o progresso do futebol em várias oportunidades, sendo membro criador, fundador e co-fundador de várias competições e associações de futebol, como o extinto Campeonato de Madri, ou Campeonato Regional Centro,5 ,6 a Copa do Rei da Espanha,5 ,7 la Liga dos Campeões da UEFA,8 ,9 ,10 ,11 ,12 a Copa Intercontinental,13 a FIFA,8 ,14 ou da Associação de Clubes Europeus (anteriormente G-14, uma organização internacional que agrupava os mais importantes e influentes clubes da Europa).15
+
+No basquetebol, sua segunda modalidade esportiva em importância, também conseguiram muitas façanhas, sendo juntamente com o Club Joventut de Badalona e o Club Baloncesto Estudiantes,16 os únicos clubes que nunca foram rebaixados, disputando desde a sua criação em 1957 a sua primeira divisão denominada Liga Espanhola de Basquetebol e posteriormente Liga ACB.
+
+Da mesma forma que seu departamento de futebol, colaborou com o desenvolvimento deste esporte através das mãos de Raimundo Saporta, diretor do clube enquanto acumulava seus cargos na FIBA e na Federação Espanhola de Basquete, criando a Copa da Europa de Basquete,17 o Torneio de Natal internacional,18 a Liga Espanhola de Basquetebol, e a sucessora Liga ACB.19 Inumeráveis feitos contribuiram para que Raimundo Saporta fosse e seja considerado na atualidade como o maior propulsor deste esporte na Espanha e Europa.</strDescriptionPT>
+    <strDescriptionSE>Real Madrid [real mað&#x27;rið], egentligen Real Madrid CF (Real Madrid Club de Fútbol),[2] är en spansk fotbollsklubb, som sedan 1929[1] spelar i högstadivisionen La Liga. De har blivit kända för sitt helvita matchställ och kallas i spansk media ofta för ”Los Blancos” (de vita) eller ”Los Merengues” (marängerna).[5][1] Real Madrids B-lag, Real Madrid Castilla, spelar i Segunda División. C-laget, tidigare känt som Real Madrid Aficionados, spelar i Tercera División. Förutom fotboll har klubben även en basketsektion, Real Madrid Baloncesto, grundad 1932, som också varit mycket framgångsrik.[6]
+
+Real Madrid, som grundades 1902,[1] är en klassisk storklubb som hade sin mest framgångsrika period under 1950-talet då de vann Europacupen för mästarlag fem år i rad, 1956–1960.[7][8] Ett stort antal stjärnor spelade då i laget, bland annat Alfredo Di Stéfano och Ferenc Puskás.[8] I laget ingick även den svenske landslagsspelaren Agne Simonsson,[9] som hittills är den ende svensk som spelat för Real Madrid.[10] Sedan 1947[11] spelar klubben sina hemmamatcher på den femstjärniga[12] Santiago Bernabéu-stadion med kapacitet för 80 000 åskådare. Tidigare spelade de på Estadio Chamartín.[13]
+
+Real Madrid har tidvis haft s tor dominans i den spanska ligan, men har stundtals utmanats av andra lag, inte minst av ärkerivalen FC Barcelona. Rivaliteten till Barcelona är mycket stark och grundar sig på historien – Real Madrid är huvudstadslaget och symbolen för den spanska centralmakten, medan FC Barcelona varit motsatsen med dess starka katalanska identitet.[14] Även grannklubben Atlético Madrid anses vara en stor rival och mötet mellan Madridklubbarna varje år kallas El Derbi madrileño.
+
+Den senaste storhetsperioden inleddes 1998, då Real Madrid för första gången sedan 1966 vann Champions League.[15][16] Bedriften återupprepades 2000 och 2002.[17][18] Under 2000-talets första år har namnkunniga internationella storstjärnor som David Beckham, Claude Makélélé, Zinedine Zidane, Luís Figo, Ronaldo, Roberto Carlos, Raúl , José María Gutiérrez , Robinho, Fabio Cannavaro, Ruud Van Nistelrooy, Michel Salgado, Arjen Robben, Wesley Sneijder, Mesut Özil och Kaká spelat för klubben.
+
+Stora stjärnor i dagens trupp är Cristiano Ronaldo, Karim Benzema, Iker Casillas, Gareth Bale, Marcelo, Pepe, James Rodriguez, Alvaro Arbeloa, Toni Kroos, Sergio Ramos, Sami Khedira och Javier Hernandez.</strDescriptionSE>
+    <strDescriptionNL>Real Madrid Club de Fútbol is een Spaanse voetbalclub uit Madrid. De club werd opgericht op 6 maart 1902 als &quot;Sociedad Madrid FC&quot;. In het dagelijks taalgebruik wordt de naam van de club meestal afgekort tot Real Madrid. Het is de succesvolste club uit het Spaanse voetbal en door de FIFA werd ze zelfs benoemd als de beste voetbalclub van de 20e eeuw.[1]
+
+De club heeft vele bijnamen zoals Los Blancos en Los Merengues. Real Madrid werd koninklijk of Real in 1920 en kreeg deze titel van Alfons XIII. De club speelt haar thuiswedstrijden in het Estadio Santiago Bernabéu.
+
+Real Madrid won 32 keer de Primera División, 19 keer de Copa del Rey, 2 keer de UEFA Cup en 10 keer de Champions League, voorheen bekend als de Europacup I.[2] Daarmee is Real Madrid recordhouder, voor AC Milan, dat deze beker 7 keer gewonnen heeft.
+
+De club kent ook verschillende rivaliteiten, waarvan de opmerkelijkste die met het Catalaanse FC Barcelona is. De wedstrijden tussen beide clubs staan bekend als El Clásico (&quot;de Klassieker&quot;). Volgens de website van de club is Real de enige sportclub die met 520 miljoen euro aan inkomsten, de grens van 500 miljoen overtreft, voor het tweede opeenvolgende jaar. Tegelijk heeft de club nog altijd zo&#x27;n 90 miljoen euro aan schulden.[3] Het is medio 2013 de waardevolste club ter wereld ($ 3,3 miljard[4])</strDescriptionNL>
+    <strDescriptionHU>A Real Madrid Club de Fútbol, rövidítve Real Madrid CF (a sajtóban legtöbbször egyszerűen Real Madrid vagy a Galaktikusok) spanyol labdarúgóklub. 1902-es megalapítása óta a spanyol élvonal tagja, még sosem esett ki.
+
+32 bajnoki címével és 19 kupagyőzelmével a legeredményesebb spanyol csapat, emellett 10 alkalommal nyerték meg a Bajnokok Ligáját (BEK-et is beleszámítva), ami szintén rekord.[6][7][8] A csapat kétszer az UEFA-kupát is elhódította, így az összes európai kupagyőzelmek tekintetében is az első helyen áll (10 BL, 2 UEFA-kupa).[9]
+
+Hazai mérkőzéseit a 80 354 néző befogadására alkalmas Santiago Bernabéu stadionban játssza. Eredeti mezszíne tiszta fehér, és 1947 óta otthoni mérkőzéseit mindig fehér szerelésben játssza.
+
+A Real Madrid több spanyol labdarúgócsapattal rivalizál évtizedek óta, ezek például a szintén madridi Atlético vagy az FC Barcelona. Az Atlético elleni mérkőzéseket El Derbi madrileñónak, a Barcelona elleni találkozókat pedig El Clásicónak nevezik Spanyolországban. Ezeket a szokottnál is nagyobb érdeklődés kíséri. Előbbi csapattal osztálykülönbségekre, míg utóbbival politikai ellentétre vezethető vissza a rivalizálás.
+
+A Harvard Egyetem 2007-ben végzett kutatása szerint a Real a világ második legnagyobb és legdrágább, valamint a második legnagyobb bevétellel gazdálkodó klubja, költségvetése mintegy 350 millió euró, a klub összértéke pedig közel egymilliárd euró.[10][11] 2000. december 23-án a FIFA a 20. század legjobb csapata címet adományozta a királyi gárdának.[12]
+
+A Real Madrid alapító tagja volt a FIFA-nak és az azóta már megszűnt G-14-nek, amely Európa 14 (2002-től 18) legbefolyásosabb labdarúgóklubját foglalta magában.[13] A Real a G-14 helyébe lépett Európai Klubszövetségben is alapító tag.[14]</strDescriptionHU>
+    <strDescriptionNO>Real Madrid Club de Fútbol er en spansk fotballklubb som spiller i La Liga. Den ble stiftet 6. mars 1902 under navnet Madrid Club de Fútbol. De holder til i Madrid, Spania. Det er det mest suksessfulle laget i spansk fotball, og ble kåret av FIFA som den mest suksessrike klubben i det 20. århundre, etter å ha vunnet 32 La Liga-titler (rekord), 17 spanske &quot;Copa del Rey&quot; cuper, 10 UEFA Champions Leagues (rekord), 2 UEFA Cup, en UEFA Supercup, og 3 Intercontinental Cup.
+
+Ordet «Real» i klubbens navn er det spanske ordet for «kongelig», og ble gitt av kong Alfonso XIII i 1920 sammen med den kongelige krone i emblemet. Flere andre spanske klubber har også mottatt den kongelige tittelen: Real Sociedad , Real Unión de Irún, Real Betis, og Real Zaragoza. Real Madrid har aldri rykket ned fra La Liga, som er den øverste ligaen i spansk fotball. Klubben etablerte seg som en betydelig kraft i både spansk og europeisk fotball på 1950-tallet. På 1980-tallet hadde klubben et av de beste lagene i Spania og Europa, og vant to UEFA Cup, fem sammenhengende spanske mesterskap, ett spansk cupmesterskap og tre spanske Super Cup.
+
+Lagets tradisjonelle hjemmedrakter er hvit, selv om det i utgangspunktet vedtatt en blå skrå stripe på skjorten. Real Madrids hjemmebane er Santiago Bernabéu fotballstadion i sentrum av Madrid, der den har spilt siden 1947. I 2010 Bernabéu holdt finalen i UEFA Champions League. Real Madrid har langvarig rivalisering med andre fotballklubber, spesielt FC Barcelona, med kamper mellom de to lagene referert til som «El Clásico». I motsetning til de fleste europeiske fotballklubber, har Real Madrid medlemmer som har eid og drevet klubben siden starten. Klubben er verdens rikeste fotballklubb (€ 401m) målt i omsetning.[trenger referanse]</strDescriptionNO>
+    <strDescriptionIL>מועדון הכדורגל ריאל מדריד (בספרדית: Real Madrid Club de Fútbol) הוא מועדון כדורגל ספרדי מהעיר מדריד, הנחשב לאחד המועדונים המצליחים ביותר בעולם, הן מבחינת תארים והן מבחינה כלכלית‏[1].
+
+מאז אמצע המאה ה-20, ריאל מדריד נחשבת לאחת מהקבוצות הגדולות באירופה. המועדון זכה 10 פעמים בליגת האלופות, יותר מכל מועדון אחר, ואף זכה ב-5 העונות הראשונות במפעל. הקבוצה משחקת בליגת העל הספרדית מאז הקמתה ב-1902. נכון ל-2014, הקבוצה לא ירדה מעולם מהליגה הראשונה בספרד, והיא אחת משלוש קבוצות ספרדיות השותפות להישג זה, יחד עם ברצלונה ואתלטיק בילבאו.
+
+הקבוצה משחקת במדים לבנים לחלוטין, מה שהעניק לה את הכינוי &quot;Los merengues&quot; (המקצפות). אצטדיונה הביתי של הקבוצה הוא הסנטיאגו ברנבאו שבמדריד, המכיל כ-80 אלף מקומות ישיבה.</strDescriptionIL>
+    <strDescriptionPL>Real Madrid Club de Fútbol – hiszpański klub sportowy powstały w 1902 roku[6]. Słynie głównie z sukcesów istniejącej od chwili założenia drużyny piłkarskiej, która trzydzieści dwa razy zdobyła mistrzostwo Hiszpanii, dziesięć razy Puchar Europy/Ligę Mistrzów, a także wiele innych trofeów, w tym przyznany w 2000 roku przez FIFA tytuł najlepszego klubu w XX wieku[7]. Od 1947 roku drużyna ta rozgrywa domowe spotkania na stadionie Santiago Bernabéu[8], nazwanym na cześć byłego prezesa[9], za czasów którego klub zdobył najwięcej trofeów[9].
+
+Real Madryt odegrał ważną rolę w historii hiszpańskiej i światowej piłki nożnej – to z inicjatywy jego działaczy powstał Puchar Króla[10]. Klub reprezentował również Hiszpański Związek Piłki Nożnej, stając się jednym ze współzałożycieli FIFA w 1904 roku[11]. W 1928 roku znalazł się w pierwszym zestawie drużyn tworzących Primera División, zaś w 1955 roku stał się jedną z drużyn biorących udział w pierwszej edycji Pucharu Europy, którą następnie wygrał, broniąc to trofeum cztery razy z rzędu. Na całym świecie znana jest też wypełniona podtekstami polityczno-historycznymi rywalizacja tegoż klubu z FC Barceloną. Real zajmuje pierwsze miejsce w tabeli wszech czasów ligi hiszpańskiej[12].
+
+Od 1931 roku Real Madryt posiada też utytułowaną drużynę koszykarską[13], która zdobyła trzydzieści jeden tytułów mistrza kraju i odniosła osiem triumfów w Eurolidze. W przeszłości istniały także inne sekcje, m.in. siatkówki, tenisa i piłki ręcznej[14].</strDescriptionPL>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/fkqv2c1598984041.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/yxxprt1447431088.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/qvqurs1420322627.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/qxsyvs1420395095.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/p8ck1w1565185677.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/yqxusv1430844607.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/gevy7a1564134585.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/realmadridcf</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133735</idTeam>
+    <idSoccerXML>151</idSoccerXML>
+    <idAPIfootball>536</idAPIfootball>
+    <intLoved/>
+    <strTeam>Sevilla</strTeam>
+    <strTeamShort/>
+    <strAlternate>Sevilla Fútbol Club, SFC</strAlternate>
+    <intFormedYear>1905</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>UEFA Europa League</strLeague2>
+    <idLeague2>4481</idLeague2>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4>UEFA Super Cup</strLeague4>
+    <idLeague4>4512</idLeague4>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Ramón Sánchez Pizjuán</strStadium>
+    <strKeywords>Los Nervionenses</strKeywords>
+    <strRSS>http://www.sevillafc.es/rss.xml</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rqsqxv1423700433.jpg</strStadiumThumb>
+    <strStadiumDescription>The Ramón Sánchez Pizjuán Stadium (Spanish: Estadio Ramón Sánchez Pizjuán) is a football stadium in Seville, Spain. It is the home stadium of Sevilla Fútbol Club, and is named after the club&#x27;s former president, Ramón Sánchez Pizjuán , who served Sevilla for seventeen years in the early 20th century and helped pioneer the building of the ground. It was the venue for the 1986 European Cup Final between Steaua București and Barcelona and the 1982 World Cup semi-final game between Germany and France.
+
+With a capacity of 42,714 seats, Ramón Sánchez Pizjuán is the ninth-largest stadium in Spain and the third-largest in Andalusia.</strStadiumDescription>
+    <strStadiumLocation>Sevilla</strStadiumLocation>
+    <intStadiumCapacity>42500</intStadiumCapacity>
+    <strWebsite>www.sevillafc.es</strWebsite>
+    <strFacebook>www.facebook.com/sevillafc</strFacebook>
+    <strTwitter>twitter.com/SevillaFC</strTwitter>
+    <strInstagram>instagram.com/sevillafc</strInstagram>
+    <strDescriptionEN>Sevilla Fútbol Club (commonly referred to as Sevilla, is a Spanish professional football club based in Seville, the capital and largest city of the autonomous community of Andalusia, Spain. It plays in Spanish football&#x27;s top flight, La Liga. It is Spain&#x27;s oldest sporting club solely devoted to football. The club was formed on 25 January 1890, with the Scottish born Edward Farquharson Johnston as their first president. On 14 October 1905, the club&#x27;s articles of association were registered in the Civil Government of Seville under the presidency of the Jerez-born José Luis Gallegos Arnosa.
+
+Sevilla FC is also the most successful club in Andalusia, winning a national league title in 1945–46, five Spanish Cups (1935, 1939, 1948, 2007 and 2010), one Spanish Super Cup (2007), a record five UEFA Cups/UEFA Europa Leagues (2006, 2007, 2014, 2015 and 2016) and the 2006 UEFA Super Cup. They were also designated by the International Federation of Football History &amp; Statistics as the World&#x27;s best club in 2006 and 2007, thus being the first club to achieve this distinction in two consecutive years.
+
+Its youth team Sevilla Atlético, founded in 1958, currently play in Segunda División B. The club are affiliated to a side in Puerto Rico of the same name. Other clubs related to Sevilla FC include their women&#x27;s team, futsal team and former Superleague Formula team.
+
+The Club&#x27;s home ground is the 43,883-seat Ramón Sánchez Pizjuán Stadium. It is located in the neighborhood of Nervión, Seville and owes its name to Ramón Sánchez Pizjuan, who was Sevilla FC&#x27;s President for 17 years.
+
+Sevilla FC has contributed many players to the Spain national team throughout their history.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Sevilla Fútbol Club es un club de fútbol español organizado como sociedad anónima deportiva. Tiene su sede en Sevilla, capital de la comunidad autónoma de Andalucía, y actualmente juega en Primera División. Se funda el 14 de octubre de 1905, siendo su primer presidente el jerezano José Luis Gallegos Arnosa.3 4 5
+
+El estadio Ramón Sánchez-Pizjuán, propiedad del club, es el escenario que utiliza el equipo para jugar sus partidos oficiales locales. Está situado en el barrio de Nervión y debe su nombre al que fuera su presidente durante diecisiete años. Tiene capacidad para 45 500 espectadores.2
+
+Cuenta en su palmarés con varios trofeos y títulos que lo convierten en el equipo con más títulos regionales, nacionales e internacionales de Sevilla y de toda Andalucía. Ha sido campeón de Liga una temporada y subcampeón cuatro veces; ha ganado cinco Copas del Rey, tres Copas de la UEFA (una Europa League), una Supercopa de España y una Supercopa de Europa. Ha militado 67 temporadas en Primera División y 13 en Segunda. El Sevilla F. C. está ubicado en la séptima posición de la clasificación histórica de la Liga Española de Fútbol.6 Fue designado por la Federación Internacional de Historia y Estadística de Fútbol como el mejor club del mundo en 2006 y 2007.7
+
+La entidad ha aportado a la selección española varios jugadores a lo largo de su historia, desde Spencer en 1922 hasta Jesús Navas, que formó parte del conjunto que se proclamó en 2010 campeón del mundo y en 2012 campeón de Europa junto a Álvaro Negredo. También ha aportado jugadores a selecciones de otros países. Cuenta también con diversos equipos en categorías inferiores, como el Sevilla Atlético, fundado en 1958 y que actualmente juega en Segunda División B, habiendo llegado a militar en Segunda División.
+
+En 2005 celebró el centenario de su fundación con gran cantidad de actos sociales y deportivos, habiendo quedado entre los más populares el himno del Centenario, la bandera que se diseñó para el aniversario o la portada especial de la Feria de Abril de dicho año, así como la concesión de la Medalla de Andalucía.
+
+Mantiene una histórica rivalidad con el otro equipo profesional de la ciudad, el Real Betis Balompié, con el que se enfrenta en el conocido derbi sevillano.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133735-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/ytyyuw1433184362.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/vsqxtx1433183949.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vpyysp1433183959.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wuttxs1433183764.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/rurryw1424111302.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/muj9ze1563610288.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/SEVILLAFC</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133724</idTeam>
+    <idSoccerXML>140</idSoccerXML>
+    <idAPIfootball>548</idAPIfootball>
+    <intLoved/>
+    <strTeam>Sociedad</strTeam>
+    <strTeamShort/>
+    <strAlternate>Real Sociedad</strAlternate>
+    <intFormedYear>1909</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Reale Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ywtvrq1423701836.jpg</strStadiumThumb>
+    <strStadiumDescription>Anoeta is a multi-purpose stadium in San Sebastián, Basque Autonomous Community, Spain that was inaugurated in 1993.
+
+The stadium lies at the Anoeta Sports Complex, and is mostly used for football matches where La Liga side Real Sociedad contest their home games. The total seating capacity of the stadium, which was originally 32,000, is currently restricted to 25,000 due to redevelopment works; once complete in 2019 the stadium will hold 42,300 all-seated.</strStadiumDescription>
+    <strStadiumLocation>San Sebastián, Guipúzcoa</strStadiumLocation>
+    <intStadiumCapacity>39500</intStadiumCapacity>
+    <strWebsite>www.realsociedad.eus</strWebsite>
+    <strFacebook>www.facebook.com/RealSociedadFutbol</strFacebook>
+    <strTwitter>twitter.com/RealSociedadEUS</strTwitter>
+    <strInstagram>www.instagram.com/realsociedad</strInstagram>
+    <strDescriptionEN>Anoeta Stadium, currently known as the Reale Arena for sponsorship purposes, is a football stadium in San Sebastián, Basque Country, Spain that was inaugurated in 1993.
+
+The stadium lies at the Anoeta Sports Complex, and is mostly used for football matches where La Liga side Real Sociedad contest their home games. The total seating capacity of the stadium, which was originally 32,000, was restricted to around 26,800 due to redevelopment works; its capacity for the September 2019 completion has been quoted as 39,500 seats (down on the figure of 42,300 given two years earlier), making it the 11th-largest stadium in Spain and the 2nd-largest in the Basque Country.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>La Real Sociedad de Fútbol, S. A. D. es un club de fútbol de España, establecido en la ciudad de San Sebastián (Guipúzcoa), que juega en la Primera División.1 Tiene una muy larga trayectoria en la historia del balompié español y es uno de los únicos nueve equipos históricos que nunca han competido en división inferior a la Segunda División.
+
+Ha obtenido dos campeonatos de la Liga española de fútbol, dos títulos de la Copa del Rey y una Supercopa de España, así como diversos subcampeonatos en dichas competiciones y múltiples participaciones europeas a lo largo de su historia. Tras cuarenta temporadas consecutivas en la Primera División, descendió a Segunda División en 2007 y volvió a la máxima categoría en 2010.
+
+Ocupa el puesto 8º en la clasificación histórica de la Primera División de España y el 184º en la clasificación histórica mundial de la IFFHS. Es, además, el sexto equipo que más internacionales ha aportado a la Selección de fútbol de España y tiene el récord de jornadas consecutivas sin conocer la derrota en la Primera División de España.
+
+El Athletic Club es su rival histórico por excelencia. Ambos equipos mantienen una rivalidad desde sus comienzos, entre otras cosas porque son los dos principales equipos del País Vasco.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133724-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/lfmra31532346455.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/rsppup1420331930.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/dkkyen1504544972.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/20t7r01504545288.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/n5wtjy1504545306.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/825xpy1500051585.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/realsociedadtv</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133725</idTeam>
+    <idSoccerXML>141</idSoccerXML>
+    <idAPIfootball>532</idAPIfootball>
+    <intLoved>2</intLoved>
+    <strTeam>Valencia</strTeam>
+    <strTeamShort/>
+    <strAlternate>Valencia</strAlternate>
+    <intFormedYear>1919</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2></strLeague2>
+    <idLeague2/>
+    <strLeague3>Copa del Rey</strLeague3>
+    <idLeague3>4483</idLeague3>
+    <strLeague4>Supercopa de Espana</strLeague4>
+    <idLeague4>4511</idLeague4>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Mestalla</strStadium>
+    <strKeywords>Los Ches</strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uxvvyt1423702327.jpg</strStadiumThumb>
+    <strStadiumDescription>Mestalla Stadium (Spanish: Estadio de Mestalla, Valencian: Estadi de Mestalla) is a football stadium in Valencia, Spain. The stadium is the home of Valencia Club de Fútbol and has a capacity of 55,000 seats, making it the 7th-largest stadium in Spain, and the largest in the Valencian Community. The North Stand of the stadium is known for its very steep section.</strStadiumDescription>
+    <strStadiumLocation>Valencia, Spain</strStadiumLocation>
+    <intStadiumCapacity>55000</intStadiumCapacity>
+    <strWebsite>www.valenciacf.com</strWebsite>
+    <strFacebook>www.facebook.com/valenciacf.en</strFacebook>
+    <strTwitter>twitter.com/valenciacf</strTwitter>
+    <strInstagram>www.instagram.com/valenciacf</strInstagram>
+    <strDescriptionEN>Valencia Club de Fútbol (Valencian: València Club de Futbol) commonly referred to as Valencia CF or simply Valencia, is a Spanish professional football club based in Valencia. They play in La Liga. Valencia have won six La Liga titles, eight Copa del Rey titles, one Supercopa de España and one Copa Eva Duarte. In European competitions, they&#x27;ve won two Inter-Cities Fairs Cups (the predecessor to the UEFA Cup), one UEFA Cup, one UEFA Cup Winners&#x27; Cup, two UEFA Super Cups and one UEFA Intertoto Cup. They also reached two UEFA Champions League finals in a row, losing to La Liga rivals Real Madrid in 2000 and German club Bayern Munich on penalties after a 1–1 draw in 2001. Valencia were also members of the G-14 group of leading European football clubs and since its end has been part of the original members of the European Club Association. In total, Valencia have reached seven major European finals, winning four of them.
+
+Valencia were founded in 1919 and have played their home games at the 55,000-seater Mestalla since 1923. They were due to move into the new 75,000-seater Nou Mestalla in the northwest of the city in 2013, but the final move date has been postponed while the stadium remains under construction.
+
+Valencia is the third-most supported football club in Spain, behind heavyweights Real Madrid and Barcelona. It is also one of the biggest clubs in the world in terms of number of associates (registered paying supporters), with more than 50,000 season ticket holders and another 20,000+ season ticket holders on the waiting list, who can be accommodated in the new 75,000-seater stadium.
+
+Over the years, the club has achieved a global reputation for their prolific youth academy, or &quot;Acàdemia.&quot; Products of their academy include world-class talents such as Raúl Albiol, Andrés Palop, Miguel Ángel Angulo, David Albelda, Gaizka Mendieta and David Silva. Current stars of the game to have graduated in recent years include Isco, Jordi Alba, Juan Bernat, José Gayà, Carlos Soler and Paco Alcácer.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Valencia Club de Fútbol es una sociedad anónima deportiva con sede en la ciudad de Valencia, España. El club de fútbol fue fundado el 18 de marzo de 1919. Su primera plantilla juega actualmente en la Primera División de España y disputa los encuentros como local en el Estadio de Mestalla, con una capacidad para 55 000 espectadores.
+
+En la clasificación histórica de la LFP, el Valencia CF ocupa el tercer puesto, por detrás de Real Madrid y FC Barcelona.2 Ha disputado 79 temporadas de la Primera División de las 83 ediciones diputadas. Es el quinto club español con más títulos nacionales, con un total de 14 trofeos (6 títulos de Liga, 7 Copas del Rey y 1 Supercopa de España).
+
+Cuenta con siete títulos europeos (dos Copas de Ferias, dos Supercopas de Europa, una Copa de la UEFA, una Recopa de Europa y una Copa Intertoto), y también dos subcampeonatos de la Champions league, siendo el tercer club español con el mayor número de partidos disputados en todas las competiciones europeas oficiales y el cuarto en número de victorias.3 Fue el primer club español en conseguir ganar la Supercopa de Europa, al imponerse en 1980 a doble partido al Nottingham Forest, y la Copa Intertoto de la UEFA, tras vencer en 1998 a doble partido al S. V. Salzburg. Además, ha sido subcampeón de la Liga de Campeones en dos ocasiones.
+
+El Valencia CF ocupa el 23.º puesto en la lista de clubes europeos con más ingresos, sumando la cantidad de 116 millones de euros y siendo así el cuarto club español tras Real Madrid, FC Barcelona y Atlético de Madrid.4 La entidad cuenta con unos 47 447 accionistas, 38 000 abonados y más de 700 peñas repartidas por toda España y por países como Alemania, Estados Unidos, Indonesia, Argentina, Inglaterra, Suiza, Dinamarca, Finlandia, Hungría, Andorra, Irlanda, Noruega, Panamá, Rusia y Suecia.
+
+El principal accionista de la S. A. D. es el empresario Peter Lim desde la compra del 70,4 % de las acciones a la Fundación Valencia C. F. el 24 de octubre de 2014. Según una encuesta realizada por el CIS en junio de 2014, el Valencia CF es el cuarto club de fútbol en porcentaje en cuanto a simpatizantes en España (3,5 %), por detrás de Real Madrid (37,9 %), FC Barcelona (25,4 %) y Atlético de Madrid (6,1 %).</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/yxwsqp1473503062.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133725-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/yf9vqk1532346003.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/b9ntg31558906786.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/wpxstp1424185499.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/l1g43j1558906658.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/sixgoa1511474372.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/ibbf3t1558906935.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/valenciacf</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133841</idTeam>
+    <idSoccerXML>257</idSoccerXML>
+    <idAPIfootball>720</idAPIfootball>
+    <intLoved/>
+    <strTeam>Valladolid</strTeam>
+    <strTeamShort/>
+    <strAlternate>Real Valladolid</strAlternate>
+    <intFormedYear>1928</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>José Zorrilla</strStadium>
+    <strKeywords>Pucela</strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/bdquln1529232554.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio José Zorrilla is a football stadium in Valladolid, Spain. The capacity of the stadium is 27,846 seats, making it the 22nd-largest stadium in Spain and the largest in Castile and León.
+
+The stadium was built in 1982 and is named after poet José Zorrilla y Moral. Prior to this, they played in the old Estadio José Zorrilla.
+
+The first match to be played at the stadium was a Spanish Liga match 20 February 1982 between Real Valladolid and Athletic Bilbao which ended in a 1–0 victory for Valladolid, the only goal being scored in the 84th minute by Jorge Alonso. The 1982 Copa del Rey Final was played at the stadium on 13 April, with Real Madrid defeating Sporting de Gijón 2–1.
+
+During the 1982 FIFA World Cup, three Group D matches (Czechoslovakia-Kuwait, France-Kuwait and France-Czechoslovakia) were played at the Estadio Zorrilla.
+
+Pop Superstar Michael Jackson performed a sold-out show on September 6, 1997 during his HIStory World Tour and concluded his European leg of the tour.
+
+Plans are currently under way to expand the stadium to 40,000 spectators. The project is known as Valladolid Arena .
+
+In 2016, the stadium hosted the Copa del Rey de Rugby final between SilverStorm El Salvador and VRAC Entrepinares. 26,500 spectators attended to the game beating the record of attendance to a rugby union match in Spain.</strStadiumDescription>
+    <strStadiumLocation>Valladolid</strStadiumLocation>
+    <intStadiumCapacity>27846</intStadiumCapacity>
+    <strWebsite>www.realvalladolid.es</strWebsite>
+    <strFacebook>www.facebook.com/RealValladolid</strFacebook>
+    <strTwitter>twitter.com/realvalladolid</strTwitter>
+    <strInstagram>www.instagram.com/realvalladolid</strInstagram>
+    <strDescriptionEN>Real Valladolid Club de Fútbol, S.A.D., or simply Real Valladolid or Valladolid, is a football club based in Valladolid (Castile and León, Spain) from where the nickname Pucela is derived. The colours that identify the club are the violet and white, used in the form of streaks in his uniform holder from its foundation on 20 June 1928. It plays in La Liga, holding home games at the Estadio José Zorrilla, which seats 27,846 spectators.
+
+Valladolid&#x27;s honours include a single trophy of great relevance, the defunct Copa de la Liga 1983/84. It has been runner-up in the Copa del Rey on two occasions (1949/50 and 1988/89), and has participated in two editions of the UEFA Cup (1984/85 and 1997/98) and also one edition of the UEFA Cup Winners&#x27; Cup (1989/90). The team subsidiary, the Real Valladolid B, currently play in the Segunda División B.
+
+Since the Club made its La Liga debut in the 1948-49 season (in which it became the first club from Castile and Leon to play in La Liga), Valladolid is the most successful football club in Castile and León by honours and history, with a total of 44 seasons in the First Division, 35 in the Second and 10 in the Third. Historically, Valladolid is the 13th best team in Spain by overall points. Valladolid is one of four clubs in La Liga in clubs with 40 or more seasons. Two of its players have risen with the Pichichi Trophy: Manuel Badenes and Jorge da Silva; and ten were internationals with the Spain national football team.
+
+On 3 September 2018, it was announced Brazilian former international footballer Ronaldo Nazario had become the majority shareholder after purchasing a 51% controlling stake in the club.
+
+As of 2019, Valladolid is one of six former La Liga Clubs from Castile and Leon to have been played in the Spanish top division.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Real Valladolid Club de Fútbol es un club de fútbol español organizado como sociedad anónima deportiva de la ciudad de Valladolid, en la comunidad autónoma de Castilla y León, y que en la temporada 2014/15 militará en Segunda División. Fue fundado el 20 de junio de 1928, fruto de la fusión de los dos clubes más importantes de la ciudad, el Club Deportivo Español y la Real Unión Deportiva.6 Los colores que identifican al club son el violeta y el blanco, utilizados en forma de rayas verticales en su uniforme titular desde su fundación.12 Desde 1982 juega como local en el Estadio José Zorrilla, de propiedad municipal, y con capacidad para 26 512 espectadores.
+
+Cuenta en su palmarés con un único trofeo de gran relevancia, la Copa de la Liga de 1983/84.6 Ha sido subcampeón de la Copa del Rey en dos ocasiones, y ha participado en una edición de la Recopa y en dos de la Copa de la UEFA.6 Su equipo filial, el Real Valladolid Club de Fútbol &quot;B&quot;, milita actualmente en Segunda División B.
+
+Es el club de fútbol más importante de Castilla y León por palmarés e historia, con un total de 43 temporadas en Primera División, 31 en Segunda y 9 en Tercera. Históricamente, es el decimotercer mejor equipo de España.14 15 Dos de sus jugadores se han alzado con el Trofeo Pichichi, Manuel Badenes y Jorge da Silva, y diez han sido internacionales con la selección española.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rvytvt1473503711.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133841-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/0vzykf1534962300.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/2eca371534962352.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/rdkese1534962388.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ks9qm51534962461.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/rot77n1534962549.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/gk4l4e1534962742.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/RealValladolidSAD</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133740</idTeam>
+    <idSoccerXML>156</idSoccerXML>
+    <idAPIfootball>533</idAPIfootball>
+    <intLoved/>
+    <strTeam>Villarreal</strTeam>
+    <strTeamShort/>
+    <strAlternate>Villareal, Villarreal Club de Fútbol, Villarreal CF, Vila-real, VCF</strAlternate>
+    <intFormedYear>1923</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>Spanish La Liga</strLeague>
+    <idLeague>4335</idLeague>
+    <strLeague2>Copa del Rey</strLeague2>
+    <idLeague2>4483</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Estadio de la Cerámica</strStadium>
+    <strKeywords>El Submarino Amarillo</strKeywords>
+    <strRSS>https://www.villarrealcf.es/itemlist?format=feed&amp;type=rss</strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uuyrpq1423701093.jpg</strStadiumThumb>
+    <strStadiumDescription>Estadio de la Cerámica, formerly and informally called El Madrigal), is a football stadium in Villarreal, Spain, used since 1923. It is currently the home venue of Villarreal CF of La Liga, the highest football league in Spain.
+
+The stadium has 24,890 seats, a figure which is half the population of the city of Villarreal, making it the 25th-largest stadium in Spain and the 5th-largest in the Valencian Community. There is a statue of a yellow submarine outside the stadium to represent the club&#x27;s nickname.</strStadiumDescription>
+    <strStadiumLocation>Villareal, Castellón</strStadiumLocation>
+    <intStadiumCapacity>24890</intStadiumCapacity>
+    <strWebsite>www.villarrealcf.es</strWebsite>
+    <strFacebook>www.facebook.com/villarrealcf/</strFacebook>
+    <strTwitter>twitter.com/VillarrealCF</strTwitter>
+    <strInstagram>www.instagram.com/villarrealcf</strInstagram>
+    <strDescriptionEN>Villarreal Club de Fútbol, S.A.D. (Valencian: Vila-real Club de Futbol, S.A.D.), usually abbreviated to Villarreal CF or just Villarreal, is a Spanish football club based in Villarreal, a city in the province of Castellón within the Valencian Community. Founded in 1923, it plays in La Liga, holding home games at Estadio de la Cerámica, with a capacity of 24,890.
+
+The club is nicknamed El Submarí Groguet or El Submarino Amarillo (Yellow Submarine) due to its yellow home kit, and due to being a low-profile team compared to Real Madrid, Barcelona, Atlético Madrid, and regional rivals Valencia, whom they have challenged for trophies over the last decade. Villarreal has often been touted as an example of a small but successful club.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El Villarreal Club de Fútbol, S. A. D., es un club profesional de fútbol de la Primera División de España, organizado como sociedad anónima deportiva, perteneciente al municipio valenciano de Villarreal en la provincia de Castellón (España).
+
+El Villarreal C.F. nació el 10 de marzo de 1923 bajo el nombre de Club Deportivo Villarreal, y desde el 17 de junio de 1923 disputa sus encuentros en el estadio de El Madrigal, con capacidad para 25 514 espectadores. El club conserva un curioso récord: todavía hoy es —con algo más de 19.000 afiliados— el club de fútbol en toda la historia de la competición profesional con mayor número de abonados en proporción a los habitantes de su ciudad sede. Llegó a superar los 20.000 e incluso conservó 12.543 abonados en su última estancia en Segunda División.
+
+Desde la década de los años 40, la indumentaria del club se ha caracterizado por el color amarillo de su camiseta, y el equipo es conocido popularmente bajo el apodo de Submarino Amarillo o Submarí Groguet (en valenciano). En 2002, se inauguraron las instalaciones de la Ciudad Deportiva del Villarreal, lugar donde entrena el primer equipo y las categorías inferiores.
+
+Uno de los mayores logros deportivos de la entidad, ha sido la consecución del subcampeonato nacional de liga en la temporada 2007-08, aunque previamente, en la Liga de Campeones de la UEFA 2005-06, alcanzó las semifinales del torneo, proclamándose como el mejor equipo debutante de la competición. En diciembre de 2004, la IFFHS proclamó al Villarreal C.F. como el mejor equipo del mes a nivel mundial.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Spain</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133740-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/wwxuts1424539512.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wxuwvv1424484977.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/p50na81532346582.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/kj9n0e1532346541.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/mvycyp1532346636.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/rurvxr1433200127.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+</root>

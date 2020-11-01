@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <team>
+    <idTeam>133652</idTeam>
+    <idSoccerXML>59</idSoccerXML>
+    <idAPIfootball>170</idAPIfootball>
+    <intLoved/>
+    <strTeam>Augsburg</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Augsburg</strAlternate>
+    <intFormedYear>1907</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>WWK Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/wrqsxv1423713279.jpg</strStadiumThumb>
+    <strStadiumDescription>Augsburg Arena, currently known commercially as the WWK Arena (German pronunciation: , officially stylised as WWK ARENA) is a football stadium in Augsburg, Bavaria, Germany. It is used mostly for football matches and hosts the home matches of FC Augsburg.
+
+The stadium has a capacity of 30,660 with 19,060 seats and standing room for 11,034. A second phase of construction could expand capacity to 49,000 in the future. It replaced the club&#x27;s previous home stadium, Rosenaustadion.
+
+During the time of designing and constructing the stadium, it was called &quot;Augsburg Arena&quot; . It was opened as &quot;Impuls Arena&quot; (, officially stylised as impuls arena), and was renamed &quot;SGL Arena&quot; (, officially stylised as SGL arena) after SGL Carbon acquired the naming rights for the structure in May 2011. The contract had a term of seven years and began on 1 July 2011. On 1 July 2015 the stadium naming rights were acquired by WWK, an insurance company, changing the official name of the stadium to &quot;WWK ARENA&quot;.
+
+Augsburg was one of the official host cities of the 2010 FIFA U-20 Women&#x27;s World Cup and the subsequent 2011 FIFA Women&#x27;s World Cup. The Impuls arena was the location of several matches during the group stage and the quarterfinals. During the FIFA-competitions it was renamed &quot;FIFA Women&#x27;s World Cup Stadium Augsburg&quot;.
+
+WWK Arena is the first climate-neutral football stadium in the world. The carbon neutrality was achieved by six ecological heat pumps (40 m deep), which produce the desired temperature via heat exchangers. A bio natural gas boiler also supplies the necessary energy during peak load times at a game. In 2017, a new stadium facade will be made for the WWK Arena.</strStadiumDescription>
+    <strStadiumLocation>Augsburg, Germany</strStadiumLocation>
+    <intStadiumCapacity>30660</intStadiumCapacity>
+    <strWebsite>www.fcaugsburg.de</strWebsite>
+    <strFacebook>www.facebook.com/FCAugsburg/</strFacebook>
+    <strTwitter>twitter.com/fcaugsburg</strTwitter>
+    <strInstagram>www.instagram.com/fcaugsburg1907</strInstagram>
+    <strDescriptionEN>Fußball-Club Augsburg 1907 e. V., commonly known as FC Augsburg (German pronunciation: ) or Augsburg, is a German football club based in Augsburg, Bavaria. FC Augsburg play in the Bundesliga, the top tier of the German football league system. The team was founded as Fußball-Klub Alemania Augsburg in 1907 and played as BC Augsburg from 1921 to 1969. With over 12,200 members, it is the largest football club in Swabian Bavaria.
+
+FC Augsburg, which has long fluctuated between the second and third division, experienced a difficult time in the early 2000s, suffering relegation to the fourth division for two seasons. FCA recovered from this, returning to professional football in 2006. At the end of the 2010–11 season, Augsburg were promoted to the Bundesliga for the first time. Since 2009, FC Augsburg&#x27;s stadium has been the WWK ARENA.</strDescriptionEN>
+    <strDescriptionDE>Der FC Augsburg (offiziell: Fußball-Club Augsburg 1907, kurz: FCA) ist der größte Sportverein in Augsburg und Bayerisch-Schwaben.
+
+Der Verein ging im Jahr 1969 aus einer Fusion des BC Augsburg, der am 8. August 1907 unter dem Namen FC Alemannia Augsburg gegründet worden war, mit der Lizenzspieler-Abteilung des TSV Schwaben Augsburg hervor. Der Club gliedert sich in den Hauptverein Fußball-Club Augsburg 1907 e. V., die ausgegliederte Profifußball-Abteilung Fußball-Club Augsburg 1907 GmbH &amp; Co. KGaA sowie die ausgegliederte Skiabteilung Ski- und Bergfreunde des FCA e. V. Die Vereinsfarben sind Rot, Grün und Weiß; auf dem Vereinslogo ist die Zirbelnuss abgebildet. Zu den bekanntesten Persönlichkeiten der Vereinsgeschichte zählen die Trainer Max Merkel und Armin Veh sowie die Spieler Ulrich Biesinger und Helmut Haller. Als größte Erfolge der Vereinsgeschichte gelten der Aufstieg in die 1. Bundesliga im Jahr 2011 sowie der Einzug in die Europa League im Jahr 2015.
+
+Die erste Mannschaft des FCA spielt in der 1. Bundesliga und belegt in deren Ewiger Tabelle den 33. Platz. Die zweite Mannschaft nimmt am Spielbetrieb der Regionalliga Bayern teil, außerdem existieren eine Frauen- und eine Juniorenabteilung sowie eine Traditionsmannschaft. Die erste Mannschaft trägt ihre Heimspiele in der WWK ARENA aus, weitere Spielorte des FCA sind das Rosenaustadion, die Bezirkssportanlage Paul Renz, die Bezirkssportanlage Süd sowie das Ernst-Lehner-Stadion. Der FCA hat derzeit rund 19.000 Dauerkarten-Besitzer, rund 13.500 Mitglieder und mehr als 75 offizielle Fanclubs.</strDescriptionDE>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133652-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/zrun961535564057.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tpwrpu1424317480.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/xy227v1535563867.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/uysf571535563819.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/mhb2401535563901.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/qfv7es1535564001.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133664</idTeam>
+    <idSoccerXML>71</idSoccerXML>
+    <idAPIfootball>157</idAPIfootball>
+    <intLoved>2</intLoved>
+    <strTeam>Bayern Munich</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Bayern München</strAlternate>
+    <intFormedYear>1900</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>DFB-Pokal</strLeague3>
+    <idLeague3>4485</idLeague3>
+    <strLeague4>International Champions Cup</strLeague4>
+    <idLeague4>4505</idLeague4>
+    <strLeague5>UEFA Super Cup</strLeague5>
+    <idLeague5>4512</idLeague5>
+    <strLeague6>FIFA Club World Cup</strLeague6>
+    <idLeague6>4503</idLeague6>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Allianz Arena</strStadium>
+    <strKeywords>Bayern</strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uypvrq1420399659.jpg</strStadiumThumb>
+    <strStadiumDescription>The Allianz Arena  is a football stadium in Munich, Bavaria, Germany with a 75,024 seating capacity. Widely known for its exterior of inflated ETFE plastic panels, it is the first stadium in the world with a full color-changing color exterior. Located at 25 Werner-Heisenberg-Allee at the northern edge of Munich&#x27;s Schwabing-Freimann borough on the Fröttmaning Heath, it is the third largest arena in Germany behind Signal Iduna Park in Dortmund and the Olympiastadion in Berlin.
+
+The two professional Munich football clubs FC Bayern Munich and TSV 1860 München have played their home games at the Allianz Arena since the start of the 2005–06 season. The clubs had previously played their home games at the Munich Olympic Stadium since 1972. TSV 1860 München previously had a 50% share in the stadium but FC Bayern Munich purchased their shares for 11 million euros in April, 2006. The arrangement allows TSV 1860 München to play at the stadium while retaining no ownership.
+
+The large financial services provider Allianz purchased the naming rights to the stadium for 30 years. However this name cannot be used when hosting FIFA and UEFA events, since these governing bodies have policies forbidding corporate sponsorship from companies that are not official tournament partners. During the 2006 World Cup, the stadium was referred to as FIFA World Cup Stadium Munich. In UEFA club matches, it is known as Fußball Arena München (Football Arena Munich) , and it hosted the 2012 UEFA Champions League Final. The stadium has been nicknamed &quot;Schlauchboot&quot; (inflatable boat). The museum of Bayern Munich, FC Bayern Erlebniswelt, is located inside the Allianz Arena.</strStadiumDescription>
+    <strStadiumLocation>Munich, Germany</strStadiumLocation>
+    <intStadiumCapacity>75024</intStadiumCapacity>
+    <strWebsite>www.fcbayern.t-home.de/en</strWebsite>
+    <strFacebook>www.facebook.com/FCBayernEN</strFacebook>
+    <strTwitter>twitter.com/fcbayernen</strTwitter>
+    <strInstagram>www.instagram.com/fcbayern</strInstagram>
+    <strDescriptionEN>Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria. It is best known for its professional football team, which plays in the Bundesliga, the top tier of the German football league system, and is the most successful club in German football history, having won a record 24 national titles and 17 national cups.
+
+FC Bayern was founded in 1900 by eleven football players led by Franz John. Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its inception in 1963. The club had its period of greatest success in the middle of the 1970s when, under the captaincy of Franz Beckenbauer, it won the European Cup three times in a row (1974–76). Overall, Bayern has reached ten European Cup/UEFA Champions League finals, most recently winning their fifth title in 2013 as part of a continental treble. Bayern has also won one UEFA Cup, one European Cup Winners&#x27; Cup, one UEFA Super Cup, one FIFA Club World Cup and two Intercontinental Cups, making it one of the most successful European clubs internationally. Since the formation of the Bundesliga, Bayern has been the dominant club in German football with 24 titles and has won 6 of the last 10 titles. They have traditional local rivalries with TSV 1860 München and 1. FC Nürnberg, as well as a contemporary rivalry with Borussia Dortmund.
+
+Since the beginning of the 2005–06 season, Bayern has played its home games at the Allianz Arena. Previously the team had played at Munich&#x27;s Olympiastadion for 33 years. The team colours are red and white, and the team crest shows the white and blue flag of Bavaria. In terms of revenue, Bayern Munich is the biggest sports club in Germany and the fourth biggest football club in the world, generating €368.4 million in 2012. With over 251,000 members, Bayern is the biggest club in the world. There are more than 3,800 officially-registered fan clubs with over 285,000 members. The club has other departments for chess, handball, basketball, gymnastics, bowling, table tennis, referees, and senior football with more than 1,100 active members.</strDescriptionEN>
+    <strDescriptionDE>Der FC Bayern München (offiziell: Fußball-Club Bayern, München eingetragener Verein)[2] ist ein Sportverein aus München. Die seit 2002 in eine eigene Kapitalgesellschaft ausgegliederte Profifußballabteilung ist deutscher Rekordmeister, jeweils Rekordsieger im DFB-Pokal und im DFL-Ligapokal und belegt in der ewigen Tabelle der Bundesliga den ersten Platz. Damit ist der FC Bayern im Profifußball der erfolgreichste deutsche Verein. In der Saison 2012/13 gelang mit dem Gewinn von Champions League, deutscher Meisterschaft und DFB-Pokal zum ersten Mal einer deutschen Mannschaft bei den Männern das sogenannte Triple.
+
+Auf europäischer Ebene gehört der FC Bayern mit sieben Europapokalsiegen[3], davon fünf in der Champions League bzw. dem Europapokal der Landesmeister, zu den fünf erfolgreichsten Vereinen. Neben Juventus Turin, Ajax Amsterdam und dem FC Chelsea ist er einer der Vereine, die alle drei Europapokale, nämlich die Champions League, den Europapokal der Pokalsieger und den UEFA-Pokal gewinnen konnten. Zudem gewann der FC Bayern München zweimal den Weltpokal und je einmal den UEFA Super Cup sowie die FIFA-Klub-Weltmeisterschaft. Letzteres macht ihn zum einzigen Verein, der sowohl die drei Europapokale als auch die FIFA-Klub-Weltmeisterschaft gewinnen konnte.
+
+Auch wirtschaftlich gehört der Verein zu den weltweit erfolgreichsten: Nach der Saison 2012/13 belegten die Bayern Rang drei in der Rangliste der umsatzstärksten Klubs.[4] Im April 2013 belegte der FC Bayern den fünften Rang in der Liste der wertvollsten Vereine des Forbes Magazine.[5] Ende Mai 2013 war der FC Bayern München laut einer Studie des britischen Brand Finance Institute mit einem Wert von 669 Millionen Euro der wertvollste Fußballverein der Welt.[6][7]
+
+Mit 251.315 Vereinsmitgliedern ist der FC Bayern der mitgliederstärkste Sportverein weltweit. Der Verein hat 3.774 offizielle Fanclubs mit insgesamt 293.607 registrierten Mitgliedern (Stand: 28. November 2014).[8]
+
+Seit der Saison 1965/66 spielt der FC Bayern ununterbrochen in der Bundesliga, lediglich die ersten zwei Jahre nach Einführung der Bundesliga war die Mannschaft zweitklassig. Die zweite Mannschaft des FC Bayern spielt zurzeit in der viertklassigen Regionalliga Bayern. Sie gewann in der Saison 2003/04 den Meistertitel in der damals noch drittklassigen Regionalliga Süd.
+
+Zum FC Bayern gehören zudem weitere Abteilungen, die auch einige Erfolge aufweisen können. So wurden die derzeit in der Frauen-Bundesliga spielenden Fußballfrauen 1976 Deutscher Meister und 2012 DFB-Pokalsieger. Weitere Erfolge feierten die Basketballer mit drei Meisterschaften und einem Pokalsieg, die Schachabteilung mit neun Deutschen Meisterschaften und einem Europapokalsieg sowie die Turner mit vier Deutschen Meisterschaften.</strDescriptionDE>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El club de fútbol Bayern de Múnich, en alemán Bayern München (Fußball Club Bayern München e.V.), es una entidad deportiva de la ciudad de Múnich, Alemania. Fue fundado el 27 de febrero de 1900. Es uno de los clubes de mayor prestigio en el mundo, es conocido por su sección de fútbol profesional, que participa en la Bundesliga. El Bayern juega sus encuentros como local en el Estadio Allianz Arena, que comparte con el TSV 1860 München.
+
+En la historia de la Bundesliga, es el máximo ganador, con 24 títulos ligeros y 17 trofeos de la Copa de Alemania, siendo el equipo más laureado del país.
+
+A nivel Internacional, es uno de los cinco equipos que se ha ganado el derecho a conservar en propiedad la Copa de Europa y utiliza un distintivo de múltiple campeón del torneo, que ganó de forma consecutiva en 1974, 1975 y 1976. También es uno de los dos equipos en lograr el Triplete y ganar, además, la Copa Mundial de Clubes en el mismo año,6 que logró en la temporada 2012-13.7 Bayern, Juventus, Ajax de Ámsterdam y Chelsea FC son los cuatro clubes que han ganado las tres grandes competiciones de la UEFA.
+
+En el máximo torneo europeo de clubes, la Liga de Campeones de la UEFA, el Bayern Múnich ha disputado un total de 10 finales, 15 semifinales, 23 cuartos de final, 29 participaciones, 287 partidos jugados, 160 victorias, entre otros registros históricos, que le sitúan, por clasificación histórica y puntaje, sólo por detrás del Real Madrid en este torneo. En cuanto a títulos conquistados, es tercero con cinco, por detrás del Real Madrid y el AC Milan.
+
+El gran rival europeo histórico del Bayern Múnich es el Real Madrid de España. En la Liga de Campeones, el Bayern Múnich y el Real Madrid son los dos clubes que más partidos han disputado y más victorias tienen, así como mantienen la rivalidad más longeva,con hasta 21 partidos entre ellos. Toda esta encarnizada rivalidad se resume en El Clásico Europeo.
+
+El Bayern es el club con el mayor número de seguidores en Alemania. Sus principales rivales actuales son Núremberg, con quien juega el Derbi de Baviera, y los diversos equipos con los que ha disputado los títulos de liga de Alemania y la Copa de Europa, entre ellos el Borussia Dortmund (Gran Clásico Alemán), el VfB Stuttgart (Sudderby), el TSV 1860 München (derbi de Múnich) o el Schalke 04.
+
+La gestión del equipo de fútbol es responsabilidad de una sociedad filial del club llamada FC Bayern München AG,9 desde 2002 bajo la dirección del ex futbolista Karl-Heinz Rummenigge,10 que gestiona el patrimonio económico y las actividades en el Allianz Arena.
+
+La Academia Laureus World Sports lo ha concedido con el prestigioso galardón de &quot;Mejor equipo mundial del 2014&quot;.11 También la Federación Internacional de Historia y Estadística de Fútbol lo ha elegido en una oportunidad como &quot;Mejor equipo del mundo de 2013&quot; y en nueve ocasiones como el &quot;Mejor equipo del mundo del mes&quot;.12 Tiene cerca de 250.000 socios inscritos que lo convierten en el club deportivo con mayor número de socios en el mundo.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/sl3wze1557006052.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133664-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/gs99p51532295294.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/09b7u21519406807.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/qsquux1420406434.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/x5hm7g1519406705.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/3vhk421519406507.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vv74jg1565115651.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/fcbayern</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133852</idTeam>
+    <idSoccerXML>268</idSoccerXML>
+    <idAPIfootball>188</idAPIfootball>
+    <intLoved/>
+    <strTeam>Bielefeld</strTeam>
+    <strTeamShort/>
+    <strAlternate>Arminia Bielefeld, Deutscher Sport-Club Arminia Bielefeld</strAlternate>
+    <intFormedYear>1905</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Bielefelder Alm</strStadium>
+    <strKeywords>Die Blauen (The Blues)</strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb/>
+    <strStadiumDescription>Bielefelder Alm is a football stadium in Bielefeld, Germany. The stadium, which has a capacity of 27 300, is owned by the football club DSC Arminia Bielefeld and mostly used for the club&#x27;s matches. Formerly named Stadion Alm , it is currently known as SchücoArena  due to a sponsorship deal with the Bielefeld-based window and solar panel manufacturers.</strStadiumDescription>
+    <strStadiumLocation>Bielefeld, North Rhine-Westphalia</strStadiumLocation>
+    <intStadiumCapacity>27300</intStadiumCapacity>
+    <strWebsite>www.arminia-bielefeld.de</strWebsite>
+    <strFacebook>www.facebook.com/DSCArminiaBielefeld</strFacebook>
+    <strTwitter>twitter.com/arminia</strTwitter>
+    <strInstagram>instagram.com/arminiaofficial</strInstagram>
+    <strDescriptionEN>DSC Arminia Bielefeld (full name: German: Deutscher Sportclub Arminia Bielefeld e.V. also known as &quot;Die Arminen&quot; or &quot;Die Blauen&quot;), or just Arminia, is a German sports club from Bielefeld, North Rhine-Westphalia. Arminia offers the sports of football, field hockey, figure skating and cue sports. The club has 12,000 members and the club colours are black, white and blue. Arminia&#x27;s name derives from the Cheruscan chieftain Arminius, who defeated a Roman army in the Battle of the Teutoburg Forest.
+
+The club is most commonly known for its professional football team that play in the 2. Bundesliga and mostly played in the first or second tier of the German football league system, among them 17 seasons in the 1. Bundesliga, to which they will return in the 2020–21 season. Arminia&#x27;s most successful years were the 1920s, the early 1980s and the middle 2000s. In 1947 and in the 1950s Arminia had sunk down to a team playing in a rather local area in the third tier (later third tiers covered larger areas).
+
+Arminia has been playing their home games at the Bielefelder Alm Stadium since 1926. Since 2004 the stadium has been named SchücoArena through a sponsorship deal.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/xrrwpx1447591964.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/rswtsx1475396682.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/vwwpuv1447592089.png</strTeamLogo>
+    <strTeamFanart1/>
+    <strTeamFanart2/>
+    <strTeamFanart3/>
+    <strTeamFanart4/>
+    <strTeamBanner/>
+    <strYoutube>www.youtube.com/ArminiaClubTV</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133650</idTeam>
+    <idSoccerXML>57</idSoccerXML>
+    <idAPIfootball>165</idAPIfootball>
+    <intLoved>2</intLoved>
+    <strTeam>Dortmund</strTeam>
+    <strTeamShort/>
+    <strAlternate>Borussia Dortmund</strAlternate>
+    <intFormedYear>1909</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>DFB-Pokal</strLeague3>
+    <idLeague3>4485</idLeague3>
+    <strLeague4>Club Friendlies</strLeague4>
+    <idLeague4>4569</idLeague4>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Westfalenstadion</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/ruuywx1421658343.jpg</strStadiumThumb>
+    <strStadiumDescription>Westfalenstadion is an association football stadium in Dortmund, North Rhine-Westphalia, Germany. It is the home stadium of the Borussia Dortmund football team playing in the German Bundesliga.
+
+The stadium is officially named Signal Iduna Park  under a sponsorship arrangement lasting from December 2005 until 2021, giving naming rights to the Signal Iduna Group, an insurance company. The older name Westfalenstadion derives from the former Prussian province of Westphalia, which is part of the German federal state North Rhine-Westphalia. It is one of the most famous football stadiums in Europe and was elected best football stadium by The Times for its renowned atmosphere.
+
+It has a league capacity of 80,720 (standing and seated) and an international capacity of 65,718 (officially seats only). It is Germany&#x27;s biggest stadium and the seventh biggest stadium in Europe, as well as the third-largest stadium home to a top-flight European club (behind only Camp Nou and the Estadio Santiago Bernabéu). The stadium established the European record in average fan attendance in 2004–2005 with a total of 1.354 million fans. The stadium broke this record in the 2011–2012 season with almost 1.37 million spectators. Sales of annual season tickets exceed 50,000. The Südtribüne (South Bank) is the largest extant terrace for standing spectators in European football; it is regularly full to its 24,454 capacity. Famous for the intense atmosphere it breeds, the south terrace has been nicknamed &quot;Yellow Wall&quot;. The Borusseum, the museum of Borussia Dortmund, is located inside the stadium.
+
+The stadium hosted matches of the 1974 FIFA World Cup and of the 2006 FIFA World Cup. It also hosted the 2001 UEFA Cup Final. Various national friendlies and qualification matches for World and European tournaments have been played there as well as matches in European club competitions.</strStadiumDescription>
+    <strStadiumLocation>Dortmund, Germany</strStadiumLocation>
+    <intStadiumCapacity>80720</intStadiumCapacity>
+    <strWebsite>www.bvb.de</strWebsite>
+    <strFacebook>www.facebook.com/BVB/</strFacebook>
+    <strTwitter>twitter.com/bvb</strTwitter>
+    <strInstagram>instagram.com/bvb09</strInstagram>
+    <strDescriptionEN>Ballspielverein Borussia 09 e.V. Dortmund, commonly known as Borussia Dortmund , Dortmund, or BVB, is a German sports club based in Dortmund, North Rhine-Westphalia. The football team is part of a large membership-based sports club with 100,000 members, making BVB the third largest sports club by membership in Germany. Dortmund plays in the Bundesliga, the top tier of the German football league system. Dortmund is one of the most successful clubs in German football history.
+
+Borussia Dortmund was founded in 1909 by seventeen football players from Dortmund. Borussia Dortmund have won eight German championships, three DFB-Pokals, five DFL-Supercups, one UEFA Champions League, one UEFA Cup Winners&#x27; Cup, and one Intercontinental Cup. Their Cup Winners&#x27; Cup win in 1966 made them the first German club to win a European title.
+
+Since 1974, Dortmund have played their home games at Westfalenstadion. The stadium is the biggest stadium in Germany. Dortmund has the highest average attendance of any Association football club in the world. Borussia Dortmund&#x27;s colours are black and yellow, giving the club its nickname die Schwarzgelben. Dortmund holds a long-standing rivalry with Ruhr neighbours Schalke, known as the Revierderby. Dortmund also has a rivalry with Bayern Munich. In terms of Deloitte&#x27;s annual Football Money League, Dortmund is the second biggest sports club in Germany and the eleventh biggest football team in the world.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qtsqtx1473453261.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133650-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/9f18ay1531055034.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/twurvu1424230516.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vperuy1531055157.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/qwuruv1424230476.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/sqypyt1424230498.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/unv82w1531055243.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133814</idTeam>
+    <idSoccerXML>230</idSoccerXML>
+    <idAPIfootball>169</idAPIfootball>
+    <intLoved/>
+    <strTeam>Ein Frankfurt</strTeam>
+    <strTeamShort/>
+    <strAlternate>Eintracht Frankfurt</strAlternate>
+    <intFormedYear>1899</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3>UEFA Europa League</strLeague3>
+    <idLeague3>4481</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Commerzbank-Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vqyqxv1423712780.jpg</strStadiumThumb>
+    <strStadiumDescription>Commerzbank-Arena is a retractable roof sports stadium in Frankfurt, Hesse, Germany. Commonly known by its original name, Waldstadion  (English: Forest Stadium), the stadium opened in 1925. The stadium has been upgraded several times since then; the most recent remodelling was its redevelopment as a football-only stadium in preparation for the 2005 FIFA Confederations Cup and 2006 FIFA World Cup. With a capacity of 51,500 spectators for league matches and 48,500 for American Football and International Football matches, it is among the ten largest football stadiums in Germany. The stadium was one of the nine venues of 2011 FIFA Women&#x27;s World Cup, and hosted four matches including the final.
+
+The sports complex, which is owned by the city of Frankfurt, includes the actual stadium and other sports facilities, including a swimming pool, a tennis complex, a beach volleyball court and a winter sports hall. The arena has its own railway station, Frankfurt Stadion, on the national rail network.
+
+The Commerzbank-Arena is home stadium of football club Eintracht Frankfurt whose offices are also located on the premises.</strStadiumDescription>
+    <strStadiumLocation>Frankfurt, Germany</strStadiumLocation>
+    <intStadiumCapacity>51500</intStadiumCapacity>
+    <strWebsite>www.eintracht.de</strWebsite>
+    <strFacebook>www.facebook.com/eintracht.eng</strFacebook>
+    <strTwitter>twitter.com/eintracht</strTwitter>
+    <strInstagram>www.instagram.com/eintrachtfrankfurt</strInstagram>
+    <strDescriptionEN>Eintracht Frankfurt e.V. is a German sports club based in Frankfurt, Hesse, that is best known for its association football club, currently playing in the Bundesliga, the top tier of the German football league system.
+
+The club was founded in 1899 and have won one German championship, five DFB-Pokals and one UEFA Cup. Since 1925, their stadium has been the Waldstadion, which was renamed Commerzbank-Arena in 2005.
+
+History
+Club origins
+The origins of the side go back to a pair of football clubs founded in 1899: Frankfurter Fußball-Club Viktoria von 1899 – regarded as the &quot;original&quot; football side in the club&#x27;s history – and Frankfurter Fußball-Club Kickers von 1899. Both clubs were founding members of the new Nordkreis-Liga in 1909. These two teams merged in May 1911 to become Frankfurter Fußball Verein (Kickers-Viktoria), an instant success, taking three league titles from 1912 to 1914 in the Nordkreis-Liga and qualifying for the Southern German championship in each of those seasons. In turn, Frankfurter FV joined the gymnastics club Frankfurter Turngemeinde von 1861 to form TuS Eintracht Frankfurt von 1861 in 1920. (The German word Eintracht means &#x27;harmony, concord,&#x27; and Eintracht X is the equivalent of English X United in the names of sports teams.)</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133814-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/jp4d3k1540544782.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/uvxpyy1424316870.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/ttqqxp1424316890.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/fmbw191540544459.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/j7itkv1540544512.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/uv8svj1540544603.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133654</idTeam>
+    <idSoccerXML>61</idSoccerXML>
+    <idAPIfootball>192</idAPIfootball>
+    <intLoved/>
+    <strTeam>FC Koln</strTeam>
+    <strTeamShort/>
+    <strAlternate>1. FC Köln</strAlternate>
+    <intFormedYear>1948</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>RheinEnergieStadion</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/txtprw1423713153.jpg</strStadiumThumb>
+    <strStadiumDescription>The RheinEnergieStadion is a German football stadium in Cologne. It was built on the site of the two previous Müngersdorfer stadiums. It is the home of the local Bundesliga team, 1. FC Köln. The stadium was one of 5 stadiums hosting both the 2005 FIFA Confederations Cup and 2006 FIFA World Cup. Local energy company RheinEnergie AG currently holds the naming rights to the stadium.</strStadiumDescription>
+    <strStadiumLocation>Aachener Straße 999 50933 Cologne, Germany</strStadiumLocation>
+    <intStadiumCapacity>49698</intStadiumCapacity>
+    <strWebsite>www.fc-koeln.de</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter>twitter.com/fckoeln</strTwitter>
+    <strInstagram>www.instagram.com/fckoeln</strInstagram>
+    <strDescriptionEN>1. Fußball-Club Köln 01/07 e. V., commonly known as simply 1. FC Köln or FC Cologne in English, is a German association football club based in Cologne. It was formed in 1948 as a merger of the clubs Kölner Ballspiel-Club 1901 and SpVgg Sülz 07. Köln gained promotion back to the Bundesliga in the 2018–19 season after being relegated to 2. Bundesliga the previous season. The team won the first Bundesliga in 1963.
+
+The club&#x27;s nickname Die Geißböcke (The Billy Goats) refers to the club&#x27;s mascot, a male goat named Hennes after the veteran FC player and (later) manager Hennes Weisweiler. The first Hennes was donated by a circus entrepreneur as a Cologne carnival joke. The current mascot is Hennes IX as of 1 August 2019 after Hennex VIII was retired by the club due to old age. Another nickname for the club, more common locally due to its ambiguity, is FC (often written as Effzeh), a common German abbreviation for football clubs. Characteristic for the dialect spoken around Cologne, this is pronounced &quot;EF-tsay&quot;, in contrast to the Standard German pronunciation of the abbreviation where the second syllable is emphasized (). Köln play at home in white and red, both colours having been used as the main shirt colour throughout its history.
+
+Like many of Germany&#x27;s other professional football clubs, 1. FC Köln is part of a larger sports club with teams in other sports like handball, table tennis and gymnastics. 1. FC Köln has over 100,000 members, making it the fourth largest club in Germany.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133654-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/xtccun1578230474.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/tvywtt1424317694.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tmjee11578231462.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/8xocqd1578231463.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/35ky2o1578231463.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/qpfiht1578231349.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133653</idTeam>
+    <idSoccerXML>60</idSoccerXML>
+    <idAPIfootball>160</idAPIfootball>
+    <intLoved/>
+    <strTeam>Freiburg</strTeam>
+    <strTeamShort/>
+    <strAlternate>Sport-Club Freiburg</strAlternate>
+    <intFormedYear>1904</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Mage Solar</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/uttyws1423712691.jpg</strStadiumThumb>
+    <strStadiumDescription>The Schwarzwald-Stadion is a football stadium in Freiburg, Baden-Württemberg, Germany. It is currently used mostly for football matches and is the home stadium of Sport-Club Freiburg. The stadium holds 24,000 spectators and was built in 1953. The stadium was called the Dreisamstadion until June 2004. Following that it was named the Badenova-Stadion, the Mage Solar Stadion, and for a short time the Stadion an der Schwarzwaldstraße. Due to a sponsorship deal, it is currently named the Schwarzwald-Stadion.
+
+In 2012, modernising the stadium was deemed unprofitable. In February 2015, a hotly discussed referendum was held to determine whether a new stadium should be built and if so, where. The citizens of Freiburg who participated in the referendum voted in favour of the construction of a new stadium at the Wolfswinkel nearby Freiburg&#x27;s municipal airport.</strStadiumDescription>
+    <strStadiumLocation>Freiburg im Breisgau, Baden-Württemberg</strStadiumLocation>
+    <intStadiumCapacity>24000</intStadiumCapacity>
+    <strWebsite>www.scfreiburg.com</strWebsite>
+    <strFacebook>de-de.facebook.com/SCFreiburg</strFacebook>
+    <strTwitter>twitter.com/sc_freiburg</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Sport-Club Freiburg e.V., commonly known as SC Freiburg (German pronunciation: ), is a German football club, based in the city of Freiburg im Breisgau, Baden-Württemberg. It plays in the 2. Bundesliga, the second tier of professional football in Germany, having been releagated from the top flight in 2015. Freiburg has traditionally bounced between the first and second tier of the German football league system, leading to the fan chant &quot;We go down, we go up, we go into the UEFA Cup!&quot; during the 1990s.
+
+Since 1954, the club&#x27;s stadium has been the Schwarzwald-Stadion. Volker Finke, who was the club&#x27;s manager between 1991 and 2007, was the longest-serving manager in the history of professional football in Germany. Joachim Löw, current manager of the German national team, is the club&#x27;s all-time leading goal scorer with 81 goals in 252 games during his three spells at SCF.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/urwtup1473453288.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133653-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/alufgi1543486782.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/bgprbv1543486524.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/rtbq6o1543486483.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/czw7aj1543486491.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/o8444i1543486498.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/yc0yvh1541160541.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/ScFreiburg</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133658</idTeam>
+    <idSoccerXML>65</idSoccerXML>
+    <idAPIfootball>159</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Hertha</strTeam>
+    <strTeamShort/>
+    <strAlternate>Hertha BSC, Hertha Berlin</strAlternate>
+    <intFormedYear>1892</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Olympic Stadium</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/wqsyqv1423712068.jpg</strStadiumThumb>
+    <strStadiumDescription/>
+    <strStadiumLocation>Berlin</strStadiumLocation>
+    <intStadiumCapacity>74649</intStadiumCapacity>
+    <strWebsite>www.herthabsc.de</strWebsite>
+    <strFacebook>www.facebook.com/herthabsc/?fref=ts</strFacebook>
+    <strTwitter></strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Hertha, Berliner Sport-Club e.V., commonly known as Hertha BSC and sometimes referred to as Hertha Berlin, Hertha BSC Berlin, or simply Hertha, is a German football club based in the Charlottenburg locality of Berlin. Hertha BSC plays in the Bundesliga, the top-tier of German football, after finishing first in the 2. Bundesliga in 2013.
+
+Hertha BSC was founded in 1892, and was a founding member of the German Football Association in Leipzig in 1900. The team won the German championship in 1930 and 1931. Since 1963, Hertha&#x27;s stadium has been the Olympiastadion. The club is known as Die Alte Dame in German, which translates to &quot;The Old Lady&quot;. In 2002, the sports activities of the professional, amateur, and under-19 teams were separated into Hertha BSC GmbH &amp; Co. KGaA.
+
+History
+Early years
+The club was formed in 1892 as BFC Hertha 92, taking its name from a steamship with a blue and white smokestack; one of the four young men who founded the club had taken a day trip on this ship with his father. The name Hertha is a variation on Nerthus referring to fertility goddess from Germanic mythology.
+
+Hertha performed consistently well on the field, including a win in the first Berlin championship final in 1905. In May 1910, Hertha won a friendly match against Southend United, which was considered significant at the time, as England was where the game originated and English clubs dominated the sport. However, their on-field success was not matched financially and in 1920 the staunchly working-class Hertha merged with the well-heeled club Berliner Sport-Club to form Hertha Berliner Sport-Club. The new team continued to enjoy considerable success in the Oberliga Berlin-Brandenburg, while also enduring a substantial measure of frustration. The team played its way to the German championship final in six consecutive seasons from 1926 to 1931, but was only able to win the title in 1930 and 1931 with BSC leaving to become an independent club again after the combined side&#x27;s first championship. Notwithstanding, Hertha emerged as the Germany&#x27;s second most successful team during the inter-war years.
+
+Play under the Third Reich
+German football was re-organized under the Third Reich in 1933 into 16 top-flight divisions, which saw Hertha playing in the Gauliga Berlin-Brandenburg. The club continued to enjoy success within their division, regularly finishing in the upper half of the table and capturing the divisional title in 1935, 1937 and 1944. It faded from prominence, however, unable to advance out of the early rounds of the national championship rounds. Politically, the club was overhauled under Hitler, with Hans Pfeifer, a Nazi party member, being installed as president.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qpsryu1473453350.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133658-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/rssuvv1420480604.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/ywxxwx1424315376.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/tqstsy1454144518.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/wtsvxx1454144429.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/twspqs1454144153.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/wptpuu1454144126.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/user/herthatv</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133657</idTeam>
+    <idSoccerXML>64</idSoccerXML>
+    <idAPIfootball>167</idAPIfootball>
+    <intLoved/>
+    <strTeam>Hoffenheim</strTeam>
+    <strTeamShort/>
+    <strAlternate>TSG 1899 Hoffenheim</strAlternate>
+    <intFormedYear>1899</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Rhein-Neckar-Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qqxuyt1423712601.jpg</strStadiumThumb>
+    <strStadiumDescription>Rhein-Neckar-Arena (also known as Wirsol Rhein-Neckar-Arena  for sponsoring purposes) is a multi-purpose stadium in Sinsheim, Baden-Württemberg, Germany. It is used mostly for football matches and hosts the home matches of 1899 Hoffenheim. The stadium has a capacity of 30,150 people. It replaced TSG 1899 Hoffenheim&#x27;s former ground, the Dietmar-Hopp-Stadion.
+
+The stadium is the largest in the Rhine-Neckar metropolitan area, although it is situated in a town with only 36,000 inhabitants.
+
+The first competitive match was played on 31 January 2009 against FC Energie Cottbus, and ended in a 2–0 win for Hoffenheim. The stadium hosted international matches at the 2011 FIFA Women&#x27;s World Cup. The Rhein-Neckar-Arena will host the &quot;2017 DEL Winter Game&quot;, an outdoor ice hockey game between Adler Mannheim and the Schwenningen Wild Wings on 7 January 2017.</strStadiumDescription>
+    <strStadiumLocation>Sinsheim, Baden-Württemberg, Germany</strStadiumLocation>
+    <intStadiumCapacity>30150</intStadiumCapacity>
+    <strWebsite>www.achtzehn99.de</strWebsite>
+    <strFacebook>www.facebook.com/TSGHoffenheim/</strFacebook>
+    <strTwitter>twitter.com/tsghoffenheim</strTwitter>
+    <strInstagram>www.instagram.com/tsghoffenheim</strInstagram>
+    <strDescriptionEN>urn- und Sportgemeinschaft 1899 Hoffenheim e.V., or simply TSG 1899 Hoffenheim is a professional German association football club based in Hoffenheim, a village of Sinsheim municipality, Baden-Württemberg, inside the Rhine-Neckar Metropolitan Region. A fifth division side in 2000, the club made a remarkable advance to the German football league system top tier Bundesliga in 2008 with the financial backing of alumnus and software mogul Dietmar Hopp.
+
+History
+The modern-day club was formed in 1945, when gymnastics club Turnverein Hoffenheim (founded 1 July 1899) and football club Fußballverein Hoffenheim (founded 1921) merged. At the beginning of the 1990s, the club was an obscure local amateur side playing in the eighth division Baden-Württemberg A-Liga. They steadily improved and by 1996 were competing in the Verbandsliga Nordbaden (V).
+
+Around 2000, alumnus Dietmar Hopp returned to the club of his youth as a financial backer. Hopp was the co-founder of software firm SAP and he put some of his money into the club. His contributions generated almost immediate results: in 2000 Hoffenheim finished first in the Verbandsliga and was promoted to the fourth-division Oberliga Baden-Württemberg. Another first-place finish moved the club up to the Regionalliga Süd (III) for the 2001–02 season. They finished 13th in their first season in the Regionalliga, but improved significantly the next year, earning a fifth-place result.
+
+Hoffenheim earned fifth and seventh-place finishes in the next two seasons, before improving to fourth in 2005–06 to earn their best result to date. The club made its first DFB-Pokal appearance in the 2003–04 competition and performed well, advancing to the quarter-finals by eliminating 2. Bundesliga sides Eintracht Trier and Karlsruher SC and Bundesliga club Bayer Leverkusen before being put out themselves by another 2. Bundesliga side, VfB Lübeck.
+
+Negotiations to merge TSG Hoffenheim, Astoria Walldorf, and SV Sandhausen to create FC Heidelberg 06 in 2005 were abandoned due to the resistance of the latter two clubs, and the failure to agree on whether the new side&#x27;s stadium should be located in Heidelberg or Eppelheim. Team owner Hopp clearly preferred Heidelberg, but could not overcome the resistance of local firm Wild, which had already reserved the site of the planned stadium for its new production facilities.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qusuxu1473453358.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133657-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/bhwri31543832431.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/sxsvvv1424536655.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/9xpyfc1543771558.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ir034c1543771566.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/8cd0v91543771574.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/ckcy8c1543773284.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133666</idTeam>
+    <idSoccerXML>74</idSoccerXML>
+    <idAPIfootball>168</idAPIfootball>
+    <intLoved/>
+    <strTeam>Leverkusen</strTeam>
+    <strTeamShort/>
+    <strAlternate>Bayer 04 Leverkusen, Bayer Leverkusen</strAlternate>
+    <intFormedYear>1904</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3>UEFA Europa League</strLeague3>
+    <idLeague3>4481</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>BayArena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/qsytyu1423712470.jpg</strStadiumThumb>
+    <strStadiumDescription>The BayArena is a football stadium in Leverkusen, North Rhine-Westphalia, Germany, which has been the home ground of Bundesliga club Bayer Leverkusen since 1958. It is not a UEFA 5-star stadium, however it is in the process of becoming one.
+
+The stadium was originally known as Ulrich-Haberland-Stadion (pronounced  ( listen); English: Ulrich Haberland Stadium), named after a former chairman of Bayer AG, the club&#x27;s founders. Its original capacity was 20,000.
+
+In 1986, a rebuilding project began to convert it into a modern facility; the project continued intermittently over the following decade. The project was completed in 1997, making the stadium an ultramodern all-seater with a capacity of 22,500. The stadium was renamed BayArena in 1998.
+
+In 1999, a hotel attached to the stadium was completed, with some rooms having a view of the pitch. The stadium complex also includes a high-class restaurant, which also overlooks the pitch, and conference facilities.
+
+The city of Leverkusen originally bid to become a venue for the 2006 World Cup, with an expanded BayArena as the site. However, the city, Bayer Leverkusen, and the German organizing committee soon agreed that expanding BayArena to the FIFA-mandated minimum 40,000 capacity for World Cup matches would not be practical, and the city withdrew its bid. Instead, it was agreed that BayArena would be the main training facility for the German national team during the 2006 finals. Jürgen Klinsmann, former national coach, however decided against Leverkusen and opted for Berlin as the main training facility. As compensation, BayArena would supposedly host two national matches, though they were never played.</strStadiumDescription>
+    <strStadiumLocation>Leverkusen, Germany</strStadiumLocation>
+    <intStadiumCapacity>30210</intStadiumCapacity>
+    <strWebsite>www.bayer04.de</strWebsite>
+    <strFacebook>www.facebook.com/bayer04fussball/</strFacebook>
+    <strTwitter>twitter.com/bayer04fussball</strTwitter>
+    <strInstagram>www.instagram.com/bayer04fussball</strInstagram>
+    <strDescriptionEN>Bayer 04 Leverkusen Fußball GmbH, also known as Bayer 04 Leverkusen , Bayer Leverkusen, Leverkusen or simply Bayer, is a German football club based in Leverkusen, North Rhine-Westphalia. The club plays in the Bundesliga, the top tier of the German football league system, and host matches at the BayArena.
+
+The club was founded in 1904 by employees of the German pharmaceutical company Bayer, whose headquarters are in Leverkusen and from which the club draws its name. It was formerly the best-known department of TSV Bayer 04 Leverkusen, a sports club whose members also participate in athletics, gymnastics, basketball and other sports including the RTHC Bayer Leverkusen (rowing, tennis and hockey). In 1999 the football department was separated from the sports club and is now a separate entity formally called Bayer 04 Leverkusen GmbH.
+
+Bayer Leverkusen have won one DFB-Pokal and one UEFA Cup. Their local rivals are 1. FC Köln.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/wuvsup1473453369.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133666-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/i491tw1543832651.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/trrvyu1424315811.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/7x6hwi1543771686.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/2bm37y1543771693.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/rxyzl41543771701.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/p2pizd1543773465.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133665</idTeam>
+    <idSoccerXML>73</idSoccerXML>
+    <idAPIfootball>164</idAPIfootball>
+    <intLoved/>
+    <strTeam>Mainz</strTeam>
+    <strTeamShort/>
+    <strAlternate>FSV Mainz 05</strAlternate>
+    <intFormedYear>1905</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Coface Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rpvquu1423713456.jpg</strStadiumThumb>
+    <strStadiumDescription>The club currently plays its home matches at Opel Arena, a new stadium opened in 2011 with a capacity of 34,034. The first event held at the new arena was the LIGA total! Cup 2011, which took place from 19 July through to 20 July 2011, with the other participants being Bayern Munich, Borussia Dortmund and Hamburger SV.
+
+Die Nullfünfer previously played at the Bruchwegstadion, built in 1928, and modified several times over the years to hold a crowd of over 20,300 spectators. Averaging crowds of about 15,000 while in the 2. Bundesliga, the team&#x27;s hard won recent success had them regularly filling their venue. The average home league attendance during the 2015–16 season was 30,324 spectators.</strStadiumDescription>
+    <strStadiumLocation>Mainz, Rhineland-Palatinate, Germany</strStadiumLocation>
+    <intStadiumCapacity>34000</intStadiumCapacity>
+    <strWebsite>www.mainz05.de</strWebsite>
+    <strFacebook></strFacebook>
+    <strTwitter>twitter.com/1fsvmainz05</strTwitter>
+    <strInstagram>www.instagram.com/1fsvmainz05</strInstagram>
+    <strDescriptionEN>1. Fußball- und Sportverein Mainz 05 e. V., usually shortened to 1. FSV Mainz 05, Mainz 05  or simply Mainz, is a German association football club, founded in 1905 and based in Mainz, Rhineland-Palatinate. 1. FSV Mainz 05 have played in the Bundesliga, the top tier of the German football league system, for eight consecutive years, starting with the 2009–10 season. The club&#x27;s main local rivals are Eintracht Frankfurt and 1. FC Kaiserslautern. In addition to the football division, 1. FSV Mainz 05 have handball and table tennis departments.
+
+History
+Early years
+A failed attempt to start a football club in the city in 1903 was followed up two years later by the successful creation of 1. Mainzer Fussballclub Hassia 1905. After a number of years of play in the Süddeutschen Fußballverband (South German Football League), the club merged with FC Hermannia 07 – the former football side of Mainzer TV 1817 – to form 1. Mainzer Fussballverein Hassia 05, which dropped &quot;Hassia&quot; from its name in August 1912. Another merger after World War I, in 1919, with Sportverein 1908 Mainz, resulted in the formation of 1. Mainzer Fußball- und Sportverein 05. Die Nullfünfer were a solid club that earned several regional league championships in the period between the wars and qualified for the opening round of the national championships in 1921, after winning the Kreisliga Hessen.
+
+Play during the Nazi era
+In the late 1920s and early 1930s, the club earned decent results in the Bezirksliga Main-Hessen – Gruppe Hessen, including first-place finishes in 1932 and 1933. This merited the team a place in the Gauliga Südwest, 1 of 16 new first division leagues formed in the re-organization of German football under the Third Reich. Unfortunately, the club only managed a single season at that level before being relegated, due to the high intensity play that they were unable to keep up with. Karl Scherm scored in 23 out of 44 matches with Mainz during his last season. In 1938, Mainz was forced into a merger with Reichsbahn SV Mainz and played as Reichsbahn SV Mainz 05 until the end of World War II.
+
+Long march to the Bundesliga
+
+Historical chart of 1. FSV Mainz league performance after WWII
+After World War II, the club again joined the upper ranks of league play in Germany&#x27;s Oberliga Südwest, but were never better than a mid-table side. It played in the top flight until the founding of the new professional league, the Bundesliga, in 1963 and would go on to play as a second division side for most of the next four decades. They withdrew for a time – from the late 1970s into the late 1980s – to the Amateur Oberliga Südwest (III), as the result of a series of financial problems. Mainz earned honours as the German amateur champions in 1982.
+
+The club returned to professional play with promotion to the 2. Bundesliga for a single season in 1988–89 with Bodo Hertlein as president, before finally returning for an extended run in 1990–91. Initially, they were perennial relegation candidates, struggling hard each season to avoid being sent down. However, under unorthodox trainer Wolfgang Frank, Mainz became one of the first clubs in German soccer to adopt a flat four zone defence, as opposed to the then-popular man-to-man defense using a libero.
+
+Mainz failed in three attempts to make it to the top flight in 1996–97, 2001–02, and 2002–03, with close fourth-place finishes just out of the promotion zone. The last failed attempt stung as they were denied promotion in the 93rd minute of the last match of the season. One year earlier, Mainz became the best non-promoted team of all-time in the 2. Bundesliga with 64 points accumulated. However, the club&#x27;s persistence paid dividends after promotion to the Bundesliga in 2003–04 under head coach Jürgen Klopp. The club played three seasons in the top flight but were relegated at the end of the 2006–07 season. Mainz then secured promotion back to the top flight just two years later, after the 2008–09 season.
+
+
+Former logo
+Mainz also earned a spot in the 2005–06 UEFA Cup in their debut Bundesliga season as Germany&#x27;s nominee in the Fair Play draw which acknowledges positive play, respect for one&#x27;s opponent, respect for the referee, the behaviour of the crowd and of team officials, as well as cautions and dismissals. Due to the Bruchweg stadium&#x27;s limited capacity, the home matches in UEFA Cup were played in Frankfurt&#x27;s Commerzbank-Arena. After defeating Armenian club Mika and Icelandic club Keflavík in the qualifying rounds, Mainz lost to eventual champions Sevilla 2–0 on aggregate in the first round.
+
+In the 2010–11 season, Mainz equalled the Bundesliga starting record by winning their first seven matches that season. They ended the season with their best finish to date in fifth place, good enough to secure them their second entry to the UEFA Europa League, where they were eliminated in the third qualifying round by Romanian club Gaz Metan Mediaș.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/yvyptv1474197215.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/dj769c1543926175.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/uyrxwt1424537020.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/c72e0j1542879905.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/cmrwjx1542879944.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/spwyqv1424537590.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/x4p7w01543773766.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/channel/UCMT1hwsDgOEMhS2dIfD3e6A</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134779</idTeam>
+    <idSoccerXML>72</idSoccerXML>
+    <idAPIfootball>163</idAPIfootball>
+    <intLoved/>
+    <strTeam>Mönchengladbach</strTeam>
+    <strTeamShort/>
+    <strAlternate>Borussia Mönchengladbach</strAlternate>
+    <intFormedYear>1900</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Borussia-Park</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rtyxxp1423713572.jpg</strStadiumThumb>
+    <strStadiumDescription>Borussia-Park (official name &quot;Stadion im Borussia-Park&quot;) in Mönchengladbach, North Rhine-Westphalia, Germany is the home stadium of German Bundesliga club Borussia Mönchengladbach. It replaced the smaller Bökelberg stadium, which no longer satisfied modern safety standards and international requirements, in July 2004.
+
+Borussia-Park has a capacity of up to 54,057, of which 16,145 are standing-room only due to popular demand. For international games, the standing room is converted into temporary seating for a total seating capacity of 46,249.
+
+The new stadium features amenities such as VIP lounges, fanshop and sports bar, and cost 85 million euro to construct.
+
+Despite its large capacity and relative youth, the stadium missed out on holding matches during the 2006 World Cup, which Germany hosted. It was the largest capacity Bundesliga stadium to do so.</strStadiumDescription>
+    <strStadiumLocation>Mönchengladbach, Germany</strStadiumLocation>
+    <intStadiumCapacity>54057</intStadiumCapacity>
+    <strWebsite>www.borussia.de</strWebsite>
+    <strFacebook>www.facebook.com/borussia.mg/</strFacebook>
+    <strTwitter>twitter.com/borussia</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Borussia VfL 1900 Mönchengladbach e.V., commonly known as Borussia Mönchengladbach, Mönchengladbach or Gladbach, is a German association football club based in Mönchengladbach, North Rhine-Westphalia. Founded in 1900, Borussia Mönchengladbach play in the Bundesliga, the top tier of the German football league system, making their first appearance in the league during the 1965–66 season. Subsequently the club became one of Germany&#x27;s best-known, best-supported, and most successful teams, winning the Bundesliga five times during the 1970s.
+
+Since 2004, Borussia Mönchengladbach have played at the 54,057 capacity Borussia-Park, having previously played at the smaller Bökelbergstadion since 1919. Borussia-Park is famous for its &quot;Nordkurve&quot; (or North stand), a single-tiered stand. Borussia Mönchengladbach has over 60,000 members as of September 2013 and is the fifth largest club in Germany. Their main rivals are 1. FC Köln.
+
+&quot;Borussia&quot; is a Latinized form of Prussia, a popular term in naming German clubs located within the former Kingdom of Prussia. The club&#x27;s nickname is Die Fohlen  (The Foals), coined in the 1970s due to having a young team with a fast, aggressive playing style. The official mascot of the club is the foal Jünter.
+
+Borussia Mönchengladbach were formed as FC Borussia in 1900 in the Eicken district of Mönchengladbach. Borussia derives from the Latinized form of Prussia, the Kingdom in which Mönchengladbach was situated from 1815. By 1912, Die Borussen found themselves in the Verbandsliga, at the time the highest division the club could play in.
+
+In March 1914, the club purchased De Kull, the ground on which the Bökelbergstadion would be built. The First World War halted the progress of both the stadium and FC Borussia, but by late 1917 the team had begun to play games once more. In 1919, FC Borussia merged with another local club, Turnverein Germania 1889, becoming 1899 VfTuR M.Gladbach. The club tasted its first major success in 1920, beating Kölner BC 3–1, thus winning the Westdeutsche Meisterschaft final.
+
+The union between Germania and Borussia only lasted a matter of two years; the club was thereafter known as Borussia VfL 1900 e.V. M.Gladbach.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/sysurw1473453380.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134779-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/ghqgqn1543926026.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/yow9e81543772424.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/yimkhh1543772432.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/nq46lu1543772439.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/epn1wh1543772447.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/d4mse11543773639.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/channel/UCcAV1UxgHz4czIBJp9zwNyg</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134695</idTeam>
+    <idSoccerXML>1160</idSoccerXML>
+    <idAPIfootball>173</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>RasenBallsport Leipzig</strTeam>
+    <strTeamShort/>
+    <strAlternate>RB Leipzig</strAlternate>
+    <intFormedYear>2009</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>UEFA Champions League</strLeague2>
+    <idLeague2>4480</idLeague2>
+    <strLeague3>DFB-Pokal</strLeague3>
+    <idLeague3>4485</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Red Bull Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/7qayye1543772287.jpg</strStadiumThumb>
+    <strStadiumDescription>Red Bull Arena (formerly Zentralstadion ), is a football facility located in Leipzig, Saxony, Germany. It is the largest football stadium in the former East Germany and has also hosted music concerts as well as football.
+
+It is currently the home stadium for first-division club RB Leipzig but various Leipzig football teams have used the stadium as a home stadium, including VfB Leipzig (precursor to 1. FC Lokomotive Leipzig) at various points in the 20th century (including large-scale European matches in the 1970s and domestic football in the 1990s).
+
+Due to UEFA sponsorship regulations, the stadium is known as the RB Arena for European matches.
+
+History
+Main article: Zentralstadion (1956)
+In 1956, the first Zentralstadion opened, at the time it was one of the biggest stadiums in Europe being able to hold 100,000 spectators. However, over the years it fell into disuse and was costing the city too much to maintain. In 1997, the city of Leipzig decided to build a new stadium within the old stadium, a modern state of the art stadium only for football. The new stadium was built from December 2000 till March 2004. A similar endeavor of constructing a new stadium within the confines of an historic stadium&#x27;s exterior was completed in Chicago&#x27;s Soldier Field, which similarly build a modern stadium while preserving the exterior of the original structure.
+
+The Zentralstadion was the only stadium in the former East Germany to host games in the 2006 FIFA World Cup. It hosted four group matches and a round of 16 game in the tournament. A year earlier, it was also one of the venues for the 2005 FIFA Confederations Cup and hosted three matches of the tournament, including the third-place match. From 2005 to 2007, the Zentralstadion was host of the German League Cup final.
+
+FC Sachsen Leipzig used the stadium as a home ground from time to time between 2004 and 2007, however they moved back to their traditional home, the Alfred-Kunze-Sportpark at the start of the 2008–09 season.
+
+In July 2009, energy drink manufacturer Red Bull took over the license of SSV Markranstädt and renamed the team RasenBallsport Leipzig, in short RB Leipzig. From the outset, the new team outlined their wish to move into the tenant-less Zentralstadion and rename it the &quot;Red Bull Arena&quot;. The naming rights were granted on 25 March 2010 and the stadium will be named so for a minimum period of 10 years as of 1 July 2010. The cost for renting the stadium will rise in accordance with the level of football RasenBallsport Leipzig are at. The team has pledged to upgrade the seating, install video advertising boards and make changes to the boxes and the VIP area.
+
+In the 2010–11 season, Hallescher FC played between three and five games at the Zentralstadion due to their own Kurt-Wabbel Stadion being renovated.
+
+In 2014, the stadium was ranked 17th in the country based on attendance, safety, and number of events.
+
+Facilities
+
+Red Bull Arena with Festwiese
+
+Leipzig city centre with Red Bull Arena to the right
+There are bridges built over the old stadium to connect with the new stadium. The roof has an integrated floodlight design and is designed to provide superior acoustics. The grass area is 120 x 80 m, the actual playing field is 105 x 68 m. It has been integrated into the area surrounding the stadium by large numbers of trees and other greenery.</strStadiumDescription>
+    <strStadiumLocation>Am Sportforum 3, Leipzig, Germany</strStadiumLocation>
+    <intStadiumCapacity>42959</intStadiumCapacity>
+    <strWebsite>www.dierotenbullen.com</strWebsite>
+    <strFacebook>www.facebook.com/rbleipzig/</strFacebook>
+    <strTwitter>twitter.com/dierotenbullen</strTwitter>
+    <strInstagram>www.instagram.com/dierotenbullen</strInstagram>
+    <strDescriptionEN>RasenBallsport Leipzig e.V., commonly known as RB Leipzig, is a German association football club based in Leipzig, Saxony. The club was founded in 2009 by initiative of the company Red Bull GmbH—which purchased the playing rights of a fifth-tier side, SSV Markranstädt, with the intent of advancing the new club to the top-flight Bundesliga within eight years. Men&#x27;s professional football is run by the spin-off organization RasenballSport Leipzig GmbH. RB Leipzig plays its home matches at the Red Bull Arena.
+
+In its inaugural season in 2009–10, RB Leipzig dominated the NOFV-Oberliga Süd (V) and was promoted as champions to the Regionalliga Nord (IV). RB Leipzig won the 2012–13 Regionalliga Nordost season without a single defeat and was promoted to the 3. Liga (III), then finished the 2013–14 3. Liga season as runners-up and was promoted to the 2. Bundesliga (II) as the first team since the introduction of the 3. Liga to win promotion after only one season.
+
+On 8 May 2016, RB Leipzig ensured promotion to the Bundesliga for the 2016–17 season with a 2–0 win over Karlsruher SC. One year later, RB Leipzig captured a place in the 2017–18 UEFA Champions League by finishing as runners-up of the Bundesliga.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134695-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/wrsq2s1543926409.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/3ikm6l1543772211.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/3nbr0z1543772220.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/q9lw3o1543772228.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/k8efrh1543772237.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/n6l1nn1543773028.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133661</idTeam>
+    <idSoccerXML>68</idSoccerXML>
+    <idAPIfootball>174</idAPIfootball>
+    <intLoved/>
+    <strTeam>Schalke 04</strTeam>
+    <strTeamShort/>
+    <strAlternate>FC Schalke 04</strAlternate>
+    <intFormedYear>1904</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Veltins-Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/rywvwq1420677493.jpg</strStadiumThumb>
+    <strStadiumDescription>Veltins-Arena (originally Arena AufSchalke ) is a football stadium in Gelsenkirchen, North Rhine-Westphalia, Germany. It opened in 2001, as the new home ground for German Bundesliga club Schalke 04.
+
+It hosted the 2004 UEFA Champions League final and 5 matches in the 2006 FIFA World Cup, including a quarter-final. It has a league capacity of 61,482 (standing and seated) and an international capacity of 53,951 (seated only). The stadium has a retractable roof and a retractable pitch. The naming rights to the stadium were sold on 1 July 2005 to the German brewery Veltins.
+
+Plans to construct a new stadium emerged in the late 1990s, as fans and managers sought to move out of the outdated Parkstadion, and create a thoroughly modern multifunctional arena. Following Schalke 04&#x27;s historic 1997 victory in the UEFA Cup, and the club&#x27;s upcoming 100th anniversary in 2004, the contract to construct a €186 million stadium was given in 1998 to the German construction firm HBM.</strStadiumDescription>
+    <strStadiumLocation>Gelsenkirchen, Germany</strStadiumLocation>
+    <intStadiumCapacity>62271</intStadiumCapacity>
+    <strWebsite>www.schalke04.de</strWebsite>
+    <strFacebook>www.facebook.com/S04.us/</strFacebook>
+    <strTwitter>twitter.com/s04_en</strTwitter>
+    <strInstagram>www.instagram.com/s04</strInstagram>
+    <strDescriptionEN>Fußballclub Gelsenkirchen-Schalke 04 e. V., commonly known as FC Schalke 04, Schalke or abbreviated as S04 (German: ), is a professional German association-football club and multi-sports club originally from the Schalke district of Gelsenkirchen, North Rhine-Westphalia. The &quot;04&quot; in the club&#x27;s name derives from its formation in 1904. Schalke has long been one of the most popular professional football teams and multi-sports club in Germany, even though major successes have been rare since the club&#x27;s heyday in the 1930s and early 1940s. Schalke play in the Bundesliga, the top tier of the German football league system. As of December 2015, the club has 140,000 members, making it the third-largest sports club in Germany and the sixth-largest sports club in the world in terms of membership. Other activities offered by the club include athletics (track and field), basketball, handball, table tennis, winter sports and eSports.
+
+Founded in 1904, Schalke has won seven German championships, five DFB-Pokals, one DFL-Supercup and one UEFA Cup.
+
+Since 2001, Schalke&#x27;s stadium is the Veltins-Arena. Schalke holds a long-standing rivalry with Ruhr neighbours Borussia Dortmund, arguably one of the most widespread and well-known rivalries in German football, and matches between the two teams are referred to as the Revierderby.
+
+Schalke was ranked as the seventh-best football team in Europe by UEFA&#x27;s 2015 UEFA club rankings.
+
+In terms of operating income, Schalke possesses the seventh-highest operating income of any football club at &quot;$64.4 million or £38.2 million (€48 million)&quot;, and 0% debt as of August 2014. Schalke also generates the 14th-highest revenue of any football club, at &quot;$265.6 million or £157.8 million (€198 million)&quot;.
+
+In May 2014, Schalke 04 were ranked by Forbes magazine as the 14th-most valuable football club, at &quot;£355 million or $599 million (€446 million)&quot;, an increase of 16% from the previous year.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/qqutyp1473453400.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133661-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/apdoa21532718941.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/gupwtp1532719098.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/iopa8q1532719126.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/fb66631532719058.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/2zt4h71532719228.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/vtify61532718702.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133660</idTeam>
+    <idSoccerXML>67</idSoccerXML>
+    <idAPIfootball>172</idAPIfootball>
+    <intLoved/>
+    <strTeam>Stuttgart</strTeam>
+    <strTeamShort/>
+    <strAlternate>VfB Stuttgart, Verein für Bewegungsspiele Stuttgart 1893 e.V.</strAlternate>
+    <intFormedYear>1893</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Mercedes-Benz Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/wyuyrx1423712155.jpg</strStadiumThumb>
+    <strStadiumDescription>Mercedes-Benz Arena is a stadium located in Stuttgart, Baden-Württemberg, Germany and home to German Bundesliga club VfB Stuttgart.
+
+Before 1993 it was called Neckarstadion , named after the nearby river Neckar and between 1993 and July 2008 it was called Gottlieb-Daimler-Stadion . From the 2008–09 season, the stadium was renamed the Mercedes-Benz Arena, starting with a pre-season friendly against Arsenal on 30 July 2008.</strStadiumDescription>
+    <strStadiumLocation>Stuttgart, Germany</strStadiumLocation>
+    <intStadiumCapacity>60469</intStadiumCapacity>
+    <strWebsite>www.vfb.de</strWebsite>
+    <strFacebook>www.facebook.com/VfB</strFacebook>
+    <strTwitter>twitter.com/vfb</strTwitter>
+    <strInstagram>www.instagram.com/vfb</strInstagram>
+    <strDescriptionEN>Verein für Bewegungsspiele Stuttgart 1893 e. V., commonly known as VfB Stuttgart, is a German sports club based in Stuttgart, Baden-Württemberg. The club is best known for its football team which is currently part of Germany&#x27;s first division Bundesliga. VfB Stuttgart is one of Germany&#x27;s most successful clubs. The club has won the national championship five times, most recently in 2006–07; the DFB-Pokal three times; and the UEFA Intertoto Cup a record three times.
+
+The football team plays its home games at the Mercedes-Benz Arena, in the Neckarpark which is located near the Cannstatter Wasen where the city&#x27;s fall beer festival takes place. Second team side VfB Stuttgart II currently plays in the Regionalliga Südwest, which is the second highest division allowed for a reserve team. The club&#x27;s junior teams have won the national U19 championships a record ten times and the Under 17 Bundesliga six times.
+
+A membership-based club with over 64,000 members (as of June 2018), VfB is the largest sports club in Baden-Württemberg and the fifth-largest in Germany. It has departments for fistball, hockey, track and field, table-tennis and football referees, all of which compete only at the amateur level. The club also maintains a social department, the VfB-Garde.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/yppyux1473454085.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/uwxpwp1475396829.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/tr5vdu1544617593.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/yuxsst1424316364.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/uvxrpy1424316390.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/vasryo1543771815.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/x3u9zc1543771823.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/z94u7r1543772940.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>134690</idTeam>
+    <idSoccerXML>1155</idSoccerXML>
+    <idAPIfootball>182</idAPIfootball>
+    <intLoved/>
+    <strTeam>Union Berlin</strTeam>
+    <strTeamShort/>
+    <strAlternate>1. FC Union Berlin</strAlternate>
+    <intFormedYear>1906</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3>Club Friendlies</strLeague3>
+    <idLeague3>4569</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Alten Försterei</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/afacqg1578232149.jpg</strStadiumThumb>
+    <strStadiumDescription>Stadion An der Alten Försterei (English: Stadium at the old forester&#x27;s house) is a football stadium in Köpenick and the largest single-purpose football stadium in the German capital of Berlin. It has been home to football club 1. FC Union Berlin and its forerunners since it was opened in 1920.
+
+The stadium&#x27;s capacity was last redeveloped in 2009 and expanded in 2013. Some of the redevelopment work was carried out by over 2,300 Union Berlin supporters volunteering their services. During league matches the arena features a total capacity of 22,012 including 3,617 seats whilst the rest of the ground remains terracing.
+
+The stadium became also known for events like the annual &quot;Weihnachtssingen&quot; (Christmas Carols Event) and the &quot;WM-Wohnzimmer&quot; (World Cup Living Room) in 2014.</strStadiumDescription>
+    <strStadiumLocation>Köpenick, Berlin, Germany</strStadiumLocation>
+    <intStadiumCapacity>22012</intStadiumCapacity>
+    <strWebsite>www.fc-union-berlin.de</strWebsite>
+    <strFacebook>www.facebook.com/1.FCUnionBerlin/</strFacebook>
+    <strTwitter>twitter.com/fcunion</strTwitter>
+    <strInstagram>www.instagram.com/1.fcunion</strInstagram>
+    <strDescriptionEN>1. FC Union Berlin is a professional German association football club based in Köpenick, Berlin. The club emerged under the current name in 1966 but can be traced back to 1906, when predecessor FC Olympia Oberschöneweide was founded. Since 2009 they compete in the 2. Bundesliga, the second tier of German football. In 2019, after defeating VfB Stuttgart in the relegation play-offs, Union won promotion to the Bundesliga top flight for the first time in the club&#x27;s history, for the 2019–20 
+
+The home ground Stadion An der Alten Försterei (Stadium by the Old Forester&#x27;s House) is the largest single-purpose football stadium in the German capital. It has been home to Union Berlin and its forerunners since it was opened in 1920. The stadium became internationally famous for concerts and events like the annual Weihnachtssingen (Christmas Carols Event) and the WM-Wohnzimmer (World Cup Living Room) in 2014.
+
+The club is well known for its enthusiastic and creative fan base and for its chant &quot;Eisern Union&quot; (Iron Union).</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/q0o5001599679795.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-134690-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/or3c8y1599679828.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/0oj3pr1578232164.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/opfb9p1578232164.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/ee9du21578232165.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/4ud9vq1578232165.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/l75p1s1578230651.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133662</idTeam>
+    <idSoccerXML>69</idSoccerXML>
+    <idAPIfootball>162</idAPIfootball>
+    <intLoved>1</intLoved>
+    <strTeam>Werder Bremen</strTeam>
+    <strTeamShort/>
+    <strAlternate>SV Werder Bremen</strAlternate>
+    <intFormedYear>1899</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3></strLeague3>
+    <idLeague3/>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6></strLeague6>
+    <idLeague6/>
+    <strLeague7></strLeague7>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Weserstadion</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/vqwtrx1423705316.jpg</strStadiumThumb>
+    <strStadiumDescription>The Weserstadion is a multi-purpose stadium in Bremen, Germany. The Weserstadion is scenically situated on the north bank of the Weser River and is surrounded by lush green parks (the name &#x27;Werder&#x27; is a regional German word for “river peninsula”). The city center is only about a kilometer away. It is the home stadium of German Bundesliga club Werder Bremen.
+
+It presented a bid to be a host city in the 2006 FIFA World Cup, which was ultimately turned down.
+
+Legendary artists that have performed at the stadium include Bon Jovi, Michael Jackson, Depeche Mode, Metallica, The Rolling Stones, Guns N&#x27; Roses, Tina Turner and Van Halen, among others.
+
+The Weser Stadium is in a current state of modification, for the most part controlled by Hauke Wilkens. The Stadium will be transformed into a pure football venue, with the purpose of tightening the atmosphere by moving the spectators closer to the pitch. Modifications therefore include the removal of the space in front of the curves with the addition of a third tier.</strStadiumDescription>
+    <strStadiumLocation>Bremen, Deutschland</strStadiumLocation>
+    <intStadiumCapacity>42500</intStadiumCapacity>
+    <strWebsite>www.werder.de</strWebsite>
+    <strFacebook>www.facebook.com/WerderBremen/</strFacebook>
+    <strTwitter>twitter.com/werderbremen</strTwitter>
+    <strInstagram>www.instagram.com/werderbremen</strInstagram>
+    <strDescriptionEN>Sportverein Werder Bremen von 1899 e. V., commonly known as Werder Bremen, is a German sports club located in Bremen in the northwest German federal state Free Hanseatic City of Bremen. The club was founded in 1899 and has grown to 40,400 members. It is best known for its association football team.
+
+Bremen&#x27;s football club has been a mainstay in the Bundesliga, the top league of the German football league system. Bremen have won the Bundesliga championship four times and the DFB-Pokal six times. Their latest championship in each came in 2004, when they won a double. Bremen have also had European success, winning the 1992 European Cup Winners&#x27; Cup. Bremen also reached the final match of the last edition of the UEFA Cup in 2009 (it was rebranded the UEFA Europa League the following season), During the early 2000s, Bremen was one of the most successful teams in the Bundesliga, but the club has not played in a European competition since the 2010–2011 campaign.
+
+Since 1924, Werder Bremen&#x27;s stadium is the Weserstadion. Werder Bremen&#x27;s manager is Viktor Skrypnyk. Werder Bremen has a rivalry with Hamburger SV, another Bundesliga club in northern Germany, known as the Nordderby (English: North derby).
+
+The club was founded on 4 February 1899 as Fußballverein Werder by a group of 16 vocational high school students who had won a prize of sports equipment. The students took the club&#x27;s name from the seldom-used regional German word for “river peninsula&quot;, which described the riverside field on which they played their first football games.
+
+The predecessor to Bremen, known as SV Werder, played its first ever match on 10 September 1899 against ASC 1898 Bremen coming away with a 1–0 victory. In 1900 FV Bremen was represented at the founding of the German Football Association (DFB) at Leipzig. The club then enjoyed some early success, fielding competitive sides and winning a number of local championships. FV took part in the qualification play for the national championships in playoffs held by the Norddeutscher Fussball Verband (NFV), one of the seven major regional leagues after the turn of the century, but were unable to advance. They became the first club to charge spectators a fee to attend their games and to fence in their playing field.
+
+In April 1914, the club became a department of Allgemeiner Bremer Turnverein 1860 and was briefly known as Sportabteilung Werder des ABTV. However, the relationship was short-lived and the club went its own way again less than two months later.
+
+Steady growth after World War I led the club to adopt other sports and, on 19 January 1920, change their name to the current Sportverein Werder Bremen. Football remained their primary interest, so much so that in 1922, they became the first German club to hire a professional coach. The team made regular appearances in year-end NFV qualification round play through the 1920s and on into the early 1930s, but did not enjoy any success.
+
+German football was re-organized under the Third Reich in 1933 into 16 first division leagues known as Gauligen and Werder became part of the Gauliga Niedersachsen. The club scored its first real successes, capturing division titles in 1934, 1936, and 1937, and took part for the first time in national level playoff competition. The shape of the Gauligen changed through the course of World War II and in 1939, the Gauliga Niedersachsen was split into two divisions. SV played in the Gauliga Niedersachsen/Nord where they captured a fourth title in 1942. As the war overtook the country, the Gauligen became progressively more local in character. The Gauliga Niedersachsen/Nord became the Gauliga Weser-Ems and then the Gauliga Weser-Ems/Bremen over the next two years. Werder&#x27;s 1944–45 season was cut short after just two matches.
+
+Like other organizations throughout Germany, the club was disbanded on the order of the occupying Allied authorities after the war. They re-constituted themselves 10 November 1945 as Turn- und Sportverein Werder 1945 Bremen, which was changed to Sport-Club Grün-Weiß 99 Bremen on 4 February 1946. The team took up play in the Stadtliga Bremen, and after capturing a title there, participated in the northern German championship round, advancing to the quarterfinals. They were able to reclaim the name SV Werder on 25 March 1946 before taking part in the playoffs.
+
+At the time, professionals were not permitted to play in the German game, so it was normal for football players to take on other jobs, often with the club&#x27;s local patron. In the case of Werder, a number of the players worked at the nearby Brinkmann tobacco factory, and so the side took on the nickname Texas 11 after one of the company&#x27;s popular cigarette brands.
+
+Between the end of the war and the formation of the Bundesliga in 1963 the club continued to do well, being recognized as one of the top two teams in northern Germany, along with Hamburger SV. In 1961, they managed their first DFB-Pokal win. Their performance was good enough to earn them a place as a charter member of the Bundesliga, and in the league&#x27;s second season, Werder took the championship. They earned a second-place finish in the 1967–68, but then languished in the bottom half of the table for a dozen years. An attempt to improve their lot by signing high-priced talent earned the side the new, derisive nickname of the Millionaires and turned out to be an expensive failure. The club dropped out of the Bundesliga for the first and only time, being relegated to the 2nd Bundesliga-Nord for the 1980–81 season after a 17th place finish.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES/>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/uurwqy1473453408.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133662-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/eyfwi71544617894.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/wvysqt1424316088.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/vqttst1424316106.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/5rr36p1543487307.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/xq9y791543487334.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/7sjs071543772810.jpg</strTeamBanner>
+    <strYoutube></strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+  <team>
+    <idTeam>133655</idTeam>
+    <idSoccerXML>62</idSoccerXML>
+    <idAPIfootball>161</idAPIfootball>
+    <intLoved/>
+    <strTeam>Wolfsburg</strTeam>
+    <strTeamShort/>
+    <strAlternate>VfL Wolfsburg</strAlternate>
+    <intFormedYear>1945</intFormedYear>
+    <strSport>Soccer</strSport>
+    <strLeague>German Bundesliga</strLeague>
+    <idLeague>4331</idLeague>
+    <strLeague2>DFB-Pokal</strLeague2>
+    <idLeague2>4485</idLeague2>
+    <strLeague3>UEFA Europa League</strLeague3>
+    <idLeague3>4481</idLeague3>
+    <strLeague4></strLeague4>
+    <idLeague4/>
+    <strLeague5></strLeague5>
+    <idLeague5/>
+    <strLeague6/>
+    <idLeague6/>
+    <strLeague7/>
+    <idLeague7/>
+    <strDivision/>
+    <strManager></strManager>
+    <strStadium>Volkswagen Arena</strStadium>
+    <strKeywords></strKeywords>
+    <strRSS></strRSS>
+    <strStadiumThumb>https://www.thesportsdb.com/images/media/team/stadium/xtpxyp1423711901.jpg</strStadiumThumb>
+    <strStadiumDescription>Volkswagen Arena is a multi-purpose stadium in Wolfsburg, Lower Saxony, Germany and serves as the home stadium of the 2008–09 Bundesliga champions VfL Wolfsburg. The Volkswagen Arena replaced the former stadium of VfL Wolfsburg, the VFL Stadion.</strStadiumDescription>
+    <strStadiumLocation>Wolfsburg</strStadiumLocation>
+    <intStadiumCapacity>30000</intStadiumCapacity>
+    <strWebsite>www.vfl-wolfsburg.de</strWebsite>
+    <strFacebook>www.facebook.com/vflwolfsburgus/</strFacebook>
+    <strTwitter>twitter.com/vfl_wolfsburg</strTwitter>
+    <strInstagram></strInstagram>
+    <strDescriptionEN>Verein für Leibesübungen Wolfsburg e. V., commonly known as VfL Wolfsburg or Wolfsburg, is a professional German association football club based in Wolfsburg, Lower Saxony. Wolfsburg play in the Bundesliga, the top tier of the German football league system. Wolfsburg have won the Bundesliga once in their history, in the 2008–09 season, and were DFB-Pokal runners-up in 1995. The new manager is Dieter Hecking who joined from 1. FC Nürnberg. The club grew out of a multi-sports club for Volkswagen workers in the city of Wolfsburg. Professional football is run by the spin-off organization VfL Wolfsburg-Fußball GmbH. VfL Wolfsburg-Fußball GmbH is a wholly owned subsidiary of the Volkswagen Group. Since 2002, Wolfsburg&#x27;s stadium is the Volkswagen Arena.</strDescriptionEN>
+    <strDescriptionDE/>
+    <strDescriptionFR/>
+    <strDescriptionCN/>
+    <strDescriptionIT/>
+    <strDescriptionJP/>
+    <strDescriptionRU/>
+    <strDescriptionES>El VfL Wolfsburg es un club deportivo de la ciudad alemana de Wolfsburgo, conocido sobre todo por su equipo de fútbol. Fue fundado en 1945 y juega en la 1. Bundesliga. Desde noviembre de 2007, el consorcio automovilístico Volkswagen es propietario del 100% de las acciones del club.1 El 23 de mayo de 2009, tras su victoria en campo propio contra el Werder Bremen por 5 goles a 1, se proclama por primera vez en su historia campeón de la Bundesliga.</strDescriptionES>
+    <strDescriptionPT/>
+    <strDescriptionSE/>
+    <strDescriptionNL/>
+    <strDescriptionHU/>
+    <strDescriptionNO/>
+    <strDescriptionIL/>
+    <strDescriptionPL/>
+    <strGender>Male</strGender>
+    <strCountry>Germany</strCountry>
+    <strTeamBadge>https://www.thesportsdb.com/images/media/team/badge/07kp421599680274.png</strTeamBadge>
+    <strTeamJersey>https://www.thesportsdb.com/images/media/team/jersey/2019-133655-Jersey.png</strTeamJersey>
+    <strTeamLogo>https://www.thesportsdb.com/images/media/team/logo/s8nxwa1544617784.png</strTeamLogo>
+    <strTeamFanart1>https://www.thesportsdb.com/images/media/team/fanart/rxusvv1424315193.jpg</strTeamFanart1>
+    <strTeamFanart2>https://www.thesportsdb.com/images/media/team/fanart/czd2531543772619.jpg</strTeamFanart2>
+    <strTeamFanart3>https://www.thesportsdb.com/images/media/team/fanart/878rz71543772627.jpg</strTeamFanart3>
+    <strTeamFanart4>https://www.thesportsdb.com/images/media/team/fanart/is894z1543772635.jpg</strTeamFanart4>
+    <strTeamBanner>https://www.thesportsdb.com/images/media/team/banner/g935ek1543772724.jpg</strTeamBanner>
+    <strYoutube>www.youtube.com/channel/UCfdfDFNp50xLjAjD0TKOa4g</strYoutube>
+    <strLocked>unlocked</strLocked>
+  </team>
+</root>
