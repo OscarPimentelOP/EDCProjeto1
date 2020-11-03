@@ -2,6 +2,7 @@ import os
 import xmltodict
 from lxml import etree
 from lxml.builder import E
+from copy import deepcopy
 
 
 def build_league(file):
@@ -32,7 +33,6 @@ def add_id(players, teams):
     players_root = players_tree.getroot()
 
     player_country_root = etree.Element('players')
-    pc_tree = etree.ElementTree(player_country_root)
 
     alt = []
 
@@ -48,10 +48,13 @@ def add_id(players, teams):
             player_club_str = player.find('Club').text
 
             if player_club_str == team_str or checkIfAlternate(player_club_str, alt):
-                player.append(team_id_elem)
-                player_country_root.append(player)
+                player.append(deepcopy(team_id_elem))
+                player_country_root.append(deepcopy(player))
 
-    pc_tree.write('players\\'+teams.split('_')[0].split('\\')[1] + '_playersWithID.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
+    pc_tree = etree.ElementTree(player_country_root)
+
+    pc_tree.write('players\\' + teams.split('_')[0].split('\\')[1] + '_playersWithID.xml', xml_declaration=True,
+                  encoding='utf-8', pretty_print=True)
 
 
 if __name__ == '__main__':
@@ -59,7 +62,8 @@ if __name__ == '__main__':
     dtTree = etree.ElementTree(datasetRoot)
 
     for filename in os.listdir('teams'):
-        datasetRoot.append(build_league('teams\\' + filename))
-        add_id('players\\players_fifa21.xml', 'teams\\' + filename)
+        if filename != 'leagueTeams.xml':
+            datasetRoot.append(build_league('teams\\' + filename))
+            add_id('players\\players_fifa21.xml', 'teams\\' + filename)
 
     dtTree.write('teams\\leagueTeams.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
