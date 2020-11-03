@@ -8,6 +8,7 @@ return
   {$a/FullName} 
     {$a/Age} 
      {$a/Nationality} 
+     {$a/Club} 
     {$a/BestPosition} 
      {$a/Height} 
      {$a/Weight}
