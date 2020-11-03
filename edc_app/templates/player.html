@@ -1,0 +1,81 @@
+{% extends "layout.html" %}
+{% load static %}
+    
+{% block content %}
+
+<body>
+
+    <div class="wrapper">
+        <div class="cardbox">
+            <h4>Cristiano Ronaldo</h4>
+            <!-- <h4>TEAM NAME</h4> -->
+            <div class="picture">
+                <img class="icon" src="https://www.thesportsdb.com/images/media/team/logo/u09jiy1596480287.png"
+                    alt="TEAM NAME">
+                <!-- <img src="{% static 'images/ronaldo.png' %}" alt="user"> -->
+                <img class="player_pic" src="https://cdn.sofifa.com/players/020/801/21_240.png" alt="">
+            </div>
+        </div>
+        <div class="info">
+            <div class="info-row personel">
+                <div class="data name">
+                    <h4>Full Name</h4>
+                    <p>C. Ronaldo dos Santos Aveiro</p>
+                </div>
+                <div class="data national">
+                    <h4>Nationality</h4>
+                    <p>Portugal</p>
+                </div>
+                <div class="data fisico">
+                    <h4>Age</h4>
+                    <p>35</p>
+                </div>
+                <div class="data fisico">
+                    <h4>Height</h4>
+                    <p>187</p>
+                </div>
+                <div class="data fisico">
+                    <h4>Weight</h4>
+                    <p>83</p>
+                </div>
+            </div>
+            <div class="info-row">
+                <div class="data">
+                    <h4>ClubPosition</h4>
+                    <p>Striker(ST)</p>
+                </div>
+                <div class="data">
+                    <h4>ClubNumber</h4>
+                    <p>7</p>
+                </div>
+            </div>
+            <div class="info-row">
+                <div class="data">
+                    <h4>NationalTeam</h4>
+                    <p>Portugal</p>
+                </div>
+                <div class="data">
+                    <h4>NationalPosition</h4>
+                    <p>Striker(ST)</p>
+                </div>
+                <div class="data">
+                    <h4>NationalNumber</h4>
+                    <p>7</p>
+                </div>
+            </div>
+            <div class="info-row">
+                <div class="data">
+                    <h4>Value</h4>
+                    <p>46000000€</p>
+                </div>
+                <div class="data">
+                    <h4>Wage</h4>
+                    <p>220000€</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+{% endblock %}
