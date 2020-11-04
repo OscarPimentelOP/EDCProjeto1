@@ -20,5 +20,6 @@ from edc_app import views
 urlpatterns = [
     path('', views.index),
     path('index', views.index),
-    path('PLAYERS', views.player)
+    path('players', views.player),
+    path('news', views.news),
 ]
