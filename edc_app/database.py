@@ -17,7 +17,7 @@ def disconnect_db():
 
 def runQuery(file, command):
     connect_db()
-    res = session.execute('xquery \n' + open(os.path.join(STATICFILES_DIRS[0], "static", "queries", file),'r').read() + '\n' + command)
+    res = session.execute('xquery \n' + open(os.path.join(STATICFILES_DIRS[0],"queries", file),'r').read() + '\n' + command)
     disconnect_db()
     return res
 
@@ -31,9 +31,15 @@ def list_all_players():
     res = runSimpleQuery("ListAllPlayers.xq")
     return res
 
+def order_players_pos(pos):
+    res = runQuery('OrderPlayersOverallArgument.xq', 'local:playersByPosition({})'.format(pos))
+    return res
+
 
 def main():
-    print(list_all_players())
+    #print(list_all_players())
+    print(order_players_pos('"ST"'))
 
 if __name__ == "__main__":
     main()
+
