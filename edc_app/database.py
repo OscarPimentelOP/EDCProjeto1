@@ -17,7 +17,7 @@ def disconnect_db():
         session.close()
 
 
-def runQuery(file, command=''):
+def run_query(file, command=''):
     connect_db()
     res = session.execute(
         'xquery \n' + open(os.path.join(STATICFILES_DIRS[0], "queries", file), 'r').read() + '\n' + command)
@@ -26,18 +26,24 @@ def runQuery(file, command=''):
 
 
 def list_all_players():
-    res = runQuery("ListAllPlayers.xq")
+    res = run_query("ListAllPlayers.xq")
     return res
 
 
 def order_players_pos(pos):
-    res = runQuery('OrderPlayersOverallArgument.xq', 'local:playersByPosition({})'.format(pos))
+    res = run_query('OrderPlayersOverallArgument.xq', 'local:playersByPosition({})'.format(pos))
+    return res
+
+
+def get_player_by_id(player_id):
+    res = run_query('GetPlayerById.xq', 'local:getPlayerById({})'.format(player_id))
     return res
 
 
 def main():
     print(list_all_players())
-    #print(order_players_pos('"ST"'))
+    print(get_player_by_id(20801))
+    # print(order_players_pos('"ST"'))
 
 
 if __name__ == "__main__":
