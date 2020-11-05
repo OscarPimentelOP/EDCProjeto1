@@ -115,12 +115,8 @@ p {
     text-align: justify;
 }
 
-/* PLayer */
+/******************************** PLayer **********************************/
 
-h4 {
-    padding: 0 !important;
-    margin: 0 !important;
-}
 
 .wrapper {
     padding-left: 5%;
@@ -221,4 +217,94 @@ h4 {
 .wrapper .info p {
     padding-top: 2.5%;
     text-align: center;
+}
+
+/******************************** News **********************************/
+
+.slidershow{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    height: 10%;
+    overflow: hidden;
+}
+
+.slides{
+    /* padding-bottom: 1%; */
+    width: 330%;
+    height: 100%;
+    display: flex;
+}
+
+.slide{
+    margin-right: 2%;
+    width: 30%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    transition: 1.5s;
+    align-items: center;
+    background: radial-gradient(rgb(234, 245, 229),rgb(163, 255, 168));
+
+}
+
+.slide img{
+    padding: 2%;
+    width: 100%;
+    height: 100%;
+    grid-row: 1/3;
+}
+
+.slide h3{
+    padding: 0 10% 0 10%;
+    grid-column: 2/3;
+    text-align: center;
+}
+
+.slide p{
+    padding: 0 5% 0 5%;
+    grid-column: 2/3;
+    text-align: justify;
+}
+
+.navigation{
+    position: sticky;
+    left: 40%;
+    display: flex;
+}
+
+.bar{
+    width: 100px;
+    height: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.bar:hover{
+    background: rgb(0, 0, 0);
+}
+
+input[name="r"]{
+    position: absolute;
+    visibility: hidden;
+}
+
+#r1:checked ~ .s1{
+    margin-left: 0;
+}
+#r2:checked ~ .s1{
+    margin-left: -32%;
+}
+#r3:checked ~ .s1{
+    margin-left: -64%;
+}
+
+.news-wrapper{
+    margin: 15% 5% 0 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
