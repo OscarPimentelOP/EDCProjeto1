@@ -26,10 +26,12 @@ return
     {$teamBadge}
     {$player/Height}
     {$player/Weight}
+    {$player/Club}
     {$player/ClubPosition}
     {$player/ClubNumber}
     {$player/NationalTeam}
     {$player/NationalNumber}
+    {$player/NationalPosition}
     {$player/ValueEUR}
     {$player/WageEUR}
     {$player/idTeam}
