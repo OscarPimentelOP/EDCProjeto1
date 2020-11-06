@@ -20,8 +20,10 @@ def index(request):
     }
     return render(request, 'index.html', tparams)
 
+
 def players(request):
     return render(request, 'players.html')
+
 
 # Individual Player Page
 def player(request, player_id):
@@ -83,7 +85,7 @@ def transform_to_html(original_xml, xslt_filename):
 
     return html
 
-
+# Function to translate position acronyms to full name
 def translate_position(pos):
     pos_dict = dict(GK="Goalkeeper",
                     RB="Right Back",
