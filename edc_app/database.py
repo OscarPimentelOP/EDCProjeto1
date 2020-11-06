@@ -39,11 +39,31 @@ def get_player_by_id(player_id):
     res = run_query('GetPlayerById.xq', 'local:getPlayerById({})'.format(player_id))
     return res
 
+def get_round_results(season, comp, round):
+    res = run_query('RoundResults.xq', 'local:RoundResults({}, {} ,{})'.format(season, comp, round))
+    return res
+
+def get_team_home_wins(season, comp, team):
+    res = run_query('HomeWins.xq', 'local:HomeWins({}, {} ,{})'.format(season, comp, team))
+    return res
+
+def get_team_away_wins(season, comp, team):
+    res = run_query('AwayWins.xq', 'local:AwayWins({}, {} ,{})'.format(season, comp, team))
+    return res
+
+def get_team_draws(season, comp, team):
+    res = run_query('Draws.xq', 'local:Draws({}, {} ,{})'.format(season, comp, team))
+    return res
+
 
 def main():
-    print(list_all_players())
-    print(get_player_by_id(20801))
-    # print(order_players_pos('"ST"'))
+    #print(list_all_players())
+    #print(get_player_by_id(20801))
+    #print(order_players_pos('"ST"'))
+    #print(get_round_results("'2019-2020'","'English Premier League'", "'2'"))
+    #print(get_team_home_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    #print(get_team_away_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    print(get_team_draws("'2019-2020'", "'English Premier League'", "'Liverpool'"))
 
 
 if __name__ == "__main__":
