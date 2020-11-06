@@ -1,5 +1,6 @@
 import os
 import urllib.request
+import edc_app.database as db
 
 from django.shortcuts import render
 from django.http import HttpRequest, HttpResponse
@@ -19,9 +20,35 @@ def index(request):
     }
     return render(request, 'index.html', tparams)
 
+def players(request):
+    return render(request, 'players.html')
 
-def player(request):
-    return render(request, 'player.html')
+# Individual Player Page
+def player(request, player_id):
+    player_data = db.get_player_by_id(player_id)
+    player_data_xml = etree.fromstring(player_data)
+
+    club_position = translate_position(player_data_xml.find('ClubPosition').text)
+    national_position = translate_position(player_data_xml.find('NationalPosition').text)
+
+    # Translate positions for readability
+    c_pos_trans = etree.Element("ClubPositionTranslated")
+    n_pos_trans = etree.Element("NationalPositionTranslated")
+
+    c_pos_trans.text = club_position
+    n_pos_trans.text = national_position
+
+    player_data_xml.append(c_pos_trans)
+    player_data_xml.append(n_pos_trans)
+
+    # Transform to HTML
+    player_data_html = transform_to_html(player_data_xml, 'player.xsl')
+
+    tparams = {
+        'generated': player_data_html,
+    }
+
+    return render(request, 'player.html', tparams)
 
 
 # News Page
@@ -46,3 +73,31 @@ def news(request):
     content = {}
 
     return render(request, 'news.html', content)
+
+
+# Function to transform xml to html
+def transform_to_html(original_xml, xslt_filename):
+    xslt_file = etree.parse(os.path.join(static_files, 'transformations', xslt_filename))
+    transform = etree.XSLT(xslt_file)
+    html = transform(original_xml)
+
+    return html
+
+
+def translate_position(pos):
+    pos_dict = dict(GK="Goalkeeper",
+                    RB="Right Back",
+                    CB="Center Back",
+                    LB="Left Back",
+                    RWB="Right Wing Back",
+                    LWB="Left Wing Back",
+                    CDM="Center Defensive Midfielder",
+                    CM="Center Midfielder",
+                    CAM="Center Attacking Midfielder",
+                    RM="Right Midfielder",
+                    LM="Left Midfielder",
+                    RW="Right Wing",
+                    LW="Left Wing",
+                    CF="Center Forward",
+                    ST="Striker")
+    return pos_dict[pos]
