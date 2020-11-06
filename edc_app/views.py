@@ -6,9 +6,10 @@ from django.http import HttpRequest, HttpResponse
 from datetime import datetime
 from lxml import etree
 
-
 # Create your views here.
 from edc.settings import STATICFILES_DIRS
+
+static_files = STATICFILES_DIRS[0]
 
 
 def index(request):
@@ -29,7 +30,7 @@ def player(request):
 def news(request):
     # News Source(s), Schemas and Parser
     rss_feed = 'https://www.skysports.com/rss/11095'
-    rss_schema = etree.XMLSchema(etree.parse(os.path.join(STATICFILES_DIRS[0], 'schemas\\rss.xsd')))
+    rss_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'rss.xsd')))
     rss_parser = etree.XMLParser(schema=rss_schema)
 
     # Loading xml content fetches from the page
