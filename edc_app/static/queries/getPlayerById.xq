@@ -30,8 +30,8 @@ return
     {$player/ClubNumber}
     {$player/NationalTeam}
     {$player/NationalNumber}
-    {$player/Value}
-    {$player/Wage} 
+    {$player/ValueEUR}
+    {$player/WageEUR}
     {$player/idTeam}
   </player>
 };
