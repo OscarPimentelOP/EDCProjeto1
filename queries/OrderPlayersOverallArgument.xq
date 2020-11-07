@@ -14,6 +14,3 @@ return
 };
 
 
-<elem>
-{local:playersByPosition('ST')}
-</elem>
