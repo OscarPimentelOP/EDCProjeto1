@@ -43,6 +43,8 @@ def add_id(players, teams):
 
         if team_alt_str is not None:
             alt = team_alt_str.split(', ')
+        else:
+            alt = []
 
         for player in players_root:
             player_club_str = player.find('Club').text
@@ -58,12 +60,12 @@ def add_id(players, teams):
 
 
 if __name__ == '__main__':
-    datasetRoot = etree.Element('leagues')
-    dtTree = etree.ElementTree(datasetRoot)
+    #datasetRoot = etree.Element('leagues')
+    #dtTree = etree.ElementTree(datasetRoot)
 
     for filename in os.listdir('teams'):
         if filename != 'leagueTeams.xml':
-            datasetRoot.append(build_league('teams\\' + filename))
-            add_id('players\\players_fifa21.xml', 'teams\\' + filename)
+            #datasetRoot.append(build_league('teams\\' + filename))
+            add_id('players_fifa21.xml', 'teams\\' + filename)
 
-    dtTree.write('teams\\leagueTeams.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
+    #dtTree.write('teams\\leagueTeams.xml', xml_declaration=True, encoding='utf-8', pretty_print=True)
