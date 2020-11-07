@@ -33,6 +33,9 @@ def player(request, player_id):
     club_position = translate_position(player_data_xml.find('ClubPosition').text)
     national_position = translate_position(player_data_xml.find('NationalPosition').text)
 
+    if national_position == 'N/D':
+        player_data_xml.find('NationalNumber').text = 'N/D'
+
     # Translate positions for readability
     c_pos_trans = etree.Element("ClubPositionTranslated")
     n_pos_trans = etree.Element("NationalPositionTranslated")
@@ -71,6 +74,7 @@ def news(request):
         print("Schema not valid")
 
     # TRANSFORM XSTL
+    print(transform_to_html(rss_xml, "news.xsl"))
     # add proper content to page
     content = {}
 
@@ -84,6 +88,7 @@ def transform_to_html(original_xml, xslt_filename):
     html = transform(original_xml)
 
     return html
+
 
 # Function to translate position acronyms to full name
 def translate_position(pos):
@@ -101,5 +106,8 @@ def translate_position(pos):
                     RW="Right Wing",
                     LW="Left Wing",
                     CF="Center Forward",
+                    RES="Reserved",
                     ST="Striker")
+    if not pos:
+        return "N/D"
     return pos_dict[pos]
