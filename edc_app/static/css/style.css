@@ -22,7 +22,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    
     transition: 0.3s;
     background-color: rgb(48, 47, 47);
     z-index: 999;
@@ -117,7 +116,6 @@ p {
 
 /******************************** PLayer **********************************/
 
-
 .wrapper {
     padding-left: 5%;
     padding-right: 5%;
@@ -183,34 +181,33 @@ p {
     background: #c8cff3;
 }
 
-
-.wrapper .info .info-row{
+.wrapper .info .info-row {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 
-.wrapper .info .info-row p{
+.wrapper .info .info-row p {
     font-size: 2rem;
 }
 
-.wrapper .info .data{
+.wrapper .info .data {
     border: 5px groove rgb(231, 231, 231);
     width: 100%;
     height: 100%;
 }
 
-.wrapper .info .info-row.personel{
+.wrapper .info .info-row.personel {
     display: grid !important;
     grid-template-columns: 1fr 1fr 1fr;
     grid-row: 1fr 1fr;
 }
 
-.wrapper .info .info-row.personel p{
+.wrapper .info .info-row.personel p {
     text-align: center;
 }
 
-.wrapper .info .data.name{
+.wrapper .info .data.name {
     grid-column: 1/3;
 }
 
@@ -221,7 +218,7 @@ p {
 
 /******************************** News **********************************/
 
-.slidershow{
+.slidershow {
     padding-left: 5%;
     padding-right: 5%;
     width: 100%;
@@ -229,52 +226,66 @@ p {
     overflow: hidden;
 }
 
-.slides{
-    /* padding-bottom: 1%; */
+.slides {
     width: 330%;
     height: 100%;
     display: flex;
 }
 
-.slide{
+.slide {
     margin-right: 2%;
     width: 30%;
     height: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 0.1fr;
     transition: 1.5s;
     align-items: center;
-    background: radial-gradient(rgb(234, 245, 229),rgb(163, 255, 168));
-
+    background: radial-gradient(rgb(234, 245, 229), rgb(163, 255, 168));
 }
 
-.slide img{
+.slide img {
     padding: 2%;
     width: 100%;
     height: 100%;
-    grid-row: 1/3;
+    grid-row: 1/4;
 }
 
-.slide h3{
+.slide h3 {
     padding: 0 10% 0 10%;
     grid-column: 2/3;
     text-align: center;
 }
 
-.slide p{
+.slide p {
     padding: 0 5% 0 5%;
     grid-column: 2/3;
     text-align: justify;
 }
 
-.navigation{
+.date {
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.date p {
+    max-width: 50%;
+    font-style: italic;
+}
+
+.date a {
+    font-style: italic;
+}
+
+.navigation {
     position: sticky;
     left: 40%;
     display: flex;
 }
 
-.bar{
+.bar {
     width: 100px;
     height: 20px;
     border: 2px solid rgb(0, 0, 0);
@@ -283,28 +294,59 @@ p {
     transition: 0.4s;
 }
 
-.bar:hover{
+.bar:hover {
     background: rgb(0, 0, 0);
 }
 
-input[name="r"]{
+input[name="r"] {
     position: absolute;
     visibility: hidden;
 }
 
-#r1:checked ~ .s1{
+#r1:checked~.s1 {
     margin-left: 0;
 }
-#r2:checked ~ .s1{
+
+#r2:checked~.s1 {
     margin-left: -32%;
 }
-#r3:checked ~ .s1{
+
+#r3:checked~.s1 {
     margin-left: -64%;
 }
 
-.news-wrapper{
-    margin: 15% 5% 0 5%;
+.news-wrapper {
+    margin: 10% 5% 0 5%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+.news-wrapper .news-list .news {
+    margin: 0;
+    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 0.5fr 2fr 0.1fr;
+}
+
+.news-wrapper .news-list .news img {
+    margin: 0;
+    padding: 0;
+    grid-row: 1/4;
+    width: 100%;
+    height: 100%;
+}
+
+.news-wrapper .news-list .news h3 {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.news-wrapper .news-list .news p {
+    padding-left: 2%;
+    width: 100%;
+    text-align: justify;
+}
+
