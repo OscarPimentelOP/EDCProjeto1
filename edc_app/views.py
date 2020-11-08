@@ -30,8 +30,26 @@ def player(request, player_id):
     player_data = db.get_player_by_id(player_id)
     player_data_xml = etree.fromstring(player_data)
 
-    club_position = translate_position(player_data_xml.find('ClubPosition').text)
-    national_position = translate_position(player_data_xml.find('NationalPosition').text)
+    club_position_txt = player_data_xml.find('ClubPosition').text
+    national_position_txt = player_data_xml.find('NationalPosition').text
+
+    #if len(club_position_txt) > 3:
+    #    pos_l = club_position_txt.split(", ")
+    #    pos_l_translated = []
+    #    for pos_e in pos_l:
+    #        pos_l_translated.append(translate_position(pos_e))
+    #    club_position = ','.join(pos_l_translated)
+    #else:
+    club_position = translate_position(club_position_txt)
+
+    #if len(national_position_txt) > 3:
+    #    pos_l = national_position_txt.split(", ")
+    #    pos_l_translated = []
+    #    for pos_e in pos_l:
+    #        pos_l_translated.append(translate_position(pos_e))
+    #    national_position = ','.join(pos_l_translated)
+    #else:
+    national_position = translate_position(national_position_txt)
 
     if national_position == 'N/D':
         player_data_xml.find('NationalNumber').text = 'N/D'
@@ -110,6 +128,7 @@ def translate_position(pos):
                     LW="Left Wing",
                     CF="Center Forward",
                     RES="Reserved",
+                    SUB="Substitute",
                     ST="Striker")
     if not pos:
         return "N/D"
