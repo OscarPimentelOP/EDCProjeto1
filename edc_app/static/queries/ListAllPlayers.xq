@@ -1,4 +1,4 @@
-(: This query returns all the players in a team :) 
+(: This query returns all the players :) 
 <root>{
 let $coll2 := collection('dataset')//players
 
