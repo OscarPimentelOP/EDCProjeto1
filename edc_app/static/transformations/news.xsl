@@ -18,11 +18,27 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             </xsl:attribute>
                         </img>
                         <h3>
-                            <xsl:value-of select="channel/item[position()=1]/title"/>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/item[position()=1]/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/item[position()=1]/title"/>
+                            </a>
                         </h3>
                         <p>
                             <xsl:value-of select="channel/item[position()=1]/description"/>
                         </p>
+                        <div class="date">
+                            <p>
+                                <xsl:value-of select="channel/item[position()=1]/pubDate"/>
+                            </p>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/title"/>
+                            </a>
+                        </div>
                     </div>
                     <div class="slide s2">
                         <img alt="">
@@ -31,11 +47,27 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             </xsl:attribute>
                         </img>
                         <h3>
-                            <xsl:value-of select="channel/item[position()=2]/title"/>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/item[position()=2]/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/item[position()=2]/title"/>
+                            </a>
                         </h3>
                         <p>
                             <xsl:value-of select="channel/item[position()=2]/description"/>
                         </p>
+                        <div class="date">
+                            <p>
+                                <xsl:value-of select="channel/item[position()=2]/pubDate"/>
+                            </p>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/title"/>
+                            </a>
+                        </div>
                     </div>
                     <div class="slide s3">
                         <img alt="">
@@ -44,11 +76,27 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             </xsl:attribute>
                         </img>
                         <h3>
-                            <xsl:value-of select="channel/item[position()=3]/title"/>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/item[position()=3]/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/item[position()=3]/title"/>
+                            </a>
                         </h3>
                         <p>
                             <xsl:value-of select="channel/item[position()=3]/description"/>
                         </p>
+                        <div class="date">
+                            <p>
+                                <xsl:value-of select="channel/item[position()=3]/pubDate"/>
+                            </p>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="channel/link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="channel/title"/>
+                            </a>
+                        </div>
                     </div>
 
                 </div>
@@ -63,72 +111,39 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
             <div class="news-wrapper">
                 <ul class="news-list">
-                    <li class="news">
-                        <img src="" alt=""/>
-                        <h3>
-                            Sit Lorem anim ut veniam officia minim ex occaecat eu mollit.
-                        </h3>
-                        <p>
-                            Cupidatat irure voluptate exercitation sunt ad. Nostrud laboris laboris sunt mollit deserunt ut.
-                            Laborum nulla elit magna amet nostrud irure eu nostrud quis sit aliquip labore culpa et. Sunt veniam
-                            nulla ipsum sunt ut ea id veniam in enim laborum fugiat laborum. Ad eiusmod sint nisi fugiat est
-                            commodo ut dolor deserunt ea. Est proident ad sint voluptate sint minim sit.
-
-                            Dolore sunt est qui cillum id laboris. Qui ipsum labore ullamco aliqua nulla officia aute irure in
-                            voluptate. Cupidatat pariatur consectetur voluptate consequat.
-                        </p>
-                    </li>
-                    <li class="news">
-                        <img src="" alt=""/>
-                        <h3>
-                            Sit Lorem anim ut veniam officia minim ex occaecat eu mollit.
-                        </h3>
-                        <p>
-                            Cupidatat irure voluptate exercitation sunt ad. Nostrud laboris laboris sunt mollit deserunt ut.
-                            Laborum nulla elit magna amet nostrud irure eu nostrud quis sit aliquip labore culpa et. Sunt veniam
-                            nulla ipsum sunt ut ea id veniam in enim laborum fugiat laborum. Ad eiusmod sint nisi fugiat est
-                            commodo ut dolor deserunt ea. Est proident ad sint voluptate sint minim sit.
-
-                            Dolore sunt est qui cillum id laboris. Qui ipsum labore ullamco aliqua nulla officia aute irure in
-                            voluptate. Cupidatat pariatur consectetur voluptate consequat.
-                        </p>
-                    </li>
-                    <li class="news">
-                        <img src="" alt=""/>
-                        <h3>
-                            Sit Lorem anim ut veniam officia minim ex occaecat eu mollit.
-                        </h3>
-                        <p>
-                            Cupidatat irure voluptate exercitation sunt ad. Nostrud laboris laboris sunt mollit deserunt ut.
-                            Laborum nulla elit magna amet nostrud irure eu nostrud quis sit aliquip labore culpa et. Sunt veniam
-                            nulla ipsum sunt ut ea id veniam in enim laborum fugiat laborum. Ad eiusmod sint nisi fugiat est
-                            commodo ut dolor deserunt ea. Est proident ad sint voluptate sint minim sit.
-
-                            Dolore sunt est qui cillum id laboris. Qui ipsum labore ullamco aliqua nulla officia aute irure in
-                            voluptate. Cupidatat pariatur consectetur voluptate consequat.
-                        </p>
-                    </li>
-                    <li class="news">
-                        <img src="" alt=""/>
-                        <h3>
-                            Sit Lorem anim ut veniam officia minim ex occaecat eu mollit.
-                        </h3>
-                        <p>
-                            Cupidatat irure voluptate exercitation sunt ad. Nostrud laboris laboris sunt mollit deserunt ut.
-                            Laborum nulla elit magna amet nostrud irure eu nostrud quis sit aliquip labore culpa et. Sunt veniam
-                            nulla ipsum sunt ut ea id veniam in enim laborum fugiat laborum. Ad eiusmod sint nisi fugiat est
-                            commodo ut dolor deserunt ea. Est proident ad sint voluptate sint minim sit.
-
-                            Dolore sunt est qui cillum id laboris. Qui ipsum labore ullamco aliqua nulla officia aute irure in
-                            voluptate. Cupidatat pariatur consectetur voluptate consequat.
-                        </p>
-                    </li>
-
+                    <xsl:for-each select="channel/item[position()&gt;3]">
+                        <li class="news">
+                            <img src="" alt="">
+                                <xsl:attribute name="src">
+                                    <xsl:value-of select="enclosure/@url"/>
+                                </xsl:attribute>
+                            </img>
+                            <h3>
+                                <a>
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="link"/>
+                                    </xsl:attribute>
+                                    <xsl:value-of select="title"/>
+                                </a>
+                            </h3>
+                            <p>
+                                <xsl:value-of select="description"/>
+                            </p>
+                            <div class="date">
+                                <p>
+                                    <xsl:value-of select="pubDate"/>
+                                </p>
+                                <a>
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="../link"/>
+                                    </xsl:attribute>
+                                    <xsl:value-of select="../title"/>
+                                </a>
+                            </div>
+                        </li>
+                    </xsl:for-each>
                 </ul>
-
             </div>
-
-
         </body>
     </html>
 </xsl:template>

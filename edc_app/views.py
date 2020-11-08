@@ -74,11 +74,14 @@ def news(request):
         print("Schema not valid")
 
     # TRANSFORM XSTL
-    print(transform_to_html(rss_xml, "news.xsl"))
+    rss_html = transform_to_html(rss_xml, "news.xsl")
     # add proper content to page
-    content = {}
 
-    return render(request, 'news.html', content)
+    tparams = {
+        'generated': rss_html,
+    }
+
+    return render(request, 'news.html', tparams)
 
 
 # Function to transform xml to html
