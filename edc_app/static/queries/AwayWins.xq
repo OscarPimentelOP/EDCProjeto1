@@ -12,3 +12,7 @@ return
       {$a/intAwayScore} 
       </elem>
 };
+
+<elem>
+{ local:AwayWins("2019-2020", "English Premier League","Liverpool")}
+</elem>
