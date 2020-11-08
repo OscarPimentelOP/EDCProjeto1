@@ -51,8 +51,24 @@ def get_team_away_wins(season, comp, team):
     res = run_query('AwayWins.xq', 'local:AwayWins({}, {} ,{})'.format(season, comp, team))
     return res
 
+def get_team_home_losses(season, comp, team):
+    res = run_query('HomeLosses.xq', 'local:HomeLosses({}, {} ,{})'.format(season, comp, team))
+    return res
+
+def get_team_away_losses(season, comp, team):
+    res = run_query('AwayLosses.xq', 'local:AwayLosses({}, {} ,{})'.format(season, comp, team))
+    return res
+
 def get_team_draws(season, comp, team):
     res = run_query('Draws.xq', 'local:Draws({}, {} ,{})'.format(season, comp, team))
+    return res
+
+def get_team_info(team):
+    res = run_query('BasicTeamInfo.xq', 'local:TeamInfo({})'.format(team))
+    return res
+
+def get_team_players(team):
+    res = run_query('TeamPlayers.xq', 'local:TeamPlayers({})'.format(team))
     return res
 
 
@@ -62,8 +78,12 @@ def main():
     #print(order_players_pos('"ST"'))
     #print(get_round_results("'2019-2020'","'English Premier League'", "'2'"))
     #print(get_team_home_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    #print(get_team_home_losses("'2019-2020'", "'Portuguese Primeira Liga'", "'FC Porto'"))
     #print(get_team_away_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
-    print(get_team_draws("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    print(get_team_away_losses("'2019-2020'", "'Portuguese Primeira Liga'", "'FC Porto'"))
+    #print(get_team_draws("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    #print(get_team_info("'FC Porto'"))
+    #print(get_team_players("'FC Porto'"))
 
 
 if __name__ == "__main__":

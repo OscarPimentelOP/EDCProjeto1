@@ -1,15 +1,18 @@
 (: This query returns the basic info of a team :) 
-<root>{
+declare function local:TeamInfo($team) as element()*
+{
 let $coll1 := collection('dataset')//teams
-let $club := "FC Porto"  
-for $a in $coll1/team[strTeam = $club]  
+for $a in $coll1/team[strTeam = $team]  
 return
   <elem>
+  {$a/idTeam} 
   {$a/strTeam} 
     {$a/strTeamBadge} 
      {$a/strTeamJersey} 
+      {$a/intFormedYear} 
+      {$a/strLeague} 
     {$a/strStadium} 
-     {$a/strStadiumDescription} 
-     {$a/strFacebook}
+   {$a/strDescriptionEN} 
+     {$a/strWebsite}
   </elem>
-}</root>
+};
