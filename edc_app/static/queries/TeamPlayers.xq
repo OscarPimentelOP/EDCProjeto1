@@ -2,7 +2,7 @@
 
 declare function local:TeamPlayers($team) as element()*{
 let $coll2 := collection('dataset')//players
-for $a in $coll2/player[Club = $team]
+for $a in $coll2/player[idTeam = $team]
 return
   <elem>
     {$a/ID} 

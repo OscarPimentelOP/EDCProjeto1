@@ -3,11 +3,11 @@
 declare function local:HomeLosses($season, $comp, $team) as element()*
 {
 let $coll3 := collection('dataset')//matches
-for $a in $coll3/match[($season = strSeason) and (strLeague = $comp) and (strHomeTeam = $team) ]
+for $a in $coll3/match[($season = strSeason) and (strLeague = $comp) and (idHomeTeam = $team) ]
 where $a/intHomeScore < $a/intAwayScore
 return
   <elem>
-  {$a/idEvent} 
+      {$a/idEvent} 
       {$a/strEvent} 
       {$a/intHomeScore}
       {$a/intAwayScore} 

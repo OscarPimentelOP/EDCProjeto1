@@ -107,15 +107,15 @@ def main():
     #print(get_player_by_id(20801))
     #print(order_players_pos('"ST"'))
     #print(get_round_results("'2019-2020'","'English Premier League'", "'2'"))
-    #print(get_team_home_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
-    #print(get_team_home_losses("'2019-2020'", "'Portuguese Primeira Liga'", "'FC Porto'"))
-    #print(get_team_away_wins("'2019-2020'", "'English Premier League'", "'Liverpool'"))
-    #print(get_team_away_losses("'2019-2020'", "'Portuguese Primeira Liga'", "'FC Porto'"))
-    #print(get_team_draws("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    #print(get_team_home_wins("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_team_home_losses("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_team_away_wins("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_team_away_losses("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_team_draws("'2019-2020'", "'English Premier League'", "'133602'"))
     #print(get_team_info("'FC Porto'"))
-    #print(get_team_players("'FC Porto'"))
+    #print(get_team_players("'133602'"))
     #print(get_team_best_player("'133602'"))
-    print(get_most_used_player("'2019-2020'", "'English Premier League'", "'Liverpool'"))
+    #print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
 
 
 if __name__ == "__main__":
