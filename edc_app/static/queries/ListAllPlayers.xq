@@ -2,9 +2,13 @@
 <root>{
 let $coll2 := collection('dataset')//players
 
-for $a in $coll2/player
+for $p in $coll2/player
 return
-  <elem>
-    {$a/Name/text()} 
-  </elem>
+  <player>
+    {$p/ID}
+    {$p/Name}
+    {$p/PhotoUrl}
+    {$p/Nationality}
+    {$p/Club} 
+  </player>
 }</root>
