@@ -126,6 +126,9 @@ def get_team_best_scorer(season, comp, team):
 
     return res
 
+def get_match_info(season, comp, matchID):
+    res = run_query('MatchInfo.xq', 'local:MatchInfo({}, {} ,{})'.format(season, comp, matchID))
+    return res
 
 def main():
     #print(list_all_players())
@@ -140,7 +143,9 @@ def main():
     #print(get_team_info("'FC Porto'"))
     #print(get_team_players("'133602'"))
     #print(get_team_best_player("'133602'"))
-    print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
+    print(get_match_info("'2019-2020'", "'English Premier League'", "'602129'"))
+
     
 
 
