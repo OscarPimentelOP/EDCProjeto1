@@ -4,14 +4,15 @@ declare function local:playersByPosition($pos) as element()*
 {
   
 let $coll2 := collection('dataset')//players
-for $a in $coll2/player[BestPosition = $pos]
-order by $a/Overall 
+for $p in $coll2/player[BestPosition = $pos]
+order by $p/Overall descending 
 return
-  <elem>
-    {$a/Name/text()} 
-  </elem>
-
+  <player>
+    {$p/ID}
+    {$p/Name}
+    {$p/PhotoUrl}
+    {$p/Nationality}
+    {$p/Club} 
+  </player>
 };
-
-
 
