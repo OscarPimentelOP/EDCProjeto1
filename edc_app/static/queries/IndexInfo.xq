@@ -12,3 +12,7 @@ return
  </elem>
 return <root>distinct-values({$res})</root>
 };
+
+<players>
+  {local:IndexInfo()}
+</players>

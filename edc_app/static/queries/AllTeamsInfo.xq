@@ -15,6 +15,6 @@ return
 return <root>{$res}</root>
 };
 
-<players>
+<team>
   {local:AllTeamsInfo()}
-</players>
+</team>
