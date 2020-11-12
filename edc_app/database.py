@@ -138,6 +138,10 @@ def get_all_teams_info():
     res = run_query('AllTeamsInfo.xq')
     return res
 
+def get_teams_from_comp(comp):
+    res = run_query('LeagueTeamsByID.xq', 'local:LeagueTeamsByID({})'.format(comp))
+    return res
+
 def main():
     #print(list_all_players())
     #print(get_player_by_id(20801))
@@ -153,7 +157,8 @@ def main():
     #print(get_team_best_player("'133602'"))
     #print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
     #print(get_match_info("'2019-2020'", "'English Premier League'", "'602129'"))
-    print(get_all_teams_info())
+    #print(get_all_teams_info())
+    print(get_teams_from_comp("4328"))
 
     
 
