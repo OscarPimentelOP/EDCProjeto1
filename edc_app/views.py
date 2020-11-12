@@ -25,8 +25,8 @@ def teams(request):
     league = request.GET.get('league', '')
     if league:
         pass
-        #players_data = '<players>' + db.order_players_pos(pos) + '</players>'
-        #players_data_xml = etree.fromstring(players_data)
+        teams_data = db.get_teams_from_comp(league)
+        teams_data_xml = etree.fromstring(teams_data)
 
     else:
         teams_data = db.get_all_teams_info()
