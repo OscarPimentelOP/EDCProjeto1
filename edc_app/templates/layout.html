@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Layout</title>
+    <title>FootballZone</title>
     {% load static %}
     <link rel=stylesheet href="{% static 'css/style.css' %}">
     <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
@@ -17,11 +17,11 @@
 
     <header class="header-nav">
         <ul class="navbar">
-            <li> <a href="">HOME</a> </li>
+            <li> <a href="/">HOME</a> </li>
             <li><a href="/teams">TEAMS</a></li>
             <li> <a href="/players">PLAYERS</a></li>
             <li> <a href="/news">NEWS</a> </li>
-            <li> <a href="">MATCHES</a> </li>
+            <li> <a href="/">MATCHES</a> </li>
         </ul>
         <form>
             <input type="text" name="" placeholder="Search...">
@@ -37,7 +37,7 @@
 
     <footer>
         <hr />
-        <p>&copy; {{ year }} - My Django Application</p>
+        <p>&copy; {{ year }} - FootballZone</p>
     </footer>
 
     <script type="text/javascript">
