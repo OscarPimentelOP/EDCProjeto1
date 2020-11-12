@@ -3,7 +3,6 @@
 declare function local:AllTeamsInfo() as element()*
 {
 let $coll3 := collection('dataset')//teams
-let  $res :=
 for $a in $coll3/team
 return
 <team>
@@ -11,10 +10,9 @@ return
       {$a/strTeam} 
       {$a/strLeague} 
       {$a/strTeamBadge} 
- </team>
-return $res
+</team>
 };
 
-<AllTeams>
+<teams>
   {local:AllTeamsInfo()}
-</AllTeams>
+</teams>

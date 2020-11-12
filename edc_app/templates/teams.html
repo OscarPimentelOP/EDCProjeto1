@@ -2,101 +2,16 @@
 {% load static %}
 
 {% block content %}
+    <select name="forma" onchange="location = this.value;">
+        <option value="/teams">ALL</option>
+        <option value="/teams?league=4328">Premier League</option>
+        <option value="/teams?league=4334">Ligue 1</option>
+        <option value="/teams?league=4331">Bundesliga</option>
+        <option value="/teams?league=4332">Serie A</option>
+        <option value="/teams?league=4344">Primeira Liga</option>
+        <option value="/teams?league=4335">La Liga</option>
+    </select>
 
-<div class="team-group">
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-    <div class="teambox">
-        <div class="imagebox">
-            <img src="https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png" alt="">
-        </div>
-        <div class="team-info">
-            <span>Club</span>
-            <h1>ClubName</h1>
-            <span>league</span>
-            <h1>LeagueName</h1>
-            <a href="/teams">
-                <i class="fas fa-plus"></i>
-            </a>
-
-        </div>
-    </div>
-
-
-</div>
-
+    {{ generated | safe }}
 
 {% endblock %}
