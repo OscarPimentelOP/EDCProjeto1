@@ -20,6 +20,9 @@ def index(request):
     }
     return render(request, 'index.html', tparams)
 
+def teams(request):
+    return render(request, 'teams.html')
+
 
 def players(request):
     pos = request.GET.get('pos', '')
