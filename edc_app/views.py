@@ -30,7 +30,6 @@ def teams(request):
 
     else:
         teams_data = db.get_all_teams_info()
-        print(teams_data)
         teams_data_xml = etree.fromstring(teams_data)
 
     # TRANSFORM XSTL
