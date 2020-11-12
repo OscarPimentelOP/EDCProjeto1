@@ -99,7 +99,19 @@ def get_most_used_player(season, comp, team):
 
     return [p for p in dict if dict[p] == mostUsedVal]
 
+def get_team_best_scorer(season, comp, team):
+    res = run_query('TeamScorers.xq', 'local:TeamScorers({}, {} ,{})'.format(season, comp, team))
+    root = ET.fromstringlist(res)
+    dict = {}
+    ''' output not ready yet
+    for c in root:
+        a =str(c.text).split(";")
+        for e in a:
+            if len(str(e)) > 1:
+                scorers = e.split(":")[1]
+    '''
 
+    return res
 
 
 def main():
@@ -116,6 +128,7 @@ def main():
     #print(get_team_players("'133602'"))
     #print(get_team_best_player("'133602'"))
     #print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
+    print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
 
 
 if __name__ == "__main__":
