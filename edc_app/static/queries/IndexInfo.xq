@@ -3,16 +3,11 @@
 declare function local:IndexInfo() as element()*
 {
 let $coll3 := collection('dataset')//matches
-let  $res :=
 for $a in $coll3/match
 return
-<elem>
-      {$a/strLeague} 
-    
- </elem>
-return <root>distinct-values({$res})</root>
+<league>
+      {$a/strLeague}     
+ </league>
+
 };
 
-<players>
-  {local:IndexInfo()}
-</players>
