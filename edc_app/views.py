@@ -20,8 +20,27 @@ def index(request):
     }
     return render(request, 'index.html', tparams)
 
+
 def teams(request):
-    return render(request, 'teams.html')
+    league = request.GET.get('league', '')
+    if league:
+        pass
+        #players_data = '<players>' + db.order_players_pos(pos) + '</players>'
+        #players_data_xml = etree.fromstring(players_data)
+
+    else:
+        teams_data = db.get_all_teams_info()
+        print(teams_data)
+        teams_data_xml = etree.fromstring(teams_data)
+
+    # TRANSFORM XSTL
+    teams_data_html = transform_to_html(teams_data_xml, "teams.xsl")
+
+    tparams = {
+        'generated': teams_data_html,
+    }
+
+    return render(request, 'teams.html', tparams)
 
 
 def players(request):
