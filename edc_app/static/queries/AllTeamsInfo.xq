@@ -6,15 +6,15 @@ let $coll3 := collection('dataset')//teams
 let  $res :=
 for $a in $coll3/team
 return
-<elem>
+<team>
       {$a/idTeam} 
       {$a/strTeam} 
       {$a/strLeague} 
       {$a/strTeamBadge} 
- </elem>
-return <root>{$res}</root>
+ </team>
+return $res
 };
 
-<team>
+<AllTeams>
   {local:AllTeamsInfo()}
-</team>
+</AllTeams>
