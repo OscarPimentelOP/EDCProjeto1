@@ -12,6 +12,6 @@ return
       {$a/strLeague} 
       {$a/strTeamBadge} 
  </team>
-return $res
+return <teams>{$res}</teams>
 };
 
