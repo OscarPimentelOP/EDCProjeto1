@@ -4,7 +4,7 @@ declare function local:StartingEleven($season, $comp, $team) as element()*
 {
 let $coll3 := collection('dataset')//matches
 let  $res :=
-for $a in $coll3/match[($season = strSeason) and (strLeague = $comp) and ((idAwayTeam = $team) or (idHomeTeam = $team)) ]
+for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and ((idAwayTeam = $team) or (idHomeTeam = $team)) ]
 return
 if ($a/idAwayTeam = $team) then
   <elem>

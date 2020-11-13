@@ -4,7 +4,7 @@ declare function local:MatchInfo($season, $comp, $matchID) as element()*
 {
 let $coll3 := collection('dataset')//matches
 let  $res :=
-for $a in $coll3/match[($season = strSeason) and (strLeague = $comp) and (idEvent = $matchID ) ]
+for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idEvent = $matchID ) ]
 return
 <elem>
       {$a/idEvent} 

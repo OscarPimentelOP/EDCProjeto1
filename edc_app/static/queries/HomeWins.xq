@@ -3,7 +3,7 @@
 declare function local:HomeWins($season, $comp, $team) as element()*
 {
 let $coll3 := collection('dataset')//matches
-for $a in $coll3/match[($season = strSeason) and (strLeague = $comp) and (idHomeTeam = $team) ]
+for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idHomeTeam = $team) ]
 where $a/intHomeScore > $a/intAwayScore
 return
   <elem>

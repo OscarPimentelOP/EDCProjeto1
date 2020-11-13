@@ -16,3 +16,4 @@ if ($a/idAwayTeam = $team) then
 return <root>{$res}</root>
 };
 
+
