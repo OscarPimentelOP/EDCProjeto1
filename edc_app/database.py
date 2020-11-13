@@ -158,7 +158,8 @@ def main():
     #print(get_most_used_player("'2019-2020'", "'English Premier League'", "'133602'"))
     #print(get_match_info("'2019-2020'", "'English Premier League'", "'602129'"))
     #print(get_all_teams_info())
-    print(get_teams_from_comp("4328"))
+    #print(get_teams_from_comp("4328"))
+    print(get_index_info())
 
     
 
