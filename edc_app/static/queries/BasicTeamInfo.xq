@@ -4,7 +4,7 @@ declare function local:TeamInfo($team) as element()*
 let $coll1 := collection('dataset')//teams
 for $a in $coll1/team[idTeam = $team]  
 return
-  <elem>
+  <team>
   {$a/idTeam} 
   {$a/strTeam} 
     {$a/strTeamBadge} 
@@ -14,5 +14,5 @@ return
     {$a/strStadium} 
    {$a/strDescriptionEN} 
      {$a/strWebsite}
-  </elem>
+  </team>
 };
