@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="team" type="teamType"/>
+  <xs:complexType name="teamType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="idTeam"/>
+      <xs:element type="xs:string" name="strTeam"/>
+      <xs:element type="xs:string" name="strTeamBadge"/>
+      <xs:element type="xs:string" name="strTeamJersey"/>
+      <xs:element type="xs:string" name="intFormedYear"/>
+      <xs:element type="xs:string" name="strLeague"/>
+      <xs:element type="xs:string" name="idLeague"/>
+      <xs:element type="xs:string" name="strStadium"/>
+      <xs:element type="xs:string" name="strStadiumThumb"/>
+      <xs:element type="xs:string" name="strDescriptionEN"/>
+      <xs:element type="xs:string" name="strWebsite"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
