@@ -49,7 +49,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     </a>
                 </div>
                 <p class="description">
-                    <xsl:value-of select="strDescriptionEn"/>
+                    <xsl:value-of select="strDescriptionEN"/>
                 </p>
             </div>
         </section>
