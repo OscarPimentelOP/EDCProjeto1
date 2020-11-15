@@ -146,6 +146,11 @@ def get_calendar_for_index(comp, season):
     res = run_query('ListCalendar.xq', 'local:ListCalendar({}, {})'.format(comp, season))
     return res
 
+def get_plantel(team):
+    res = run_query('PlayersInTeam.xq', 'local:PlayersInTeam({})'.format(team))
+    return res
+
+
 def main():
     #print(list_all_players())
     #print(get_player_by_id(20801))
@@ -156,7 +161,7 @@ def main():
     #print(get_team_away_wins("'2019-2020'", "'4328'", "'133602'"))
     #print(get_team_away_losses("'2019-2020'", "'4328'", "'133602'"))
     #print(get_team_draws("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_info("'FC Porto'"))
+    #print(get_team_info("'133604'"))
     #print(get_team_players("'133602'"))
     #print(get_team_best_player("'133602'"))
     #print(get_most_used_player("'2019-2020'", "'4328'", "'133602'"))
@@ -165,7 +170,8 @@ def main():
     #print(get_teams_from_comp("4328"))
     #print(get_index_info())
     #print(get_calendar_for_index("'4328'", "'2020-2021'"))
-    print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
+    #print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
+    print(get_plantel("'133604'"))
 
     
 

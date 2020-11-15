@@ -1,11 +1,12 @@
 (: This query returns all the players in a team :) 
-<root>{
-let $coll1 := collection('dataset')//teams
+declare function local:PlayersInTeam($team) as element()*
+{
 let $coll2 := collection('dataset')//players
-let $club := "Arsenal"  
-for $a in $coll2/player[Club = $club]  
+let  $res :=
+for $a in $coll2/player[idTeam = $team]  
 return
-  <elem>
+  <player>
     {$a/Name/text()} 
-  </elem>
-}</root>
+  </player>
+    return <squad> {$res} </squad>
+};
