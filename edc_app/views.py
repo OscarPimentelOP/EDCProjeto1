@@ -42,6 +42,10 @@ def teams(request):
     return render(request, 'teams.html', tparams)
 
 
+def team(request, team_id):
+    return render(request, 'team.html')
+
+
 def players(request):
     pos = request.GET.get('pos', '')
     if pos:
