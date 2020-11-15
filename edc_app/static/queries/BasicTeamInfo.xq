@@ -11,7 +11,8 @@ return
      {$a/strTeamJersey} 
       {$a/intFormedYear} 
       {$a/strLeague} 
-    {$a/strStadium} 
+    {$a/strStadium}
+    {$a/strStadiumThumb}
    {$a/strDescriptionEN} 
      {$a/strWebsite}
   </team>
