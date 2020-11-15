@@ -1,6 +1,17 @@
 {% extends "layout.html" %}
 {% load static %}
-    
+
 {% block content %}
+    <select name="forma" onchange="location = this.value;">
+        <option value="/teams">ALL</option>
+        <option value="/teams?league=4328">Premier League</option>
+        <option value="/teams?league=4334">Ligue 1</option>
+        <option value="/teams?league=4331">Bundesliga</option>
+        <option value="/teams?league=4332">Serie A</option>
+        <option value="/teams?league=4344">Primeira Liga</option>
+        <option value="/teams?league=4335">La Liga</option>
+    </select>
+
     {{ generated | safe }}
+
 {% endblock %}
