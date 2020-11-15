@@ -22,7 +22,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <p>
                         <a>
                             <xsl:attribute name="href">
-                                /teams?league=4328
+                                /teams?league=<xsl:value-of select="idLeague"/>
                             </xsl:attribute>
                             <xsl:value-of select="strLeague"/>
                         </a>

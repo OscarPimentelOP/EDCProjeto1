@@ -10,7 +10,8 @@ return
     {$a/strTeamBadge} 
      {$a/strTeamJersey} 
       {$a/intFormedYear} 
-      {$a/strLeague} 
+      {$a/strLeague}
+      {$a/idLeague}
     {$a/strStadium}
     {$a/strStadiumThumb}
    {$a/strDescriptionEN} 
