@@ -11,7 +11,9 @@ return
       {$a/dateEvent} 
       {$a/strVenue} 
       {$a/strHomeTeam} 
+      {$a/idHomeTeam} 
       {$a/strAwayTeam}
+      {$a/idAwayTeam} 
       {$a/strLeague} 
       {$a/intRound} 
       {$a/intHomeScore} 
