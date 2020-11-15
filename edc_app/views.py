@@ -44,7 +44,13 @@ def teams(request):
 
 def team(request, team_id):
     team_data = db.get_team_info(team_id)
-    team_data_xml = etree.fromstring(team_data)
+    team_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'team.xsd')))
+    team_parser = etree.XMLParser(schema=team_schema)
+
+    try:
+        team_data_xml = etree.fromstring(team_data, team_parser)
+    except etree.XMLSyntaxError:
+        print("Schema not valid")
 
     team_data_html = transform_to_html(team_data_xml, 'team.xsl')
 
@@ -77,27 +83,19 @@ def players(request):
 # Individual Player Page
 def player(request, player_id):
     player_data = db.get_player_by_id(player_id)
-    player_data_xml = etree.fromstring(player_data)
+    player_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'player.xsd')))
+    player_parser = etree.XMLParser(schema=player_schema)
+
+    try:
+        player_data_xml = etree.fromstring(player_data, player_parser)
+    except etree.XMLSyntaxError:
+        print("Schema not valid")
 
     club_position_txt = player_data_xml.find('ClubPosition').text
     national_position_txt = player_data_xml.find('NationalPosition').text
 
-    # if len(club_position_txt) > 3:
-    #    pos_l = club_position_txt.split(", ")
-    #    pos_l_translated = []
-    #    for pos_e in pos_l:
-    #        pos_l_translated.append(translate_position(pos_e))
-    #    club_position = ','.join(pos_l_translated)
-    # else:
     club_position = translate_position(club_position_txt)
 
-    # if len(national_position_txt) > 3:
-    #    pos_l = national_position_txt.split(", ")
-    #    pos_l_translated = []
-    #    for pos_e in pos_l:
-    #        pos_l_translated.append(translate_position(pos_e))
-    #    national_position = ','.join(pos_l_translated)
-    # else:
     national_position = translate_position(national_position_txt)
 
     if national_position == 'N/D':
