@@ -52,12 +52,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <div class="info-row">
                         <div class="data">
                             <h4>Club Position</h4>
-                            <a>
-                                <xsl:attribute name="href">
-                                    /players?pos=<xsl:value-of select="player/ClubPosition"/>
-                                </xsl:attribute>
-                                <p><xsl:value-of select="player/ClubPositionTranslated"/></p>
-                            </a>
+                            <xsl:choose>
+                                <xsl:when test="player/ClubPositionTranslated != 'N/D' and player/ClubPositionTranslated != 'Reserved'">
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            /players?pos=<xsl:value-of select="player/ClubPosition"/>
+                                        </xsl:attribute>
+                                        <p><xsl:value-of select="player/ClubPositionTranslated"/></p>
+                                    </a>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <p><xsl:value-of select="player/ClubPositionTranslated"/></p>
+                                </xsl:otherwise>
+                            </xsl:choose>
                         </div>
                         <div class="data">
                             <h4>Club Number</h4>
@@ -72,7 +79,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <div class="data">
                             <h4>National Position</h4>
                             <xsl:choose>
-                                <xsl:when test="player/NationalPositionTranslated != 'N/D'">
+                                <xsl:when test="player/NationalPositionTranslated != 'N/D' and player/NationalPositionTranslated != 'Reserved'">
                                     <a>
                                         <xsl:attribute name="href">
                                             /players?pos=<xsl:value-of select="player/NationalPosition"/>
