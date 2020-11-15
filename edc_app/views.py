@@ -71,13 +71,22 @@ def team(request, team_id):
 
 def players(request):
     pos = request.GET.get('pos', '')
+    players_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'players.xsd')))
+    players_parser = etree.XMLParser(schema=players_schema)
+
     if pos:
         players_data = '<players>' + db.order_players_pos(pos) + '</players>'
-        players_data_xml = etree.fromstring(players_data)
+        try:
+            players_data_xml = etree.fromstring(players_data, players_parser)
+        except etree.XMLSyntaxError:
+            print("Invalid Schema")
 
     else:
         players_data = db.list_players_ord()
-        players_data_xml = etree.fromstring(players_data)
+        try:
+            players_data_xml = etree.fromstring(players_data, players_parser)
+        except etree.XMLSyntaxError:
+            print("Invalid Schema")
 
     # TRANSFORM XSTL
     players_data_html = transform_to_html(players_data_xml, "players.xsl")
