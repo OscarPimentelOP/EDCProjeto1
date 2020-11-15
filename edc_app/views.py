@@ -43,7 +43,16 @@ def teams(request):
 
 
 def team(request, team_id):
-    return render(request, 'team.html')
+    team_data = db.get_team_info(team_id)
+    team_data_xml = etree.fromstring(team_data)
+
+    team_data_html = transform_to_html(team_data_xml, 'team.xsl')
+
+    tparams = {
+        'generated': team_data_html,
+    }
+
+    return render(request, 'team.html', tparams)
 
 
 def players(request):
