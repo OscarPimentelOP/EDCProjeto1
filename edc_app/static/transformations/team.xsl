@@ -19,7 +19,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </h1>
                 <div class="base-info">
                     <h3> liga </h3>
-                    <p><xsl:value-of select="strLeague"/></p>
+                    <p>
+                        <a>
+                            <xsl:attribute name="href">
+                                /teams?league=4328
+                            </xsl:attribute>
+                            <xsl:value-of select="strLeague"/>
+                        </a>
+                    </p>
                     <h3> data de fundação </h3>
                     <p> <xsl:value-of select="intFormedYear"/> </p>
                     <!-- divisão -->
