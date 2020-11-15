@@ -124,8 +124,6 @@ def player(request, player_id):
 
 
 # News Page
-# TODO XSTL TRANSFORMATIONS
-# TODO Possibly add a simpler schema, using xpath to find just the data we want
 def news(request):
     # News Source(s), Schemas and Parser
     rss_feed = 'https://www.skysports.com/rss/11095'

@@ -10,14 +10,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <div class="cardbox">
                     <h4><xsl:value-of select="player/Name"/></h4>
                     <div class="picture">
-                        <img class="icon" src="{player/TeamBadge}">
-                               <xsl:attribute name="alt">
-                                    <xsl:value-of select="player/Club"/>
-                               </xsl:attribute>
-                                <xsl:attribute name="title">
-                                    <xsl:value-of select="player/Club"/>
-                               </xsl:attribute>
-                        </img>
+                        <a>
+                            <xsl:attribute name="href">
+                                /teams/<xsl:value-of select="player/idTeam"/>
+                            </xsl:attribute>
+                            <img class="icon" src="{player/TeamBadge}">
+                                   <xsl:attribute name="alt">
+                                        <xsl:value-of select="player/Club"/>
+                                   </xsl:attribute>
+                                    <xsl:attribute name="title">
+                                        <xsl:value-of select="player/Club"/>
+                                   </xsl:attribute>
+                            </img>
+                        </a>
                         <img class="player_pic" src="{player/PhotoUrl}" alt=""/>
                     </div>
                 </div>
@@ -47,7 +52,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <div class="info-row">
                         <div class="data">
                             <h4>Club Position</h4>
-                            <p><xsl:value-of select="player/ClubPositionTranslated"/></p>
+                            <a>
+                                <xsl:attribute name="href">
+                                    /players?pos=<xsl:value-of select="player/ClubPosition"/>
+                                </xsl:attribute>
+                                <p><xsl:value-of select="player/ClubPositionTranslated"/></p>
+                            </a>
                         </div>
                         <div class="data">
                             <h4>Club Number</h4>
@@ -61,7 +71,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         </div>
                         <div class="data">
                             <h4>National Position</h4>
-                            <p><xsl:value-of select="player/NationalPositionTranslated"/></p>
+                            <xsl:choose>
+                                <xsl:when test="player/NationalPositionTranslated != 'N/D'">
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            /players?pos=<xsl:value-of select="player/NationalPosition"/>
+                                        </xsl:attribute>
+                                        <p><xsl:value-of select="player/NationalPositionTranslated"/></p>
+                                    </a>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <p><xsl:value-of select="player/NationalPositionTranslated"/></p>
+                                </xsl:otherwise>
+                            </xsl:choose>
                         </div>
                         <div class="data">
                             <h4>National Number</h4>
