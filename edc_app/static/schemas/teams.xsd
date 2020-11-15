@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="teams" type="teamsType"/>
+  <xs:complexType name="teamType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="idTeam"/>
+      <xs:element type="xs:string" name="strTeam"/>
+      <xs:element name="strLeague">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="English Premier League"/>
+            <xs:enumeration value="French Ligue 1"/>
+            <xs:enumeration value="German Bundesliga"/>
+            <xs:enumeration value="Italian Serie A"/>
+            <xs:enumeration value="Portuguese Primeira Liga"/>
+            <xs:enumeration value="Spanish La Liga"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="strTeamBadge"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="teamsType">
+    <xs:sequence>
+      <xs:element type="teamType" name="team" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

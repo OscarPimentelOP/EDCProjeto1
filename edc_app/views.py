@@ -23,14 +23,22 @@ def index(request):
 
 def teams(request):
     league = request.GET.get('league', '')
+    teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
+    teams_parser = etree.XMLParser(schema=teams_schema)
     if league:
         pass
         teams_data = db.get_teams_from_comp(league)
-        teams_data_xml = etree.fromstring(teams_data)
+        try:
+            teams_data_xml = etree.fromstring(teams_data, teams_parser)
+        except etree.XMLSyntaxError:
+            print("Invalid Schema")
 
     else:
         teams_data = db.get_all_teams_info()
-        teams_data_xml = etree.fromstring(teams_data)
+        try:
+            teams_data_xml = etree.fromstring(teams_data, teams_parser)
+        except etree.XMLSyntaxError:
+            print("Invalid Schema")
 
     # TRANSFORM XSTL
     teams_data_html = transform_to_html(teams_data_xml, "teams.xsl")
