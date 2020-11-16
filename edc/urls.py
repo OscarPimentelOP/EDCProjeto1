@@ -25,4 +25,5 @@ urlpatterns = [
     path('news', views.news),
     path('teams', views.teams),
     path('teams/<int:team_id>', views.team),
+    path('matches', views.matches),
 ]

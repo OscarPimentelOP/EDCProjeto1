@@ -112,6 +112,7 @@ def get_most_used_player(season, comp, team):
 
     return [p for p in dict if dict[p] == mostUsedVal]
 
+
 def get_team_best_scorer(season, comp, team):
     res = run_query('TeamScorers.xq', 'local:TeamScorers({}, {} ,{})'.format(season, comp, team))
     root = ET.fromstringlist(res)
@@ -126,56 +127,65 @@ def get_team_best_scorer(season, comp, team):
 
     return res
 
+
 def get_match_info(season, comp, matchID):
     res = run_query('MatchInfo.xq', 'local:MatchInfo({}, {} ,{})'.format(season, comp, matchID))
     return res
+
 
 def get_index_info():
     res = run_query('IndexInfo.xq')
     return res
 
+
 def get_all_teams_info():
     res = run_query('AllTeamsInfo.xq')
     return res
+
 
 def get_teams_from_comp(comp):
     res = run_query('LeagueTeamsByID.xq', 'local:LeagueTeamsByID({})'.format(comp))
     return res
 
+
 def get_calendar_for_index(comp, season):
     res = run_query('ListCalendar.xq', 'local:ListCalendar({}, {})'.format(comp, season))
     return res
+
 
 def get_plantel(team):
     res = run_query('PlayersInTeam.xq', 'local:PlayersInTeam({})'.format(team))
     return res
 
 
+def get_matches():
+    res = run_query('ListMatches.xq')
+    return res
+
+
 def main():
-    #print(list_all_players())
-    #print(get_player_by_id(20801))
-    #print(order_players_pos('"ST"'))
-    #print(get_round_results("'2019-2020'","'4328'", "'2'"))
-    #print(get_team_home_wins("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_home_losses("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_away_wins("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_away_losses("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_draws("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_team_info("'133604'"))
-    #print(get_team_players("'133602'"))
-    #print(get_team_best_player("'133602'"))
-    #print(get_most_used_player("'2019-2020'", "'4328'", "'133602'"))
-    #print(get_match_info("'2019-2020'", "'4328'", "'602129'"))
-    #print(get_all_teams_info())
-    #print(get_teams_from_comp("4328"))
-    #print(get_index_info())
-    #print(get_calendar_for_index("'4328'", "'2020-2021'"))
-    #print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
-    print(get_plantel("'133604'"))
-
-    
-
-
+    # print(list_all_players())
+    # print(get_player_by_id(20801))
+    # print(order_players_pos('"ST"'))
+    # print(get_round_results("'2019-2020'","'4328'", "'2'"))
+    # print(get_team_home_wins("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_team_home_losses("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_team_away_wins("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_team_away_losses("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_team_draws("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_team_info("'133604'"))
+    # print(get_team_players("'133602'"))
+    # print(get_team_best_player("'133602'"))
+    # print(get_most_used_player("'2019-2020'", "'4328'", "'133602'"))
+    # print(get_match_info("'2019-2020'", "'4328'", "'602129'"))
+    # print(get_all_teams_info())
+    # print(get_teams_from_comp("4328"))
+    # print(get_index_info())
+    # print(get_calendar_for_index("'4328'", "'2020-2021'"))
+    # print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
+    # print(get_plantel("'133604'"))
+    print(list_players_ord())
+    print(get_matches())
 
 
 if __name__ == "__main__":

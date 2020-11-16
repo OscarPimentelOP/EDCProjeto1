@@ -2,135 +2,16 @@
 {% load static %}
 
 {% block content %}
+    <select name="forma" onchange="location = this.value;">
+        <option value="/teams">ALL</option>
+        <option value="/teams?league=4328">Premier League</option>
+        <option value="/teams?league=4334">Ligue 1</option>
+        <option value="/teams?league=4331">Bundesliga</option>
+        <option value="/teams?league=4332">Serie A</option>
+        <option value="/teams?league=4344">Primeira Liga</option>
+        <option value="/teams?league=4335">La Liga</option>
+    </select>
 
-<div class="matches">
-
-    <div class="match-box">
-
-        <h1 id="league">
-            English Premier League
-            <!-- League -->
-        </h1>
-
-        <div class="home-team">
-
-            <h1 id="name">Liverpool</h1>
-            <a id="home" href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                4
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <div class="away-team">
-
-            <h1 id="name">Norwich</h1>
-            <a id="away" href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uqtwxx1448813449.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                1
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <h1 id="date">
-            2019-08-09
-            <!-- date -->
-        </h1>
-    </div>
-
-    <div class="match-box">
-
-        <h1 id="league">
-            English Premier League
-            <!-- League -->
-        </h1>
-
-        <div class="home-team">
-
-            <h1 id="name">Liverpool</h1>
-            <a href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                4
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <div class="away-team">
-
-            <h1 id="name">Norwich</h1>
-            <a href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uqtwxx1448813449.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                1
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <h1 id="date">
-            2019-08-09
-            <!-- date -->
-        </h1>
-    </div>
-
-    <div class="match-box">
-
-        <h1 id="league">
-            English Premier League
-            <!-- League -->
-        </h1>
-
-        <div class="home-team">
-
-            <h1 id="name">Liverpool</h1>
-            <a href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                4
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <div class="away-team">
-
-            <h1 id="name">Norwich</h1>
-            <a href=""></a>
-            <img src="https://www.thesportsdb.com/images/media/team/badge/uqtwxx1448813449.png" alt="">
-            <!-- team logo -->
-
-            <h1 id="score">
-                1
-                <!-- score -->
-            </h1>
-
-        </div>
-
-        <h1 id="date">
-            2019-08-09
-            <!-- date -->
-        </h1>
-    </div>
-
-
-
-</div>
-
+    {{ generated | safe }}
 
 {% endblock %}

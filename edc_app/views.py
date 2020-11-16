@@ -164,6 +164,19 @@ def news(request):
     return render(request, 'news.html', tparams)
 
 
+def matches(request):
+    matches_data = db.get_matches()
+    matches_data_xml = etree.fromstring(matches_data)
+
+    matches_data_html = transform_to_html(matches_data_xml, "matches.xsl")
+
+    tparams = {
+        'generated': matches_data_html,
+    }
+
+    return render(request, 'matches.html', tparams)
+
+
 # Function to transform xml to html
 def transform_to_html(original_xml, xslt_filename):
     xslt_file = etree.parse(os.path.join(static_files, 'transformations', xslt_filename))
