@@ -3,15 +3,30 @@
 
 {% block content %}
     <select name="forma" onchange="location = this.value;">
-        <option value="/teams">ALL</option>
-        <option value="/teams?league=4328">Premier League</option>
-        <option value="/teams?league=4334">Ligue 1</option>
-        <option value="/teams?league=4331">Bundesliga</option>
-        <option value="/teams?league=4332">Serie A</option>
-        <option value="/teams?league=4344">Primeira Liga</option>
-        <option value="/teams?league=4335">La Liga</option>
+        <option value="/matches">ALL</option>
+        <option value="/matches?league=4328">Premier League</option>
+        <option value="/matches?league=4334">Ligue 1</option>
+        <option value="/matches?league=4331">Bundesliga</option>
+        <option value="/matches?league=4332">Serie A</option>
+        <option value="/matches?league=4344">Primeira Liga</option>
+        <option value="/matches?league=4335">La Liga</option>
     </select>
 
     {{ generated | safe }}
 
+    <script type="text/javascript">
+      function changeNext() {
+          var league = '{{ league_id }}';
+          if (league != '')
+          {
+              if (document.getElementById("next").href.slice(-1) == "=")
+                  document.getElementById("next").href += league;
+              else {
+                  document.getElementById("next").href = document.getElementById("next").href.slice(0, -4) + league;
+              }
+          }
+        return false;
+      };
+      changeNext();
+    </script>
 {% endblock %}

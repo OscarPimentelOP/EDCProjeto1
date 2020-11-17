@@ -26,7 +26,6 @@ def teams(request):
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
     teams_parser = etree.XMLParser(schema=teams_schema)
     if league:
-        pass
         teams_data = db.get_teams_from_comp(league)
         try:
             teams_data_xml = etree.fromstring(teams_data, teams_parser)
@@ -167,19 +166,28 @@ def news(request):
 def matches(request):
     page_number = request.GET.get('page', '')
     page_size = request.GET.get('pagesize', '')
+    league_id = request.GET.get('league', '')
 
-    matches_data = db.get_matches()
+    if league_id:
+        matches_data = db.get_matches_league(league_id)
+    else:
+        matches_data = db.get_matches()
+
     matches_data_xml = etree.fromstring(matches_data)
 
     if page_number and page_size:
         matches_xslt_file = etree.parse(os.path.join(static_files, 'transformations', 'matches.xsl'))
         matches_transform = etree.XSLT(matches_xslt_file)
-        matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size)
+        if league_id:
+            matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size, League=league_id)
+        else:
+            matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size)
     else:
         matches_data_html = transform_to_html(matches_data_xml, "matches.xsl")
 
     tparams = {
         'generated': matches_data_html,
+        'league_id': league_id,
     }
 
     return render(request, 'matches.html', tparams)

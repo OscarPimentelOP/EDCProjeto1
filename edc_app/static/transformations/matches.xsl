@@ -5,6 +5,7 @@
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:param name="Page" select="0"/>
 <xsl:param name="PageSize" select="10"/>
+<xsl:param name="League"/>
 
 <xsl:template match="/matches">
     <xsl:variable name="counter" select="count(match)"/>
@@ -13,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <!-- Prev link for pagination -->
         <xsl:choose>
             <xsl:when test="number($Page)-1 &gt;= 0">&#160;
-                <A>
+                <A id="previous">
                     <xsl:attribute name="href">/matches?page=<xsl:value-of select="number($Page)-1"/>&amp;pagesize=<xsl:value-of
                             select="$PageSize"/></xsl:attribute>
                     &lt;&lt;Prev
@@ -32,9 +33,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <!-- Next link for pagination -->
         <xsl:choose>
             <xsl:when test="number($Page)+1 &lt; number($selectedRowCount)">&#160;
-                <A>
+                <A id="next">
                     <xsl:attribute name="href">/matches?page=<xsl:value-of select="number($Page)+1"/>&amp;pagesize=<xsl:value-of
-                            select="$PageSize"/></xsl:attribute>
+                            select="$PageSize"/>&amp;league=<xsl:value-of select="$League"/></xsl:attribute>
                     Next&gt;&gt;
                 </A>
             </xsl:when>

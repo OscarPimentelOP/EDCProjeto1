@@ -163,6 +163,11 @@ def get_matches():
     return res
 
 
+def get_matches_league(league_id):
+    res = run_query('AddBadgesMatchesLeague.xq', 'local:getMatches({})'.format(league_id))
+    return res
+
+
 def main():
     # print(list_all_players())
     # print(get_player_by_id(20801))
