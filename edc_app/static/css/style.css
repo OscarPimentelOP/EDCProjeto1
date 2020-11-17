@@ -11,6 +11,7 @@ footer {
     width: 100%;
     height: 2.5rm;
     background: #fff;
+    z-index: 999;
 }
 
 .header-nav {
@@ -903,10 +904,9 @@ input[name="r"] {
     justify-content: space-evenly;
     align-items: center;
     gap: 100px;
-    
 }
 
-.match-info-extras .team-info{
+.match-info-extras .team-info {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -914,17 +914,114 @@ input[name="r"] {
     list-style: none;
 }
 
-
-.match-info-extras .info{
+.match-info-extras .info {
     display: inline-flex;
     justify-content: center;
     text-align: center;
 }
 
-.match-info-extras .info p{
+.match-info-extras .info p {
     font-size: 2em;
 }
 
-.match-info-extras .info i{
+.match-info-extras .info i {
     font-size: 2.5em;
 }
+
+/*****************************Match-Form*************************************/
+
+.match#form{
+    position: relative;
+}
+
+.match button {
+    position: absolute;
+    top: 5%;
+    background: #181D27;
+    color: #fff;
+}
+
+.match .home-team button {
+    right: 10%;
+}
+
+.match .away-team button {
+    left: 10%;
+}
+
+.team-selector {
+    visibility: hidden;
+    position: fixed;
+    top: 30%;
+    left: 15%;
+    transform: translate(-30%, -15%);
+    max-width: 400px;
+    min-width: 200px;
+    max-height: 600px;
+    z-index: 998;
+    background: #D0DB97;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.team-selector.active {
+    visibility: visible;
+}
+
+.team-selector.active.away {
+    position: fixed;
+    top: 30%;
+    left: 15%;
+    transform: translate(600%, -15%);
+}
+
+.team-selector img {
+    max-width: 100px;
+}
+
+.team-selector .team {
+    padding: 2% 5% 5% 5%;
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #fff;
+    background: #181D27;
+    border: solid 10px white;
+    width: 100%;
+}
+
+.team-selector .team span {
+    text-align: center;
+}
+
+.match-info#form {
+    position: relative;
+}
+
+.match-info .drop {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.5em;
+}
+
+.match-info .round {
+    width: 2.5em;
+    text-align: center;
+}
+
+.match button#confirm{
+    bottom: 10%;
+    right: 15%;
+    transform: translate(10%,15%);
+    top: auto;
+    font-size: 2em;
+}
+
+.match button#confirm:hover{
+    background: #69B578;
+}
+
