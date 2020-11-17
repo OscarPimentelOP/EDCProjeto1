@@ -27,6 +27,19 @@
           }
         return false;
       };
+      function changePrevious() {
+          var league = '{{ league_id }}';
+          if (league != '')
+          {
+              if (document.getElementById("previous").href.slice(-1) == "=")
+                  document.getElementById("previous").href += league;
+              else {
+                  document.getElementById("previous").href = document.getElementById("previous").href.slice(0, -4) + league;
+              }
+          }
+        return false;
+      };
       changeNext();
+      changePrevious();
     </script>
 {% endblock %}
