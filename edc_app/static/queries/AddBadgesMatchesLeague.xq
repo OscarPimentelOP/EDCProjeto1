@@ -15,12 +15,12 @@ return $toCP
 
 declare function local:getMatches($league) as element()*
 {
+<matches>{
 let $coll2 := collection('dataset')//matches
 for $a in $coll2
 let $b :=  local:addTeamBadge($a)
 for $c in $b//match[idLeague = $league]
 return $c
+}</matches>  
 };
-
-<matches>{local:getMatches("4328")}</matches>
 
