@@ -112,4 +112,3 @@ declare function local:PlayersPhotos($matchID) {
          {$p/PhotoUrl}</player>
 };
 
-<eleven>{local:PlayersPhotos( "609285")}</eleven>

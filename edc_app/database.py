@@ -194,6 +194,13 @@ def edit_match(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdat
     res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
     return res
 
+def get_match_events(matchID):
+    res = run_query('MatchEvents.xq', 'local:MatchEvents({})'.format(matchID))
+    return res
+
+def match_players_photos(matchID):
+    res = run_query('StartingElevenPhotosID.xq', 'local:PlayersPhotos({})'.format(matchID))
+    return res
 
 def main():
     # print(list_all_players())

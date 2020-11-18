@@ -53,7 +53,6 @@ let $awayRC  :=
 local:Tokens($d/strAwayRedCards/text() ) 
 let $aRC :=  for $t in $awayRC return <elem>{$t}</elem>
 
-
 return 
 <events> 
 <home>
