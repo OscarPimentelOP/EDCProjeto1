@@ -112,22 +112,6 @@ def get_most_used_player(season, comp, team):
 
     return [p for p in dict if dict[p] == mostUsedVal]
 
-
-def get_team_best_scorer(season, comp, team):
-    res = run_query('TeamScorers.xq', 'local:TeamScorers({}, {} ,{})'.format(season, comp, team))
-    root = ET.fromstringlist(res)
-    dict = {}
-    ''' output not ready yet
-    for c in root:
-        a =str(c.text).split(";")
-        for e in a:
-            if len(str(e)) > 1:
-                scorers = e.split(":")[1]
-    '''
-
-    return res
-
-
 def get_match_info(season, comp, matchID):
     res = run_query('MatchInfo.xq', 'local:MatchInfo({}, {} ,{})'.format(season, comp, matchID))
     return res
@@ -190,8 +174,8 @@ def delete_match(matchID):
     res = run_query('DeleteMatch.xq', 'local:DeleteMatch({})'.format(matchID))
     return res
 
-def edit_match(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
-    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
+def edit_match(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
+    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {})'.format(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
     return res
 
 def get_match_events(matchID):
@@ -202,31 +186,4 @@ def match_players_photos(matchID):
     res = run_query('StartingElevenPhotosID.xq', 'local:PlayersPhotos({})'.format(matchID))
     return res
 
-def main():
-    # print(list_all_players())
-    # print(get_player_by_id(20801))
-    # print(order_players_pos('"ST"'))
-    # print(get_round_results("'2019-2020'","'4328'", "'2'"))
-    # print(get_team_home_wins("'2019-2020'", "'4328'", "'133602'"))
-    # print(get_team_home_losses("'2019-2020'", "'4328'", "'133602'"))
-    # print(get_team_away_wins("'2019-2020'", "'4328'", "'133602'"))
-    # print(get_team_away_losses("'2019-2020'", "'4328'", "'133602'"))
-    # print(get_team_draws("'2019-2020'", "'4328'", "'133602'"))
-    # print(get_team_info("'133604'"))
-    # print(get_team_players("'133602'"))
-    # print(get_team_best_player("'133602'"))
-    # print(get_most_used_player("'2019-2020'", "'4328'", "'133602'"))
-    print(get_match_info("'2019-2020'", "'4328'", "'602129'"))
-    # print(get_all_teams_info())
-    # print(get_teams_from_comp("4328"))
-    # print(get_index_info())
-    # print(get_calendar_for_index("'4328'", "'2020-2021'"))
-    # print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
-    # print(get_plantel("'133604'"))
-    # print(list_players_ord())
-    # print(get_matches())
-    # print(get_starting_eleven("'2019-2020'", "'4328'", "'133602'"))
 
-
-if __name__ == "__main__":
-    main()
