@@ -194,10 +194,11 @@ def matches(request):
     return render(request, 'matches.html', tparams)
 
 
-def edit_match(request):
+def edit_match(request, match_id):
     teams_data = db.get_all_teams_info()
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
     teams_parser = etree.XMLParser(schema=teams_schema)
+    match_data = db.get_match_by_id(match_id)
 
     try:
         team_data_xml = etree.fromstring(teams_data, teams_parser)

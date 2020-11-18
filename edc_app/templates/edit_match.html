@@ -5,36 +5,7 @@
 {% block content %}
 
 {% csrf_token %}
-<div class="team-selector" id="away">
-    <label class="team" id="1">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="2">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="3">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="4">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="5">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="6">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-    <label class="team" id="7">
-        <img src="https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png" alt="">
-        <span>Liverpool</span>
-    </label>
-</div>
+{{ team_dropdown | safe }}
 
 <section class="match" id="form">
     <div class="home-team">
@@ -147,7 +118,7 @@
         }
         else {
             $('.home-team').children('a').children('img').attr('src', url)
-            $('.home-team').children('h1:first', text)
+            $('.home-team').children('h1:first').text(text)
             home_ref = $(this).attr('id')
         }
 

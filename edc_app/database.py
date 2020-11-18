@@ -133,6 +133,11 @@ def get_match_info(season, comp, matchID):
     return res
 
 
+def get_match_by_id(match_id):
+    res = run_query("GetMatchById.xq", 'local:GetMatchById({})'.format(match_id))
+    return res
+
+
 def get_index_info():
     res = run_query('IndexInfo.xq')
     return res
@@ -162,9 +167,11 @@ def get_matches():
     res = run_query('ListMatches.xq')
     return res
 
+
 def get_starting_eleven(season, comp, team):
     res = run_query('StartingEleven.xq', 'local:StartingEleven({}, {} ,{})'.format(season, comp, team))
     return res
+
 
 def get_matches_league(league_id):
     res = run_query('AddBadgesMatchesLeague.xq', 'local:getMatches({})'.format(league_id))
@@ -192,8 +199,8 @@ def main():
     # print(get_calendar_for_index("'4328'", "'2020-2021'"))
     # print(get_team_best_scorer("'2019-2020'", "'English Premier League'", "'133602'"))
     # print(get_plantel("'133604'"))
-    #print(list_players_ord())
-    #print(get_matches())
+    # print(list_players_ord())
+    # print(get_matches())
     # print(get_starting_eleven("'2019-2020'", "'4328'", "'133602'"))
 
 
