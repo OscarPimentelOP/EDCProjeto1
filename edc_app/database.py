@@ -191,7 +191,7 @@ def delete_match(matchID):
     return res
 
 def edit_match(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
-    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
+    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
     return res
 
 def get_match_events(matchID):
