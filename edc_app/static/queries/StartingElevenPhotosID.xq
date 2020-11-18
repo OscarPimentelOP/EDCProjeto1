@@ -1,9 +1,8 @@
-
-declare function local:MatchInfo($season, $comp, $matchID) as element()*
+declare function local:MatchInfo($matchID) as element()*
 {
 let $coll3 := collection('dataset')//matches
 let  $res :=
-for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idEvent = $matchID ) ]
+for $a in $coll3/match[(idEvent = $matchID ) ]
 return
 <elem>     
       {$a/strHomeLineupGoalkeeper}
@@ -26,51 +25,63 @@ declare function local:Tokens($elemToToken){
   return replace($t, ';', '')
 };
 
-declare function local:Eleven($season, $comp, $matchID) {
+declare function local:Eleven($matchID) {
   let $coll3 := collection('dataset')//players
-  let $b :=  local:MatchInfo($season, $comp, $matchID)
+  let $b :=  local:MatchInfo($matchID)
  let $d := for $c in $b/elem
  return $c
 
 let $homeGK := 
 local:Tokens($d/strHomeLineupGoalkeeper/text() ) 
-let $hGK :=  for $t in $homeGK return <elem>{$t}</elem>
+let $hGK :=  for $t in $homeGK return <elem>
+<name>{$t} </name>
+<pos>homeGK</pos>
+</elem>
 
 let $homeDefense := 
 local:Tokens($d/strHomeLineupDefense/text() ) 
-let $hD :=  for $t in $homeDefense return <elem>{$t}</elem>
+let $hD :=  for $t in $homeDefense return <elem><name>{$t} </name>
+<pos>homeDef</pos></elem>
 
 let $homeMidfield := 
 local:Tokens($d/strHomeLineupMidfield/text() ) 
-let $hM :=  for $t in $homeMidfield return <elem>{$t}</elem>
+let $hM :=  for $t in $homeMidfield return <elem><name>{$t} </name>
+<pos>homeMid</pos></elem>
 
 let $homeForward := 
 local:Tokens($d/strHomeLineupForward/text() ) 
-let $hF :=  for $t in $homeForward return <elem>{$t}</elem>
+let $hF :=  for $t in $homeForward return <elem><name>{$t} </name>
+<pos>homeFW</pos></elem>
 
 let $homeSubs := 
 local:Tokens($d/strHomeLineupSubstitutes/text() ) 
-let $hS :=  for $t in $homeSubs return <elem>{$t}</elem>
+let $hS :=  for $t in $homeSubs return <elem><name>{$t} </name>
+<pos>homeSub</pos></elem>
 
 let $awayGK := 
 local:Tokens($d/strAwayLineupGoalkeeper/text() ) 
-let $aGK :=  for $t in $awayGK return <elem>{$t}</elem>
+let $aGK :=  for $t in $awayGK return <elem><name>{$t} </name>
+<pos>awayGK</pos></elem>
 
 let $awayDefense := 
 local:Tokens($d/strAwayLineupDefense/text() ) 
-let $aD :=  for $t in $awayDefense return <elem>{$t}</elem>
+let $aD :=  for $t in $awayDefense return <elem><name>{$t} </name>
+<pos>awayDef</pos></elem>
 
 let $awayMidfield := 
 local:Tokens($d/strAwayLineupMidfield/text() ) 
-let $aM :=  for $t in $awayMidfield return <elem>{$t}</elem>
+let $aM :=  for $t in $awayMidfield return <elem><name>{$t} </name>
+<pos>awayMid</pos></elem>
 
 let $awayForward := 
 local:Tokens($d/strAwayLineupForward/text() ) 
-let $aF :=  for $t in $awayForward return <elem>{$t}</elem>
+let $aF :=  for $t in $awayForward return <elem><name>{$t} </name>
+<pos>awayFW</pos></elem>
 
 let $awaySubs := 
 local:Tokens($d/strAwayLineupSubstitutes/text() ) 
-let $aS :=  for $t in $awaySubs return <elem>{$t}</elem>
+let $aS :=  for $t in $awaySubs return <elem><name>{$t} </name>
+<pos>awaySub</pos></elem>
 
 return <elem>
 <homeGK>{$hGK}</homeGK>
@@ -86,19 +97,19 @@ return <elem>
 </elem>
 };
 
-
-declare function local:PlayersPhotos($season, $comp, $matchID) {
-  let $b :=  local:Eleven($season, $comp, $matchID)
+declare function local:PlayersPhotos($matchID) {
+  let $b :=  local:Eleven($matchID)
   let $coll3 := collection('dataset')//players
-  
-  for $elem in $b//elem 
+  let $coll2 := collection('dataset')//matches
+  let $match := $coll2/match[idEvent = $matchID] 
+                                                                                            
+  for $elem in $b//elem
      for $p in $coll3/player 
-       return if(contains($p/FullName,$elem) ) then 
-         <player>{$p/PhotoUrl}</player>
-         
-
-  
-
+       return if(matches($p/FullName,replace($elem/name, " ", "|")) and (($p/idTeam = $match/idHomeTeam)  or ($p/idTeam = $match/idAwayTeam)) ) then 
+         <player>
+         {$p/FullName}
+         {$elem/pos}
+         {$p/PhotoUrl}</player>
 };
 
-<eleven>{local:PlayersPhotos("2019-2020", "4328", "602129")}</eleven>
+<eleven>{local:PlayersPhotos( "609285")}</eleven>
