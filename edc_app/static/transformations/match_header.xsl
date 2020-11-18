@@ -3,8 +3,7 @@
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="/match">
-    <html>
+<xsl:template match="/match" name="match_header">
         <div class="home-team">
 
             <a href="">
@@ -48,7 +47,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <button id="away-team">Chose Team</button>
 
         </div>
-    </html>
 </xsl:template>
 
 </xsl:stylesheet>

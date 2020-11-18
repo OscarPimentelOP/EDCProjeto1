@@ -200,19 +200,17 @@ def edit_match(request, match_id):
     teams_parser = etree.XMLParser(schema=teams_schema)
 
     match_data = db.get_match_by_id(match_id)
-    #match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsl')))
-    #match_parser = etree.XMLParser(schema=match_schema)
+    match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
+    match_parser = etree.XMLParser(schema=match_schema)
 
     try:
         team_data_xml = etree.fromstring(teams_data, teams_parser)
-        match_data_xml = etree.fromstring(match_data)
+        match_data_xml = etree.fromstring(match_data, match_parser)
     except etree.XMLSyntaxError:
         print("Schema not valid")
 
     team_data_html = transform_to_html(team_data_xml, 'team_dropdown.xsl')
-    match_header_html = transform_to_html(match_data_xml, 'edit_match_header.xsl')
-
-    print(match_header_html)
+    match_header_html = transform_to_html(match_data_xml, 'match_header.xsl')
 
     tparams = {
         'team_dropdown': team_data_html,
