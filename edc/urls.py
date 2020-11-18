@@ -26,4 +26,5 @@ urlpatterns = [
     path('teams', views.teams),
     path('teams/<int:team_id>', views.team),
     path('matches', views.matches),
+    path('form', views.edit_match),
 ]

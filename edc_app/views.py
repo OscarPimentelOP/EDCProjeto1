@@ -179,7 +179,8 @@ def matches(request):
         matches_xslt_file = etree.parse(os.path.join(static_files, 'transformations', 'matches.xsl'))
         matches_transform = etree.XSLT(matches_xslt_file)
         if league_id:
-            matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size, League=league_id)
+            matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size,
+                                                  League=league_id)
         else:
             matches_data_html = matches_transform(matches_data_xml, Page=page_number, PageSize=page_size)
     else:
@@ -191,6 +192,24 @@ def matches(request):
     }
 
     return render(request, 'matches.html', tparams)
+
+
+def edit_match(request):
+    teams_data = db.get_all_teams_info()
+    teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
+    teams_parser = etree.XMLParser(schema=teams_schema)
+
+    try:
+        team_data_xml = etree.fromstring(teams_data, teams_parser)
+    except etree.XMLSyntaxError:
+        print("Schema not valid")
+
+    team_data_html = transform_to_html(team_data_xml, 'team_dropdown.xsl')
+
+    tparams = {
+        'team_dropdown': team_data_html,
+    }
+    return render(request, 'edit_match.html', tparams)
 
 
 # Function to transform xml to html
