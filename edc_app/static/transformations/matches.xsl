@@ -132,8 +132,7 @@
 
                                 <a id="edit">
                                     <xsl:attribute name="href">
-                                        /matches/<xsl:value-of select="idEvent"/>/edit
-                                    </xsl:attribute>
+                                        /matches/<xsl:value-of select="idEvent"/>/edit</xsl:attribute>
                                     <i class="fas fa-edit"></i>
                                 </a>
 
