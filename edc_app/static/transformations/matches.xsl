@@ -134,16 +134,16 @@
                                 </h1>
 
                                 <a id="go">
-                                    <!-- <xsl:attribute name="href">
-                                    /matches/<xsl:value-of select="idMatch"/>
-                                </xsl:attribute> -->
+                                    <xsl:attribute name="href">
+                                        /matches/<xsl:value-of select="idEvent"/>
+                                    </xsl:attribute>
                                     <i class="fas fa-plus"></i>
                                 </a>
 
                                 <a id="edit">
-                                    <!-- <xsl:attribute name="href">
-                                    /matches/<xsl:value-of select="idMatch"/>/edit
-                                </xsl:attribute> -->
+                                    <xsl:attribute name="href">
+                                        /matches/<xsl:value-of select="idEvent"/>/edit
+                                    </xsl:attribute>
                                     <i class="fas fa-edit"></i>
                                 </a>
 
