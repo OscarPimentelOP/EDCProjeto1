@@ -14,4 +14,3 @@ return insert node element match {
 }   as last into $coll2[1]
 };
 
-local:InsertMatch("999999999", "English Premier League", "2050-2051'", "Porto", "Benfica", "2050-07-22", "Estadio do Dragao")

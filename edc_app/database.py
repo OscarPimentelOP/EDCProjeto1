@@ -182,6 +182,18 @@ def get_matches_league(league_id):
     res = run_query('AddBadgesMatchesLeague.xq', 'local:getMatches({})'.format(league_id))
     return res
 
+def insert_match(matchID,league,season,homeTeam,awayTeam,date,stadium):
+    res = run_query('InsertMatch.xq', 'local:InsertMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID,league,season,homeTeam,awayTeam,date,stadium))
+    return res
+
+def delete_match(matchID):
+    res = run_query('DeleteMatch.xq', 'local:DeleteMatch({})'.format(matchID))
+    return res
+
+def edit_match(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
+    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID, newLeague, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
+    return res
+
 
 def main():
     # print(list_all_players())

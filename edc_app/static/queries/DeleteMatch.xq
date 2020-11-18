@@ -7,4 +7,3 @@ let $nodeToEdit := for $m in $coll2/match[idEvent = $matchID] return $m
 return (delete node $nodeToEdit)
 };
 
-local:DeleteMatch("999999999")
