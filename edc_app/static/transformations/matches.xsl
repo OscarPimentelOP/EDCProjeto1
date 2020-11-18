@@ -136,6 +136,12 @@
                                     <i class="fas fa-edit"></i>
                                 </a>
 
+                                <a id='delete'>
+                                    <xsl:attribute name="href">
+                                        /matches/<xsl:value-of select="idEvent"/>/delete</xsl:attribute>
+                                    <i class="fas fa-trash-alt"></i>
+                                </a>
+
                             </div>
                         </xsl:if>
                     </xsl:if>

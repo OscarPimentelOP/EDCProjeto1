@@ -722,6 +722,8 @@ input[name="r"] {
 .match-box a {
     grid-column: 2/3;
     grid-row: 2/3;
+    
+    
 }
 
 .match-box a#go{
@@ -731,8 +733,6 @@ input[name="r"] {
     right: 0;
     bottom: 50%;
     transform: translateX(-100%);
-    cursor: pointer;
-    z-index: 999;
 }
 
 .match-box a#edit{
@@ -742,8 +742,15 @@ input[name="r"] {
     left: 0;
     bottom: 50%;
     transform: translateX(100%);
-    cursor: pointer;
-    z-index: 999;
+}
+
+.match-box a#delete{
+    grid-column: 2/3;
+    grid-row: 1/2;
+    position: absolute;
+    top: 25%;
+    right: 0%;
+    transform: translateX(-100%);
 }
 
 .match-box i{
@@ -778,6 +785,7 @@ input[name="r"] {
 
 .match .home-team h1 {
     background: #69B578;
+    width: max-content;
     grid-row: 1/2;
     grid-column: 2/3;
     font-size: 3em;
@@ -1050,7 +1058,15 @@ input[name="r"] {
     font-size: 2em;
 }
 
-.match button#confirm:hover{
+.match button:hover{
     background: #69B578;
+}
+
+.match button#delete{
+    bottom: 10%;
+    left: 15%;
+    transform: translate(10%,15%);
+    top: auto;
+    font-size: 2em;
 }
 

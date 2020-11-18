@@ -24,19 +24,22 @@
         </div>
         
         <h1>
-            Ronda : <input class="round" type="number" name="round" min="0" max="100">
+            Ronda : <input class="round" type="number" name="round" min="0" max="100" value="0"> 
         </h1>
 
     </div>
 
     <h1 >
-        <input id="date" type="date">
+        <input id="date" type="date" >
     </h1>
 
     <button id="confirm">
         Confirm
     </button>
 
+    <button id="delete">
+        Delete
+    </button>
 </section>
 
 <script>
@@ -57,6 +60,11 @@
         return cookieValue;
     }
     const csrftoken = getCookie('csrftoken');
+
+    var today = new Date()
+    var today_string = today.getFullYear().toString() + '-' + (today.getMonth() + 1).toString().padStart(2, 0) +
+    '-' + today.getDate().toString().padStart(2, 0);
+    $("input#date").attr('value',today_string)
 
     $("button#home-team").click(function () {
         $('.team-selector').removeClass('away')
@@ -94,6 +102,18 @@
 
     $('button#confirm').click(
         function(){
+            if(!home_ref){
+                home_ref = $('.home-team').children('a').attr('href')
+                var splited = home_ref.split('/')
+                home_ref = splited[splited.length-1]
+            }
+            if(!away_ref){
+                away_ref = $('.away-team').children('a').attr('href')
+                var splited = away_ref.split('/')
+                away_ref = splited[splited.length-1]
+            }
+                
+
             var league = $('.drop option:selected').attr('value')
             var round = $('.round').val()
             var date_info = new Date($('#date').val())
@@ -119,6 +139,16 @@
                     alert("success")
                 }
             })
+        }
+    )
+
+    $('button#delete').click(
+        function(){
+            var path = window.location.pathname
+            var loc = path.split('/')
+            loc.pop()
+            loc = loc.join('/')
+            location = loc + '/delete'
         }
     )
 
