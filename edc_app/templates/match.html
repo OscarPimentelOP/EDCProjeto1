@@ -230,54 +230,7 @@
 
 <section class="match-info-extras">
 
-    <ul class="team-info">
-        <li class="info">
-            <p>
-                7':Grant Hanley (Own goal)
-            </p>
-            <i class="fas fa-futbol"></i>
-        </li>
-        <li class="info">
-            <p>
-                19':Mohamed Salah
-            </p>
-            <i class="fas fa-futbol"></i>
-        </li>
-        <li class="info"> 
-            <p>
-                28':Virgil van Dijk
-            </p>
-            <i class="fas fa-futbol"></i>
-        </li>
-        <li class="info">
-            <p>
-                42':Divock Origi
-            </p>
-            <i class="fas fa-futbol"></i>
-        </li>
-    </ul>
-
-
-    <ul class="team-info">
-        <li class="info">
-            <p>
-                64':Teemu Pukki;
-            </p>
-            <i class="fas fa-futbol"></i>
-        </li>
-        <li class="info">
-            <p>
-                60':Moritz Leitner;
-            </p>
-            <img src="https://img.icons8.com/color/30/000000/soccer-yellow-card.png" />
-        </li>
-        <li class="info">
-            <p>
-                65':Emiliano Buendia;
-            </p>
-            <img src="https://img.icons8.com/color/30/000000/foul.png" />
-        </li>
-    </ul>
+    {{ match_extras | safe }}
 
 </section>
 {% endblock %}

@@ -199,15 +199,23 @@ def match(request, match_id):
     match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
     match_parser = etree.XMLParser(schema=match_schema)
 
+    match_extra_data = db.get_match_events(match_id)
+
     try:
         match_data_xml = etree.fromstring(match_data, match_parser)
+        match_extra_xml = etree.fromstring(match_extra_data)
     except etree.XMLSyntaxError:
         print("Schema not valid")
 
     match_header_html = transform_to_html(match_data_xml, 'match_header_addt_info.xsl')
 
+    match_extra_html = transform_to_html(match_extra_xml, 'match_extras.xsl')
+
+    print(match_extra_html)
+
     tparams = {
         'match_header': match_header_html,
+        'match_extras': match_extra_html,
     }
 
     return render(request, 'match.html', tparams)

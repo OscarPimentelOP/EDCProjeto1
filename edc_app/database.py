@@ -138,6 +138,11 @@ def get_match_by_id(match_id):
     return res
 
 
+def get_match_events(match_id):
+    res = run_query("MatchEvents.xq", 'local:MatchEvents({})'.format(match_id))
+    return res
+
+
 def get_index_info():
     res = run_query('IndexInfo.xq')
     return res
