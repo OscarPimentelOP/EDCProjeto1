@@ -16,10 +16,7 @@
                     &#160;
                     <A id="previous">
                         <xsl:attribute name="href">
-                            /matches?page=
-                            <xsl:value-of select="number($Page)-1" />
-                            &amp;pagesize=
-                            <xsl:value-of select="$PageSize" />
+                            /matches?page=<xsl:value-of select="number($Page)-1" />&amp;pagesize=<xsl:value-of select="$PageSize" />
                         </xsl:attribute>
                         &lt;&lt;Prev
                     </A>
@@ -45,12 +42,7 @@
                     &#160;
                     <A id="next">
                         <xsl:attribute name="href">
-                            /matches?page=
-                            <xsl:value-of select="number($Page)+1" />
-                            &amp;pagesize=
-                            <xsl:value-of select="$PageSize" />
-                            &amp;league=
-                            <xsl:value-of select="$League" />
+                            /matches?page=<xsl:value-of select="number($Page)+1" />&amp;pagesize=<xsl:value-of select="$PageSize" />&amp;league=<xsl:value-of select="$League" />
                         </xsl:attribute>
                         Next&gt;&gt;
                     </A>
@@ -75,8 +67,7 @@
                                     <a id="home">
                                         <xsl:if test="strHomeBadge != ''">
                                             <xsl:attribute name="href">
-                                                /teams/
-                                                <xsl:value-of select="idHomeTeam" />
+                                                /teams/<xsl:value-of select="idHomeTeam" />
                                             </xsl:attribute>
                                         </xsl:if>
                                     </a>
@@ -105,8 +96,7 @@
                                     <a id="away">
                                         <xsl:if test="strAwayBadge != ''">
                                             <xsl:attribute name="href">
-                                                /teams/
-                                                <xsl:value-of select="idAwayTeam" />
+                                                /teams/<xsl:value-of select="idAwayTeam" />
                                             </xsl:attribute>
                                         </xsl:if>
                                     </a>
@@ -134,16 +124,15 @@
                                 </h1>
 
                                 <a id="go">
-                                    <!-- <xsl:attribute name="href">
-                                    /matches/<xsl:value-of select="idMatch"/>
-                                </xsl:attribute> -->
+                                    <xsl:attribute name="href">
+                                        /matches/<xsl:value-of select="idEvent"/>
+                                    </xsl:attribute>
                                     <i class="fas fa-plus"></i>
                                 </a>
 
                                 <a id="edit">
-                                    <!-- <xsl:attribute name="href">
-                                    /matches/<xsl:value-of select="idMatch"/>/edit
-                                </xsl:attribute> -->
+                                    <xsl:attribute name="href">
+                                        /matches/<xsl:value-of select="idEvent"/>/edit</xsl:attribute>
                                     <i class="fas fa-edit"></i>
                                 </a>
 

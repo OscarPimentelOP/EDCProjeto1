@@ -20,5 +20,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <h1 id="date">
             <xsl:value-of select="strDate"/>
         </h1>
+        <script>
+            document.getElementById('home-team').style.visibility = 'hidden';
+            document.getElementById('away-team').style.visibility = 'hidden';
+        </script>
     </xsl:template>
 </xsl:stylesheet>
