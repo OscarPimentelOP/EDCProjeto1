@@ -1,0 +1,179 @@
+{% extends "layout.html" %}
+{% load static %}
+
+
+{% block content %}
+
+{% csrf_token %}
+{{ team_dropdown | safe }}
+
+<section class="match" id="form">
+
+    <div class="home-team">
+
+        <a href="">
+            <img alt="" src="{% static 'images/notfound.png' %}">
+        </a>
+
+        <h1>
+            -
+        </h1>
+
+        <h1 id="score">
+            -
+        </h1>
+
+        <button id="home-team">Chose Team</button>
+
+    </div>
+
+    <div class="away-team">
+
+        <a href="">
+            <img alt="" src="{% static 'images/notfound.png' %}">
+        </a>
+
+        <h1>
+            -
+        </h1>
+
+        <h1 id="score">
+            -
+        </h1>
+
+        <button id="away-team">Chose Team</button>
+
+    </div>
+
+    <div class="match-info" id="form">
+
+        <div style="position: relative; height: 50px">
+            <select class="drop" name="forma">
+                <option value="4328">Premier League</option>
+                <option value="4334">Ligue 1</option>
+                <option value="4331">Bundesliga</option>
+                <option value="4332">Serie A</option>
+                <option value="4344">Primeira Liga</option>
+                <option value="4335">La Liga</option>
+            </select>
+        </div>
+
+        <h1>
+            Ronda : <input class="round" type="number" name="round" min="0" max="100" value="0">
+        </h1>
+
+    </div>
+
+    <h1>
+        <input id="date" type="date">
+    </h1>
+
+    <button id="confirm">
+        Confirm
+    </button>
+
+</section>
+
+<script>
+
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+    const csrftoken = getCookie('csrftoken');
+
+    var today = new Date()
+    var today_string = today.getFullYear().toString() + '-' + (today.getMonth() + 1).toString().padStart(2, 0) +
+        '-' + today.getDate().toString().padStart(2, 0);
+    $("input#date").attr('value', today_string)
+
+    $("button#home-team").click(function () {
+        $('.team-selector').removeClass('away')
+        $('.team-selector').addClass('active')
+    })
+
+    $("button#away-team").click(function () {
+        $('.team-selector').addClass('active')
+        $('.team-selector').addClass('away')
+    })
+
+    var home_ref = null
+    var away_ref = null
+
+    $('.team').click(function () {
+
+        var text = $(this).children('span').text()
+
+        var url = $(this).children('img').attr('src')
+
+        if ($(this).parent().hasClass('away')) {
+            $('.away-team').children('a').children('img').attr('src', url)
+            $('.away-team').children('h1:first').text(text)
+            away_ref = $(this).attr('id')
+        }
+        else {
+            $('.home-team').children('a').children('img').attr('src', url)
+            $('.home-team').children('h1:first').text(text)
+            home_ref = $(this).attr('id')
+        }
+
+        $('.team-selector').removeClass('away')
+        $('.team-selector').removeClass('active')
+    })
+
+    $('button#confirm').click(
+        function () {
+            if (!home_ref) {
+                home_ref = $('.home-team').children('a').attr('href')
+                var splited = home_ref.split('/')
+                home_ref = splited[splited.length - 1]
+            }
+            if (!away_ref) {
+                away_ref = $('.away-team').children('a').attr('href')
+                var splited = away_ref.split('/')
+                away_ref = splited[splited.length - 1]
+            }
+
+
+            var league = $('.drop option:selected').attr('value')
+            var round = $('.round').val()
+            var date_info = new Date($('#date').val())
+            var date = {
+                day: date_info.getDate(),
+                month: date_info.getMonth() + 1,
+                year: date_info.getFullYear()
+            }
+            $.ajax({
+                type: "POST",
+                url: '',
+                headers: {
+                    'X-CSRFToken': csrftoken
+                },
+                data: {
+                    home_team: home_ref,
+                    away_team: away_ref,
+                    league: league,
+                    round: round,
+                    date: date
+                },
+                success: function () {
+                    alert("success")
+                }
+            })
+        }
+    )
+
+</script>
+
+{% endblock %}
