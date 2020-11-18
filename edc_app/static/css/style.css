@@ -502,11 +502,13 @@ input[name="r"] {
 .info-team {
     padding: 0;
     margin: 0;
+    height: 100vh;
+    position: relative;
 }
 
-.info-team::after {
+.info-team::before {
     content: "";
-    opacity: 0.5;
+    opacity: 0.7;
     background-size: 100%;
     background-image: var(--team-stadium);
     top: 0;
@@ -519,9 +521,10 @@ input[name="r"] {
 
 .info-team .team-base-info {
     padding-right: 1%;
+    height: 100%;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-template-rows: 0.5fr 0.5fr 0.1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     justify-content: center;
     text-align: center;
     align-items: center;
@@ -539,7 +542,7 @@ input[name="r"] {
 .info-team .team-base-info .team-name {
     text-transform: uppercase;
     font-size: 5em;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(161, 73, 73, 0.2);
 }
 
 .info-team .team-base-info .base-info {
@@ -550,7 +553,7 @@ input[name="r"] {
     justify-content: center;
     align-items: center;
     align-content: center;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.6);
 }
 
 .info-team .team-base-info .base-info h3 {
@@ -569,13 +572,13 @@ input[name="r"] {
     text-align: center;
     text-transform: uppercase;
     grid-column: 1/3;
-    background: rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.7);
 }
 
 .info-team .team-base-info .description {
     grid-column: 1/3;
-    font-size: 1.7em;
-    background: rgba(255, 255, 255, 0.2);
+    font-size: 1.3em;
+    background: rgba(255, 255, 255, 0.85);
     text-align: justify;
     padding: 2%;
 }
