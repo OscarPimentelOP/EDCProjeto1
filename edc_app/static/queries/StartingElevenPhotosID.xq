@@ -21,7 +21,9 @@ return <root>{$res}</root>
 };
 
 declare function local:Tokens($elemToToken){
-  tokenize($elemToToken,"; ") 
+  let $tokens := tokenize($elemToToken,"; ")  
+  for $t in $tokens
+  return replace($t, ';', '')
 };
 
 declare function local:Eleven($season, $comp, $matchID) {
@@ -99,4 +101,4 @@ declare function local:PlayersPhotos($season, $comp, $matchID) {
 
 };
 
-<eleven>{local:Eleven("2019-2020", "4328", "602129")}</eleven>
+<eleven>{local:PlayersPhotos("2019-2020", "4328", "602129")}</eleven>
