@@ -608,6 +608,7 @@ input[name="r"] {
     justify-content: center;
     align-content: center;
     background: rgba(95, 213, 17, 0.5);
+    position: relative;
 }
 
 .match-box h1 {
@@ -707,9 +708,10 @@ input[name="r"] {
 }
 
 .match-box h1#date {
-    /* margin-top: 1%; */
     margin-bottom: 3%;
-    grid-column: 1/2;
+    /* grid-column: all; */
+    grid-row: 3/4;
+    text-align: center;
 }
 
 .match-box h1#league {
@@ -721,6 +723,33 @@ input[name="r"] {
     grid-column: 2/3;
     grid-row: 2/3;
 }
+
+.match-box a#go{
+    grid-column: 2/3;
+    grid-row: 3/4;
+    position: absolute;
+    right: 0;
+    bottom: 50%;
+    transform: translateX(-100%);
+    cursor: pointer;
+    z-index: 999;
+}
+
+.match-box a#edit{
+    grid-column: 1/2;
+    grid-row: 3/4;
+    position: absolute;
+    left: 0;
+    bottom: 50%;
+    transform: translateX(100%);
+    cursor: pointer;
+    z-index: 999;
+}
+
+.match-box i{
+    font-size: 1.5em;
+}
+
 
 /*****************************Match*************************************/
 
