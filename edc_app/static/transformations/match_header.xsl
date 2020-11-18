@@ -7,6 +7,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <div class="home-team">
 
             <a href="">
+                <xsl:attribute name="href">
+                    /teams/<xsl:value-of select="idHomeTeam"/>
+                </xsl:attribute>
                 <img alt="">
                     <xsl:attribute name="src">
                         <xsl:value-of select="strHomeBadge"/>
@@ -29,6 +32,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <div class="away-team">
 
             <a href="">
+                <xsl:attribute name="href">
+                    /teams/<xsl:value-of select="idAwayTeam"/>
+                </xsl:attribute>
                 <img alt="">
                     <xsl:attribute name="src">
                         <xsl:value-of select="strAwayBadge"/>

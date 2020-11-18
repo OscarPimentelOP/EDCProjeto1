@@ -194,6 +194,25 @@ def matches(request):
     return render(request, 'matches.html', tparams)
 
 
+def match(request, match_id):
+    match_data = db.get_match_by_id(match_id)
+    match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
+    match_parser = etree.XMLParser(schema=match_schema)
+
+    try:
+        match_data_xml = etree.fromstring(match_data, match_parser)
+    except etree.XMLSyntaxError:
+        print("Schema not valid")
+
+    match_header_html = transform_to_html(match_data_xml, 'match_header_addt_info.xsl')
+
+    tparams = {
+        'match_header': match_header_html,
+    }
+
+    return render(request, 'match.html', tparams)
+
+
 def edit_match(request, match_id):
     teams_data = db.get_all_teams_info()
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
@@ -214,7 +233,7 @@ def edit_match(request, match_id):
 
     tparams = {
         'team_dropdown': team_data_html,
-        'match_header' : match_header_html,
+        'match_header': match_header_html,
     }
     return render(request, 'edit_match.html', tparams)
 
