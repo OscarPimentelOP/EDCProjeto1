@@ -89,13 +89,12 @@ declare function local:PlayersPhotos($season, $comp, $matchID) {
   let $b :=  local:Eleven($season, $comp, $matchID)
   let $coll3 := collection('dataset')//players
   
- (: for $elem in $b//elem 
+  for $elem in $b//elem 
      for $p in $coll3/player 
        return if(contains($p/FullName,$elem) ) then 
-         <player>{$p/PhotoUrl}</player> :)
+         <player>{$p/PhotoUrl}</player>
          
-for $elem in $b//elem 
-return $elem     
+
   
 
 };
