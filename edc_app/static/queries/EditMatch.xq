@@ -1,4 +1,4 @@
-declare %updating  function local:EditMatch($matchID, $newLeagueID, $newhomeTeamID, $newawayTeamID, $newdate, $newstadium) 
+declare %updating  function local:EditMatch($matchID, $newLeagueID, $newhomeTeamID, $newawayTeamID, $newdate, $newstadium, $newround) 
 {
 
 let $coll2 := collection('dataset')//matches
@@ -19,7 +19,8 @@ replace value of node $nodeToEdit/idAwayTeam with  $newawayTeamID,
 replace value of node $nodeToEdit/dateEvent with $newdate,
 replace value of node $nodeToEdit/strVenue with $newstadium,
 replace value of node $nodeToEdit/strLeague with $newLeagueName, 
-replace value of node $nodeToEdit/idLeague with $newLeagueID)
+replace value of node $nodeToEdit/idLeague with $newLeagueID,
+replace value of node $nodeToEdit/intRound with $newround)
  
 
 };

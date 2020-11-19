@@ -180,10 +180,10 @@ def delete_match(matchID):
     return res
 
 
-def edit_match(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
+def edit_match(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium, newround):
     res = run_query('EditMatch.xq',
-                    'local:EditMatch({}, {}, {}, {}, "{}", "{}")'.format(matchID, newLeagueID, newhomeTeam, newawayTeam,
-                                                                         newdate, newstadium))
+                    'local:EditMatch({}, {}, {}, {}, "{}", "{}", {})'.format(matchID, newLeagueID, newhomeTeam, newawayTeam,
+                                                                         newdate, newstadium, newround))
     return res
 
 
