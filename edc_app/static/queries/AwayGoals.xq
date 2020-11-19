@@ -5,18 +5,19 @@ declare function local:AwayGoals($season, $comp, $team)
 let $coll3 := collection('dataset')//matches
 let $scoredGoals := 
 for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idAwayTeam = $team) ]
+where $a/intAwayScore != ''
 return
   $a/intAwayScore
   
 let $concededGoals := 
 for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idAwayTeam = $team) ]
+where $a/intHomeScore != ''
 return
-  $a/intHomeScore  
+  $a/intHomeScore
 
 return <awayGoals>
-<AwayScored>{sum($scoredGoals)} </AwayScored>
-<AwayConceded>{sum($concededGoals)} </AwayConceded>
+<AwayScored>{sum($scoredGoals)}</AwayScored>
+<AwayConceded>{sum($concededGoals)}</AwayConceded>
 </awayGoals>
 
 };
-
