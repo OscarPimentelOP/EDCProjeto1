@@ -194,3 +194,16 @@ def get_match_events(matchID):
 def match_players_photos(matchID):
     res = run_query('StartingElevenPhotosID.xq', 'local:PlayersPhotos({})'.format(matchID))
     return res
+
+
+def get_home_Goals(season, comp, team):
+    res = run_query('HomeGoals.xq', 'local:HomeGoals({}, {} ,{})'.format(season, comp, team))
+    return res
+
+def get_away_Goals(season, comp, team):
+    res = run_query('AwayGoals.xq', 'local:AwayGoals({}, {} ,{})'.format(season, comp, team))
+    return res
+
+
+
+
