@@ -55,15 +55,20 @@ def team(request, team_id):
     team_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'team.xsd')))
     team_parser = etree.XMLParser(schema=team_schema)
 
+    plantel_data = '<players>' + db.get_team_players(team_id) + '</players>'
+
     try:
         team_data_xml = etree.fromstring(team_data, team_parser)
+        plantel_data_xml = etree.fromstring(plantel_data)
     except etree.XMLSyntaxError:
         print("Schema not valid")
 
     team_data_html = transform_to_html(team_data_xml, 'team.xsl')
+    plantel_data_html = transform_to_html(plantel_data_xml, 'plantel_box.xsl')
 
     tparams = {
         'generated': team_data_html,
+        'plantel' : plantel_data_html,
     }
 
     return render(request, 'team.html', tparams)

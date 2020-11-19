@@ -60,8 +60,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <h1> Equipment </h1>
 
               <div class="eq-img">
-                  <img src="https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png" alt=""/>
-                  <img src="https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png" alt=""/>
+                  <img  alt="">
+                      <xsl:attribute name="src">
+                          <xsl:value-of select="strTeamJersey"/>
+                      </xsl:attribute>
+                  </img>
               </div>
               
           </div>
@@ -83,138 +86,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <h3>Best player: xxxxxxxxxxxxxx</h3>
           </div>
       </section>
-      <section class="plantel">     
-        <h1> Plantel</h1>
-        
-        <div class="plantel-box">
-              <div class="player">
-                  <a></a>
-                  <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                  <h1>Goolkeeper</h1>
-                  <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-              </div>
-              <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-                <a></a>
-                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-                <h1>Goolkeeper</h1>
-                <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-            <div class="player">
-              <a></a>
-              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
-              <h1>Goolkeeper</h1>
-              <h1>Nome</h1>
-            </div>
-        </div>
-          </section>
     </html>
 </xsl:template>
 </xsl:stylesheet>
