@@ -27,12 +27,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <xsl:value-of select="strLeague"/>
                         </a>
                     </p>
-                    <h3> Date of Fundation </h3>
+                    <h3> Date of Foundation </h3>
                     <p> <xsl:value-of select="intFormedYear"/> </p>
                     <!-- divisão -->
                     <h3> Stadium </h3>
                     <p><xsl:value-of select="strStadium"/></p>
-                    <h3> Alternativa Name </h3>
+                    <h3> Alternative Name </h3>
                     <xsl:choose>
                         <xsl:when test="strAlternate != ''">
                             <p> <xsl:value-of select="strAlternate"/> </p>

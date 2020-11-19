@@ -232,7 +232,6 @@ p {
 .slidershow {
     padding-left: 5%;
     padding-right: 5%;
-    display: block;
     width: 100%;
     height: 100%;
     position: relative;
@@ -241,7 +240,7 @@ p {
 
 .slides {
     width: 330%;
-    height: 600px;
+    height: 100%;
     display: flex;
 }
 
@@ -250,8 +249,8 @@ p {
     width: 30%;
     height: 100%;
     display: grid;
-    grid-template-columns: repeat(2,minmax(50vh,1fr));
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 0.1fr;
     transition: 1.5s;
     align-items: center;
     background: radial-gradient(#9DC888, #69B578);
@@ -265,14 +264,11 @@ p {
 }
 
 .slide h3 {
-    min-height: 100px;
-    max-height: 150px;
     padding: 0 10% 0 10%;
     grid-column: 2/3;
     text-align: center;
-    font-size: 3em;
+    font-size: 2.5em;
     text-emphasis: none;
-    position: relative;
 }
 
 .slide a {
@@ -283,31 +279,29 @@ p {
     padding: 0 5% 0 5%;
     grid-column: 2/3;
     text-align: justify;
-    font-size: 2em;
-    width: 100%;
+    font-size: 1.5em;
+    height: 100%;
 
 }
 
 .date {
+    max-height: 30px;
     display: flex;
     text-align: center;
-    align-items: center;
     justify-content: space-between;
     flex-direction: row;
 }
 
 .date p {
+    max-width: 50%;
     font-style: italic;
-    text-align: center;
-    font-size: 2em;
-    width: max-content;
-    height: 100%;
+    font-size: 1em;
 }
 
 .date a {
     font-style: italic;
     padding: 0 1% 0 1%;
-    font-size: 3em;
+    max-height: 30px;
 }
 
 .navigation {
@@ -378,37 +372,12 @@ input[name="r"] {
     width: 100%;
     text-align: center;
     justify-content: center;
-    font-size: 3em;
 }
 
 .news-wrapper .news-list .news p {
     padding-left: 2%;
     width: 100%;
     text-align: justify;
-    font-size: 2em;
-}
-
-@media screen and (max-width: 1440px){
-        
-    .slide{
-        height: 600px;
-    }
-
-    .slide p {
-        font-size: 1.5em;
-    }
-
-    .slide h3{
-        font-size: 2em;
-    }
-
-    .news-wrapper .news-list .news p{
-        font-size: 1.5em;
-    }
-
-    .news-wrapper .news-list .news h3{
-        font-size: 2em;
-    }
 }
 
 /******************************** Players **********************************/
