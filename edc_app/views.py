@@ -74,6 +74,7 @@ def team(request, team_id):
     loss_home_data = db.get_team_home_losses('2019-2020', league_id, team_id)
     wins_away_data = db.get_team_away_wins('2019-2020', league_id, team_id)
     loss_away_data = db.get_team_away_losses('2019-2020', league_id, team_id)
+    draw_data = db.get_team_draws('2019-2020', league_id, team_id)
 
     team_data_xml.append(etree.XML(most_used))
     team_data_xml.append(etree.XML(best_player))
@@ -83,6 +84,7 @@ def team(request, team_id):
     team_data_xml.append(E.HomeLoss(loss_home_data))
     team_data_xml.append(E.AwayWins(wins_away_data))
     team_data_xml.append(E.AwayLoss(loss_away_data))
+    team_data_xml.append(E.Draws(draw_data))
 
     team_data_html = transform_to_html(team_data_xml, 'team.xsl')
     plantel_data_html = transform_to_html(plantel_data_xml, 'plantel_box.xsl')

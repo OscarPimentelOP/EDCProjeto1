@@ -71,21 +71,22 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           <div class="team-extra">
             <h1>Statistics</h1>
             <div class="group" id="Casa">
-              <h3>Golos Marcados Casa: <xsl:value-of select="homeGoals/HomeScored"/></h3>
+              <h3>Goals Scored at Home: <xsl:value-of select="homeGoals/HomeScored"/></h3>
               <i class="fas fa-futbol"></i>
-              <h3>Golos Sofridos Casa: <xsl:value-of select="homeGoals/HomeConceded"/></h3>
+              <h3>Goals Conceded at Home: <xsl:value-of select="homeGoals/HomeConceded"/></h3>
               <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
               <h3>Home Victories: <xsl:value-of select="HomeWins"/></h3>
               <h3>Home Defeats: <xsl:value-of select="HomeLoss"/></h3>
             </div> 
             <div class="group">
-              <h3>Golos Marcados Fora: <xsl:value-of select="awayGoals/AwayScored"/></h3>
+              <h3>Goals Scored Away: <xsl:value-of select="awayGoals/AwayScored"/></h3>
               <i class="fas fa-futbol"></i>
-              <h3>Golos Sofridos Fora: <xsl:value-of select="awayGoals/AwayConceded"/></h3>
+              <h3>Goals Conceded Away: <xsl:value-of select="awayGoals/AwayConceded"/></h3>
               <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
               <h3>Away Victories: <xsl:value-of select="AwayWins"/></h3>
               <h3>Away Defeats: <xsl:value-of select="AwayLoss"/></h3>
             </div>
+            <h3>Draws: <xsl:value-of select="Draws"/></h3>
             <h3>Most used player: <xsl:value-of select="mostUsed"/></h3>
             <h3>Best player: <xsl:value-of select="bestPlayers/player[position()=1]/Name"/></h3>
           </div>

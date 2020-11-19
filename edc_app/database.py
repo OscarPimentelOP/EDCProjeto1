@@ -72,7 +72,7 @@ def get_team_away_losses(season, comp, team):
 
 
 def get_team_draws(season, comp, team):
-    res = run_query('Draws.xq', 'local:Draws({}, {} ,{})'.format(season, comp, team))
+    res = run_query('Draws.xq', 'local:Draws("{}", {} ,{})'.format(season, comp, team))
     return res
 
 
