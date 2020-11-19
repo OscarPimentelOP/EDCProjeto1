@@ -231,8 +231,8 @@ def edit_match(request, match_id):
         print(request.POST)
         date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
 
-        # db.edit_match(match_id, request.POST['home_team'], request.POST['away_team'], request.POST['league'], \
-        # request.POST['round'], date, "Fantasy Stadium")
+        db.edit_match(match_id, request.POST['league'], request.POST['home_team'], request.POST['away_team'], date,\
+                      "Fantasy Stadium")
 
     teams_data = db.get_all_teams_info()
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
