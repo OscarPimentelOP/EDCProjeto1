@@ -24,7 +24,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <p>
                         <xsl:value-of select="text()"></xsl:value-of>
                     </p>
-                    <img src="https://img.icons8.com/color/30/000000/soccer-yellow-card.png" />
+                    <img src="https://img.icons8.com/color/16/000000/soccer-yellow-card.png" />
                 </li>
             </xsl:if>
         </xsl:for-each>
@@ -34,7 +34,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <p>
                         <xsl:value-of select="text()"></xsl:value-of>
                     </p>
-                    <img src="https://img.icons8.com/color/30/000000/foul.png" />
+                    <img src="https://img.icons8.com/color/16/000000/foul.png" />
                 </li>
             </xsl:if>
         </xsl:for-each>

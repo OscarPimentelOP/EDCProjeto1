@@ -43,7 +43,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     </xsl:choose>
                     <a>
                         <xsl:attribute name="href">
-                            <xsl:value-of select="strWebsite"/>
+                            https:/<xsl:value-of select="strWebsite"/>
                         </xsl:attribute>
                         website
                     </a>
@@ -55,29 +55,166 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </section>
 
         <section class="equipment-plantel">
-            <div class="equipment">
+          <div class="equipment">
 
-                <!-- Could be more than 1 image -->
+              <h1> Equipment </h1>
 
-                <img src="https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png" alt=""/>
-
+              <div class="eq-img">
+                  <img src="https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png" alt=""/>
+                  <img src="https://www.thesportsdb.com/images/media/team/jersey/yqsyrr1474198169.png" alt=""/>
+              </div>
+              
+          </div>
+          <div class="team-extra">
+            <h1>Estatisticas</h1>
+            <div class="group" id="Casa">
+              <h3>Golos Marcados Casa: x</h3>
+              <i class="fas fa-futbol"></i>
+              <h3>Golos Sofridos Casa: x</h3>
+              <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
+            </div> 
+            <div class="group">
+              <h3>Golos Marcados Fora: x</h3>
+              <i class="fas fa-futbol"></i>
+              <h3>Golos Sofridos Fora: x</h3>
+              <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
             </div>
-            <div class="plantel">
-                <!-- ainda estou a pensar como fazer.
-                    O ideal seria colocar lista com os cartões tal como está na pagina "PLayers" -->
+            <h3>Most use player: xxxxxxxxxxxxx</h3>
+            <h3>Best player: xxxxxxxxxxxxxx</h3>
+          </div>
+      </section>
+      <section class="plantel">     
+        <h1> Plantel</h1>
+        
+        <div class="plantel-box">
+              <div class="player">
+                  <a></a>
+                  <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                  <h1>Goolkeeper</h1>
+                  <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+              </div>
+              <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
             </div>
-
-        </section>
-
-        <section class="calendar" style="visibility: hidden;">
-
-            <!-- igual à pagina de matches mas horizontal -->
-
-        </section>
-
-        <section class="team-extra" style="visibility: hidden;">
-            <!-- no idea for now -->
-        </section>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+                <a></a>
+                <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+                <h1>Goolkeeper</h1>
+                <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+            <div class="player">
+              <a></a>
+              <img src="https://cdn.sofifa.com/players/231/281/21_240.png"></img>
+              <h1>Goolkeeper</h1>
+              <h1>Nome</h1>
+            </div>
+        </div>
+          </section>
     </html>
 </xsl:template>
 </xsl:stylesheet>
