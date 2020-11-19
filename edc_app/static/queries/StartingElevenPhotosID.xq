@@ -107,6 +107,7 @@ declare function local:PlayersPhotos($matchID) {
      for $p in $coll3/player 
        return if(matches($p/FullName,replace($elem/name, " ", "|")) and (($p/idTeam = $match/idHomeTeam)  or ($p/idTeam = $match/idAwayTeam)) ) then 
          <player>
+         {$p/ID}
          {$p/FullName}
          {$elem/pos}
          {$p/PhotoUrl}</player>
