@@ -231,7 +231,7 @@ def edit_match(request, match_id):
         print(request.POST)
         date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
 
-        db.edit_match(match_id, request.POST['league'], request.POST['home_team'], request.POST['away_team'], date,\
+        db.edit_match(match_id, request.POST['league'], request.POST['home_team'], request.POST['away_team'], date, \
                       "Fantasy Stadium")
 
     teams_data = db.get_all_teams_info()
@@ -261,6 +261,10 @@ def edit_match(request, match_id):
 def delete_match(request, match_id):
     db.delete_match(match_id)
     return redirect("/matches")
+
+
+def create_match(request):
+    return render(request, 'create_match.html')
 
 
 # Function to transform xml to html
