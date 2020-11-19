@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </h1>
 
             <h1>
-                Stadium : 
+                Stadium : <xsl:value-of select="strVenue"/>
             </h1>
 
         </div>
