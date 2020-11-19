@@ -4,68 +4,68 @@
   <xs:complexType name="matchType">
     <xs:sequence>
       <xs:element type="xs:string" name="idEvent"/>
-      <xs:element type="xs:string" name="idSoccerXML"/>
-      <xs:element type="xs:string" name="idAPIfootball"/>
-      <xs:element type="xs:string" name="strEvent"/>
-      <xs:element type="xs:string" name="strEventAlternate"/>
-      <xs:element type="xs:string" name="strFilename"/>
-      <xs:element type="xs:string" name="strSport"/>
+      <xs:element type="xs:string" name="idSoccerXML" minOccurs="0"/>
+      <xs:element type="xs:string" name="idAPIfootball" minOccurs="0"/>
+      <xs:element type="xs:string" name="strEvent" minOccurs="0"/>
+      <xs:element type="xs:string" name="strEventAlternate" minOccurs="0"/>
+      <xs:element type="xs:string" name="strFilename" minOccurs="0"/>
+      <xs:element type="xs:string" name="strSport" minOccurs="0"/>
       <xs:element type="xs:string" name="idLeague"/>
       <xs:element type="xs:string" name="strLeague"/>
-      <xs:element type="xs:string" name="strSeason"/>
-      <xs:element type="xs:string" name="strDescriptionEN"/>
+      <xs:element type="xs:string" name="strSeason" minOccurs="0"/>
+      <xs:element type="xs:string" name="strDescriptionEN" minOccurs="0"/>
       <xs:element type="xs:string" name="strHomeTeam"/>
       <xs:element type="xs:string" name="strAwayTeam"/>
-      <xs:element type="xs:string" name="intHomeScore"/>
-      <xs:element type="xs:string" name="intRound"/>
-      <xs:element type="xs:string" name="intAwayScore"/>
-      <xs:element type="xs:string" name="intSpectators"/>
-      <xs:element type="xs:string" name="strOfficial"/>
-      <xs:element type="xs:string" name="strHomeGoalDetails"/>
-      <xs:element type="xs:string" name="strHomeRedCards"/>
-      <xs:element type="xs:string" name="strHomeYellowCards"/>
-      <xs:element type="xs:string" name="strHomeLineupGoalkeeper"/>
-      <xs:element type="xs:string" name="strHomeLineupDefense"/>
-      <xs:element type="xs:string" name="strHomeLineupMidfield"/>
-      <xs:element type="xs:string" name="strHomeLineupForward"/>
-      <xs:element type="xs:string" name="strHomeLineupSubstitutes"/>
-      <xs:element type="xs:string" name="strHomeFormation"/>
-      <xs:element type="xs:string" name="strAwayRedCards"/>
-      <xs:element type="xs:string" name="strAwayYellowCards"/>
-      <xs:element type="xs:string" name="strAwayGoalDetails"/>
-      <xs:element type="xs:string" name="strAwayLineupGoalkeeper"/>
-      <xs:element type="xs:string" name="strAwayLineupDefense"/>
-      <xs:element type="xs:string" name="strAwayLineupMidfield"/>
-      <xs:element type="xs:string" name="strAwayLineupForward"/>
-      <xs:element type="xs:string" name="strAwayLineupSubstitutes"/>
-      <xs:element type="xs:string" name="strAwayFormation"/>
-      <xs:element type="xs:string" name="intHomeShots"/>
-      <xs:element type="xs:string" name="intAwayShots"/>
-      <xs:element type="xs:string" name="strTimestamp"/>
+      <xs:element type="xs:string" name="intHomeScore" minOccurs="0"/>
+      <xs:element type="xs:string" name="intRound" minOccurs="0"/>
+      <xs:element type="xs:string" name="intAwayScore" minOccurs="0"/>
+      <xs:element type="xs:string" name="intSpectators" minOccurs="0"/>
+      <xs:element type="xs:string" name="strOfficial" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeGoalDetails" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeRedCards" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeYellowCards" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeLineupGoalkeeper" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeLineupDefense" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeLineupMidfield" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeLineupForward" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeLineupSubstitutes" minOccurs="0"/>
+      <xs:element type="xs:string" name="strHomeFormation" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayRedCards" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayYellowCards" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayGoalDetails" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayLineupGoalkeeper" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayLineupDefense" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayLineupMidfield" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayLineupForward" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayLineupSubstitutes" minOccurs="0"/>
+      <xs:element type="xs:string" name="strAwayFormation" minOccurs="0"/>
+      <xs:element type="xs:string" name="intHomeShots" minOccurs="0"/>
+      <xs:element type="xs:string" name="intAwayShots" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTimestamp" minOccurs="0"/>
       <xs:element type="xs:string" name="dateEvent"/>
-      <xs:element type="xs:string" name="dateEventLocal"/>
-      <xs:element type="xs:string" name="strDate"/>
-      <xs:element type="xs:string" name="strTime"/>
-      <xs:element type="xs:string" name="strTimeLocal"/>
-      <xs:element type="xs:string" name="strTVStation"/>
+      <xs:element type="xs:string" name="dateEventLocal" minOccurs="0"/>
+      <xs:element type="xs:string" name="strDate" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTime" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTimeLocal" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTVStation" minOccurs="0"/>
       <xs:element type="xs:string" name="idHomeTeam"/>
       <xs:element type="xs:string" name="idAwayTeam"/>
-      <xs:element type="xs:string" name="strResult"/>
+      <xs:element type="xs:string" name="strResult" minOccurs="0"/>
       <xs:element type="xs:string" name="strVenue"/>
-      <xs:element type="xs:string" name="strCountry"/>
-      <xs:element type="xs:string" name="strCity"/>
-      <xs:element type="xs:string" name="strPoster"/>
-      <xs:element type="xs:string" name="strFanart"/>
-      <xs:element type="xs:string" name="strThumb"/>
-      <xs:element type="xs:string" name="strBanner"/>
-      <xs:element type="xs:string" name="strMap"/>
-      <xs:element type="xs:string" name="strTweet1"/>
-      <xs:element type="xs:string" name="strTweet2"/>
-      <xs:element type="xs:string" name="strTweet3"/>
-      <xs:element type="xs:string" name="strVideo"/>
-      <xs:element type="xs:string" name="strStatus"/>
-      <xs:element type="xs:string" name="strPostponed"/>
-      <xs:element type="xs:string" name="strLocked"/>
+      <xs:element type="xs:string" name="strCountry" minOccurs="0"/>
+      <xs:element type="xs:string" name="strCity" minOccurs="0"/>
+      <xs:element type="xs:string" name="strPoster" minOccurs="0"/>
+      <xs:element type="xs:string" name="strFanart" minOccurs="0"/>
+      <xs:element type="xs:string" name="strThumb" minOccurs="0"/>
+      <xs:element type="xs:string" name="strBanner" minOccurs="0"/>
+      <xs:element type="xs:string" name="strMap" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTweet1" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTweet2" minOccurs="0"/>
+      <xs:element type="xs:string" name="strTweet3" minOccurs="0"/>
+      <xs:element type="xs:string" name="strVideo" minOccurs="0"/>
+      <xs:element type="xs:string" name="strStatus" minOccurs="0"/>
+      <xs:element type="xs:string" name="strPostponed" minOccurs="0"/>
+      <xs:element type="xs:string" name="strLocked" minOccurs="0"/>
       <xs:element type="xs:string" name="strHomeBadge"/>
       <xs:element type="xs:string" name="strAwayBadge"/>
     </xs:sequence>

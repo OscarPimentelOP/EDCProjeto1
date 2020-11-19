@@ -1,4 +1,5 @@
 import os
+import random
 import urllib.request
 import edc_app.database as db
 
@@ -196,6 +197,7 @@ def matches(request):
 
 def match(request, match_id):
     match_data = db.get_match_by_id(match_id)
+    print(match_data)
     match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
     match_parser = etree.XMLParser(schema=match_schema)
 
@@ -227,8 +229,6 @@ def match(request, match_id):
 def edit_match(request, match_id):
     if request.method == 'POST':
         # insert home_team, away_team, league, round, data
-        print(request.POST['league'])
-        print(request.POST)
         date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
 
         db.edit_match(match_id, request.POST['league'], request.POST['home_team'], request.POST['away_team'], date, \
@@ -264,7 +264,28 @@ def delete_match(request, match_id):
 
 
 def create_match(request):
-    return render(request, 'create_match.html')
+    if request.method == 'POST':
+        date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
+        mat_id = request.POST['match_id']
+        print(mat_id)
+        db.insert_match(mat_id, request.POST['league'], "2020-2021", \
+                        request.POST['home_team'], request.POST['away_team'], date, "Fantasy Stadium", request.POST['round'])
+
+    teams_data = db.get_all_teams_info()
+    teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
+    teams_parser = etree.XMLParser(schema=teams_schema)
+
+    try:
+        team_data_xml = etree.fromstring(teams_data, teams_parser)
+    except etree.XMLSyntaxError:
+        print("Schema not valid")
+
+    team_data_html = transform_to_html(team_data_xml, 'team_dropdown.xsl')
+
+    tparams = {
+        'team_dropdown': team_data_html,
+    }
+    return render(request, 'create_match.html', tparams)
 
 
 # Function to transform xml to html

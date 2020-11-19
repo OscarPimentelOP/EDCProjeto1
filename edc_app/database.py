@@ -112,6 +112,7 @@ def get_most_used_player(season, comp, team):
 
     return [p for p in dict if dict[p] == mostUsedVal]
 
+
 def get_match_info(season, comp, matchID):
     res = run_query('MatchInfo.xq', 'local:MatchInfo({}, {} ,{})'.format(season, comp, matchID))
     return res
@@ -166,24 +167,31 @@ def get_matches_league(league_id):
     res = run_query('AddBadgesMatchesLeague.xq', 'local:getMatches({})'.format(league_id))
     return res
 
-def insert_match(matchID,league,season,homeTeam,awayTeam,date,stadium):
-    res = run_query('InsertMatch.xq', 'local:InsertMatch({}, {}, {}, {}, {}, {}, {})'.format(matchID,league,season,homeTeam,awayTeam,date,stadium))
+
+def insert_match(matchID, league, season, homeTeam, awayTeam, date, stadium, round):
+    res = run_query('InsertMatch.xq',
+                    'local:InsertMatch({}, {}, "{}", {}, {}, "{}", "{}", {})'.format(matchID, league, season, homeTeam,
+                                                                                     awayTeam, date, stadium, round))
     return res
+
 
 def delete_match(matchID):
     res = run_query('DeleteMatch.xq', 'local:DeleteMatch({})'.format(matchID))
     return res
 
+
 def edit_match(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium):
-    res = run_query('EditMatch.xq', 'local:EditMatch({}, {}, {}, {}, {}, "{}")'.format(matchID, newLeagueID, newhomeTeam, newawayTeam, newdate, newstadium))
+    res = run_query('EditMatch.xq',
+                    'local:EditMatch({}, {}, {}, {}, "{}", "{}")'.format(matchID, newLeagueID, newhomeTeam, newawayTeam,
+                                                                         newdate, newstadium))
     return res
+
 
 def get_match_events(matchID):
     res = run_query('MatchEvents.xq', 'local:MatchEvents({})'.format(matchID))
     return res
 
+
 def match_players_photos(matchID):
     res = run_query('StartingElevenPhotosID.xq', 'local:PlayersPhotos({})'.format(matchID))
     return res
-
-

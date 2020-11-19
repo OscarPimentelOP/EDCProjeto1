@@ -4,6 +4,7 @@
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/teams">
+    <html>
         <div class="team-selector" id="away">
             <xsl:for-each select="team">
                 <label class="team">
@@ -19,6 +20,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </label>
             </xsl:for-each>
         </div>
+    </html>
 </xsl:template>
 
 </xsl:stylesheet>

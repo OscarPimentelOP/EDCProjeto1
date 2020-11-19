@@ -23,7 +23,7 @@
             -
         </h1>
 
-        <button id="home-team">Chose Team</button>
+        <button id="home-team">Choose Team</button>
 
     </div>
 
@@ -41,7 +41,7 @@
             -
         </h1>
 
-        <button id="away-team">Chose Team</button>
+        <button id="away-team">Choose Team</button>
 
     </div>
 
@@ -145,7 +145,7 @@
                 away_ref = splited[splited.length - 1]
             }
 
-
+            var match_id_v = Math.floor(Math.random() * 999999999) + 100000000
             var league = $('.drop option:selected').attr('value')
             var round = $('.round').val()
             var date_info = new Date($('#date').val())
@@ -161,6 +161,7 @@
                     'X-CSRFToken': csrftoken
                 },
                 data: {
+                    match_id: match_id_v,
                     home_team: home_ref,
                     away_team: away_ref,
                     league: league,
@@ -169,6 +170,7 @@
                 },
                 success: function () {
                     alert("success")
+                    window.location.href = "/matches/" + match_id_v.toString()
                 }
             })
         }
