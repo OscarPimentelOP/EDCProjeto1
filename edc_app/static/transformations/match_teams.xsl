@@ -88,7 +88,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
         </div>
 
-        <div class="home-lineup">
+        <div class="away-lineup">
 
             <h1>LineUp</h1>
 
