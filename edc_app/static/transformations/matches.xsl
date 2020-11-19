@@ -10,47 +10,49 @@
         <xsl:variable name="counter" select="count(match)" />
         <xsl:variable name="selectedRowCount" select="floor((number($counter)-1) div $PageSize)+1" />
         <html>
+            <div class="page">
             <!-- Prev link for pagination -->
-            <xsl:choose>
-                <xsl:when test="number($Page)-1 &gt;= 0">
-                    &#160;
-                    <A id="previous">
-                        <xsl:attribute name="href">
-                            /matches?page=<xsl:value-of select="number($Page)-1" />&amp;pagesize=<xsl:value-of select="$PageSize" />
-                        </xsl:attribute>
-                        &lt;&lt;Prev
-                    </A>
-                </xsl:when>
-                <xsl:otherwise>
-                    <!-- display something else -->
-                </xsl:otherwise>
-            </xsl:choose>
+                <xsl:choose>
+                    <xsl:when test="number($Page)-1 &gt;= 0">
+                        &#160;
+                        <A id="previous">
+                            <xsl:attribute name="href">
+                                /matches?page=<xsl:value-of select="number($Page)-1" />&amp;pagesize=<xsl:value-of select="$PageSize" />
+                            </xsl:attribute>
+                            &lt;&lt;Prev
+                        </A>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <!-- display something else -->
+                    </xsl:otherwise>
+                </xsl:choose>
 
-            <xsl:if test="$selectedRowCount &gt; 1">
-                &#160;
-                <b class="blacktext">
-                    <xsl:value-of select="number($Page)+1" />
-                    &#160;of&#160;
-                    <xsl:value-of select="number($selectedRowCount)" />
-                </b>
-                &#160;
-            </xsl:if>
-
-            <!-- Next link for pagination -->
-            <xsl:choose>
-                <xsl:when test="number($Page)+1 &lt; number($selectedRowCount)">
+                <xsl:if test="$selectedRowCount &gt; 1">
                     &#160;
-                    <A id="next">
-                        <xsl:attribute name="href">
-                            /matches?page=<xsl:value-of select="number($Page)+1" />&amp;pagesize=<xsl:value-of select="$PageSize" />&amp;league=<xsl:value-of select="$League" />
-                        </xsl:attribute>
-                        Next&gt;&gt;
-                    </A>
-                </xsl:when>
-                <xsl:otherwise>
-                    <!-- display something else -->
-                </xsl:otherwise>
-            </xsl:choose>
+                    <b class="blacktext">
+                        <xsl:value-of select="number($Page)+1" />
+                        &#160;of&#160;
+                        <xsl:value-of select="number($selectedRowCount)" />
+                    </b>
+                    &#160;
+                </xsl:if>
+
+                <!-- Next link for pagination -->
+                <xsl:choose>
+                    <xsl:when test="number($Page)+1 &lt; number($selectedRowCount)">
+                        &#160;
+                        <A id="next">
+                            <xsl:attribute name="href">
+                                /matches?page=<xsl:value-of select="number($Page)+1" />&amp;pagesize=<xsl:value-of select="$PageSize" />&amp;league=<xsl:value-of select="$League" />
+                            </xsl:attribute>
+                            Next&gt;&gt;
+                        </A>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <!-- display something else -->
+                    </xsl:otherwise>
+                </xsl:choose>
+            </div>
             <div class="matches">
                 <xsl:for-each select="match">
                     <xsl:if test="position() &gt;= ($Page * $PageSize) + 1">

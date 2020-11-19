@@ -69,7 +69,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               
           </div>
           <div class="team-extra">
-            <h1>Statistics</h1>
+            <h1>Statistics (Last Season)</h1>
             <div class="group" id="Casa">
               <h3>Goals Scored at Home: <xsl:value-of select="homeGoals/HomeScored"/></h3>
               <i class="fas fa-futbol"></i>
