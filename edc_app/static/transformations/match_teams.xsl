@@ -5,6 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/players">
     <html>
+        <xsl:if test="player != ''">
         <div class="home-lineup">
 
             <h1>LineUp</h1>
@@ -170,6 +171,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </div>
 
         </div>
+        </xsl:if>
     </html>
 </xsl:template>
 
