@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="events">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="home"/>
+                <xs:element ref="away"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="home">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="homeGoals"/>
+                <xs:element ref="homeYellowCards"/>
+                <xs:element ref="homeRedCards"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="homeGoals">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="elem"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="homeYellowCards">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="homeRedCards">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="away">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="awayGoals"/>
+                <xs:element ref="awayYellowCards"/>
+                <xs:element ref="awayRedCards"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="awayGoals">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="elem"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="awayYellowCards">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="elem"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="awayRedCards">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="elem" type="xs:string"/>
+</xs:schema>

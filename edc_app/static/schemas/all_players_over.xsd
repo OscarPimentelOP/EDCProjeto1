@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="players">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="player"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="player">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ID"/>
+                <xs:element ref="Name"/>
+                <xs:element ref="PhotoUrl"/>
+                <xs:element ref="Nationality"/>
+                <xs:element ref="Club"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ID" type="xs:integer"/>
+    <xs:element name="Name" type="xs:string"/>
+    <xs:element name="PhotoUrl" type="xs:anyURI"/>
+    <xs:element name="Nationality" type="xs:string"/>
+    <xs:element name="Club" type="xs:string"/>
+</xs:schema>

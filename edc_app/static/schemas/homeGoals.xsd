@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="goals">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="HomeScored"/>
+                <xs:element ref="HomeConceded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="HomeScored" type="xs:integer"/>
+    <xs:element name="HomeConceded" type="xs:integer"/>
+</xs:schema>

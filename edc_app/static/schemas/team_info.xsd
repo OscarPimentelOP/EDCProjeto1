@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="team">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="idTeam"/>
+                <xs:element ref="strTeam"/>
+                <xs:element ref="strTeamBadge"/>
+                <xs:element ref="strTeamJersey"/>
+                <xs:element ref="intFormedYear"/>
+                <xs:element ref="strLeague"/>
+                <xs:element ref="idLeague"/>
+                <xs:element ref="strStadium"/>
+                <xs:element ref="strStadiumThumb"/>
+                <xs:element ref="strDescriptionEN"/>
+                <xs:element ref="strWebsite"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="idTeam" type="xs:integer"/>
+    <xs:element name="strTeam" type="xs:NCName"/>
+    <xs:element name="strTeamBadge" type="xs:anyURI"/>
+    <xs:element name="strTeamJersey" type="xs:anyURI"/>
+    <xs:element name="intFormedYear" type="xs:integer"/>
+    <xs:element name="strLeague" type="xs:string"/>
+    <xs:element name="idLeague" type="xs:integer"/>
+    <xs:element name="strStadium" type="xs:NCName"/>
+    <xs:element name="strStadiumThumb" type="xs:anyURI"/>
+    <xs:element name="strDescriptionEN" type="xs:string"/>
+    <xs:element name="strWebsite" type="xs:NCName"/>
+</xs:schema>
