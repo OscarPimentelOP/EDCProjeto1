@@ -34,6 +34,7 @@ footer {
     margin-top: 1rem;
     display: inline-flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
@@ -66,8 +67,6 @@ footer {
 /* Page */
 
 .container {
-    padding: 0;
-    margin: 0 0 2.5rem 0 !important;
     padding-top: 100px !important;
     max-width: 100% !important;
 }
@@ -81,7 +80,7 @@ p {
     position: absolute;
     top: 5rem;
     left: 5%;
-    transform: translate(-5rem, -5%);
+    transform: translateX(-5%);
 }
 
 .page{
@@ -92,11 +91,12 @@ p {
     text-align: center;
 }
 
+
 /********************************HOME**************************************/
 
 .home {
     padding: 0;
-    height: vh;
+    height: 85vh;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -107,8 +107,9 @@ p {
 .home::before {
     content: "";
     opacity: 0.7;
-    background-size: 100%;
+    background-size: cover;
     background-image: var(--img-back);
+    background-position: center;
     top: 0;
     left: 0;
     bottom: 0;
@@ -231,6 +232,7 @@ p {
 .slidershow {
     padding-left: 5%;
     padding-right: 5%;
+    display: block;
     width: 100%;
     height: 100%;
     position: relative;
@@ -239,7 +241,7 @@ p {
 
 .slides {
     width: 330%;
-    height: 100%;
+    height: 600px;
     display: flex;
 }
 
@@ -248,8 +250,8 @@ p {
     width: 30%;
     height: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 0.1fr;
+    grid-template-columns: repeat(2,minmax(50vh,1fr));
+    grid-template-rows: 1fr 1fr 1fr;
     transition: 1.5s;
     align-items: center;
     background: radial-gradient(#9DC888, #69B578);
@@ -263,11 +265,14 @@ p {
 }
 
 .slide h3 {
+    min-height: 100px;
+    max-height: 150px;
     padding: 0 10% 0 10%;
     grid-column: 2/3;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 3em;
     text-emphasis: none;
+    position: relative;
 }
 
 .slide a {
@@ -278,28 +283,31 @@ p {
     padding: 0 5% 0 5%;
     grid-column: 2/3;
     text-align: justify;
-    font-size: 1.5em;
-    height: 100%;
+    font-size: 2em;
+    width: 100%;
+
 }
 
 .date {
-    max-height: 30px;
     display: flex;
     text-align: center;
+    align-items: center;
     justify-content: space-between;
     flex-direction: row;
 }
 
 .date p {
-    max-width: 50%;
     font-style: italic;
-    font-size: 1em;
+    text-align: center;
+    font-size: 2em;
+    width: max-content;
+    height: 100%;
 }
 
 .date a {
     font-style: italic;
     padding: 0 1% 0 1%;
-    max-height: 30px;
+    font-size: 3em;
 }
 
 .navigation {
@@ -370,12 +378,37 @@ input[name="r"] {
     width: 100%;
     text-align: center;
     justify-content: center;
+    font-size: 3em;
 }
 
 .news-wrapper .news-list .news p {
     padding-left: 2%;
     width: 100%;
     text-align: justify;
+    font-size: 2em;
+}
+
+@media screen and (max-width: 1440px){
+        
+    .slide{
+        height: 600px;
+    }
+
+    .slide p {
+        font-size: 1.5em;
+    }
+
+    .slide h3{
+        font-size: 2em;
+    }
+
+    .news-wrapper .news-list .news p{
+        font-size: 1.5em;
+    }
+
+    .news-wrapper .news-list .news h3{
+        font-size: 2em;
+    }
 }
 
 /******************************** Players **********************************/
@@ -383,6 +416,7 @@ input[name="r"] {
 .group {
     padding-left: 5%;
     padding-right: 5%;
+    margin-top: 1%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-auto-rows: minmax(250px, 1fr);
@@ -458,14 +492,13 @@ input[name="r"] {
     transform: perspective(600px) rotateY(0deg);
 }
 
-/*****************************TEAMS************************/
+/*****************************TEAMS*************************************/
 
 .team-group {
-    padding-left: 5%;
-    padding-right: 5%;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, min-content));
+    grid-template-columns: repeat(auto-fit, minmax(350px, min-content));
     grid-auto-rows: 300px;
+    justify-content: center;
     column-gap: 50px;
     row-gap: 50px;
 }
@@ -652,11 +685,10 @@ input[name="r"] {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     padding: 0;
     margin: 0;
-    height: max-content;
 }
 
 .equipment-plantel .team-extra h3 {
@@ -690,8 +722,8 @@ input[name="r"] {
 .plantel .plantel-box {
     background: rgba(0, 0, 0, 0.7);
     display: grid;
-    grid-template-columns: repeat(5, minmax(20px, 1fr));
-    grid-template-rows: repeat(auto-fit, minmax(20px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(auto-fit,minmax(100px,1fr));
     gap: 30px;
 }
 
@@ -705,7 +737,7 @@ input[name="r"] {
     margin-top: 1rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-auto-rows: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(auto-fill, 500px);
     justify-content: space-around;
     column-gap: 50px;
     row-gap: 25px;
@@ -714,6 +746,7 @@ input[name="r"] {
 }
 
 .match-box {
+    height: 500px;
     margin: 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -745,7 +778,6 @@ input[name="r"] {
 
 .match-box .home-team a#home {
     padding: 2%;
-    margin-top: 10%;
     grid-row: 2/3;
     grid-column: 1/2;
     position: absolute;
@@ -788,7 +820,7 @@ input[name="r"] {
 
 .match-box .away-team a#away {
     padding: 2%;
-    margin-top: 10%;
+
     grid-row: 2/3;
     grid-column: 2/3;
     position: absolute;

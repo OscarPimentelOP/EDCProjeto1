@@ -137,7 +137,11 @@
                 },
                 success: function(){
                     alert("success")
-                    window.location.href = "/matches"
+                    var path = window.location.pathname
+                    var loc = path.split('/')
+                    loc.pop()
+                    loc = loc.join('/')
+                    window.location.href = loc
                 }
             })
         }
