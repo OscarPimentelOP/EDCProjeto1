@@ -199,7 +199,7 @@ def match(request, match_id):
     match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
     match_parser = etree.XMLParser(schema=match_schema)
 
-    match_team_data = '<players>'+db.match_players_photos(match_id)+'</players>'
+    match_team_data = '<players>' + db.match_players_photos(match_id) + '</players>'
     match_extra_data = db.get_match_events(match_id)
 
     try:
@@ -218,7 +218,7 @@ def match(request, match_id):
     tparams = {
         'match_header': match_header_html,
         'match_extras': match_extra_html,
-        'team_lineup' : match_team_html,
+        'team_lineup': match_team_html,
     }
 
     return render(request, 'match.html', tparams)
@@ -231,8 +231,8 @@ def edit_match(request, match_id):
         print(request.POST)
         date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
 
-        #db.edit_match(match_id, request.POST['home_team'], request.POST['away_team'], request.POST['league'], \
-                      #request.POST['round'], date, "Fantasy Stadium")
+        # db.edit_match(match_id, request.POST['home_team'], request.POST['away_team'], request.POST['league'], \
+        # request.POST['round'], date, "Fantasy Stadium")
 
     teams_data = db.get_all_teams_info()
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
@@ -256,6 +256,11 @@ def edit_match(request, match_id):
         'match_header': match_header_html,
     }
     return render(request, 'edit_match.html', tparams)
+
+
+def delete_match(request, match_id):
+    db.delete_match(match_id)
+    return redirect("/matches")
 
 
 # Function to transform xml to html

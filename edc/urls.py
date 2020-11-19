@@ -28,4 +28,5 @@ urlpatterns = [
     path('matches', views.matches),
     path('matches/<int:match_id>', views.match),
     path('matches/<int:match_id>/edit', views.edit_match),
+    path('matches/<int:match_id>/delete', views.delete_match),
 ]
