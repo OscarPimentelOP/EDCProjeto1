@@ -116,9 +116,20 @@ p {
     text-align: justify;
 }
 
+
+.drop{
+    position: absolute;
+    top: 5rem;
+    left: 5%;
+    transform: translate(-5rem,-5%);
+}
 /******************************** PLayer **********************************/
 
 .wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     padding-left: 5%;
     padding-right: 5%;
     display: grid;
@@ -148,6 +159,8 @@ p {
 
 .wrapper img {
     display: block;
+    width: 100%;
+    height: 100%;
 }
 
 .wrapper .player_pic {
@@ -160,7 +173,8 @@ p {
 .wrapper .icon {
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 0;
+    transform: translate(0,-10%);
     max-width: 30%;
     max-height: 30%;
     width: auto;
@@ -224,7 +238,8 @@ p {
     padding-left: 5%;
     padding-right: 5%;
     width: 100%;
-    height: 10%;
+    height: 100%;
+    position: relative;
     overflow: hidden;
 }
 
@@ -240,10 +255,10 @@ p {
     height: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 0.5fr 0.4fr 0.1fr;
+    grid-template-rows: 1fr 1fr 0.1fr;
     transition: 1.5s;
     align-items: center;
-    background: radial-gradient(rgb(234, 245, 229), rgb(163, 255, 168));
+    background: radial-gradient(#9DC888,#3A7D44);
 }
 
 .slide img {
@@ -265,6 +280,7 @@ p {
     grid-column: 2/3;
     text-align: justify;
     font-size: 1.5em;
+    height: 100%;
 }
 
 .date {
@@ -332,14 +348,16 @@ input[name="r"] {
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+    
 }
 
 .news-wrapper .news-list .news {
+    background: #D0DB97;
     margin-bottom: 5%;
-    padding-bottom: 10px;
+    height: 100%;
     display: grid;
     grid-template-columns: 0.5fr 1fr;
-    grid-template-rows: 0.4fr 0.4fr 0.1fr;
+    grid-template-rows: 1fr 1fr 0.1fr;
 }
 
 .news-wrapper .news-list .news img {
@@ -395,15 +413,17 @@ input[name="r"] {
 .cardbox .front img {
     width: 100%;
     height: 100%;
-    background: radial-gradient(rgb(234, 245, 229) 50%, rgb(149, 255, 154) 50%);
+    background: radial-gradient(#9DC888,#30653B);
 }
 
 .cardbox .front h1 {
+    width: 100%;
+    text-align: center;
     position: absolute;
-    bottom: 0%;
+    top: 0%;
     left: 50%;
     transform: translate(-50%);
-    color: white;
+    color: #ffffff;
 }
 
 .front, .back {
@@ -417,7 +437,7 @@ input[name="r"] {
 
 .back {
     position: absolute;
-    background: rgb(66, 248, 66);
+    background: #3A7D44;
     transform: perspective(600px) rotateY(180deg);
     ;
 }
@@ -429,6 +449,7 @@ input[name="r"] {
     justify-content: space-evenly;
     width: 100%;
     height: 100%;
+    color: #D0DB97;
 }
 
 .cardbox:hover>.front {
@@ -452,25 +473,24 @@ input[name="r"] {
 }
 
 .teambox {
-    width: 100%;
+    margin-top: 5%;
     display: flex;
     flex-direction: row;
     transition: linear 0.5s;
 }
 
 .teambox .imagebox {
-    /* min-width: 100%; */
-    background: #9fadd3;
-    /* max-width: 300px; */
+    background: #9DC888;
 }
 
 .teambox .imagebox img {
     width: 100%;
     height: 100%;
-    padding: 2%;
+    padding: 5% 10% 5% 10%;
 }
 
 .teambox .team-info {
+    background: #D0DB97;
     height: 100%;
     max-width: 0;
     visibility: hidden;
@@ -495,6 +515,10 @@ input[name="r"] {
     visibility: visible;
     max-width: 100%;
     max-height: 300px;
+}
+
+.teambox:hover .imagebox img{
+    padding: 5%;
 }
 
 /*****************************TEAM*************************************/
@@ -627,10 +651,18 @@ input[name="r"] {
 
 .equipment-plantel .team-extra .group{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: start;
+    align-items: center;
     padding: 0;
     margin: 0;
+    height: max-content;
+}
+
+.equipment-plantel .team-extra h3{
+    margin-top: 2%;
+    text-align: center
 }
 
 .equipment-plantel .team-extra .group h3{
@@ -661,10 +693,11 @@ input[name="r"] {
     display: grid;
     grid-template-columns: repeat(5, minmax(20px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(20px, 1fr));
+    gap: 30px;
 }
 
 .plantel .plantel-box h1{
-    background: white;
+    color: white;
 }
 
 
