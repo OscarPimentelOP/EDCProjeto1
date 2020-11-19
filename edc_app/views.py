@@ -2,7 +2,7 @@ import os
 import urllib.request
 import edc_app.database as db
 
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpRequest, HttpResponse
 from datetime import datetime
 from lxml import etree
@@ -199,29 +199,41 @@ def match(request, match_id):
     match_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'match.xsd')))
     match_parser = etree.XMLParser(schema=match_schema)
 
+    match_team_data = '<players>'+db.match_players_photos(match_id)+'</players>'
     match_extra_data = db.get_match_events(match_id)
 
     try:
         match_data_xml = etree.fromstring(match_data, match_parser)
         match_extra_xml = etree.fromstring(match_extra_data)
+        match_team_xml = etree.fromstring(match_team_data)
     except etree.XMLSyntaxError:
         print("Schema not valid")
 
     match_header_html = transform_to_html(match_data_xml, 'match_header_addt_info.xsl')
 
-    match_extra_html = transform_to_html(match_extra_xml, 'match_extras.xsl')
+    match_team_html = transform_to_html(match_team_xml, 'match_teams.xsl')
 
-    print(match_extra_html)
+    match_extra_html = transform_to_html(match_extra_xml, 'match_extras.xsl')
 
     tparams = {
         'match_header': match_header_html,
         'match_extras': match_extra_html,
+        'team_lineup' : match_team_html,
     }
 
     return render(request, 'match.html', tparams)
 
 
 def edit_match(request, match_id):
+    if request.method == 'POST':
+        # insert home_team, away_team, league, round, data
+        print(request.POST['league'])
+        print(request.POST)
+        date = "{}-{}-{}".format(request.POST['date[year]'], request.POST['date[month]'], request.POST['date[day]'])
+
+        #db.edit_match(match_id, request.POST['home_team'], request.POST['away_team'], request.POST['league'], \
+                      #request.POST['round'], date, "Fantasy Stadium")
+
     teams_data = db.get_all_teams_info()
     teams_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'teams.xsd')))
     teams_parser = etree.XMLParser(schema=teams_schema)

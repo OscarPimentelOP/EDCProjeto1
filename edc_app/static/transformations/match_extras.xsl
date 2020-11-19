@@ -4,6 +4,7 @@
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/events">
+    <html>
         <!-- Home Team -->
     <ul class="team-info">
 
@@ -72,6 +73,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </xsl:if>
         </xsl:for-each>
     </ul>
+    </html>
 </xsl:template>
 
 
