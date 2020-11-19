@@ -22,7 +22,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </h1>
 
             <h1 id="score">
-                <xsl:value-of select="intHomeScore"/>
+                <xsl:choose>
+
+                    <xsl:when test="intHomeScore != ''">
+                        <xsl:value-of select="intHomeScore"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        -
+                    </xsl:otherwise>
+                </xsl:choose>
             </h1>
 
             <button id="home-team">Chose Team</button>
@@ -47,7 +55,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </h1>
 
             <h1 id="score">
-                <xsl:value-of select="intAwayScore"/>
+                <xsl:choose>
+                    <xsl:when test="intAwayScore != ''">
+                        <xsl:value-of select="intAwayScore"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        -
+                    </xsl:otherwise>
+                </xsl:choose>
             </h1>
 
             <button id="away-team">Chose Team</button>
