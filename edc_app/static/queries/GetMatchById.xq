@@ -20,6 +20,3 @@ for $a in $coll2/match[(idEvent = $id )]
 let $b :=  local:addTeamBadge($a)
 return $b
 };
-<elem>
-{local:GetMatchById("60235")}
-</elem>
