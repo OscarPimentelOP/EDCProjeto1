@@ -12,7 +12,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </h1>
 
             <h1>
-                Ronda <xsl:value-of select="intRound"/>
+                Round <xsl:value-of select="intRound"/>
+            </h1>
+
+            <h1>
+                Stadium : 
             </h1>
 
         </div>

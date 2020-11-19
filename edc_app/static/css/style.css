@@ -520,7 +520,7 @@ input[name="r"] {
 }
 
 .info-team .team-base-info {
-    padding-right: 1%;
+    padding: 2%;
     height: 100%;
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -529,6 +529,7 @@ input[name="r"] {
     text-align: center;
     align-items: center;
     position: absolute;
+    gap: 30px;
 }
 
 .info-team .team-base-info img {
@@ -554,6 +555,8 @@ input[name="r"] {
     align-items: center;
     align-content: center;
     background: rgba(255, 255, 255, 0.6);
+    border: 1px solid white;
+    border-radius: 20px;
 }
 
 .info-team .team-base-info .base-info h3 {
@@ -569,10 +572,13 @@ input[name="r"] {
 
 .info-team .team-base-info .base-info a {
     font-size: 1em;
+    padding: 0 5% 0 5%;
     text-align: center;
     text-transform: uppercase;
     grid-column: 1/3;
     background: rgba(0, 0, 0, 0.7);
+    border: 1px solid white;
+    border-radius: 20px;
 }
 
 .info-team .team-base-info .description {
@@ -581,14 +587,86 @@ input[name="r"] {
     background: rgba(255, 255, 255, 0.85);
     text-align: justify;
     padding: 2%;
+    height: calc(100% - 0vh);
+    border: 1px solid white;
+    border-radius: 20px;
+    overflow-y: scroll;
 }
 
 .equipment-plantel {
+    width: 100%;
+    margin-top: 3%;
+    display: table;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.equipment-plantel h1 {
+    text-align: center;
+}
+
+.equipment-plantel .equipment {
+    display: table-cell;
+    align-items: center;
+}
+
+.equipment-plantel .equipment .eq-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.equipment-plantel .team-extra{
+    height: 100%;
+    display: table-cell;
+    position: relative;
+}
+
+.equipment-plantel .team-extra .group{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
     padding: 0;
     margin: 0;
-    position: absolute;
-    visibility: hidden;
 }
+
+.equipment-plantel .team-extra .group h3{
+    text-align: start;
+    width: max-content;
+}
+
+.equipment-plantel .team-extra .group i{
+    font-size: 32px;
+}
+
+.equipment-plantel .team-extra h1{
+    text-align: center;
+}
+
+.plantel {
+    margin-top: 5%;
+    background: rgba(11, 125, 255, 0.9);
+    width: 100%;
+}
+
+.plantel h1{
+    text-align: center;
+}
+
+.plantel .plantel-box {
+    background: rgba(0, 0, 0, 0.7);
+    display: grid;
+    grid-template-columns: repeat(5, minmax(20px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(20px, 1fr));
+}
+
+.plantel .plantel-box h1{
+    background: white;
+}
+
 
 /*****************************Matches*************************************/
 
@@ -629,7 +707,6 @@ input[name="r"] {
     grid-template-rows: 0.1fr 0.8fr;
     justify-content: center;
     align-items: center;
-    margin: 0;
     position: relative;
     max-height: 260px;
 }
@@ -725,11 +802,9 @@ input[name="r"] {
 .match-box a {
     grid-column: 2/3;
     grid-row: 2/3;
-    
-    
 }
 
-.match-box a#go{
+.match-box a#go {
     grid-column: 2/3;
     grid-row: 3/4;
     position: absolute;
@@ -738,7 +813,7 @@ input[name="r"] {
     transform: translateX(-100%);
 }
 
-.match-box a#edit{
+.match-box a#edit {
     grid-column: 1/2;
     grid-row: 3/4;
     position: absolute;
@@ -747,7 +822,18 @@ input[name="r"] {
     transform: translateX(100%);
 }
 
-.match-box a#delete{
+.create {
+    /* border: none; */
+    background: blue;
+    position: absolute;
+    color: white;
+    top: 5rem;
+    right: 5%;
+    width: 200px;
+    transform: translateX(-10%);
+}
+
+.match-box a#delete {
     grid-column: 2/3;
     grid-row: 1/2;
     position: absolute;
@@ -756,20 +842,20 @@ input[name="r"] {
     transform: translateX(-100%);
 }
 
-.match-box i{
+.match-box i {
     font-size: 1.5em;
 }
-
 
 /*****************************Match*************************************/
 
 .match {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 4fr 0.5fr 0.5fr;
+    grid-template-rows: 3fr 0.5fr 0.5fr;
     background: #254D32;
     justify-content: center;
     align-items: center;
+    row-gap: 2%;
 }
 
 .match .home-team {
@@ -777,7 +863,7 @@ input[name="r"] {
     grid-template-columns: 2fr 1fr;
     justify-content: center;
     align-items: center;
-    margin: 5%;
+    margin: 5% 5% 0% 5%;
     background: #3A7D44;
     position: relative;
 }
@@ -813,7 +899,7 @@ input[name="r"] {
     display: grid;
     grid-template-columns: 1fr 2fr;
     justify-content: center;
-    margin: 5%;
+    margin: 5% 5% 0% 5%;
     background: #3A7D44;
     position: relative;
 }
@@ -857,6 +943,7 @@ input[name="r"] {
 
 .match h1 {
     text-align: center;
+    align-self: start;
     grid-column: 1/3;
     color: #fff;
 }
@@ -889,7 +976,8 @@ input[name="r"] {
     align-items: center;
 }
 
-.match-lineup .box .player {
+/* .match-lineup .box */
+.player { 
     margin-top: 2%;
     display: flex;
     flex-direction: column;
@@ -898,18 +986,18 @@ input[name="r"] {
     position: relative;
 }
 
-.match-lineup .box .player img {
+.player img {
     background: #D0DB97;
 }
 
-.match-lineup .box .player p {
+.player p {
     margin-top: 2%;
     background: #9DC888;
     width: 100%;
     text-align: center;
 }
 
-.match-lineup .box .player a {
+.player a {
     position: absolute;
     top: 0;
     left: 0;
@@ -970,7 +1058,7 @@ input[name="r"] {
 
 /*****************************Match-Form*************************************/
 
-.match#form{
+.match#form {
     position: relative;
 }
 
@@ -1053,23 +1141,22 @@ input[name="r"] {
     text-align: center;
 }
 
-.match button#confirm{
+.match button#confirm {
     bottom: 10%;
     right: 15%;
-    transform: translate(10%,15%);
+    transform: translate(10%, 15%);
     top: auto;
     font-size: 2em;
 }
 
-.match button:hover{
+.match button:hover {
     background: #69B578;
 }
 
-.match button#delete{
+.match button#delete {
     bottom: 10%;
     left: 15%;
-    transform: translate(10%,15%);
+    transform: translate(10%, 15%);
     top: auto;
     font-size: 2em;
 }
-
