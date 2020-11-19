@@ -71,15 +71,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           <div class="team-extra">
             <h1>Estatisticas</h1>
             <div class="group" id="Casa">
-              <h3>Golos Marcados Casa: x</h3>
+              <h3>Golos Marcados Casa: <xsl:value-of select="homeGoals/HomeScored"/></h3>
               <i class="fas fa-futbol"></i>
-              <h3>Golos Sofridos Casa: x</h3>
+              <h3>Golos Sofridos Casa: <xsl:value-of select="homeGoals/HomeConceded"/></h3>
               <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
             </div> 
             <div class="group">
-              <h3>Golos Marcados Fora: x</h3>
+              <h3>Golos Marcados Fora: <xsl:value-of select="awayGoals/AwayScored"/></h3>
               <i class="fas fa-futbol"></i>
-              <h3>Golos Sofridos Fora: x</h3>
+              <h3>Golos Sofridos Fora: <xsl:value-of select="awayGoals/AwayConceded"/></h3>
               <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
             </div>
             <h3>Most use player: <xsl:value-of select="mostUsed"/></h3>

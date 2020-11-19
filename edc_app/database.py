@@ -197,11 +197,11 @@ def match_players_photos(matchID):
 
 
 def get_home_Goals(season, comp, team):
-    res = run_query('HomeGoals.xq', 'local:HomeGoals({}, {} ,{})'.format(season, comp, team))
+    res = run_query('HomeGoals.xq', 'local:HomeGoals("{}", {} ,{})'.format(season, comp, team))
     return res
 
 def get_away_Goals(season, comp, team):
-    res = run_query('AwayGoals.xq', 'local:AwayGoals({}, {} ,{})'.format(season, comp, team))
+    res = run_query('AwayGoals.xq', 'local:AwayGoals("{}", {} ,{})'.format(season, comp, team))
     return res
 
 

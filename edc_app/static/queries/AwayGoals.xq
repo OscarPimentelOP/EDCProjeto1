@@ -13,10 +13,10 @@ for $a in $coll3/match[($season = strSeason) and (idLeague = $comp) and (idAwayT
 return
   $a/intHomeScore  
 
-return <goals> 
+return <awayGoals>
 <AwayScored>{sum($scoredGoals)} </AwayScored>
 <AwayConceded>{sum($concededGoals)} </AwayConceded>
-</goals>
+</awayGoals>
 
 };
 
