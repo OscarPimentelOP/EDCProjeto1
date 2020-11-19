@@ -7,6 +7,7 @@ from django.shortcuts import render, redirect
 from django.http import HttpRequest, HttpResponse
 from datetime import datetime
 from lxml import etree
+from lxml.builder import E
 
 # Create your views here.
 from edc.settings import STATICFILES_DIRS
@@ -69,11 +70,20 @@ def team(request, team_id):
     # Appending extra data
     goals_home_data = db.get_home_Goals('2019-2020', league_id, team_id)
     goals_away_data = db.get_away_Goals('2019-2020', league_id, team_id)
+    wins_home_data = db.get_team_home_wins('2019-2020', league_id, team_id)
+    loss_home_data = db.get_team_home_losses('2019-2020', league_id, team_id)
+    wins_away_data = db.get_team_away_wins('2019-2020', league_id, team_id)
+    loss_away_data = db.get_team_away_losses('2019-2020', league_id, team_id)
 
     team_data_xml.append(etree.XML(most_used))
     team_data_xml.append(etree.XML(best_player))
     team_data_xml.append(etree.XML(goals_home_data))
     team_data_xml.append(etree.XML(goals_away_data))
+    team_data_xml.append(E.HomeWins(wins_home_data))
+    team_data_xml.append(E.HomeLoss(loss_home_data))
+    team_data_xml.append(E.AwayWins(wins_away_data))
+    team_data_xml.append(E.AwayLoss(loss_away_data))
+
     team_data_html = transform_to_html(team_data_xml, 'team.xsl')
     plantel_data_html = transform_to_html(plantel_data_xml, 'plantel_box.xsl')
 

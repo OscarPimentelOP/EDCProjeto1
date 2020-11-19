@@ -52,22 +52,22 @@ def get_round_results(season, comp, round):
 
 
 def get_team_home_wins(season, comp, team):
-    res = run_query('HomeWins.xq', 'local:HomeWins({}, {} ,{})'.format(season, comp, team))
+    res = run_query('HomeWins.xq', 'local:HomeWins("{}", {} ,{})'.format(season, comp, team))
     return res
 
 
 def get_team_away_wins(season, comp, team):
-    res = run_query('AwayWins.xq', 'local:AwayWins({}, {} ,{})'.format(season, comp, team))
+    res = run_query('AwayWins.xq', 'local:AwayWins("{}", {} ,{})'.format(season, comp, team))
     return res
 
 
 def get_team_home_losses(season, comp, team):
-    res = run_query('HomeLosses.xq', 'local:HomeLosses({}, {} ,{})'.format(season, comp, team))
+    res = run_query('HomeLosses.xq', 'local:HomeLosses("{}", {} ,{})'.format(season, comp, team))
     return res
 
 
 def get_team_away_losses(season, comp, team):
-    res = run_query('AwayLosses.xq', 'local:AwayLosses({}, {} ,{})'.format(season, comp, team))
+    res = run_query('AwayLosses.xq', 'local:AwayLosses("{}", {} ,{})'.format(season, comp, team))
     return res
 
 
