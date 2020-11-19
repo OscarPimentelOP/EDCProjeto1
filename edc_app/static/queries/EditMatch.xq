@@ -24,5 +24,4 @@ replace value of node $nodeToEdit/idLeague with $newLeagueID)
 
 };
 
-local:EditMatch("602355", "4332", "133679", "133667", "2059-08-25", "Estadio Random")
 
