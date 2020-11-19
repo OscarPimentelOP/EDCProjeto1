@@ -8,11 +8,11 @@ let $max := max($coll2/player[idTeam = $team]/Overall)
 for $a in $coll2/player[idTeam  = $team]
 where $a/Overall = $max
 return
-  <elem>
+  <player>
     {$a/ID} 
     {$a/Name} 
     {$a/Overall} 
     {$a/BestPosition} 
     {$a/PhotoUrl} 
-  </elem>
+  </player>
 };

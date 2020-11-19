@@ -96,20 +96,19 @@ def get_player_by_name(player):
     return res
 
 
-def get_most_used_player(season, comp, team):
-    res = run_query('StartingEleven.xq', 'local:StartingEleven({}, {} ,{})'.format(season, comp, team))
+def get_most_used_player(team):
+    res = run_query('StartingEleven.xq', 'local:StartingEleven({})'.format(team))
     root = ET.fromstringlist(res)
     dict = {}
     for c in root:
         players = str(c.text).split(';')
         for player in players:
             if len(player) > 2:
-                if player in dict:
+                if player in dict and player != 'None':
                     dict[player] += 1
                 else:
                     dict[player] = 1
     mostUsedVal = max(dict.values())
-
     return [p for p in dict if dict[p] == mostUsedVal]
 
 

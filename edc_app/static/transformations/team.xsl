@@ -82,8 +82,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <h3>Golos Sofridos Fora: x</h3>
               <img src="https://img.icons8.com/officel/32/000000/soccer-goal.png"/>
             </div>
-            <h3>Most use player: xxxxxxxxxxxxx</h3>
-            <h3>Best player: xxxxxxxxxxxxxx</h3>
+            <h3>Most use player: <xsl:value-of select="mostUsed"/></h3>
+            <h3>Best player: <xsl:value-of select="bestPlayers/player[position()=1]/Name"/></h3>
           </div>
       </section>
     </html>

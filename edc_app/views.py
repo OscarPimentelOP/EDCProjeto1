@@ -55,6 +55,9 @@ def team(request, team_id):
     team_schema = etree.XMLSchema(etree.parse(os.path.join(static_files, 'schemas', 'team.xsd')))
     team_parser = etree.XMLParser(schema=team_schema)
 
+    most_used = '<mostUsed>' + db.get_most_used_player(team_id).pop() + '</mostUsed>'
+    best_player = '<bestPlayers>' + db.get_team_best_player(team_id) + '</bestPlayers>'
+
     plantel_data = '<players>' + db.get_team_players(team_id) + '</players>'
 
     try:
@@ -63,6 +66,8 @@ def team(request, team_id):
     except etree.XMLSyntaxError:
         print("Schema not valid")
 
+    team_data_xml.append(etree.XML(most_used))
+    team_data_xml.append(etree.XML(best_player))
     team_data_html = transform_to_html(team_data_xml, 'team.xsl')
     plantel_data_html = transform_to_html(plantel_data_xml, 'plantel_box.xsl')
 
